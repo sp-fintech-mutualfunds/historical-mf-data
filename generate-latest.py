@@ -38,7 +38,7 @@ def progressbar(it, prefix="", size=60, out=sys.stdout): # Python3.6+
 
 def get_data(conn):
     epoch_date = datetime.datetime(2006, 1,1)
-    os.environ['TZ'] = 'Asia/Kolkatta'
+    os.environ['TZ'] = 'Asia/Kolkata'
     time.tzset()
 
     today = datetime.datetime.today() - timedelta(days=1)
