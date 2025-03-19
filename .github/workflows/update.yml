@@ -28,7 +28,7 @@ jobs:
       if: ${{ github.event_name == 'schedule' }}
       with:
         fetch-depth: 1
-        ref: 'main'
+        ref: 'sp'
     - name: Update data
       run: ./fetch.sh
     - uses: stefanzweifel/git-auto-commit-action@v4
