@@ -6,7 +6,7 @@ on:
     - cron: '0 18 * * *'
   push:
     branches:
-      - main
+      - sp
 jobs:
   update:
     name: Update data
