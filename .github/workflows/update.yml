@@ -7,6 +7,8 @@ on:
   push:
     branches:
       - sp
+    paths:
+      - '**.csv'
 jobs:
   update:
     name: Update data
@@ -20,13 +22,6 @@ jobs:
         timezone: 'Asia/Kolkata'
     - uses: actions/checkout@v3
       name: Checkout Sp Branch
-      if: ${{ github.event_name == 'push' }}
-      with:
-        fetch-depth: 1
-        ref: 'sp'
-    - uses: actions/checkout@v3
-      name: Checkout Sp Branch
-      if: ${{ github.event_name == 'schedule' }}
       with:
         fetch-depth: 1
         ref: 'sp'
@@ -52,15 +47,8 @@ jobs:
         zstd -5 -T0 latest.db
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git config user.name "github-actions[bot]"
-    - name: Publish Stable Release (Schedule)
+    - name: Publish Stable Release
       run: |
         gh release create "v0.0.${{ steps.current-time.outputs.formattedTime }}" --notes "Historical Mutual Fund Data as per ${{ steps.current-time.outputs.formattedTime }}. Please see README for index creation, usage, and schema." *.zst
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      if: ${{ github.event_name == 'schedule' }}
-    - name: Publish Pre Release
-      run: |
-        gh release create "v0.0.${{ steps.current-time.outputs.formattedTime }}-pre+${{github.sha}}" --notes "Historical Mutual Fund Data as per ${{ steps.current-time.outputs.formattedTime }}. Please see README for index creation, usage, and schema. This is a pre-release, and not considered stable." *.zst
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      if: ${{ github.event_name == 'push' }}
