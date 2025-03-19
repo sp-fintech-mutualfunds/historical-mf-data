@@ -39,10 +39,16 @@ jobs:
     - uses: actions/setup-python@v4 
       with:
         python-version: 'pypy3.9'
-    - name: Create Dataset
+    - name: Create Funds Dataset
       run: |
         pypy3 generate.py
         zstd -5 -T0 funds.db
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+    - name: Create Latest Dataset
+      run: |
+        pypy3 generate-latest.py
+        zstd -5 -T0 latest.db
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git config user.name "github-actions[bot]"
     - name: Publish Stable Release (Schedule)
