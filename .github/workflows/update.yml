@@ -19,12 +19,13 @@ jobs:
         format: "YYYYMMDD"
         timezone: 'Asia/Kolkata'
     - uses: actions/checkout@v3
-      name: Checkout (Default Branch)
+      name: Checkout Sp Branch
       if: ${{ github.event_name == 'push' }}
       with:
         fetch-depth: 1
+        ref: 'sp'
     - uses: actions/checkout@v3
-      name: Checkout Main
+      name: Checkout Sp Branch
       if: ${{ github.event_name == 'schedule' }}
       with:
         fetch-depth: 1
