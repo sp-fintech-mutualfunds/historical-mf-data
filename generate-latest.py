@@ -41,7 +41,7 @@ def get_data(conn):
     os.environ['TZ'] = 'Asia/Kolkata'
     time.tzset()
 
-    today = datetime.datetime.today() - timedelta(days=1)
+    today = datetime.datetime.today()
     file = open(os.path.join(os.path.dirname(__file__), 'data', today.strftime('%Y/%m/%d') + '.csv'), "r")
     date = today.strftime('%Y-%m-%d')
     lines = file.readlines()[1:]
