@@ -1,9 +1,9 @@
 name: Update Data
 on:
   schedule:
-    # This runs at 6PM UTC
-    # = 11:30 IST
-    - cron: '0 18 * * *'
+    # This runs at 5PM UTC
+    # = 10:30 IST
+    - cron: '0 17 * * *'
   push:
     branches:
       - sp
