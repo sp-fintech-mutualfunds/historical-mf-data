@@ -1,12 +1,12 @@
 #!/bin/bash
 # Data is often backfilled, but not very often.
-# We default to checking last 90 days
+# We default to checking last 7 days
 # But on every Sunday, go back a year.
 # Returns a 1-7, 1=Mon
 if [ "$(date +%u)" -eq 7 ]; then
 	d=$(date -I -d '-365 days')
 else
-	d=$(date -I -d '-90 days')
+	d=$(date -I -d '-7 days')
 fi
 
 # On the first of every month, go back to starting of the dataset
