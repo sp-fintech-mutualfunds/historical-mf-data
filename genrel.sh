@@ -44,7 +44,5 @@ if [ "$1" == "fundsdataset" ]; then
         rm release.txt
     fi
 
-    rm diff.txt
+    rm diff.txt beforefetch.txt afterfetch.txt
 fi
-
-rm beforefetch.txt afterfetch.txt
