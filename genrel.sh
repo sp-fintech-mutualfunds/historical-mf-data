@@ -1,5 +1,4 @@
 #!/bin/bash
-#Release should only be generate if there is a difference in data.
 if [ "$1" == "beforefetch" ]; then
     tree data -s -f > beforefetch.txt
 fi
@@ -10,22 +9,6 @@ fi
 
 if [ "$1" == "afterfetch" ]; then
     tree data -s -f > afterfetch.txt
-fi
-
-if [ "$1" == "fundsdataset" ]; then
-    git config user.email "github-actions[bot]@users.noreply.github.com"
-    git config user.name "github-actions[bot]"
-
-    diff beforefetch.txt afterfetch.txt > diff.txt
-
-    if [ $(wc -c < diff.txt) -gt 0 ]; then
-        generateDb
-        generateRelease
-    else
-        checkAndGenerateRelease
-    fi
-
-    rm diff.txt beforefetch.txt afterfetch.txt
 fi
 
 generateDb() {
@@ -67,3 +50,19 @@ checkAndGenerateRelease() {
 
     rm release.txt
 }
+
+if [ "$1" == "fundsdataset" ]; then
+    git config user.email "github-actions[bot]@users.noreply.github.com"
+    git config user.name "github-actions[bot]"
+
+    diff beforefetch.txt afterfetch.txt > diff.txt
+
+    if [ $(wc -c < diff.txt) -gt 0 ]; then
+        generateDb
+        generateRelease
+    else
+        checkAndGenerateRelease
+    fi
+
+    rm diff.txt beforefetch.txt afterfetch.txt
+fi
