@@ -4,7 +4,7 @@
 # But on every Sunday, go back a year.
 # Returns a 1-7, 1=Mon
 if [ "$(date +%u)" -eq 7 ]; then
-	d=$(date -I -d '-7 days')
+	d=$(date -I -d '-365 days')
 else
 	d=$(date -I -d '-7 days')
 fi
