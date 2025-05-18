@@ -13,36 +13,57 @@ if [ "$1" == "afterfetch" ]; then
 fi
 
 if [ "$1" == "fundsdataset" ]; then
+    git config user.email "github-actions[bot]@users.noreply.github.com"
+    git config user.name "github-actions[bot]"
+
     diff beforefetch.txt afterfetch.txt > diff.txt
 
     if [ $(wc -c < diff.txt) -gt 0 ]; then
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git config user.name "github-actions[bot]"
-
-        # Generate Funds Dataset
-        pypy3 generate.py
-        zstd -5 -T0 funds.db
-
-        # Generate Latest Dataset
-        pypy3 generate-latest.py
-        zstd -5 -T0 latest.db
-
-        # Check for version
-        today=$(date -I)
-        vDate=$(date '+%Y%m%d' -d "$today")
-        gh release view v0.0.$vDate > release.txt
-
-        if [ $(wc -c < release.txt) -gt 0 ]; then
-            # If version exists, regenerate version with new data
-            gh release delete "v0.0.$vDate" -y --cleanup-tag
-            gh release create "v0.0.$vDate" --notes "Historical Mutual Fund Data as per $vDate. Please see README for index creation, usage, and schema." *.zst
-        else
-            # Else generate version with new data
-            gh release create "v0.0.$vDate" --notes "Historical Mutual Fund Data as per $vDate. Please see README for index creation, usage, and schema." *.zst
-        fi
-
-        rm release.txt
+        generateDb
+        generateRelease
+    else
+        checkAndGenerateRelease
     fi
 
     rm diff.txt beforefetch.txt afterfetch.txt
 fi
+
+generateDb() {
+    # Generate Funds Dataset
+    pypy3 generate.py
+    zstd -5 -T0 funds.db
+
+    # Generate Latest Dataset
+    pypy3 generate-latest.py
+    zstd -5 -T0 latest.db
+}
+
+generateRelease() {
+    # Check for version
+    gh release view latest > release.txt
+
+    if [ $(wc -c < release.txt) -gt 0 ]; then
+        # If version exists, regenerate version with new data
+        gh release delete "latest" -y --cleanup-tag
+        gh release create "latest" --notes "Historical Mutual Fund Data as per $vDate. Please see README for index creation, usage, and schema." *.zst
+    else
+        # Else generate version with new data
+        gh release create "latest" --notes "Historical Mutual Fund Data as per $vDate. Please see README for index creation, usage, and schema." *.zst
+    fi
+
+    rm release.txt
+}
+
+checkAndGenerateRelease() {
+    # Check for version
+    gh release view latest > release.txt
+
+    if [ $(wc -c < release.txt) -eq 0 ]; then
+        generateDb
+
+        # Else generate version with new data
+        gh release create "latest" --notes "Historical Mutual Fund Data as per $vDate. Please see README for index creation, usage, and schema." *.zst
+    fi
+
+    rm release.txt
+}
