@@ -134,6 +134,15 @@ Invesco Mutual Fund
 147879;Invesco India Overnight Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);INF205KA1106;INF205KA1098;1004.0344;;;24-May-2025
 147881;Invesco India Overnight Fund - Regular Plan - Weekly IDCW (Reinvestment);;INF205KA1080;1000.9969;;;24-May-2025
 
+ITI Mutual Fund
+147713;ITI Overnight Fund - Direct Plan - Growth Option;INF00XX01564;;1305.8623;;;24-May-2025
+147717;ITI Overnight Fund - Direct Plan - Monthly IDCW Option;INF00XX01630;INF00XX01606;1005.2973;;;24-May-2025
+147709;ITI Overnight Fund - Regular Plan - Daily IDCW Option;;INF00XX01481;1001.0000;;;24-May-2025
+147716;ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option;INF00XX01531;INF00XX01507;1002.7040;;;24-May-2025
+147714;ITI Overnight Fund - Regular Plan - Growth Option;INF00XX01473;;1298.4773;;;24-May-2025
+147718;ITI Overnight Fund - Regular Plan - Monthly IDCW Option;INF00XX01549;INF00XX01515;1001.0714;;;24-May-2025
+147712;ITI Overnight Fund - Regular Plan - Weekly IDCW Option;;INF00XX01499;1001.6070;;;24-May-2025
+
 Kotak Mahindra Mutual Fund
 146141;Kotak Overnight Fund -Direct Plan-Growth Option;INF174KA1BF9;;1373.9314;;;24-May-2025
 146142;Kotak Overnight Fund -Regular plan-Growth Option;INF174KA1BC6;;1365.9176;;;24-May-2025
@@ -186,6 +195,14 @@ Samco Mutual Fund
 150631;Samco Overnight Fund - Direct Plan - Growth Option;INF0K1H01040;;1178.9159;;;24-May-2025
 150632;Samco Overnight Fund - Regular Plan - Growth Option;INF0K1H01032;;1172.1020;;;24-May-2025
 153021;Samco Overnight Fund - Unclaimed Redemption Upto 3 years;;;1031.1400;;;24-May-2025
+
+SBI Mutual Fund
+119831;SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01TJ7;1300.2302;;;24-May-2025
+119833;SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH;INF200K01TK5;;4189.0566;;;24-May-2025
+119832;SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01TL3;INF200K01TM1;1327.7230;;;24-May-2025
+114297;SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01LN6;1295.0899;;;24-May-2025
+101206;SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH;INF200K01LQ9;;4135.0572;;;24-May-2025
+103140;SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01LO4;INF200K01LP1;1322.3770;;;24-May-2025
 
 Shriram Mutual Fund
 150562;Shriram Overnight Fund -  Direct Growth;INF680P01323;;11.8965;;;24-May-2025
@@ -391,6 +408,19 @@ Invesco Mutual Fund
 139387;Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years;;;1704.4051;;;24-May-2025
 104485;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);;INF205K01HO1;1019.6487;;;24-May-2025
 
+ITI Mutual Fund
+147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;INF00XX01366;INF00XX01333;1364.4934;;;24-May-2025
+147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;;INF00XX01291;1001.6005;;;24-May-2025
+147157;ITI Liquid Fund - Direct Plan - Growth Option;INF00XX01283;;1362.9181;;;24-May-2025
+147163;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;INF00XX01358;INF00XX01325;1006.0062;;;24-May-2025
+147159;ITI Liquid Fund - Direct Plan - Weekly IDCW Option;;INF00XX01309;1001.8201;;;24-May-2025
+147162;ITI Liquid Fund - Regular Plan - Annually IDCW Option;INF00XX01275;INF00XX01242;1358.5887;;;24-May-2025
+147154;ITI Liquid Fund - Regular Plan - Daily IDCW Option;;INF00XX01200;1001.0000;;;24-May-2025
+147155;ITI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum capital withdrawal option Option;INF00XX01259;INF00XX01226;1003.0684;;;24-May-2025
+147153;ITI Liquid Fund - Regular Plan - Growth Option;INF00XX01192;;1351.6323;;;24-May-2025
+147156;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;INF00XX01267;INF00XX01234;1001.1538;;;24-May-2025
+147164;ITI Liquid Fund - Regular Plan - Weekly IDCW Option;;INF00XX01218;1001.8038;;;24-May-2025
+
 Kotak Mahindra Mutual Fund
 119764;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NH1;1223.0162;;;24-May-2025
 119766;Kotak Liquid Fund - Direct Plan - Growth;INF174K01NE8;;5293.9698;;;24-May-2025
@@ -463,6 +493,18 @@ Quantum Mutual Fund
 152298;Quantum Liquid Fund - Unclaimed IDCW Plan Below 3 years;;;11.0127;;;24-May-2025
 152301;Quantum Liquid Fund - Unclaimed Redemption Plan Above 3 years;;;10.0000;;;24-May-2025
 152300;Quantum Liquid Fund - Unclaimed Redemption Plan Below 3 years;;;10.5893;;;24-May-2025
+
+SBI Mutual Fund
+119804;SBI Liquid Fund - Direct Paln - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01UR8;INF200K01US6;1338.1156;;;24-May-2025
+119805;SBI Liquid Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01UQ0;1144.0484;;;24-May-2025
+119799;SBI Liquid Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01UU2;INF200K01UV0;1385.7254;;;24-May-2025
+119800;SBI Liquid Fund - DIRECT PLAN -Growth;INF200K01UT4;;4097.7329;;;24-May-2025
+105274;SBI Liquid Fund - Institutional - Growth;INF200K01LU1;;4094.8481;;;24-May-2025
+105275;SBI Liquid Fund - Institutional Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01LR7;1315.5224;;;24-May-2025
+105281;SBI Liquid Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01LX5;1140.7391;;;24-May-2025
+105283;SBI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01LY3;INF200K01LZ0;1331.2636;;;24-May-2025
+105282;SBI Liquid Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01MB9;INF200K01MC7;1378.8291;;;24-May-2025
+105280;SBI Liquid Fund - REGULAR PLAN -Growth;INF200K01MA1;;4056.4962;;;24-May-2025
 
 Shriram Mutual Fund
 153035;Shriram Liquid Fund - Direct Plan Growth Option;INF680P01430;;1036.7793;;;24-May-2025
@@ -544,3 +586,140 @@ Kotak Mahindra Mutual Fund
 
 Shriram Mutual Fund
 152741;Shriram Nifty 1D Rate Liquid ETF - Growth;INF680P01422;;1054.1157;;;24-May-2025
+
+Close Ended Schemes ( Income )
+
+
+SBI Mutual Fund
+146974;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Growth;INF200KA1D03;;16.6888;;;24-May-2025
+146975;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1D11;;16.7006;;;24-May-2025
+146976;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Regular Plan - Growth;INF200KA1C87;;16.4884;;;24-May-2025
+146973;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1C95;;16.4882;;;24-May-2025
+148387;SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Growth;INF200KA1Q73;;14.1052;;;24-May-2025
+148388;SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1Q81;;14.1052;;;24-May-2025
+148389;SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Growth;INF200KA1Q57;;13.9406;;;24-May-2025
+148390;SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1Q65;;13.9407;;;24-May-2025
+149043;SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Direct Plan - Growth;INF200KA1X41;;12.7220;;;24-May-2025
+149044;SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1X58;;12.7220;;;24-May-2025
+149045;SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Regular Plan - Growth;INF200KA1X25;;12.6497;;;24-May-2025
+149042;SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1X33;;12.6498;;;24-May-2025
+149082;SBI Fixed Maturity Plan (FMP) Series 47 (1434 Days) - Direct Plan - Growth;INF200KA1X82;;12.4433;;;24-May-2025
+149081;SBI Fixed Maturity Plan (FMP) Series 47 (1434 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1X90;;12.4433;;;24-May-2025
+149083;SBI Fixed Maturity Plan (FMP) Series 47 (1434 Days) - Regular Plan - Growth;INF200KA1X66;;12.3751;;;24-May-2025
+149084;SBI Fixed Maturity Plan (FMP) Series 47 (1434 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1X74;;12.3751;;;24-May-2025
+149111;SBI Fixed Maturity Plan (FMP) - Series 48 (1458 Days) - Direct Plan - Growth;INF200KA1Y24;;12.4203;;;24-May-2025
+149108;SBI Fixed Maturity Plan (FMP) - Series 48 (1458 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1Y32;;12.4204;;;24-May-2025
+149109;SBI Fixed Maturity Plan (FMP) - Series 48 (1458 Days) - Regular Plan - Growth;INF200KA1Y08;;12.3486;;;24-May-2025
+149110;SBI Fixed Maturity Plan (FMP) - Series 48 (1458 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1Y16;;12.3485;;;24-May-2025
+149147;SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Direct Plan - Growth;INF200KA1Z23;;12.5901;;;24-May-2025
+149144;SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1Z31;;12.5901;;;24-May-2025
+149145;SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Regular Plan - Growth;INF200KA1Z07;;12.5204;;;24-May-2025
+149146;SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1Z15;;12.5204;;;24-May-2025
+149174;SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Growth;INF200KA1Z64;;12.4713;;;24-May-2025
+149175;SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Income Distribution Capital Withdrawal Option (IDCW);INF200KA1Z72;;12.4713;;;24-May-2025
+149172;SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan - Growth;INF200KA1Z49;;12.3927;;;24-May-2025
+149173;SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan -Income Distribution Capital Withdrawal Option (IDCW);INF200KA1Z56;;12.3927;;;24-May-2025
+149195;SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Direct Plan - Growth;INF200KA10A7;;12.4576;;;24-May-2025
+149194;SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Direct Plan - Income Distribution Capital Withdrawal Option (IDCW);INF200KA11A5;;12.4581;;;24-May-2025
+149197;SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Regular Plan - Growth;INF200KA1Z80;;12.3925;;;24-May-2025
+149196;SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Regular Plan - Income Distribution Capital Withdrawal Option (IDCW);INF200KA1Z98;;12.3925;;;24-May-2025
+149232;SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Direct Plan - Growth;INF200KA14A9;;12.4367;;;24-May-2025
+149234;SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Direct Plan - Income Distribution Cum Withdrawal (IDCW);INF200KA15A6;;12.4366;;;24-May-2025
+149235;SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Regular Plan - Growth;INF200KA12A3;;12.3743;;;24-May-2025
+149233;SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Regular Plan - Income Distribution Cum Withdrawal (IDCW);INF200KA13A1;;12.3743;;;24-May-2025
+149279;SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Direct Plan - Growth;INF200KA18A0;;12.4543;;;24-May-2025
+149277;SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Direct Plan - Income Distribution Cum Withdrawal Option (IDCW);INF200KA19A8;;12.4543;;;24-May-2025
+149278;SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Regular Plan - Growth;INF200KA16A4;;12.4004;;;24-May-2025
+149280;SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Regular Plan - Income  Distribution Cum Withdrawal Option (IDCW);INF200KA17A2;;12.4004;;;24-May-2025
+149307;SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Growth;INF200KA12B1;;12.4369;;;24-May-2025
+149309;SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Income Distribution Cum Withdrawal Option (IDCW);INF200KA13B9;;12.4373;;;24-May-2025
+149308;SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Regular Plan - Growth;INF200KA10B5;;12.3812;;;24-May-2025
+149306;SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);INF200KA11B3;;12.3812;;;24-May-2025
+149345;SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Direct Plan - Growth;INF200KA16B2;;12.4138;;;24-May-2025
+149348;SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA17B0;;12.4138;;;24-May-2025
+149347;SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Regular Plan - Growth;INF200KA14B7;;12.3590;;;24-May-2025
+149346;SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);INF200KA15B4;;12.3589;;;24-May-2025
+149431;SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Direct Plan - Growth;INF200KA14C5;;12.3336;;;24-May-2025
+149430;SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA15C2;;12.3335;;;24-May-2025
+149432;SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Regular Plan - Growth;INF200KA12C9;;12.2801;;;24-May-2025
+149433;SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA13C7;;12.2804;;;24-May-2025
+149460;SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Direct Plan - Growth;INF200KA18C6;;12.4434;;;24-May-2025
+149461;SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Direct Plan - Income Distribution cum Capital withdrawal option (IDCW);INF200KA19C4;;12.4436;;;24-May-2025
+149459;SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Regular Plan - Growth;INF200KA16C0;;12.3914;;;24-May-2025
+149462;SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Regular Plan - Income Distribution cum Capital withdrawal option (IDCW);INF200KA17C8;;12.3914;;;24-May-2025
+149822;SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Direct Plan - Growth;INF200KA19D2;;12.2564;;;24-May-2025
+149823;SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA10E9;;12.2556;;;24-May-2025
+149825;SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Regular Plan - Growth;INF200KA17D6;;12.2077;;;24-May-2025
+149824;SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA18D4;;12.2077;;;24-May-2025
+147248;SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Direct Plan - Growth;INF200KA1F27;;16.2543;;;24-May-2025
+147249;SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1F35;;16.2544;;;24-May-2025
+147247;SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Regular Plan - Growth;INF200KA1F01;;16.0191;;;24-May-2025
+147250;SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1F19;;16.0220;;;24-May-2025
+149878;SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Direct Plan - Growth;INF200KA13E3;;12.3514;;;24-May-2025
+149879;SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Direct Plan - Income Distribution cum Capital Withdrwal Option (IDCW);INF200KA14E1;;12.3517;;;24-May-2025
+149876;SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Regular Plan - Growth;INF200KA11E7;;12.3010;;;24-May-2025
+149877;SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA12E5;;12.3011;;;24-May-2025
+149993;SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Direct Plan- Growth option;INF200KA13F0;;12.4042;;;24-May-2025
+149995;SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Direct Plan- Income Distribution Cum Capital withdrawal option;INF200KA14F8;;12.4043;;;24-May-2025
+149994;SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Regular Plan- Growth option;INF200KA11F4;;12.3553;;;24-May-2025
+149992;SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Regular Plan- Income Distribution Cum Capital withdrawal option;INF200KA12F2;;12.3552;;;24-May-2025
+150602;SBI Fixed Maturity Plan (FMP) - Series 64 (1169 Days) - Direct Plan - Growth;INF200KA17N5;;12.0283;;;24-May-2025
+150603;SBI Fixed Maturity Plan (FMP) - Series 64 (1169 Days) - Direct Plan - IDCW Payout;INF200KA18N3;;12.0285;;;24-May-2025
+150604;SBI Fixed Maturity Plan (FMP) - Series 64 (1169 Days) - Regular Plan - Growth;INF200KA15N9;;11.9893;;;24-May-2025
+150605;SBI Fixed Maturity Plan (FMP) - Series 64 (1169 Days) - Regular Plan - IDCW Payout;INF200KA16N7;;11.9893;;;24-May-2025
+150379;SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Direct Plan - Growth;INF200KA11M0;;12.3191;;;24-May-2025
+150378;SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA12M8;;12.3191;;;24-May-2025
+150377;SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Regular Plan - Growth;INF200KA19L5;;12.2774;;;24-May-2025
+150380;SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA10M2;;12.2774;;;24-May-2025
+150460;SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Direct Plan - Growth;INF200KA15M1;;12.3136;;;24-May-2025
+150458;SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Direct Plan - IDCW Payout;INF200KA16M9;;12.3136;;;24-May-2025
+150461;SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Regular Plan - Growth;INF200KA13M6;;12.2725;;;24-May-2025
+150459;SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Regular Plan - IDCW Payout;INF200KA14M4;;12.2729;;;24-May-2025
+150649;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Direct Plan - Growth;INF200KA15O7;;12.1625;;;24-May-2025
+150650;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Direct Plan - IDCW Payout;INF200KA16O5;;12.1658;;;24-May-2025
+150647;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Regular Plan - Growth;INF200KA13O2;;12.1234;;;24-May-2025
+150648;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Regular Plan - IDCW Payout;INF200KA14O0;;12.1233;;;24-May-2025
+151559;SBI Fixed Maturity Plan (FMP) - Series 79 (1170 Days) - Direct Plan - Growth;INF200KA19W2;;11.8260;;;24-May-2025
+151558;SBI Fixed Maturity Plan (FMP) - Series 79 (1170 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Payout;INF200KA10X9;;11.8264;;;24-May-2025
+151556;SBI Fixed Maturity Plan (FMP) - Series 79 (1170 Days) - Regular Plan - Growth;INF200KA17W6;;11.7925;;;24-May-2025
+151557;SBI Fixed Maturity Plan (FMP) - Series 79 (1170 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Payout;INF200KA18W4;;11.7926;;;24-May-2025
+148848;SBI Fixed Maturity Plan (FMP) - Series 42 (1857 Days) Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1V27;;12.8997;;;24-May-2025
+148845;SBI Fixed Maturity Plan (FMP) - Series 42 (1857 Days) Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1V01;;12.8131;;;24-May-2025
+148846;SBI Fixed Maturity Plan (FMP) Series 42 (1857 Days) - Direct Plan - Growth;INF200KA1V19;;12.8995;;;24-May-2025
+148847;SBI Fixed Maturity Plan (FMP) Series 42 (1857 Days) - Regular Plan - Growth;INF200KA1U93;;12.8131;;;24-May-2025
+148941;SBI Fixed Maturity Plan (FMP) Series 43 (1616 Days) - Direct Plan - Growth;INF200KA1V50;;12.7258;;;24-May-2025
+148942;SBI Fixed Maturity Plan (FMP) Series 43 (1616 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1V68;;12.7258;;;24-May-2025
+148939;SBI Fixed Maturity Plan (FMP) Series 43 (1616 Days) - Regular Plan - Growth;INF200KA1V35;;12.6524;;;24-May-2025
+148940;SBI Fixed Maturity Plan (FMP) Series 43 (1616 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1V43;;12.6525;;;24-May-2025
+148967;SBI Fixed Maturity Plan (FMP) - Series 44 (1855 Days) - Direct Plan - Growth;INF200KA1W59;;12.7417;;;24-May-2025
+148968;SBI Fixed Maturity Plan (FMP) - Series 44 (1855 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1W67;;12.7417;;;24-May-2025
+148966;SBI Fixed Maturity Plan (FMP) - Series 44 (1855 Days) - Regular Plan - Growth;INF200KA1W34;;12.6715;;;24-May-2025
+148969;SBI Fixed Maturity Plan (FMP) Series 44 (1855 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1W42;;12.6715;;;24-May-2025
+148999;SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Direct Plan - Growth;INF200KA1W91;;12.7322;;;24-May-2025
+148998;SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1X09;;12.7322;;;24-May-2025
+148996;SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Regular Plan - Growth;INF200KA1W75;;12.6649;;;24-May-2025
+148997;SBI Fixed Maturity Plan (FMP) Series 45 (1840Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1W83;;12.6649;;;24-May-2025
+150919;SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Direct Plan- Growth;INF200KA17S4;;12.0191;;;24-May-2025
+150916;SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout;INF200KA18S2;;12.0191;;;24-May-2025
+150917;SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Regular Plan- Growth;INF200KA15S8;;11.9818;;;24-May-2025
+150918;SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Regular Plan- Income Distribution Cum Capital Withdrawal Payout;INF200KA16S6;;11.9818;;;24-May-2025
+150984;SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Direct Plan - Growth;INF200KA11T5;;11.9880;;;24-May-2025
+150985;SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Direct Plan - IDCW Payout;INF200KA12T3;;11.9879;;;24-May-2025
+150986;SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Regular Plan - Growth;INF200KA19S0;;11.9519;;;24-May-2025
+150983;SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Regular Plan - IDCW Payout;INF200KA10T7;;11.9519;;;24-May-2025
+151252;SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Direct Plan- Growth;INF200KA11U3;;11.9701;;;24-May-2025
+151253;SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Direct Plan- Income Distribution Cum Capital Withdrawal Payout;INF200KA12U1;;11.9701;;;24-May-2025
+151254;SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Regular Plan- Growth;INF200KA19T8;;11.9348;;;24-May-2025
+151255;SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Regular Plan- Income Distribution Cum Capital Withdrawal Payout;INF200KA10U5;;11.9348;;;24-May-2025
+151351;SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Direct Plan - Growth;INF200KA19U6;;11.8892;;;24-May-2025
+151350;SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Direct Plan - Income Distribution Cum Capital Withdrawal Payout;INF200KA10V3;;11.8893;;;24-May-2025
+151349;SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Regular Plan - Growth;INF200KA17U0;;11.8552;;;24-May-2025
+151348;SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Payout;INF200KA18U8;;11.8552;;;24-May-2025
+151451;SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Direct Plan- Growth;INF200KA19V4;;11.8718;;;24-May-2025
+151452;SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout;INF200KA10W1;;11.8708;;;24-May-2025
+151454;SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Regular Plan- Growth;INF200KA17V8;;11.8372;;;24-May-2025
+151453;SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Regular Plan- Income Distribution Cum Capital Withdrawal Payout;INF200KA18V6;;11.8366;;;24-May-2025
+151639;SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Direct Plan- Growth;INF200KA17X4;;11.7757;;;24-May-2025
+151640;SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout;INF200KA18X2;;11.7755;;;24-May-2025
+151641;SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Regular Plan- Growth;INF200KA15X8;;11.7432;;;24-May-2025
+151642;SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Regular Plan- Income Distribution Cum Capital Withdrawal Payout;INF200KA16X6;;11.7432;;;24-May-2025
