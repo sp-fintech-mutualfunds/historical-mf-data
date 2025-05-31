@@ -1088,6 +1088,12 @@ Canara Robeco Mutual Fund
 149088;Canara Robeco Value Fund - Regular Plan - Growth Option;INF760K01JZ7;;18.1000;;;29-May-2025
 149087;Canara Robeco Value Fund - Regular Plan - IDCW (Payout/Reinvestment);INF760K01KB6;INF760K01KA8;17.9100;;;29-May-2025
 
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;INF740KA1PP3;;21.862;;;29-May-2025
+148596;DSP Value Fund - Direct Plan - IDCW;INF740KA1PQ1;INF740KA1PR9;18.049;;;29-May-2025
+148594;DSP Value Fund - Regular Plan - Growth;INF740KA1PM0;;21.128;;;29-May-2025
+148597;DSP Value Fund - Regular Plan - IDCW;INF740KA1PN8;INF740KA1PO6;16.079;;;29-May-2025
+
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;INF090I01GY2;;788.2350;;;29-May-2025
 118493;Templeton India Value Fund - Direct - IDCW ;INF090I01GW6;INF090I01GX4;116.3869;;;29-May-2025
@@ -8959,10 +8965,10 @@ Franklin Templeton Mutual Fund
 129441;Franklin India Feeder - Templeton European Opportunities Fund - Direct - IDCW ;INF090I01KY4;INF090I01KZ1;12.6878;;;29-May-2025
 129438;Franklin India Feeder - Templeton European Opportunities Fund - Growth;INF090I01KU2;;11.2720;;;29-May-2025
 129439;Franklin India Feeder - Templeton European Opportunities Fund - IDCW ;INF090I01KV0;INF090I01KW8;11.2720;;;29-May-2025
-118550;Franklin India Feeder - Franklin U S Opportunities Fund - Direct - IDCW ;INF090I01JP4;INF090I01JQ2;80.6443;;;29-May-2025
-116632;Franklin India Feeder - Franklin U S Opportunities Fund - IDCW ;INF090I01EV3;INF090I01EU5;71.4608;;;29-May-2025
-116633;Franklin India Feeder - Franklin U.S. Opportunities Fund - Growth;INF090I01EW1;;71.4608;;;29-May-2025
-118551;Franklin India Feeder - Franklin US Opportunities Fund - Direct - Growth;INF090I01JR0;;80.6443;;;29-May-2025
+118551;Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - Growth;INF090I01JR0;;80.6443;;;29-May-2025
+118550;Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - IDCW;INF090I01JP4;INF090I01JQ2;80.6443;;;29-May-2025
+116633;Franklin U.S. Opportunities Equity Active Fund of Funds - Growth;INF090I01EW1;;71.4608;;;29-May-2025
+116632;Franklin U.S. Opportunities Equity Active Fund of Funds - IDCW;INF090I01EV3;INF090I01EU5;71.4608;;;29-May-2025
 
 HDFC Mutual Fund
 149180;HDFC Developed World Equity Passive FOF - Direct Plan - Growth Option;INF179KC1BO4;;15.226;;;29-May-2025
