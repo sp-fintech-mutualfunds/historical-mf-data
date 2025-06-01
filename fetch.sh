@@ -11,7 +11,7 @@ fi
 
 # On the first of every month, go back to starting of the dataset
 if [ "$(date +%d)" -eq 1 ]; then
-	d='2005-12-31'
+	d='2006-04-01'
 fi
 echo "Starting date is $d"
 
