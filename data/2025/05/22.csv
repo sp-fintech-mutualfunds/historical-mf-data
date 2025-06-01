@@ -7661,10 +7661,10 @@ DSP Mutual Fund
 153218;DSP BSE SENSEX Next 30 Index Fund - Direct - IDCW;INF740KA1VC9;INF740KA1VD7;10.7988;;;22-May-2025
 153216;DSP BSE SENSEX Next 30 Index Fund - Regular - Growth;INF740KA1UY5;;10.7779;;;22-May-2025
 153217;DSP BSE SENSEX Next 30 Index Fund - Regular - IDCW;INF740KA1UZ2;INF740KA1VA3;10.7779;;;22-May-2025
-151329;DSP CRISIL SDL Plus G-Sec Apr 2033 50:50 Index Fund - Direct - Growth;INF740KA1SB7;;12.5619;;;22-May-2025
-151328;DSP CRISIL SDL Plus G-Sec Apr 2033 50:50 Index Fund - Direct - IDCW;INF740KA1SC5;INF740KA1SD3;12.5619;;;22-May-2025
-151327;DSP CRISIL SDL Plus G-Sec Apr 2033 50:50 Index Fund - Regular - Growth;INF740KA1RY1;;12.4871;;;22-May-2025
-151330;DSP CRISIL SDL Plus G-Sec Apr 2033 50:50 Index Fund - Regular - IDCW;INF740KA1RZ8;INF740KA1SA9;12.4871;;;22-May-2025
+151329;DSP CRISIL-IBX 50:50 Gilt Plus SDL - April 2033 Index Fund - Direct - Growth;INF740KA1SB7;;12.5619;;;22-May-2025
+151328;DSP CRISIL-IBX 50:50 Gilt Plus SDL - April 2033 Index Fund - Direct - IDCW;INF740KA1SC5;INF740KA1SD3;12.5619;;;22-May-2025
+151327;DSP CRISIL-IBX 50:50 Gilt Plus SDL - April 2033 Index Fund - Regular - Growth;INF740KA1RY1;;12.4871;;;22-May-2025
+151330;DSP CRISIL-IBX 50:50 Gilt Plus SDL - April 2033 Index Fund - Regular - IDCW;INF740KA1RZ8;INF740KA1SA9;12.4871;;;22-May-2025
 141877;DSP Nifty 50 Equal Weight Index Fund - Direct Plan - Growth;INF740KA1CR7;;25.486;;;22-May-2025
 141878;DSP Nifty 50 Equal Weight Index Fund - Direct Plan - IDCW;INF740KA1CS5;INF740KA1CT3;21.9748;;;22-May-2025
 141875;DSP Nifty 50 Equal Weight Index Fund - Regular Plan - Growth;INF740KA1CO4;;24.5604;;;22-May-2025
@@ -7752,9 +7752,9 @@ Edelweiss Mutual Fund
 152617;Edelweiss Nifty Alpha Low Volatility 30 Index Fund - Regular Plan - Growth;INF754K01SO5;;9.836;;;22-May-2025
 152618;Edelweiss Nifty Alpha Low Volatility 30 Index Fund - Regular Plan - IDCW Payout;INF754K01SP2;INF754K01SQ0;9.836;;;22-May-2025
 149343;Edelweiss NIFTY Large Midcap 250 Index Fund - Direct Plan Growth;INF754K01NR9;;16.3819;;;22-May-2025
-149339;Edelweiss NIFTY Large Midcap 250 Index Fund - Direct Plan Payout;INF754K01NS7;;16.3819;;;22-May-2025
+149339;Edelweiss NIFTY Large Midcap 250 Index Fund - Direct Plan Payout;INF754K01NS7;INF754K01NT5;16.3819;;;22-May-2025
 149341;Edelweiss NIFTY Large Midcap 250 Index Fund - Regular Plan Growth;INF754K01NN8;;16.012;;;22-May-2025
-149342;Edelweiss NIFTY Large Midcap 250 Index Fund - Regular Plan Payout;INF754K01NO6;;16.0112;;;22-May-2025
+149342;Edelweiss NIFTY Large Midcap 250 Index Fund - Regular Plan Payout;INF754K01NO6;INF754K01NP3;16.0112;;;22-May-2025
 150902;Edelweiss Nifty Midcap150 Momentum 50 Index Fund - Direct Plan - Growth;INF754K01QD2;;17.7365;;;22-May-2025
 150903;Edelweiss Nifty Midcap150 Momentum 50 Index Fund - Direct Plan - IDCW;INF754K01QE0;INF754K01QF7;17.7394;;;22-May-2025
 150900;Edelweiss Nifty Midcap150 Momentum 50 Index Fund - Regular Plan - Growth;INF754K01PZ7;;17.4249;;;22-May-2025
