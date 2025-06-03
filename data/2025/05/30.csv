@@ -205,10 +205,10 @@ Aditya Birla Sun Life Mutual Fund
 103173;Aditya Birla Sun Life Frontline Equity Fund-Regular - IDCW;INF209K01BO6;INF209K01EC5;41.03;;;30-May-2025
 
 Axis Mutual Fund
-120465;Axis Bluechip Fund - Direct Plan - Growth;INF846K01DP8;;68.44;;;30-May-2025
-120466;Axis Bluechip Fund - Direct Plan - IDCW;INF846K01DN3;INF846K01DO1;26.74;;;30-May-2025
-112277;Axis Bluechip Fund - Regular Plan - Growth;INF846K01164;;59.57;;;30-May-2025
-112278;Axis Bluechip Fund - Regular Plan - IDCW;INF846K01172;INF846K01180;18.81;;;30-May-2025
+120465;Axis Large Cap Fund - Direct Plan - Growth;INF846K01DP8;;68.44;;;30-May-2025
+120466;Axis Large Cap Fund - Direct Plan - IDCW;INF846K01DN3;INF846K01DO1;26.74;;;30-May-2025
+112277;Axis Large Cap Fund - Regular Plan - Growth;INF846K01164;;59.57;;;30-May-2025
+112278;Axis Large Cap Fund - Regular Plan - IDCW;INF846K01172;INF846K01180;18.81;;;30-May-2025
 
 Bajaj Finserv Mutual Fund
 152783;BAJAJ FINSERV LARGE CAP FUND - DIRECT PLAN - GROWTH;INF0QA701896;;9.928;;;30-May-2025
@@ -426,10 +426,10 @@ Aditya Birla Sun Life Mutual Fund
 100034;Aditya Birla Sun Life Equity Advantage Fund -Regular - IDCW;INF209K01157;INF209K01CE5;137.16;;;30-May-2025
 
 Axis Mutual Fund
-145110;Axis Growth Opportunities Fund - Direct Plan - Growth;INF846K01J46;;34.95;;;30-May-2025
-145109;Axis Growth Opportunities Fund - Direct Plan - IDCW;INF846K01J53;INF846K01J61;25.30;;;30-May-2025
-145112;Axis Growth Opportunities Fund - Regular Plan - Growth;INF846K01J79;;31.77;;;30-May-2025
-145111;Axis Growth Opportunities Fund - Regular Plan - IDCW;INF846K01J87;INF846K01J95;20.00;;;30-May-2025
+145110;Axis Large & Mid Cap Fund - Direct Plan - Growth;INF846K01J46;;34.95;;;30-May-2025
+145109;Axis Large & Mid Cap Fund - Direct Plan - IDCW;INF846K01J53;INF846K01J61;25.30;;;30-May-2025
+145112;Axis Large & Mid Cap Fund - Regular Plan - Growth;INF846K01J79;;31.77;;;30-May-2025
+145111;Axis Large & Mid Cap Fund - Regular Plan - IDCW;INF846K01J87;INF846K01J95;20.00;;;30-May-2025
 
 Bajaj Finserv Mutual Fund
 152408;Bajaj Finserv Large and Mid Cap Fund- Direct Plan- Growth;INF0QA701763;;12.186;;;30-May-2025
@@ -8889,6 +8889,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;INF084M01EC8;INF084M01ED6;24.1281;;;30-May-2025
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;INF084M01EB0;;27.2805;;;30-May-2025
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;INF084M01AU8;INF084M01AV6;26.0847;;;30-May-2025
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;INF084M01AT0;;26.08;;;30-May-2025
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;INF084M01EH7;;34.9584;;;30-May-2025
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;INF084M01AZ7;;32.8904;;;30-May-2025
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;INF084M01EI5;INF084M01EJ3;34.9762;;;30-May-2025
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;INF084M01BA8;INF084M01BB6;32.9108;;;30-May-2025
 149289;Aditya Birla Sun Life Nasdaq 100 FOF-Direct IDCW;INF209KB19C3;INF209KB10D0;14.9789;;;30-May-2025
 149291;Aditya Birla Sun Life Nasdaq 100 FOF-Direct-Growth;INF209KB18C5;;14.9768;;;30-May-2025
 149290;Aditya Birla Sun Life Nasdaq 100 FOF-Regular Growth;INF209KB15C1;;14.7664;;;30-May-2025
@@ -8945,6 +8953,10 @@ DSP Mutual Fund
 119276;DSP Global Clean Energy Fund of Fund - Direct Plan - IDCW;INF740K01PD3;INF740K01PE1;13.6744;;;30-May-2025
 112126;DSP Global Clean Energy Fund of Fund - Regular Plan - Growth;INF740K01284;;17.7118;;;30-May-2025
 112127;DSP Global Clean Energy Fund of Fund - Regular Plan - IDCW;INF740K01292;INF740K01300;12.3152;;;30-May-2025
+149816;DSP Global Innovation Fund of Fund - Direct - Growth;INF740KA1QP1;;15.5559;;;30-May-2025
+149815;DSP Global Innovation Fund of Fund - Direct - IDCW;INF740KA1QQ9;INF740KA1QR7;15.5559;;;30-May-2025
+149817;DSP Global Innovation Fund of Fund - Regular - Growth;INF740KA1QM8;;15.0949;;;30-May-2025
+149814;DSP Global Innovation Fund of Fund - Regular - IDCW;INF740KA1QN6;INF740KA1QO4;15.0949;;;30-May-2025
 119252;DSP US Flexible Equity Fund of Fund - Direct Plan - Growth;INF740K01OH7;;64.18;;;30-May-2025
 119253;DSP US Flexible Equity Fund of Fund - Direct Plan - IDCW;INF740K01OI5;INF740K01OJ3;53.705;;;30-May-2025
 117691;DSP US Flexible Equity Fund of Fund - Regular Plan - Growth Option;INF740K01LP6;;58.6119;;;30-May-2025
