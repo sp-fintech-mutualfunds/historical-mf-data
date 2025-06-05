@@ -19,6 +19,9 @@ generateDb() {
     # Generate Latest Dataset
     pypy3 generate-latest.py
     zstd -5 -T0 latest.db
+
+    # Generate Schemes zstd
+    zstd -5 -T0 schemes.csv
 }
 
 generateRelease() {
