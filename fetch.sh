@@ -31,3 +31,8 @@ while [ "$d" != $(date -I -d '+1 day') ]; do
 	fi
 	d=$(date -I -d "$d + 1 day")
 done
+
+echo "Downloading SchemeData from AMFIIndia website"
+
+schemeUrl="https://portal.amfiindia.com/DownloadSchemeData_Po.aspx?mf=0"
+wget --output-document="$year-$month-$date-schemes.csv" --quiet "$schemeUrl"
