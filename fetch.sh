@@ -35,4 +35,4 @@ done
 echo "Downloading SchemeData from AMFIIndia website"
 
 schemeUrl="https://portal.amfiindia.com/DownloadSchemeData_Po.aspx?mf=0"
-wget --output-document="$year-$month-$date-schemes.csv" --quiet "$schemeUrl"
+wget --output-document="schemes.csv" --quiet "$schemeUrl"
