@@ -1295,10 +1295,10 @@ Invesco Mutual Fund
 148484;Invesco India Focused Fund - IDCW (Payout / Reinvestment);INF205KA1171;INF205KA1197;22.83;;;25-Jun-2025
 
 ITI Mutual Fund
-151777;ITI Focused Equity Fund - Direct Plan - Growth;INF00XX01CS8;;15.8574;;;25-Jun-2025
-151776;ITI Focused Equity Fund - Direct Plan - IDCW;INF00XX01CT6;INF00XX01CU4;15.8574;;;25-Jun-2025
-151778;ITI Focused Equity Fund - Regular Plan - Growth;INF00XX01CV2;;15.2755;;;25-Jun-2025
-151775;ITI Focused Equity Fund - Regular Plan - IDCW;INF00XX01CW0;INF00XX01CR0;15.2755;;;25-Jun-2025
+151777;ITI Focused Fund - Direct Plan - Growth;INF00XX01CS8;;15.8574;;;25-Jun-2025
+151776;ITI Focused Fund - Direct Plan - IDCW;INF00XX01CT6;INF00XX01CU4;15.8574;;;25-Jun-2025
+151778;ITI Focused Fund - Regular Plan - Growth;INF00XX01CV2;;15.2755;;;25-Jun-2025
+151775;ITI Focused Fund - Regular Plan - IDCW;INF00XX01CW0;INF00XX01CR0;15.2755;;;25-Jun-2025
 
 JM Financial Mutual Fund
 120488;JM Focused Fund (Direct)  - Growth Option;INF192K01BW7;;22.9759;;;25-Jun-2025
@@ -6096,10 +6096,6 @@ Nippon India Mutual Fund
 148293;Nippon India Conservative Hybrid  Fund - Segregated Portfolio 2 - Growth Plan;INF204KB19O9;;0.0000;;;25-Jun-2025
 102172;Nippon India Conservative Hybrid  Fund-Growth Plan;INF204K01FD1;;57.6846;;;25-Jun-2025
 148292;NIPPON INDIA CONSERVATIVE HYBRID FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - QUARTERLY IDCW Option;INF204KB17O3;INF204KB18O1;0.0000;;;25-Jun-2025
-153598;Nippon India Income Plus Arbitrage Active Fund of Fund - Direct Plan-IDCW Payout;INF204KC1FK2;INF204KC1FL0;10.0169;;;25-Jun-2025
-153599;Nippon India Income Plus Arbitrage Active Fund of Fund - Regular Plan- IDCW Payout;INF204KC1FH8;INF204KC1FI6;10.0162;;;25-Jun-2025
-153601;Nippon India Income Plus Arbitrage Active Fund of Fund -Regular Plan- Growth Option;INF204KC1FG0;;10.0162;;;25-Jun-2025
-153600;Nippon India Income Plus Arbitrage Active Fund of Fund- Direct Plan- Growth Option;INF204KC1FJ4;;10.0169;;;25-Jun-2025
 
 PPFAS Mutual Fund
 148958;Parag Parikh Conservative Hybrid Fund - Direct Plan - Growth;INF879O01175;;15.2426;;;25-Jun-2025
@@ -9522,6 +9518,10 @@ Nippon India Mutual Fund
 118663;Nippon India Gold Savings Fund - Direct Plan Growth Plan - Growth Option;INF204K01YC4;;39.1589;;;25-Jun-2025
 114617;NIPPON INDIA GOLD SAVINGS FUND - IDCW Option;INF204K01KO8;INF204K01KP5;37.4598;;;25-Jun-2025
 114616;Nippon India Gold Savings Fund-Growth plan- Growth Option;INF204K01KN0;;37.4598;;;25-Jun-2025
+153598;Nippon India Income Plus Arbitrage Active Fund of Fund - Direct Plan-IDCW Payout;INF204KC1FK2;INF204KC1FL0;10.0169;;;25-Jun-2025
+153599;Nippon India Income Plus Arbitrage Active Fund of Fund - Regular Plan- IDCW Payout;INF204KC1FH8;INF204KC1FI6;10.0162;;;25-Jun-2025
+153601;Nippon India Income Plus Arbitrage Active Fund of Fund -Regular Plan- Growth Option;INF204KC1FG0;;10.0162;;;25-Jun-2025
+153600;Nippon India Income Plus Arbitrage Active Fund of Fund- Direct Plan- Growth Option;INF204KC1FJ4;;10.0169;;;25-Jun-2025
 148666;Nippon India Multi Asset Active FoF - Direct Plan - Growth Option;INF204KB16Y4;;22.4716;;;25-Jun-2025
 148664;Nippon India Multi Asset Active FoF - DIRECT Plan - IDCW Option;INF204KB17Y2;INF204KB18Y0;22.4716;;;25-Jun-2025
 148665;Nippon India Multi Asset Active FoF - IDCW Option;INF204KB14Y9;INF204KB15Y6;21.5154;;;25-Jun-2025
