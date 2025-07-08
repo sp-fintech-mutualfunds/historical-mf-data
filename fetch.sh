@@ -3,16 +3,16 @@
 # We default to checking last 7 days
 # But on every Sunday, go back a year.
 # Returns a 1-7, 1=Mon
-if [ "$(date +%u)" -eq 7 ]; then
-	d=$(date -I -d '-365 days')
-else
-	d=$(date -I -d '-7 days')
-fi
+# if [ "$(date +%u)" -eq 7 ]; then
+# 	d=$(date -I -d '-365 days')
+# else
+# 	d=$(date -I -d '-7 days')
+# fi
 
 # On the first of every month, go back to starting of the dataset
-if [ "$(date +%d)" -eq 1 ]; then
+# if [ "$(date +%d)" -eq 1 ]; then
 	d='2006-04-01'
-fi
+# fi
 echo "Starting date is $d"
 
 # Loop till we reach tomorrow, so it does run for today
