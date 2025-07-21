@@ -3,11 +3,6 @@ on:
   schedule:
     # Run cron every 12 hours.
     - cron: '* */12 * * *'
-  push:
-    branches:
-      - sp
-    paths:
-      - '**.csv'
 jobs:
   update:
     name: Update data
