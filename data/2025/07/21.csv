@@ -1092,6 +1092,12 @@ Canara Robeco Mutual Fund
 149088;Canara Robeco Value Fund - Regular Plan - Growth Option;INF760K01JZ7;;18.5400;;;21-Jul-2025
 149087;Canara Robeco Value Fund - Regular Plan - IDCW (Payout/Reinvestment);INF760K01KB6;INF760K01KA8;18.3600;;;21-Jul-2025
 
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;INF740KA1PP3;;22.32;;;21-Jul-2025
+148596;DSP Value Fund - Direct Plan - IDCW;INF740KA1PQ1;INF740KA1PR9;18.427;;;21-Jul-2025
+148594;DSP Value Fund - Regular Plan - Growth;INF740KA1PM0;;21.546;;;21-Jul-2025
+148597;DSP Value Fund - Regular Plan - IDCW;INF740KA1PN8;INF740KA1PO6;16.397;;;21-Jul-2025
+
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;INF090I01GY2;;802.9348;;;21-Jul-2025
 118493;Templeton India Value Fund - Direct - IDCW ;INF090I01GW6;INF090I01GX4;118.5564;;;21-Jul-2025
@@ -9011,6 +9017,10 @@ DSP Mutual Fund
 119276;DSP Global Clean Energy Fund of Fund - Direct Plan - IDCW;INF740K01PD3;INF740K01PE1;15.3872;;;21-Jul-2025
 112126;DSP Global Clean Energy Fund of Fund - Regular Plan - Growth;INF740K01284;;19.9132;;;21-Jul-2025
 112127;DSP Global Clean Energy Fund of Fund - Regular Plan - IDCW;INF740K01292;INF740K01300;13.8459;;;21-Jul-2025
+149816;DSP Global Innovation Fund of Fund - Direct - Growth;INF740KA1QP1;;17.1554;;;21-Jul-2025
+149815;DSP Global Innovation Fund of Fund - Direct - IDCW;INF740KA1QQ9;INF740KA1QR7;17.1554;;;21-Jul-2025
+149817;DSP Global Innovation Fund of Fund - Regular - Growth;INF740KA1QM8;;16.6264;;;21-Jul-2025
+149814;DSP Global Innovation Fund of Fund - Regular - IDCW;INF740KA1QN6;INF740KA1QO4;16.6264;;;21-Jul-2025
 119252;DSP US Flexible Equity Fund of Fund - Direct Plan - Growth;INF740K01OH7;;70.4860;;;21-Jul-2025
 119253;DSP US Flexible Equity Fund of Fund - Direct Plan - IDCW;INF740K01OI5;INF740K01OJ3;58.9818;;;21-Jul-2025
 117691;DSP US Flexible Equity Fund of Fund - Regular Plan - Growth Option;INF740K01LP6;;64.2929;;;21-Jul-2025
@@ -9598,9 +9608,9 @@ Union Mutual Fund
 153338;Union Gold ETF Fund of Fund - Regular Plan - Growth Option;INF582M01KT2;;11.4566;;;21-Jul-2025
 153341;Union Gold ETF Fund of Fund - Regular Plan - IDCW Option;INF582M01KU0;;11.4566;;;21-Jul-2025
 153575;Union Income Plus Arbitrage Active FOF - Direct Plan - Growth Option;INF582M01LF9;;10.0464;;;21-Jul-2025
-153576;Union Income Plus Arbitrage Active FOF - Direct Plan - IDCW Option;;INF582M01LH5;10.0464;;;21-Jul-2025
+153576;Union Income Plus Arbitrage Active FOF - Direct Plan - IDCW Option;INF582M01LG7;INF582M01LH5;10.0464;;;21-Jul-2025
 153573;Union Income Plus Arbitrage Active FOF - Regular Plan - Growth Option;INF582M01LB8;;10.0409;;;21-Jul-2025
-153574;Union Income Plus Arbitrage Active FOF - Regular Plan - IDCW Option;;INF582M01LD4;10.0409;;;21-Jul-2025
+153574;Union Income Plus Arbitrage Active FOF - Regular Plan - IDCW Option;INF582M01LC6;INF582M01LD4;10.0409;;;21-Jul-2025
 
 UTI Mutual Fund
 150714;UTI Gold ETF Fund of Fund - Direct Plan - Growth Option;INF789F1AWB9;;19.0567;;;21-Jul-2025
