@@ -41,35 +41,41 @@ def get_data(conn):
     os.environ['TZ'] = 'Asia/Kolkata'
     time.tzset()
 
-    today = datetime.datetime.today()
-    file = open(os.path.join(os.path.dirname(__file__), 'data', today.strftime('%Y/%m/%d') + '.csv'), "r")
-    date = today.strftime('%Y-%m-%d')
-    lines = file.readlines()[1:]
-    for line in lines:
-        if line == "" or ";" not in line:
+    for root, dirs, files in os.walk("data/" + datetime.datetime.today().strftime('%Y')):
+        # This is needed to avoid calling progressbar with an empty list
+        if len(files) == 0:
             continue
-        else:
-            line = line.split(";")
-            scheme_code = int(line[0])
-            if scheme_code not in schemes:
-                schemes[scheme_code] = line[1].strip()
 
-            isin_1 = line[2].strip().upper()
-            isin_2 = line[3].strip().upper()
+        for file in progressbar(files, "Month: %s " % root[5:], 30):
+            if file.endswith(".csv"):
+                with open(os.path.join(root, file), "r") as f:
+                    date = f"{root[5:9]}-{root[10:12]}-{file[0:2]}"
+                    lines = f.readlines()[1:]
+                    for line in lines:
+                        if line == "" or ";" not in line:
+                            continue
+                        else:
+                            line = line.split(";")
+                            scheme_code = int(line[0])
+                            if scheme_code not in schemes:
+                                schemes[scheme_code] = line[1].strip()
 
-            if isin_1 != "" and isin_1 not in isin_list:
-                isin_list[isin_1] = (scheme_code, 0)
-            if isin_2 != "" and isin_2 not in isin_list:
-                isin_list[isin_2] = (scheme_code, 1)
+                            isin_1 = line[2].strip().upper()
+                            isin_2 = line[3].strip().upper()
 
-            if line[4] not in ['-',"#N/A",'#DIV/0!','N.A.', 'NA', 'B.C.', 'B. C.']:
-                try:
-                    nav = float(line[4].strip().replace(",", "").replace('`', '').replace("-", ""))
-                except ValueError as e:
-                    # TODO: Save to an error log
-                    nav = False
-                if nav:
-                    yield (scheme_code, date, nav)
+                            if isin_1 != "" and isin_1 not in isin_list:
+                                isin_list[isin_1] = (scheme_code, 0)
+                            if isin_2 != "" and isin_2 not in isin_list:
+                                isin_list[isin_2] = (scheme_code, 1)
+
+                            if line[4] not in ['-',"#N/A",'#DIV/0!','N.A.', 'NA', 'B.C.', 'B. C.']:
+                                try:
+                                    nav = float(line[4].strip().replace(",", "").replace('`', '').replace("-", ""))
+                                except ValueError as e:
+                                    # TODO: Save to an error log
+                                    nav = False
+                                if nav:
+                                    yield (scheme_code, date, nav)
 
 def insert_securities(conn, isins):
     c = conn.cursor()
