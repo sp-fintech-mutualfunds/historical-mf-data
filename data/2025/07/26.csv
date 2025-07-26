@@ -84,6 +84,10 @@ Edelweiss Mutual Fund
 149479;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Above 3 years;;;1000;;;26-Jul-2025
 149478;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Upto 3 years;;;1230.5784;;;26-Jul-2025
 
+Franklin Templeton Mutual Fund
+147213;Franklin India Overnight fund- Growth;INF090I01SO8;;1351.1131;;;26-Jul-2025
+147214;Franklin India Overnight Fund- Growth - Direct;INF090I01SS9;;1355.3833;;;26-Jul-2025
+
 HDFC Mutual Fund
 101996;HDFC Overnight Fund - Growth Option;INF179KB1HS3;;3817.2038;;;26-Jul-2025
 119110;HDFC Overnight Fund - Growth Option - Direct Plan;INF179KB1HT1;;3854.3109;;;26-Jul-2025
@@ -183,6 +187,14 @@ Shriram Mutual Fund
 150558;Shriram Overnight Fund - Regular Daily IDCW;;INF680P01257;10;;;26-Jul-2025
 150565;Shriram Overnight Fund - Regular Growth;INF680P01232;;11.9746;;;26-Jul-2025
 150560;Shriram Overnight Fund - Regular Monthly IDCW;INF680P01307;INF680P01315;10.0159;;;26-Jul-2025
+
+Sundaram Mutual Fund
+146963;Sundaram Overnight Fund Direct Plan - Growth;INF903JA1HG5;;1381.0061;;;26-Jul-2025
+146962;Sundaram Overnight Fund Direct Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HH3;;1047.6053;;;26-Jul-2025
+146957;Sundaram Overnight Fund Direct Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HM3;;1047.6053;;;26-Jul-2025
+146959;Sundaram Overnight Fund Regular Plan - Growth;INF903JA1GZ7;;1372.4318;;;26-Jul-2025
+146960;Sundaram Overnight Fund Regular Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HA8;;1043.5835;;;26-Jul-2025
+146961;Sundaram Overnight Fund Regular Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HF7;;1043.5835;;;26-Jul-2025
 
 Tata Mutual Fund
 146978;TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;;INF277K019T3;1000.0002;;;26-Jul-2025
@@ -304,6 +316,11 @@ Edelweiss Mutual Fund
 140178;Edelweiss Liquid Fund - Retail Plan - Weekly Dividend Option;;INF754K01HG4;1231.6723;;;26-Jul-2025
 140177;Edelweiss Liquid Fund - Retail Plan Daily - IDCW Option;;INF754K01HF6;1092.5722;;;26-Jul-2025
 140180;Edelweiss Liquid Fund - Retail Plan Monthly - IDCW Option;;INF754K01HI0;1243.7612;;;26-Jul-2025
+
+Franklin Templeton Mutual Fund
+100538;Franklin India Liquid Fund - Regular Plan - Growth;INF090I01BB1;;5934.2762;;;26-Jul-2025
+118577;Franklin India Liquid Fund - Super Institutional - Direct - Growth;INF090I01JV2;;3980.0097;;;26-Jul-2025
+100546;Franklin India Liquid Fund - Super Institutional Plan - Growth;INF090I01BG0;;3947.1782;;;26-Jul-2025
 
 HDFC Mutual Fund
 119091;HDFC Liquid Fund - Growth Option - Direct Plan;INF179KB1HP9;;5200.7047;;;26-Jul-2025
@@ -442,6 +459,12 @@ Shriram Mutual Fund
 153283;Shriram Unclaimed IDCW Stable Scheme Liquid Fund;;;1000;;;26-Jul-2025
 153280;Shriram Unclaimed Redemption Liquid Fund;;;1033.3579;;;26-Jul-2025
 153281;Shriram Unclaimed Redemption Stable Scheme Liquid Fund;;;1000;;;26-Jul-2025
+
+Sundaram Mutual Fund
+149664;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Direct Plan - Growth Option;INF173K01GU0;;2339.8537;;;26-Jul-2025
+149660;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Regular Plan IDCW;INF173K01DD3;INF173K01DE1;1033.4987;;;26-Jul-2025
+149662;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) -Direct Plan - IDCW;INF173K01GV8;INF173K01GW6;1034.4221;;;26-Jul-2025
+149661;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) -Growth Option;INF173K01DA9;;2312.5080;;;26-Jul-2025
 
 Tata Mutual Fund
 153689;Tata Liquid Fund - Direct Plan - Weekly IDCW Reinvestment;;INF277KA1EE2;1004.9411;;;26-Jul-2025
