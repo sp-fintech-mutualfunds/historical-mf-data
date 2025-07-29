@@ -1102,6 +1102,12 @@ Canara Robeco Mutual Fund
 149088;Canara Robeco Value Fund - Regular Plan - Growth Option;INF760K01JZ7;;18.3000;;;25-Jul-2025
 149087;Canara Robeco Value Fund - Regular Plan - IDCW (Payout/Reinvestment);INF760K01KB6;INF760K01KA8;18.1200;;;25-Jul-2025
 
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;INF740KA1PP3;;22.312;;;25-Jul-2025
+148596;DSP Value Fund - Direct Plan - IDCW;INF740KA1PQ1;INF740KA1PR9;18.421;;;25-Jul-2025
+148594;DSP Value Fund - Regular Plan - Growth;INF740KA1PM0;;21.537;;;25-Jul-2025
+148597;DSP Value Fund - Regular Plan - IDCW;INF740KA1PN8;INF740KA1PO6;16.39;;;25-Jul-2025
+
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;INF090I01GY2;;793.5725;;;25-Jul-2025
 118493;Templeton India Value Fund - Direct - IDCW ;INF090I01GW6;INF090I01GX4;117.1740;;;25-Jul-2025
@@ -3254,13 +3260,13 @@ Mahindra Manulife Mutual Fund
 
 Mirae Asset Mutual Fund
 118859;Mirae Asset Liquid Fund - Direct Plan - Growth;INF769K01CM1;;2796.8016;;;25-Jul-2025
-118862;Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW;;INF769K01CP4;1216.5484;;;25-Jul-2025
+118862;Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW;INF769K01PD2;INF769K01CP4;1216.5484;;;25-Jul-2025
 118861;Mirae Asset Liquid Fund - Direct Plan -Daily IDCW;;INF769K01CO7;1075.8332;;;25-Jul-2025
 118860;Mirae Asset Liquid Fund - Direct Plan -Monthly IDCW;INF769K01CN9;INF769K01CQ2;1134.8110;;;25-Jul-2025
 111647;Mirae Asset Liquid Fund - Regular - Daily IDCW;;INF769K01804;1066.4347;;;25-Jul-2025
 111646;Mirae Asset Liquid Fund - Regular Plan - Growth;INF769K01788;;2749.0038;;;25-Jul-2025
 111645;Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW;INF769K01838;INF769K01820;1152.4635;;;25-Jul-2025
-111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;;INF769K01812;1152.8788;;;25-Jul-2025
+111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;INF769K01PC4;INF769K01812;1152.8788;;;25-Jul-2025
 
 Motilal Oswal Mutual Fund
 145834;Motilal Oswal Liquid Fund - Direct Growth;INF247L01734;;13.9893;;;25-Jul-2025
@@ -8992,6 +8998,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;INF084M01EC8;INF084M01ED6;25.4601;;;25-Jul-2025
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;INF084M01EB0;;28.7864;;;25-Jul-2025
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;INF084M01AU8;INF084M01AV6;27.5047;;;25-Jul-2025
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;INF084M01AT0;;27.4997;;;25-Jul-2025
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;INF084M01EH7;;37.1662;;;25-Jul-2025
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;INF084M01AZ7;;34.9393;;;25-Jul-2025
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;INF084M01EI5;INF084M01EJ3;37.1852;;;25-Jul-2025
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;INF084M01BA8;INF084M01BB6;34.961;;;25-Jul-2025
 149289;Aditya Birla Sun Life Nasdaq 100 FOF-Direct IDCW;INF209KB19C3;INF209KB10D0;16.5645;;;25-Jul-2025
 149291;Aditya Birla Sun Life Nasdaq 100 FOF-Direct-Growth;INF209KB18C5;;16.5623;;;25-Jul-2025
 149290;Aditya Birla Sun Life Nasdaq 100 FOF-Regular Growth;INF209KB15C1;;16.3235;;;25-Jul-2025
@@ -9048,6 +9062,10 @@ DSP Mutual Fund
 119276;DSP Global Clean Energy Fund of Fund - Direct Plan - IDCW;INF740K01PD3;INF740K01PE1;15.6062;;;25-Jul-2025
 112126;DSP Global Clean Energy Fund of Fund - Regular Plan - Growth;INF740K01284;;20.1953;;;25-Jul-2025
 112127;DSP Global Clean Energy Fund of Fund - Regular Plan - IDCW;INF740K01292;INF740K01300;14.0420;;;25-Jul-2025
+149816;DSP Global Innovation Fund of Fund - Direct - Growth;INF740KA1QP1;;17.2801;;;25-Jul-2025
+149815;DSP Global Innovation Fund of Fund - Direct - IDCW;INF740KA1QQ9;INF740KA1QR7;17.2801;;;25-Jul-2025
+149817;DSP Global Innovation Fund of Fund - Regular - Growth;INF740KA1QM8;;16.7456;;;25-Jul-2025
+149814;DSP Global Innovation Fund of Fund - Regular - IDCW;INF740KA1QN6;INF740KA1QO4;16.7456;;;25-Jul-2025
 119252;DSP US Flexible Equity Fund of Fund - Direct Plan - Growth;INF740K01OH7;;71.4313;;;25-Jul-2025
 119253;DSP US Flexible Equity Fund of Fund - Direct Plan - IDCW;INF740K01OI5;INF740K01OJ3;59.7728;;;25-Jul-2025
 117691;DSP US Flexible Equity Fund of Fund - Regular Plan - Growth Option;INF740K01LP6;;65.1491;;;25-Jul-2025
