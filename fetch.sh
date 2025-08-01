@@ -4,14 +4,14 @@
 # But on every Sunday, go back a year.
 # Returns a 1-7, 1=Mon
 if [ "$(date +%u)" -eq 7 ]; then
-	d=$(date -I -d '-365 days')
+	d=$(date -I -d '-90 days')
 else
 	d=$(date -I -d '-7 days')
 fi
 
-# On the first of every month, go back to starting of the dataset
+# On the first of every month, go back a year
 if [ "$(date +%d)" -eq 1 ]; then
-	d='2006-04-01'
+	d=$(date -I -d '-365 days')
 fi
 echo "Starting date is $d"
 
