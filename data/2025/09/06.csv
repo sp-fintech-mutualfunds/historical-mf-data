@@ -106,6 +106,10 @@ Edelweiss Mutual Fund
 149479;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Above 3 years;;;1000;;;06-Sep-2025
 149478;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Upto 3 years;;;1238.0349;;;06-Sep-2025
 
+Franklin Templeton Mutual Fund
+147213;Franklin India Overnight fund- Growth;INF090I01SO8;;1359.3692;;;06-Sep-2025
+147214;Franklin India Overnight Fund- Growth - Direct;INF090I01SS9;;1363.7330;;;06-Sep-2025
+
 HDFC Mutual Fund
 101996;HDFC Overnight Fund - Growth Option;INF179KB1HS3;;3840.0731;;;06-Sep-2025
 119110;HDFC Overnight Fund - Growth Option - Direct Plan;INF179KB1HT1;;3877.7763;;;06-Sep-2025
@@ -395,6 +399,11 @@ Edelweiss Mutual Fund
 140177;Edelweiss Liquid Fund - Retail Plan Daily - IDCW Option;;INF754K01HF6;1099.5235;;;06-Sep-2025
 140180;Edelweiss Liquid Fund - Retail Plan Monthly - IDCW Option;;INF754K01HI0;1245.7737;;;06-Sep-2025
 
+Franklin Templeton Mutual Fund
+100538;Franklin India Liquid Fund - Regular Plan - Growth;INF090I01BB1;;5967.5661;;;06-Sep-2025
+118577;Franklin India Liquid Fund - Super Institutional - Direct - Growth;INF090I01JV2;;4005.7256;;;06-Sep-2025
+100546;Franklin India Liquid Fund - Super Institutional Plan - Growth;INF090I01BG0;;3972.3430;;;06-Sep-2025
+
 HDFC Mutual Fund
 119091;HDFC Liquid Fund - Growth Option - Direct Plan;INF179KB1HP9;;5233.7119;;;06-Sep-2025
 100868;HDFC Liquid Fund - Growth Plan;INF179KB1HK0;;5176.6514;;;06-Sep-2025
@@ -493,6 +502,18 @@ Mirae Asset Mutual Fund
 111646;Mirae Asset Liquid Fund - Regular Plan - Growth;INF769K01788;;2766.7948;;;06-Sep-2025
 111645;Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW;INF769K01838;INF769K01820;1154.3313;;;06-Sep-2025
 111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;INF769K01PC4;INF769K01812;1153.0772;;;06-Sep-2025
+
+Navi Mutual Fund
+119163;Navi Liquid Fund - Direct Plan Daily IDCW - ReInvestment;;INF959L01GK1;10.0144;;;06-Sep-2025
+119161;Navi Liquid Fund - Direct Plan Monthly IDCW - Payout;INF959L01GG9;INF959L01GH7;10.0245;;;06-Sep-2025
+119162;Navi Liquid Fund - Direct Plan Weekly IDCW - Payout;INF959L01GI5;INF959L01GJ3;10.0116;;;06-Sep-2025
+112645;Navi Liquid Fund - Regular Plan Daily IDCW;;INF959L01GM7;10.0144;;;06-Sep-2025
+112647;Navi Liquid Fund - Regular Plan Monthly IDCW;INF959L01GN5;INF959L01GO3;10.0243;;;06-Sep-2025
+112646;Navi Liquid Fund - Regular Plan Weekly IDCW;INF959L01GP0;INF959L01GQ8;10.0119;;;06-Sep-2025
+119164;Navi Liquid Fund-Direct Plan-Growth Option;INF959L01GF1;;28.9341;;;06-Sep-2025
+112636;Navi Liquid Fund-Regular Plan-Growth Option;INF959L01GL9;;28.6762;;;06-Sep-2025
+140437;Navi Liquid Fund-Unclaimed Redemption and Dividend Plan greater than 3 years;INF959L01CO2;;10.0015;;;06-Sep-2025
+139386;Navi Liquid Fund-Unclaimed Redemption and Dividend Plan less than 3 years;INF959L01CN4;;28.8326;;;06-Sep-2025
 
 Nippon India Mutual Fund
 100852;NIPPON INDIA LIQUID FUND - DAILY IDCW OPTION;;INF204K01UM1;1528.9711;;;06-Sep-2025
