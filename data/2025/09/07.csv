@@ -248,6 +248,14 @@ SBI Mutual Fund
 101206;SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH;INF200K01LQ9;;4198.5836;;;07-Sep-2025
 103140;SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01LO4;INF200K01LP1;1342.6915;;;07-Sep-2025
 
+Shriram Mutual Fund
+150562;Shriram Overnight Fund -  Direct Growth;INF680P01323;;12.0803;;;07-Sep-2025
+150561;Shriram Overnight Fund - Direct Daily IDCW;;INF680P01331;10;;;07-Sep-2025
+150567;Shriram Overnight Fund - Direct Monthly IDCW;INF680P01380;INF680P01398;10.0291;;;07-Sep-2025
+150558;Shriram Overnight Fund - Regular Daily IDCW;;INF680P01257;10;;;07-Sep-2025
+150565;Shriram Overnight Fund - Regular Growth;INF680P01232;;12.0485;;;07-Sep-2025
+150560;Shriram Overnight Fund - Regular Monthly IDCW;INF680P01307;INF680P01315;10.0289;;;07-Sep-2025
+
 Sundaram Mutual Fund
 146963;Sundaram Overnight Fund Direct Plan - Growth;INF903JA1HG5;;1389.6691;;;07-Sep-2025
 146962;Sundaram Overnight Fund Direct Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HH3;;1054.1767;;;07-Sep-2025
@@ -604,6 +612,14 @@ SBI Mutual Fund
 105282;SBI Liquid Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01MB9;INF200K01MC7;1379.0256;;;07-Sep-2025
 105280;SBI Liquid Fund - REGULAR PLAN -Growth;INF200K01MA1;;4124.4149;;;07-Sep-2025
 
+Shriram Mutual Fund
+153035;Shriram Liquid Fund - Direct Plan Growth Option;INF680P01430;;1054.0808;;;07-Sep-2025
+153036;Shriram Liquid Fund - Regular Plan Growth Option;INF680P01448;;1052.8354;;;07-Sep-2025
+153282;Shriram Unclaimed IDCW Liquid Fund;;;1029.401;;;07-Sep-2025
+153283;Shriram Unclaimed IDCW Stable Scheme Liquid Fund;;;1000;;;07-Sep-2025
+153280;Shriram Unclaimed Redemption Liquid Fund;;;1040.0661;;;07-Sep-2025
+153281;Shriram Unclaimed Redemption Stable Scheme Liquid Fund;;;1000;;;07-Sep-2025
+
 Sundaram Mutual Fund
 149664;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Direct Plan - Growth Option;INF173K01GU0;;2355.2959;;;07-Sep-2025
 149660;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Regular Plan IDCW;INF173K01DD3;INF173K01DE1;1040.0866;;;07-Sep-2025
@@ -692,6 +708,9 @@ Nippon India Mutual Fund
 
 SBI Mutual Fund
 153796;SBI Nifty 1D Rate Liquid ETF - Growth;INF200KB1969;;1004.5085;;;07-Sep-2025
+
+Shriram Mutual Fund
+152741;Shriram Nifty 1D Rate Liquid ETF - Growth;INF680P01422;;1069.3879;;;07-Sep-2025
 
 Close Ended Schemes ( Income )
 
