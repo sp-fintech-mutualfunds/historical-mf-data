@@ -1,0 +1,121 @@
+Scheme Code;Scheme Name;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Repurchase Price;Sale Price;Date
+
+Open Ended Schemes ( Debt Scheme - Overnight Fund )
+
+
+360 ONE Mutual Fund
+153703;360 ONE Overnight Fund - Direct Plan - Growth;INF579M01BG4;;1012.6894;;;02-Oct-2025
+153700;360 ONE Overnight Fund - Regular Plan - Growth;INF579M01BD1;;1012.5006;;;02-Oct-2025
+153702;360 ONE Overnight Fund - Regular Plan - IDCW;INF579M01BE9;INF579M01BF6;1012.5006;;;02-Oct-2025
+153701;360 ONE Overnight Fund- Direct Plan - IDCW;INF579M01BH2;INF579M01BI0;1012.6895;;;02-Oct-2025
+
+Canara Robeco Mutual Fund
+147532;CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - DAILY IDCW (Reinvestment);;INF760K01JN3;1001.0012;;;02-Oct-2025
+147531;CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - GROWTH OPTION;INF760K01JM5;;1355.7378;;;02-Oct-2025
+147533;CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - DAILY IDCW (Reinvestment);;INF760K01JP8;1001.0000;;;02-Oct-2025
+147534;CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - GROWTH OPTION;INF760K01JO1;;1354.3755;;;02-Oct-2025
+
+Helios Mutual Fund
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;INF0R8701087;;1000.0007;;;02-Oct-2025
+152152;Helios Overnight Fund - Direct Plan - Growth Option;INF0R8701079;;1127.0506;;;02-Oct-2025
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;INF0R8701103;;1000.0000;;;02-Oct-2025
+152153;Helios Overnight Fund - Regular Plan - Growth Option;INF0R8701095;;1125.9559;;;02-Oct-2025
+
+Mahindra Manulife Mutual Fund
+147563;Mahindra Manulife Overnight Fund - Direct Plan - Daily IDCW;;INF174V01846;1362.2638;;;02-Oct-2025
+147564;Mahindra Manulife Overnight Fund - Direct Plan -Growth;INF174V01838;;1358.9247;;;02-Oct-2025
+147566;Mahindra Manulife Overnight Fund - Regular Plan - Daily IDCW;;INF174V01820;1197.6274;;;02-Oct-2025
+147565;Mahindra Manulife Overnight Fund - Regular Plan - Growth;INF174V01812;;1350.4298;;;02-Oct-2025
+149471;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW beyond 3 years;;;1000.0000;;;02-Oct-2025
+149470;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW upto 3 years;;;1246.2556;;;02-Oct-2025
+
+quant Mutual Fund
+151190;quant Overnight Fund - Growth Option - Direct Plan;INF966L01AZ7;;12.0129;;;02-Oct-2025
+151195;quant Overnight Fund - Growth Option - Regular Plan;INF966L01BC4;;11.9772;;;02-Oct-2025
+151193;quant Overnight Fund - IDCW Option - Direct Plan;INF966L01BA8;INF966L01BB6;12.0171;;;02-Oct-2025
+151191;quant Overnight Fund - IDCW Option - Regular Plan;INF966L01BD2;INF966L01BE0;11.9652;;;02-Oct-2025
+
+Shriram Mutual Fund
+150562;Shriram Overnight Fund -  Direct Growth;INF680P01323;;12.1247;;;02-Oct-2025
+150561;Shriram Overnight Fund - Direct Daily IDCW;;INF680P01331;10;;;02-Oct-2025
+150567;Shriram Overnight Fund - Direct Monthly IDCW;INF680P01380;INF680P01398;10.0251;;;02-Oct-2025
+150558;Shriram Overnight Fund - Regular Daily IDCW;;INF680P01257;10;;;02-Oct-2025
+150565;Shriram Overnight Fund - Regular Growth;INF680P01232;;12.0922;;;02-Oct-2025
+150560;Shriram Overnight Fund - Regular Monthly IDCW;INF680P01307;INF680P01315;10.0251;;;02-Oct-2025
+
+Open Ended Schemes ( Debt Scheme - Liquid Fund )
+
+
+360 ONE Mutual Fund
+125349;360 ONE LIQUID FUND DIRECT PLAN  DAILY DIVIDEND REINVESTMENT;;INF579M01688;1000.4090;;;02-Oct-2025
+125345;360 ONE LIQUID FUND DIRECT PLAN  GROWTH;INF579M01621;;2052.1082;;;02-Oct-2025
+125343;360 ONE LIQUID FUND DIRECT PLAN  WEEKLY DIVIDEND;INF579M01639;INF579M01696;1005.3375;;;02-Oct-2025
+125342;360 ONE LIQUID FUND REGULAR PLAN  DAILY DIVIDEND REINVESTMENT;;INF579M01563;1000.4090;;;02-Oct-2025
+125259;360 ONE LIQUID FUND REGULAR PLAN  GROWTH;INF579M01506;;2039.1064;;;02-Oct-2025
+125337;360 ONE LIQUID FUND REGULAR PLAN  WEEKLY DIVIDEND;INF579M01514;INF579M01571;1005.3626;;;02-Oct-2025
+
+Canara Robeco Mutual Fund
+118307;CANARA ROBECO LIQUID FUND - DIRECT PLAN - DAILY IDCW (Reinvestment);;INF760K01FS0;1005.5000;;;02-Oct-2025
+118305;CANARA ROBECO LIQUID FUND - DIRECT PLAN - GROWTH OPTION;INF760K01FU6;;3208.2747;;;02-Oct-2025
+118304;CANARA ROBECO LIQUID FUND - DIRECT PLAN - IDCW (Payout/Reinvestment);INF760K01FT8;;2295.9790;;;02-Oct-2025
+118306;CANARA ROBECO LIQUID FUND - DIRECT PLAN - MONTHLY IDCW (Payout/Reinvestment);INF760K01FV4;INF760K01FW2;1001.5814;;;02-Oct-2025
+118308;CANARA ROBECO LIQUID FUND - DIRECT PLAN - WEEKLY IDCW (Payout/Reinvestment);INF760K01FY8;INF760K01FX0;1000.4090;;;02-Oct-2025
+109349;CANARA ROBECO LIQUID FUND - REGULAR PLAN - DAILY IDCW (Reinvestment);;INF760K01CU3;1005.5000;;;02-Oct-2025
+109353;CANARA ROBECO LIQUID FUND - REGULAR PLAN - GROWTH OPTION;INF760K01CW9;;3189.2640;;;02-Oct-2025
+109351;CANARA ROBECO LIQUID FUND - REGULAR PLAN - MONTHLY IDCW (Payout/Reinvestment);INF760K01CX7;INF760K01CY5;1001.5462;;;02-Oct-2025
+109350;CANARA ROBECO LIQUID FUND - REGULAR PLAN - WEEKLY IDCW (Payout/Reinvestment);INF760K01BZ4;INF760K01CZ2;1000.4058;;;02-Oct-2025
+139235;Canara Robeco Liquid Fund -Unclaimed Redemption and Dividend Plan -Direct Growth Option;INF760K01IC8;;1750.4569;;;02-Oct-2025
+
+Mahindra Manulife Mutual Fund
+139535;Mahindra Manulife Liquid Fund - Direct Plan - Daily IDCW;;INF174V01051;1223.7097;;;02-Oct-2025
+139536;Mahindra Manulife Liquid Fund - Direct Plan - Weekly IDCW;;INF174V01069;1004.4156;;;02-Oct-2025
+139538;Mahindra Manulife Liquid Fund - Direct Plan -Growth;INF174V01044;;1743.1111;;;02-Oct-2025
+139534;Mahindra Manulife Liquid Fund - Regular Plan - Daily IDCW;;INF174V01028;1001.0440;;;02-Oct-2025
+139537;Mahindra Manulife Liquid Fund - Regular Plan - Growth;INF174V01010;;1724.1139;;;02-Oct-2025
+139541;Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW;;INF174V01036;1010.8285;;;02-Oct-2025
+
+Motilal Oswal Mutual Fund
+145834;Motilal Oswal Liquid Fund - Direct Growth;INF247L01734;;14.1344;;;02-Oct-2025
+145946;Motilal Oswal Liquid Fund - Regular Growth;INF247L01726;;13.9889;;;02-Oct-2025
+147442;Motilal Oswal Liquid Fund - Unclaimed Dividend - Greater than 3 years;;;10.0000;;;02-Oct-2025
+147441;Motilal Oswal Liquid Fund - Unclaimed Dividend- Upto 3 years;;;13.7646;;;02-Oct-2025
+147443;Motilal Oswal Liquid Fund - Unclaimed Redemption - Greater than 3 years;;;10.0000;;;02-Oct-2025
+147444;Motilal Oswal Liquid Fund - Unclaimed Redemption - Upto 3 years;;;13.4906;;;02-Oct-2025
+146218;Motilal Oswal Liquid Fund Direct - IDCW  Quarterly Payout/Reinvestment;INF247L01791;INF247L01783;10.0145;;;02-Oct-2025
+146226;Motilal Oswal Liquid Fund Direct - IDCW Fortnightly Reinvestment;;INF247L01759;10.0154;;;02-Oct-2025
+146223;Motilal Oswal Liquid Fund Direct - IDCW Monthly Payout/Reinvestment;INF247L01775;INF247L01767;10.0412;;;02-Oct-2025
+146228;Motilal Oswal Liquid Fund Direct - IDCW Reinvestment;;INF247L01742;10.0077;;;02-Oct-2025
+146229;Motilal Oswal Liquid Fund Direct - IDCW Weekly Reinvestment;;INF247L01809;10.0169;;;02-Oct-2025
+146227;Motilal Oswal Liquid Fund Regular - IDCW Daily Reinvestment;;INF247L01817;10.0055;;;02-Oct-2025
+146230;Motilal Oswal Liquid Fund Regular - IDCW Fortnightly Reinvestment;;INF247L01825;10.0150;;;02-Oct-2025
+146220;Motilal Oswal Liquid Fund Regular - IDCW Monthly Payout/Reinvestment;INF247L01841;INF247L01833;10.0409;;;02-Oct-2025
+146222;Motilal Oswal Liquid Fund Regular - IDCW Quarterly Payout/Reinvestment;INF247L01866;INF247L01858;10.0143;;;02-Oct-2025
+146224;Motilal Oswal Liquid Fund Regular - IDCW Weekly Reinvestment;;INF247L01874;10.0239;;;02-Oct-2025
+
+quant Mutual Fund
+120837;quant Liquid Fund - Growth Option - Direct Plan;INF966L01820;;43.008;;;02-Oct-2025
+103225;quant Liquid Fund - Growth Option - Regular Plan;INF966L01317;;41.8794;;;02-Oct-2025
+120838;quant Liquid Fund - Monthly IDCW Option - Direct Plan;INF966L01796;INF966L01812;15.7023;;;02-Oct-2025
+103228;quant Liquid Fund - Monthly IDCW Option - Regular Plan;INF966L01291;INF966L01309;15.158;;;02-Oct-2025
+120839;quant Liquid Fund - Weekly IDCW Option - Direct Plan;INF966L01788;INF966L01804;14.6323;;;02-Oct-2025
+103227;quant Liquid Fund - Weekly IDCW Option - Regular Plan;INF966L01499;INF966L01283;14.4845;;;02-Oct-2025
+120836;quant Liquid Fund-Daily IDCW Option - Direct Plan;;INF966L01770;13.2632;;;02-Oct-2025
+103226;quant Liquid Fund-Daily IDCW Option - Regular Plan;;INF966L01275;12.7777;;;02-Oct-2025
+148513;quant Liquid Fund-Unclaimed Dividend Investor Education Plan-Growth Option;;;13.3723;;;02-Oct-2025
+148510;quant Liquid Fund-Unclaimed Dividend-Growth Option;;;13.3711;;;02-Oct-2025
+148511;quant Liquid Fund-Unclaimed Redemption Investor Education Plan-Growth Option;;;13.3723;;;02-Oct-2025
+148512;quant Liquid Fund-Unclaimed Redemption Plan-Growth Option;;;13.1876;;;02-Oct-2025
+
+Shriram Mutual Fund
+153035;Shriram Liquid Fund - Direct Plan Growth Option;INF680P01430;;1058.1531;;;02-Oct-2025
+153036;Shriram Liquid Fund - Regular Plan Growth Option;INF680P01448;;1056.7953;;;02-Oct-2025
+153282;Shriram Unclaimed IDCW Liquid Fund;;;1032.3291;;;02-Oct-2025
+153283;Shriram Unclaimed IDCW Stable Scheme Liquid Fund;;;1000;;;02-Oct-2025
+153280;Shriram Unclaimed Redemption Liquid Fund;;;1044.0789;;;02-Oct-2025
+153281;Shriram Unclaimed Redemption Stable Scheme Liquid Fund;;;1000;;;02-Oct-2025
+
+Open Ended Schemes ( Other Scheme - Other  ETFs )
+
+
+Shriram Mutual Fund
+152741;Shriram Nifty 1D Rate Liquid ETF - Growth;INF680P01422;;1073.0167;;;02-Oct-2025
