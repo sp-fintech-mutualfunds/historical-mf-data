@@ -1114,6 +1114,12 @@ Canara Robeco Mutual Fund
 149088;Canara Robeco Value Fund - Regular Plan - Growth Option;INF760K01JZ7;;18.1300;;;10-Oct-2025
 149087;Canara Robeco Value Fund - Regular Plan - IDCW (Payout/Reinvestment);INF760K01KB6;INF760K01KA8;17.0500;;;10-Oct-2025
 
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;INF740KA1PP3;;23.043;;;10-Oct-2025
+148596;DSP Value Fund - Direct Plan - IDCW;INF740KA1PQ1;INF740KA1PR9;19.024;;;10-Oct-2025
+148594;DSP Value Fund - Regular Plan - Growth;INF740KA1PM0;;22.204;;;10-Oct-2025
+148597;DSP Value Fund - Regular Plan - IDCW;INF740KA1PN8;INF740KA1PO6;16.898;;;10-Oct-2025
+
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;INF090I01GY2;;799.2536;;;10-Oct-2025
 118493;Templeton India Value Fund - Direct - IDCW ;INF090I01GW6;INF090I01GX4;118.0114;;;10-Oct-2025
@@ -8862,6 +8868,7 @@ DSP Mutual Fund
 151887;DSP Nifty Private Bank ETF;INF740KA1TA7;;28.1093;;;10-Oct-2025
 151888;DSP Nifty PSU Bank ETF;INF740KA1SY9;;77.3626;;;10-Oct-2025
 152812;DSP Nifty Top 10 Equal Weight ETF;INF740KA1UR9;;96.7005;;;10-Oct-2025
+153874;DSP Nifty500 Flexicap Quality 30 ETF;INF740KA1WU9;;10.5542;;;10-Oct-2025
 150523;DSP Silver ETF;INF740KA1RE3;;156.4444;;;10-Oct-2025
 
 Edelweiss Mutual Fund
@@ -9116,6 +9123,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;INF084M01EC8;INF084M01ED6;25.9148;;;10-Oct-2025
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;INF084M01EB0;;29.3006;;;10-Oct-2025
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;INF084M01AU8;INF084M01AV6;27.9635;;;10-Oct-2025
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;INF084M01AT0;;27.9585;;;10-Oct-2025
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;INF084M01EH7;;38.7096;;;10-Oct-2025
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;INF084M01AZ7;;36.3442;;;10-Oct-2025
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;INF084M01EI5;INF084M01EJ3;38.7294;;;10-Oct-2025
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;INF084M01BA8;INF084M01BB6;36.3668;;;10-Oct-2025
 149289;Aditya Birla Sun Life US Equity Passive FOF-Direct IDCW;INF209KB19C3;INF209KB10D0;17.9375;;;10-Oct-2025
 149291;Aditya Birla Sun Life US Equity Passive FOF-Direct-Growth;INF209KB18C5;;17.935;;;10-Oct-2025
 149290;Aditya Birla Sun Life US Equity Passive FOF-Regular Growth;INF209KB15C1;;17.663;;;10-Oct-2025
@@ -9172,6 +9187,10 @@ DSP Mutual Fund
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01284;;22.6736;;;10-Oct-2025
 112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;INF740K01292;INF740K01300;15.7652;;;10-Oct-2025
 119275;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;INF740K01PC5;;23.9063;;;10-Oct-2025
+149816;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;INF740KA1QP1;;18.5681;;;10-Oct-2025
+149815;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;INF740KA1QQ9;INF740KA1QR7;18.5681;;;10-Oct-2025
+149817;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;INF740KA1QM8;;17.9604;;;10-Oct-2025
+149814;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;INF740KA1QN6;INF740KA1QO4;17.9604;;;10-Oct-2025
 152528;DSP US Specific Debt Passive FoF - Direct - Growth;INF740KA1UJ6;;11.7021;;;10-Oct-2025
 152529;DSP US Specific Debt Passive FoF - Direct - IDCW;INF740KA1UK4;INF740KA1UL2;11.7021;;;10-Oct-2025
 152527;DSP US Specific Debt Passive FoF - Regular - Growth;INF740KA1UG2;;11.6929;;;10-Oct-2025
