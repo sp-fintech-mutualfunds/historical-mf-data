@@ -96,6 +96,10 @@ Edelweiss Mutual Fund
 149479;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Above 3 years;;;1000;;;18-Oct-2025
 149478;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Upto 3 years;;;1245.6807;;;18-Oct-2025
 
+Franklin Templeton Mutual Fund
+147213;Franklin India Overnight fund- Growth;INF090I01SO8;;1367.7579;;;18-Oct-2025
+147214;Franklin India Overnight Fund- Growth - Direct;INF090I01SS9;;1372.2165;;;18-Oct-2025
+
 HDFC Mutual Fund
 101996;HDFC Overnight Fund - Growth Option;INF179KB1HS3;;3863.284;;;18-Oct-2025
 119110;HDFC Overnight Fund - Growth Option - Direct Plan;INF179KB1HT1;;3901.6639;;;18-Oct-2025
@@ -119,6 +123,10 @@ HSBC Mutual Fund
 150499;HSBC Overnight Fund - Unclaimed IDCW Below three years;;;1222.1215;;;18-Oct-2025
 150500;HSBC Overnight Fund - Unclaimed Redemption above three years;;;1000;;;18-Oct-2025
 150502;HSBC Overnight Fund - Unclaimed Redemption Below three years;;;1222.1396;;;18-Oct-2025
+
+ICICI Prudential Mutual Fund
+145536;ICICI Prudential Overnight Fund - Direct Plan - Growth;INF109KC11G1;;1417.9773;;;18-Oct-2025
+145535;ICICI Prudential Overnight Fund - Growth;INF109KC17E3;;1409.7578;;;18-Oct-2025
 
 Invesco Mutual Fund
 147884;Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment);;INF205KA1122;1000.5303;;;18-Oct-2025
@@ -370,6 +378,11 @@ Edelweiss Mutual Fund
 140177;Edelweiss Liquid Fund - Retail Plan Daily - IDCW Option;;INF754K01HF6;1106.9162;;;18-Oct-2025
 140180;Edelweiss Liquid Fund - Retail Plan Monthly - IDCW Option;;INF754K01HI0;1248.3497;;;18-Oct-2025
 
+Franklin Templeton Mutual Fund
+100538;Franklin India Liquid Fund - Regular Plan - Growth;INF090I01BB1;;6003.0312;;;18-Oct-2025
+118577;Franklin India Liquid Fund - Super Institutional - Direct - Growth;INF090I01JV2;;4032.9155;;;18-Oct-2025
+100546;Franklin India Liquid Fund - Super Institutional Plan - Growth;INF090I01BG0;;3998.9621;;;18-Oct-2025
+
 HDFC Mutual Fund
 119091;HDFC Liquid Fund - Growth Option - Direct Plan;INF179KB1HP9;;5268.4337;;;18-Oct-2025
 100868;HDFC Liquid Fund - Growth Plan;INF179KB1HK0;;5210.5085;;;18-Oct-2025
@@ -387,6 +400,10 @@ HSBC Mutual Fund
 118903;HSBC Liquid Fund - Regular Monthly IDCW;INF336L01BP2;INF336L01BO5;1006.0983;;;18-Oct-2025
 118904;HSBC Liquid Fund - Regular Weekly IDCW;INF336L01LJ4;INF336L01BQ0;1108.0957;;;18-Oct-2025
 118908;HSBC Liquid Fund - Weekly IDCW;;INF336L01BR8;1001.8742;;;18-Oct-2025
+
+ICICI Prudential Mutual Fund
+120197;ICICI Prudential Liquid Fund - Direct Plan - Growth;INF109K01Q49;;397.0743;;;18-Oct-2025
+103340;ICICI Prudential Liquid Fund - Growth;INF109K01VQ1;;393.142;;;18-Oct-2025
 
 Invesco Mutual Fund
 122786;Invesco India Liquid Fund - Bonus Option;INF205K01UX5;;3658.5624;;;18-Oct-2025
@@ -557,6 +574,16 @@ Tata Mutual Fund
 119862;Tata Liquid Fund- Direct Plan - Daily Reinvestment of IDCW Option;;INF277K012D2;1001.5187;;;18-Oct-2025
 119861;Tata Liquid Fund- Direct Plan-Growth Option;INF277K01YE6;;4234.9911;;;18-Oct-2025
 101714;Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option;;INF277K011D4;1001.5157;;;18-Oct-2025
+
+The Wealth Company Mutual Fund
+153887;THE WEALTH COMPANY LIQUID FUND DIRECT DAILY ICDW;;INF2F0001073;1001.365;;;18-Oct-2025
+153883;THE WEALTH COMPANY LIQUID FUND DIRECT GROWTH;INF2F0001081;;1001.3482;;;18-Oct-2025
+153884;THE WEALTH COMPANY LIQUID FUND DIRECT MONTHLY IDCW;INF2F0001107;INF2F0001099;1001.3482;;;18-Oct-2025
+153889;THE WEALTH COMPANY LIQUID FUND DIRECT WEEKLY;INF2F0001123;INF2F0001115;1001.3492;;;18-Oct-2025
+153886;THE WEALTH COMPANY LIQUID FUND REGULAR DAILY IDCW;;INF2F0001131;1001.3276;;;18-Oct-2025
+153888;THE WEALTH COMPANY LIQUID FUND REGULAR GROWTH;INF2F0001149;;1001.3277;;;18-Oct-2025
+153890;THE WEALTH COMPANY LIQUID FUND REGULAR MONTHLY IDCW;INF2F0001164;INF2F0001156;1001.3283;;;18-Oct-2025
+153885;THE WEALTH COMPANY LIQUID FUND REGULAR WEEKLY IDCW;INF2F0001180;INF2F0001172;1001.3287;;;18-Oct-2025
 
 Trust Mutual Fund
 148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1244.688;;;18-Oct-2025
