@@ -5369,7 +5369,7 @@ Bandhan Mutual Fund
 
 Baroda BNP Paribas Mutual Fund
 148629;Baroda BNP Paribas Banking and PSU Bond Fund -Direct Plan-Monthly IDCW Option;INF955L01KF1;INF955L01KG9;10.3610;;;17-Feb-2025
-148628;Baroda BNP Paribas Banking and PSU Bond Fund- Direct Plan -Growth Option;INF955L01KC8;;12.4495;;;17-Feb-2025
+148628;Baroda BNP Paribas Banking and PSU Bond Fund- Direct Plan -Growth Option;;;12.4495;;;17-Feb-2025
 148630;Baroda BNP Paribas Banking and PSU Bond Fund-Direct plan-Quarterly IDCW Option;INF955L01KD6;INF955L01KE4;10.4623;;;17-Feb-2025
 148625;Baroda BNP Paribas Banking and PSU Bond Fund-Regular Plan -Growth Option;INF955L01JX6;;12.1969;;;17-Feb-2025
 148626;Baroda BNP Paribas Banking and PSU Bond Fund-Regular Plan -Monthly IDCW Option;INF955L01KA2;INF955L01KB0;10.2072;;;17-Feb-2025
@@ -6065,10 +6065,6 @@ Open Ended Schemes ( Hybrid Scheme - Aggressive Hybrid Fund )
 
 
 Aditya Birla Sun Life Mutual Fund
-132175;Aditya Birla Sun Life Aggressive Hybrid Omni FOF-  Regular -  IDCW;INF084M01085;INF084M01093;34.5993;;;17-Feb-2025
-132189;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct - IDCW;INF084M01EU0;INF084M01EV8;37.3267;;;17-Feb-2025
-132185;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct Plan - Growth Option;INF084M01ET2;;41.1666;;;17-Feb-2025
-132174;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Regular Plan - Growth Option;INF084M01077;;38.5752;;;17-Feb-2025
 120517;Aditya Birla Sun Life Equity Hybrid'95 Fund - Direct Plan-Growth;INF209K01ZC0;;1546.63;;;17-Feb-2025
 103155;Aditya Birla Sun Life Equity Hybrid'95 Fund - Regular Plan-Growth;INF209K01BT5;;1385.37;;;17-Feb-2025
 120518;Aditya Birla Sun Life Equity Hybrid'95 Fund -DIRECT - IDCW;INF209KA1LH3;INF209K01ZB2;287.38;;;17-Feb-2025
@@ -6198,10 +6194,10 @@ LIC Mutual Fund
 100321;LIC MF Aggressive Hybrid Fund-Regular Plan-IDCW;INF767K01022;INF767K01014;14.9582;;;17-Feb-2025
 
 Mahindra Manulife Mutual Fund
-147448;Mahindra Manulife Aggressive Hybrid Fund - Direct Plan - IDCW;INF174V01804;INF174V01796;21.1968;;;17-Feb-2025
+147448;Mahindra Manulife Aggressive Hybrid Fund - Direct Plan - Monthly IDCW;INF174V01804;INF174V01796;21.1968;;;17-Feb-2025
 147446;Mahindra Manulife Aggressive Hybrid Fund - Direct Plan -Growth;INF174V01788;;27.1727;;;17-Feb-2025
 147447;Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - Growth;INF174V01754;;24.5443;;;17-Feb-2025
-147449;Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - IDCW;INF174V01770;INF174V01762;18.8280;;;17-Feb-2025
+147449;Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - Monthly IDCW;INF174V01770;INF174V01762;18.8280;;;17-Feb-2025
 
 Mirae Asset Mutual Fund
 134813;Mirae Asset Aggressive Hybrid Fund - Direct Plan - Growth;INF769K01DH9;;33.579;;;17-Feb-2025
@@ -6518,10 +6514,6 @@ Aditya Birla Sun Life Mutual Fund
 151308;Aditya Birla Sun Life Multi Asset Allocation Fund-Direct IDCW;INF209KB16R7;INF209KB17R5;13.8294;;;17-Feb-2025
 151309;Aditya Birla Sun Life Multi Asset Allocation Fund-Regular Growth;INF209KB12R6;;13.4057;;;17-Feb-2025
 151310;Aditya Birla Sun Life Multi Asset Allocation Fund-Regular IDCW;INF209KB13R4;INF209KB14R2;12.8741;;;17-Feb-2025
-131865;Aditya Birla Sun Life Multi Asset Omni FoF- Direct Plan - Growth Option;INF084M01DM9;;31.955;;;17-Feb-2025
-131864;Aditya Birla Sun Life Multi Asset Omni FoF- Regular Plan - Growth Option;INF084M01AE2;;60.8069;;;17-Feb-2025
-131866;Aditya Birla Sun Life Multi Asset Omni FOF-DIRECT - IDCW;INF084M01DN7;INF084M01DO5;30.4499;;;17-Feb-2025
-131863;Aditya Birla Sun Life Multi Asset Omni FoF-REGULAR - IDCW;INF084M01AF9;INF084M01AG7;55.9945;;;17-Feb-2025
 
 Axis Mutual Fund
 120524;Axis Multi Asset Allocation Fund - Direct Plan - Growth Option;INF846K01EV4;;42.3551;;;17-Feb-2025
@@ -7003,8 +6995,8 @@ LIC Mutual Fund
 Mahindra Manulife Mutual Fund
 140444;Mahindra Manulife Equity Savings Fund - Direct Plan -Growth;INF174V01184;;22.4427;;;17-Feb-2025
 140447;Mahindra Manulife Equity Savings Fund - Regular Plan - Growth;INF174V01150;;19.3618;;;17-Feb-2025
-140442;Mahindra Manulife Equity Savings Fund -Direct Plan -Dividend;INF174V01192;INF174V01200;16.5969;;;17-Feb-2025
-140446;Mahindra Manulife Equity Savings Fund -Regular Plan -Dividend;INF174V01168;INF174V01176;13.8227;;;17-Feb-2025
+140442;Mahindra Manulife Equity Savings Fund -Direct Plan -Quarterly IDCW;INF174V01192;INF174V01200;16.5969;;;17-Feb-2025
+140446;Mahindra Manulife Equity Savings Fund -Regular Plan -Quarterly IDCW;INF174V01168;INF174V01176;13.8227;;;17-Feb-2025
 
 Mirae Asset Mutual Fund
 145694;Mirae Asset Equity Savings Fund Direct IDCW;INF769K01EJ3;INF769K01EM7;14.139;;;17-Feb-2025
@@ -8134,10 +8126,10 @@ Nippon India Mutual Fund
 150826;Nippon India Nifty SDL Plus G-Sec - Jun 2028 Maturity 70:30 Index Fund-Direct Plan-IDCW Option;INF204KC1758;INF204KC1766;11.8606;;;17-Feb-2025
 150827;Nippon India Nifty SDL Plus G-Sec - Jun 2028 Maturity 70:30 Index Fund-Regular Plan IDCW Option;INF204KC1725;INF204KC1733;11.8076;;;17-Feb-2025
 150825;Nippon India Nifty SDL Plus G-Sec - Jun 2028 Maturity 70:30 Index Fund-Regular Plan-Growth Option;INF204KC1717;;11.8076;;;17-Feb-2025
-151389;Nippon India Nifty SDL Plus G-Sec - Jun 2029 Maturity 70:30 Index Fund-Regular Plan-IDCW Option;;INF204KC1AH9;11.6948;;;17-Feb-2025
+151389;Nippon India Nifty SDL Plus G-Sec - Jun 2029 Maturity 70:30 Index Fund-Regular Plan-IDCW Option;INF204KC1AG1;INF204KC1AH9;11.6948;;;17-Feb-2025
 151390;Nippon India Nifty SDL Plus G-Sec-Jun 2029 Maturity 70:30 Index Fund-Direct Plan-Growth Option;INF204KC1AI7;;11.7393;;;17-Feb-2025
-151391;Nippon India Nifty SDL Plus G-Sec-Jun 2029 Maturity 70:30 Index Fund-Direct Plan-IDCW Option;INF204KC1AJ5;;11.7393;;;17-Feb-2025
-151392;Nippon India Nifty SDL Plus G-Sec-Jun 2029 Maturity 70:30 Index Fund-Regular Plan-Growth Option;;INF204KC1AK3;11.6948;;;17-Feb-2025
+151391;Nippon India Nifty SDL Plus G-Sec-Jun 2029 Maturity 70:30 Index Fund-Direct Plan-IDCW Option;INF204KC1AJ5;INF204KC1AK3;11.7393;;;17-Feb-2025
+151392;Nippon India Nifty SDL Plus G-Sec-Jun 2029 Maturity 70:30 Index Fund-Regular Plan- Growth Option;INF204KC1AF3;;11.6948;;;17-Feb-2025
 148519;Nippon India Nifty Smallcap 250 Index Fund - Direct Plan - Growth Option;INF204KB15W0;;28.7935;;;17-Feb-2025
 148521;NIPPON INDIA NIFTY SMALLCAP 250 INDEX FUND - DIRECT Plan - IDCW Option;INF204KB16W8;INF204KB17W6;28.7935;;;17-Feb-2025
 148520;NIPPON INDIA NIFTY SMALLCAP 250 INDEX FUND - IDCW Option;INF204KB13W5;INF204KB14W3;27.9432;;;17-Feb-2025
@@ -8786,6 +8778,10 @@ Open Ended Schemes ( Other Scheme - FoF Domestic )
 
 
 Aditya Birla Sun Life Mutual Fund
+132175;Aditya Birla Sun Life Aggressive Hybrid Omni FOF-  Regular -  IDCW;INF084M01085;INF084M01093;34.5993;;;17-Feb-2025
+132189;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct - IDCW;INF084M01EU0;INF084M01EV8;37.3267;;;17-Feb-2025
+132185;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct Plan - Growth Option;INF084M01ET2;;41.1666;;;17-Feb-2025
+132174;Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Regular Plan - Growth Option;INF084M01077;;38.5752;;;17-Feb-2025
 132179;Aditya Birla Sun Life Conservative Hybrid Active FOF -Regular - IDCW;INF084M01051;INF084M01069;29.1339;;;17-Feb-2025
 132183;Aditya Birla Sun Life Conservative Hybrid Active FOF- Direct Plan - Growth Option;INF084M01EQ8;;33.99;;;17-Feb-2025
 132178;Aditya Birla Sun Life Conservative Hybrid Active FOF- Regular Plan - Growth Option;INF084M01044;;32.0226;;;17-Feb-2025
@@ -8802,6 +8798,10 @@ Aditya Birla Sun Life Mutual Fund
 131898;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Direct Plan - Growth Option;INF084M01DP2;;38.284;;;17-Feb-2025
 131895;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- REGULAR - IDCW;INF084M01AI3;INF084M01AJ1;22.7413;;;17-Feb-2025
 131896;Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Regular Plan - Growth Option;INF084M01AH5;;36.2624;;;17-Feb-2025
+131865;Aditya Birla Sun Life Multi Asset Omni FoF- Direct Plan - Growth Option;INF084M01DM9;;31.955;;;17-Feb-2025
+131864;Aditya Birla Sun Life Multi Asset Omni FoF- Regular Plan - Growth Option;INF084M01AE2;;60.8069;;;17-Feb-2025
+131866;Aditya Birla Sun Life Multi Asset Omni FOF-DIRECT - IDCW;INF084M01DN7;INF084M01DO5;30.4499;;;17-Feb-2025
+131863;Aditya Birla Sun Life Multi Asset Omni FoF-REGULAR - IDCW;INF084M01AF9;INF084M01AG7;55.9945;;;17-Feb-2025
 150688;Aditya Birla Sun Life Multi-Asset Passive FOF-Direct Growth;INF209KB15M0;;14.6666;;;17-Feb-2025
 150689;Aditya Birla Sun Life Multi-Asset Passive FOF-Direct IDCW;INF209KB16M8;INF209KB17M6;14.6672;;;17-Feb-2025
 150690;Aditya Birla Sun Life Multi-Asset Passive FOF-Regular Growth;INF209KB12M7;;14.5373;;;17-Feb-2025
