@@ -164,6 +164,18 @@ HSBC Mutual Fund
 150500;HSBC Overnight Fund - Unclaimed Redemption above three years;;;1000;;;05-Nov-2025
 150502;HSBC Overnight Fund - Unclaimed Redemption Below three years;;;1225.4191;;;05-Nov-2025
 
+ICICI Prudential Mutual Fund
+145547;ICICI Prudential Overnight Fund - Daily IDCW;;INF109KC18E1;1000.005;;;05-Nov-2025
+145537;ICICI Prudential Overnight Fund - Direct Plan - Daily IDCW;;INF109KC12G9;1000.005;;;05-Nov-2025
+145536;ICICI Prudential Overnight Fund - Direct Plan - Growth;INF109KC11G1;;1421.7737;;;05-Nov-2025
+149411;ICICI Prudential Overnight fund - Direct Plan - Unclaimed IDCW Stable Scheme;INF109KC18H4;;1000;;;05-Nov-2025
+149408;ICICI Prudential Overnight fund - Direct Plan - Unclaimed IDCW Transitory Scheme;INF109KC16H8;;1254.4496;;;05-Nov-2025
+149409;ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Stable Scheme;INF109KC17H6;;1000;;;05-Nov-2025
+149410;ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Transitory Scheme;INF109KC15H0;;1254.4686;;;05-Nov-2025
+145539;ICICI Prudential Overnight Fund - Direct Plan - Weekly IDCW;INF109KC16G0;INF109KC15G2;1000.2897;;;05-Nov-2025
+145535;ICICI Prudential Overnight Fund - Growth;INF109KC17E3;;1413.4834;;;05-Nov-2025
+145538;ICICI Prudential Overnight Fund - Weekly IDCW;INF109KC12F1;INF109KC11F3;1000.2884;;;05-Nov-2025
+
 Invesco Mutual Fund
 147884;Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment);;INF205KA1122;1000.5303;;;05-Nov-2025
 147883;Invesco India Overnight Fund - Direct Plan - Growth;INF205KA1163;;1333.1222;;;05-Nov-2025
@@ -220,6 +232,16 @@ Mahindra Manulife Mutual Fund
 147565;Mahindra Manulife Overnight Fund - Regular Plan - Growth;INF174V01812;;1357.1239;;;05-Nov-2025
 149471;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW beyond 3 years;;;1000.0000;;;05-Nov-2025
 149470;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW upto 3 years;;;1252.5508;;;05-Nov-2025
+
+Mirae Asset Mutual Fund
+147737;Mirae Asset Overnight Fund Direct Daily IDCW;;INF769K01FJ0;1000.0009;;;05-Nov-2025
+147738;Mirae Asset Overnight Fund Direct Monthly IDCW;INF769K01FF8;INF769K01FI2;1001.7878;;;05-Nov-2025
+147736;Mirae Asset Overnight Fund Direct Plan Growth;INF769K01FG6;;1353.1503;;;05-Nov-2025
+147740;Mirae Asset Overnight Fund Direct Weekly IDCW;;INF769K01FK8;1001.0372;;;05-Nov-2025
+147743;Mirae Asset Overnight Fund Regular Daily  IDCW ;;INF769K01FL6;1000.0133;;;05-Nov-2025
+147742;Mirae Asset Overnight Fund Regular Monthly IDCW;INF769K01FD3;INF769K01FH4;1001.7835;;;05-Nov-2025
+147739;Mirae Asset Overnight Fund Regular Plan Growth;INF769K01FE1;;1345.6580;;;05-Nov-2025
+147741;Mirae Asset Overnight Fund Regular Weekly IDCW;;INF769K01FM4;1001.0217;;;05-Nov-2025
 
 Nippon India Mutual Fund
 145830;NIPPON INDIA OVERNIGHT FUND - DAILY IDCW Option;;INF204KB1Q73;100.0050;;;05-Nov-2025
@@ -498,6 +520,16 @@ HSBC Mutual Fund
 118904;HSBC Liquid Fund - Regular Weekly IDCW;INF336L01LJ4;INF336L01BQ0;1107.6262;;;05-Nov-2025
 118908;HSBC Liquid Fund - Weekly IDCW;;INF336L01BR8;1001.4497;;;05-Nov-2025
 
+ICICI Prudential Mutual Fund
+103343;ICICI Prudential Liquid Fund - Daily IDCW;INF109K01VP3;;100.1482;;;05-Nov-2025
+120191;ICICI Prudential Liquid Fund - Direct Plan -  IDCW Others;INF109K01Q31;INF109K01Q23;184.6856;;;05-Nov-2025
+120188;ICICI Prudential Liquid Fund - Direct Plan - Daily IDCW;;INF109K01Q15;100.1082;;;05-Nov-2025
+120197;ICICI Prudential Liquid Fund - Direct Plan - Growth;INF109K01Q49;;398.2025;;;05-Nov-2025
+120190;ICICI Prudential Liquid Fund - Direct Plan - Weekly IDCW;INF109K01Q98;;100.2152;;;05-Nov-2025
+103340;ICICI Prudential Liquid Fund - Growth;INF109K01VQ1;;394.2414;;;05-Nov-2025
+115505;ICICI Prudential Liquid Fund - IDCW Others;INF109K01VU3;INF109K01VT5;183.2229;;;05-Nov-2025
+103342;ICICI Prudential Liquid Fund - Weekly IDCW;INF109K01VS7;;100.1896;;;05-Nov-2025
+
 Invesco Mutual Fund
 122786;Invesco India Liquid Fund - Bonus Option;INF205K01UX5;;3668.9192;;;05-Nov-2025
 104484;Invesco India Liquid Fund - Daily IDCW (Reinvestment);;INF205K01HN3;1002.7594;;;05-Nov-2025
@@ -568,6 +600,16 @@ Mahindra Manulife Mutual Fund
 139534;Mahindra Manulife Liquid Fund - Regular Plan - Daily IDCW;;INF174V01028;1001.0440;;;05-Nov-2025
 139537;Mahindra Manulife Liquid Fund - Regular Plan - Growth;INF174V01010;;1733.2493;;;05-Nov-2025
 139541;Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW;;INF174V01036;1010.4020;;;05-Nov-2025
+
+Mirae Asset Mutual Fund
+118859;Mirae Asset Liquid Fund - Direct Plan - Growth;INF769K01CM1;;2842.1701;;;05-Nov-2025
+118862;Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW;INF769K01PD2;INF769K01CP4;1217.6119;;;05-Nov-2025
+118861;Mirae Asset Liquid Fund - Direct Plan -Daily IDCW;;INF769K01CO7;1075.8332;;;05-Nov-2025
+118860;Mirae Asset Liquid Fund - Direct Plan -Monthly IDCW;INF769K01CN9;INF769K01CQ2;1136.8252;;;05-Nov-2025
+111647;Mirae Asset Liquid Fund - Regular - Daily IDCW;;INF769K01804;1066.4347;;;05-Nov-2025
+111646;Mirae Asset Liquid Fund - Regular Plan - Growth;INF769K01788;;2792.8356;;;05-Nov-2025
+111645;Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW;INF769K01838;INF769K01820;1154.4784;;;05-Nov-2025
+111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;INF769K01PC4;INF769K01812;1153.8585;;;05-Nov-2025
 
 Motilal Oswal Mutual Fund
 145834;Motilal Oswal Liquid Fund - Direct Growth;INF247L01734;;14.2067;;;05-Nov-2025
@@ -773,6 +815,9 @@ Open Ended Schemes ( Other Scheme - Other  ETFs )
 Aditya Birla Sun Life Mutual Fund
 151533;Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout;INF209KB18T9;;1000.;;;05-Nov-2025
 
+Angel One Mutual Fund
+153451;ANGEL ONE NIFTY 1D RATE LIQUID ETF - GROWTH;INF1J2R01056;;1032.9175;;;05-Nov-2025
+
 Bajaj Finserv Mutual Fund
 152638;Bajaj Finserv Nifty 1D Rate Liquid ETF;INF0QA701854;;1055.2564;;;05-Nov-2025
 
@@ -786,8 +831,16 @@ Groww Mutual Fund
 HDFC Mutual Fund
 153403;HDFC NIFTY 1D RATE LIQUID ETF GROWTH;INF179KC1JG3;;1034.8135;;;05-Nov-2025
 
+ICICI Prudential Mutual Fund
+153378;ICICI Prudential BSE Liquid Rate ETF - Growth;INF109K1A021;;1035.4501;;;05-Nov-2025
+144947;ICICI Prudential BSE Liquid Rate ETF - IDCW;INF109KC1KT9;;1000;;;05-Nov-2025
+
 Kotak Mahindra Mutual Fund
 151358;Kotak Nifty 1D Rate Liquid ETF;INF174KA1LV5;;1076.4171;;;05-Nov-2025
+
+Mirae Asset Mutual Fund
+153045;Mirae Asset Nifty 1D Rate Liquid ETF - Growth;INF769K01MY5;;1058.1024;;;05-Nov-2025
+151908;Mirae Asset Nifty 1D Rate Liquid ETF-IDCW;;INF769K01KS1;1000.0000;;;05-Nov-2025
 
 Nippon India Mutual Fund
 140086;Nippon India ETF Nifty 1D Rate Liquid BeES - DAILY IDCW Option;INF732E01037;;1000.0000;;;05-Nov-2025
