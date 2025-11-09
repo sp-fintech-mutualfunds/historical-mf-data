@@ -134,6 +134,10 @@ HSBC Mutual Fund
 150500;HSBC Overnight Fund - Unclaimed Redemption above three years;;;1000.;;;08-Nov-2025
 150502;HSBC Overnight Fund - Unclaimed Redemption Below three years;;;1225.9596;;;08-Nov-2025
 
+ICICI Prudential Mutual Fund
+145536;ICICI Prudential Overnight Fund - Direct Plan - Growth;INF109KC11G1;;1422.3795;;;08-Nov-2025
+145535;ICICI Prudential Overnight Fund - Growth;INF109KC17E3;;1414.0775;;;08-Nov-2025
+
 Invesco Mutual Fund
 147884;Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment);;INF205KA1122;1000.5303;;;08-Nov-2025
 147883;Invesco India Overnight Fund - Direct Plan - Growth;INF205KA1163;;1333.6862;;;08-Nov-2025
@@ -429,6 +433,10 @@ HSBC Mutual Fund
 118903;HSBC Liquid Fund - Regular Monthly IDCW;INF336L01BP2;INF336L01BO5;1004.1812;;;08-Nov-2025
 118904;HSBC Liquid Fund - Regular Weekly IDCW;INF336L01LJ4;INF336L01BQ0;1108.1406;;;08-Nov-2025
 118908;HSBC Liquid Fund - Weekly IDCW;;INF336L01BR8;1001.9148;;;08-Nov-2025
+
+ICICI Prudential Mutual Fund
+120197;ICICI Prudential Liquid Fund - Direct Plan - Growth;INF109K01Q49;;398.3913;;;08-Nov-2025
+103340;ICICI Prudential Liquid Fund - Growth;INF109K01VQ1;;394.4254;;;08-Nov-2025
 
 Invesco Mutual Fund
 122786;Invesco India Liquid Fund - Bonus Option;INF205K01UX5;;3670.6274;;;08-Nov-2025
