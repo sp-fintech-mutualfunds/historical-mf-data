@@ -122,6 +122,10 @@ HSBC Mutual Fund
 150500;HSBC Overnight Fund - Unclaimed Redemption above three years;;;1000;;;29-Nov-2025
 150502;HSBC Overnight Fund - Unclaimed Redemption Below three years;;;1229.7007;;;29-Nov-2025
 
+ICICI Prudential Mutual Fund
+145536;ICICI Prudential Overnight Fund - Direct Plan - Growth;INF109KC11G1;;1426.7185;;;29-Nov-2025
+145535;ICICI Prudential Overnight Fund - Growth;INF109KC17E3;;1418.334;;;29-Nov-2025
+
 Invesco Mutual Fund
 147884;Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment);;INF205KA1122;1000.5303;;;29-Nov-2025
 147883;Invesco India Overnight Fund - Direct Plan - Growth;INF205KA1163;;1337.7364;;;29-Nov-2025
@@ -267,6 +271,14 @@ Union Mutual Fund
 149453;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years;;;1000.0000;;;29-Nov-2025
 149454;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;;;1255.8068;;;29-Nov-2025
 
+UTI Mutual Fund
+100814;UTI - Overnight  Fund - Regular Plan - Growth Option;INF789F01604;;3584.6025;;;29-Nov-2025
+120785;UTI - Overnight Fund - Direct Plan - Growth Option;INF789FB1S71;;3624.2338;;;29-Nov-2025
+124266;UTI Overnight Fund - Direct Plan - Daily IDCW;;INF789FB1S89;1371.6621;;;29-Nov-2025
+120786;UTI Overnight Fund - Direct Plan - Periodic IDCW;INF789FB1T05;INF789FB1S97;1902.0483;;;29-Nov-2025
+124265;UTI Overnight Fund - Regular Plan - Daily IDCW;;INF789FB1T13;1370.8617;;;29-Nov-2025
+100813;UTI Overnight Fund - Regular Plan - Periodic IDCW;INF789F01588;INF789F01596;1846.6625;;;29-Nov-2025
+
 Open Ended Schemes ( Debt Scheme - Liquid Fund )
 
 
@@ -394,6 +406,10 @@ HSBC Mutual Fund
 118903;HSBC Liquid Fund - Regular Monthly IDCW;INF336L01BP2;INF336L01BO5;1002.9308;;;29-Nov-2025
 118904;HSBC Liquid Fund - Regular Weekly IDCW;INF336L01LJ4;INF336L01BQ0;1108.1509;;;29-Nov-2025
 118908;HSBC Liquid Fund - Weekly IDCW;;INF336L01BR8;1001.9241;;;29-Nov-2025
+
+ICICI Prudential Mutual Fund
+120197;ICICI Prudential Liquid Fund - Direct Plan - Growth;INF109K01Q49;;399.7221;;;29-Nov-2025
+103340;ICICI Prudential Liquid Fund - Growth;INF109K01VQ1;;395.7225;;;29-Nov-2025
 
 Invesco Mutual Fund
 122786;Invesco India Liquid Fund - Bonus Option;INF205K01UX5;;3682.8486;;;29-Nov-2025
@@ -595,6 +611,29 @@ Union Mutual Fund
 115398;Union Liquid Fund - Growth Option;INF582M01013;;2572.6854;;;29-Nov-2025
 115400;Union Liquid Fund - Monthly IDCW Option;INF582M01070;INF582M01054;1001.2366;;;29-Nov-2025
 115402;Union Liquid Fund - Weekly IDCW Option;;INF582M01039;1002.0684;;;29-Nov-2025
+
+UTI Mutual Fund
+134427;UTI Liquid Fund - Direct Plan - Annual IDCW;INF789FA1K63;INF789FA1K71;1947.101;;;29-Nov-2025
+120558;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F01XP8;1063.6931;;;29-Nov-2025
+141768;UTI Liquid Fund - Direct Plan - Flexi IDCW;INF789FA1K89;INF789FA1K97;1603.72;;;29-Nov-2025
+140913;UTI Liquid Fund - Direct Plan - Fortnightly IDCW;INF789FA1K06;INF789FA1K14;1155.5552;;;29-Nov-2025
+140504;UTI Liquid Fund - Direct Plan - Half-Yearly IDCW;INF789FA1K48;INF789FA1K55;1520.94;;;29-Nov-2025
+120794;UTI Liquid Fund - Direct Plan - Monthly IDCW;INF789F01XR4;INF789F01XS2;1047.1344;;;29-Nov-2025
+140024;UTI Liquid Fund - Direct Plan - Quarterly IDCW;INF789FA1K22;INF789FA1K30;1838.9037;;;29-Nov-2025
+120777;UTI Liquid Fund - Direct Plan - Weekly IDCW;;INF789F01XT0;1374.8396;;;29-Nov-2025
+133973;UTI Liquid Fund - Regular Plan - Annual IDCW;INF789FA1J66;INF789FA1J74;1934.0068;;;29-Nov-2025
+102010;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F01PG3;1154.5666;;;29-Nov-2025
+140517;UTI Liquid Fund - Regular Plan - Flexi IDCW;INF789FA1J82;INF789FA1J90;1593.9659;;;29-Nov-2025
+139838;UTI Liquid Fund - Regular Plan - Fortnightly IDCW;INF789FA1J09;INF789FA1J17;1154.7267;;;29-Nov-2025
+144475;UTI Liquid Fund - Regular Plan - Half-Yearly IDCW;INF789FA1J41;INF789FA1J58;1346.5328;;;29-Nov-2025
+102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;INF789F01PI9;INF789F01PJ7;1100.1546;;;29-Nov-2025
+135721;UTI Liquid Fund - Regular Plan - Quarterly IDCW;INF789FA1J25;INF789FA1J33;1826.1321;;;29-Nov-2025
+102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;;INF789F01PK5;1053.4001;;;29-Nov-2025
+120304;UTI-  Liquid Cash Plan - Direct Plan - Growth Option;INF789F01XQ6;;4427.3704;;;29-Nov-2025
+102012;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;INF789F01PH1;;4386.0923;;;29-Nov-2025
+102008;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;INF789F01BC2;INF789F01BA6;1071.6189;;;29-Nov-2025
+102009;UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth;INF789F01BB4;;3980.1159;;;29-Nov-2025
+102007;UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option;;INF789F01AZ5;1136.2522;;;29-Nov-2025
 
 Open Ended Schemes ( Other Scheme - Other  ETFs )
 
