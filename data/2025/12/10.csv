@@ -3771,12 +3771,12 @@ PGIM India Mutual Fund
 138341;PGIM India Ultra Short Duration Fund - Weekly Dividend;INF223J01FO0;INF223J01FP7;10.0798;;;10-Dec-2025
 
 SBI Mutual Fund
-119784;SBI Magnum Ultra Short Duration Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01TG3;2338.0860;;;10-Dec-2025
-119828;SBI MAGNUM ULTRA SHORT DURATION FUND - DIRECT PLAN - GROWTH;INF200K01TF5;;6252.7976;;;10-Dec-2025
-119829;SBI Magnum Ultra Short Duration Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01TH1;INF200K01TI9;1273.1384;;;10-Dec-2025
-105080;SBI Magnum Ultra Short Duration Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01LK2;2312.2506;;;10-Dec-2025
 100641;SBI MAGNUM ULTRA SHORT DURATION FUND - REGULAR PLAN - GROWTH;INF200K01LJ4;;6138.9024;;;10-Dec-2025
 103884;SBI Magnum Ultra Short Duration Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01LM8;INF200K01LL0;1265.1436;;;10-Dec-2025
+119784;SBI Ultra Short Duration Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01TG3;2338.0860;;;10-Dec-2025
+119828;SBI ULTRA SHORT DURATION FUND - DIRECT PLAN - GROWTH;INF200K01TF5;;6252.7976;;;10-Dec-2025
+119829;SBI Ultra Short Duration Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01TH1;INF200K01TI9;1273.1384;;;10-Dec-2025
+105080;SBI Ultra Short Duration Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01LK2;2312.2506;;;10-Dec-2025
 
 Sundaram Mutual Fund
 149537;Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund) - Income Distribution CUM Capital Withdrawal Option (IDCW);INF173K01CX3;INF173K01CY1;1073.1936;;;10-Dec-2025
@@ -4676,7 +4676,6 @@ Kotak Mahindra Mutual Fund
 128078;Kotak Medium Term Fund - Standard Income Distribution cum capital withdrawal option;INF174K01VN2;INF174K01VP7;14.4628;;;10-Dec-2025
 
 Nippon India Mutual Fund
-130056;NIPPON INDIA MEDIUJM DURATION FUND - QUARTERLY IDCW Option;INF204KA1QC8;INF204KA1QE4;11.0240;;;10-Dec-2025
 148283;Nippon India Medium Duration  Fund - Segregated Portfolio 2 - Bonus Option;INF204KB11R9;;0.0000;;;10-Dec-2025
 148284;NIPPON INDIA MEDIUM DURATION FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - IDCW Option;INF204KB16Q0;INF204KB17Q8;0.0000;;;10-Dec-2025
 148289;NIPPON INDIA MEDIUM DURATION FUND -  SEGREGATED PORTFOLIO 2 - DIRECT Plan - QUARTERLY IDCW Option;INF204KB18Q6;INF204KB19Q4;0.0000;;;10-Dec-2025
@@ -4688,15 +4687,16 @@ Nippon India Mutual Fund
 130055;NIPPON INDIA MEDIUM DURATION FUND - DIRECT Plan - QUARTERLY IDCW Option;INF204KA1QI5;INF204KA1QK1;11.1235;;;10-Dec-2025
 130037;Nippon India Medium Duration Fund - Growth Option;INF204KA1PZ1;;16.1817;;;10-Dec-2025
 130053;NIPPON INDIA MEDIUM DURATION FUND - IDCW Option;INF204KA1QB0;INF204KA1QD6;13.8469;;;10-Dec-2025
+130056;NIPPON INDIA MEDIUM DURATION FUND - QUARTERLY IDCW Option;INF204KA1QC8;INF204KA1QE4;11.0240;;;10-Dec-2025
 148288;Nippon India Medium Duration Fund - Segregated Portfolio 2 - Direct Plan - Bonus Option;INF204KB15Q2;;0.0000;;;10-Dec-2025
 148285;Nippon India Medium Duration Fund - Segregated Portfolio 2 - Direct Plan - Growth Option;INF204KB10R1;;0.0000;;;10-Dec-2025
 148286;Nippon India Medium Duration Fund - Segregated Portfolio 2 - Growth Option;INF204KB16R8;;0.0000;;;10-Dec-2025
 
 SBI Mutual Fund
-119824;SBI MAGNUM MEDIUM DURATION FUND - DIRECT PLAN - GROWTH;INF200K01VB0;;56.8476;;;10-Dec-2025
-119825;SBI Magnum Medium Duration Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01UZ1;INF200K01VA2;22.0977;;;10-Dec-2025
-102053;SBI MAGNUM MEDIUM DURATION FUND - REGULAR PLAN - GROWTH;INF200K01719;;52.4821;;;10-Dec-2025
-102054;SBI Magnum Medium Duration Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01727;INF200K01735;20.3436;;;10-Dec-2025
+119824;SBI MEDIUM DURATION FUND - DIRECT PLAN - GROWTH;INF200K01VB0;;56.8476;;;10-Dec-2025
+119825;SBI Medium Duration Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01UZ1;INF200K01VA2;22.0977;;;10-Dec-2025
+102053;SBI MEDIUM DURATION FUND - REGULAR PLAN - GROWTH;INF200K01719;;52.4821;;;10-Dec-2025
+102054;SBI Medium Duration Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01727;INF200K01735;20.3436;;;10-Dec-2025
 
 Sundaram Mutual Fund
 119675;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Direct Plan - Growth;INF903J01PO6;;78.5299;;;10-Dec-2025
@@ -4840,14 +4840,14 @@ Nippon India Mutual Fund
 100383;NIPPON INDIA MEDIUM TO LONG DURATION FUND - MONTHLY IDCW Option;INF204K01CN7;INF204K01CO5;10.7463;;;10-Dec-2025
 
 SBI Mutual Fund
-119713;SBI Magnum Income Fund - Direct Plan - Half Yearly - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SP6;INF200K01SQ4;21.9402;;;10-Dec-2025
-121940;SBI Magnum Income Fund - Direct Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01YS8;INF200K01YT6;22.4615;;;10-Dec-2025
-100638;SBI Magnum Income Fund - Regular Plan - Half Yearly - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01610;INF200K01628;18.6886;;;10-Dec-2025
-121944;SBI Magnum Income Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01YQ2;INF200K01YR0;20.1213;;;10-Dec-2025
-119712;SBI Magnum Income Fund-DIRECT PLAN - Bonus;INF200K01SO9;;46.9030;;;10-Dec-2025
-119714;SBI Magnum Income Fund-DIRECT PLAN -Growth;INF200K01SR2;;77.3294;;;10-Dec-2025
-100640;SBI Magnum Income Fund-REGULAR PLAN-Bonus;INF200K01602;;43.2923;;;10-Dec-2025
-100639;SBI Magnum Income Fund-REGULAR PLAN-Growth;INF200K01594;;71.4500;;;10-Dec-2025
+119713;SBI Income Fund - Direct Plan - Half Yearly - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SP6;INF200K01SQ4;21.9402;;;10-Dec-2025
+121940;SBI Income Fund - Direct Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01YS8;INF200K01YT6;22.4615;;;10-Dec-2025
+100638;SBI Income Fund - Regular Plan - Half Yearly - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01610;INF200K01628;18.6886;;;10-Dec-2025
+121944;SBI Income Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01YQ2;INF200K01YR0;20.1213;;;10-Dec-2025
+119712;SBI Income Fund-DIRECT PLAN - Bonus;INF200K01SO9;;46.9030;;;10-Dec-2025
+119714;SBI Income Fund-DIRECT PLAN -Growth;INF200K01SR2;;77.3294;;;10-Dec-2025
+100640;SBI Income Fund-REGULAR PLAN-Bonus;INF200K01602;;43.2923;;;10-Dec-2025
+100639;SBI Income Fund-REGULAR PLAN-Growth;INF200K01594;;71.4500;;;10-Dec-2025
 
 UTI Mutual Fund
 139339;UTI Medium to Long Duration Fund - Direct Plan - Annual IDCW;INF789FA1T80;;13.2125;;;10-Dec-2025
@@ -5964,10 +5964,10 @@ ICICI Prudential Mutual Fund
 131057;ICICI Prudential Constant Maturity Gilt Fund - quarterly IDCW;INF109KA1N61;INF109KA1O03;11.2690;;;10-Dec-2025
 
 SBI Mutual Fund
-120137;SBI MAGNUM CONSTANT MATURITY FUND - DIRECT PLAN - GROWTH;INF200K01SK7;;67.1563;;;10-Dec-2025
-120136;SBI Magnum Constant Maturity Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SI1;INF200K01SJ9;21.8448;;;10-Dec-2025
-101002;SBI MAGNUM CONSTANT MATURITY FUND - REGULAR PLAN - GROWTH;INF200K01AN9;;64.4984;;;10-Dec-2025
-101003;SBI Magnum Constant Maturity Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01AO7;INF200K01AP4;20.9771;;;10-Dec-2025
+120137;SBI CONSTANT MATURITY FUND - DIRECT PLAN - GROWTH;INF200K01SK7;;67.1563;;;10-Dec-2025
+120136;SBI Constant Maturity Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SI1;INF200K01SJ9;21.8448;;;10-Dec-2025
+101002;SBI CONSTANT MATURITY FUND - REGULAR PLAN - GROWTH;INF200K01AN9;;64.4984;;;10-Dec-2025
+101003;SBI Constant Maturity Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01AO7;INF200K01AP4;20.9771;;;10-Dec-2025
 
 UTI Mutual Fund
 150423;UTI Gilt Fund with 10 year Constant Duration - Direct Plan - Annual IDCW Option;INF789F1AVW7;INF789F1AVX5;11.5823;;;10-Dec-2025
