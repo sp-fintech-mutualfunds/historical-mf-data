@@ -1124,6 +1124,12 @@ Canara Robeco Mutual Fund
 149088;Canara Robeco Value Fund - Regular Plan - Growth Option;INF760K01JZ7;;18.4500;;;12-Dec-2025
 149087;Canara Robeco Value Fund - Regular Plan - IDCW (Payout/Reinvestment);INF760K01KB6;INF760K01KA8;17.3500;;;12-Dec-2025
 
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;INF740KA1PP3;;23.704;;;12-Dec-2025
+148596;DSP Value Fund - Direct Plan - IDCW;INF740KA1PQ1;INF740KA1PR9;19.57;;;12-Dec-2025
+148594;DSP Value Fund - Regular Plan - Growth;INF740KA1PM0;;22.81;;;12-Dec-2025
+148597;DSP Value Fund - Regular Plan - IDCW;INF740KA1PN8;INF740KA1PO6;17.359;;;12-Dec-2025
+
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;INF090I01GY2;;827.3920;;;12-Dec-2025
 118493;Templeton India Value Fund - Direct - IDCW ;INF090I01GW6;INF090I01GX4;122.1647;;;12-Dec-2025
@@ -3765,12 +3771,12 @@ PGIM India Mutual Fund
 138341;PGIM India Ultra Short Duration Fund - Weekly Dividend;INF223J01FO0;INF223J01FP7;10.0809;;;12-Dec-2025
 
 SBI Mutual Fund
-100641;SBI MAGNUM ULTRA SHORT DURATION FUND - REGULAR PLAN - GROWTH;INF200K01LJ4;;6140.2192;;;12-Dec-2025
-103884;SBI Magnum Ultra Short Duration Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01LM8;INF200K01LL0;1264.6353;;;12-Dec-2025
 119784;SBI Ultra Short Duration Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01TG3;2338.6145;;;12-Dec-2025
 119828;SBI ULTRA SHORT DURATION FUND - DIRECT PLAN - GROWTH;INF200K01TF5;;6254.2109;;;12-Dec-2025
 119829;SBI Ultra Short Duration Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01TH1;INF200K01TI9;1272.5903;;;12-Dec-2025
 105080;SBI Ultra Short Duration Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01LK2;2312.7466;;;12-Dec-2025
+100641;SBI ULTRA SHORT DURATION FUND - REGULAR PLAN - GROWTH;INF200K01LJ4;;6140.2192;;;12-Dec-2025
+103884;SBI Ultra Short Duration Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01LM8;INF200K01LL0;1264.6353;;;12-Dec-2025
 
 Sundaram Mutual Fund
 149537;Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund) - Income Distribution CUM Capital Withdrawal Option (IDCW);INF173K01CX3;INF173K01CY1;1073.3392;;;12-Dec-2025
@@ -4037,16 +4043,16 @@ Nippon India Mutual Fund
 111753;Nippon India Low Duration Fund- Growth Plan - Growth Option;INF204K01EV6;;3849.7276;;;12-Dec-2025
 
 SBI Mutual Fund
-119810;SBI Magnum Low Duration Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01VJ3;1441.8445;;;12-Dec-2025
-119811;SBI Magnum Low Duration Fund - Direct Plan - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01VK1;INF200K01VL9;1467.0514;;;12-Dec-2025
-119812;SBI MAGNUM LOW DURATION FUND - DIRECT PLAN - GROWTH;INF200K01VM7;;3740.2982;;;12-Dec-2025
-119818;SBI Magnum Low Duration Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01VN5;INF200K01VO3;1662.0806;;;12-Dec-2025
-119819;SBI Magnum Low Duration Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01VP0;INF200K01VQ8;1443.9540;;;12-Dec-2025
-106213;SBI Magnum Low Duration Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01ML8;1397.4831;;;12-Dec-2025
-106215;SBI Magnum Low Duration Fund - Regular Plan - Fornightly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01MM6;INF200K01MN4;1421.9453;;;12-Dec-2025
-106212;SBI MAGNUM LOW DURATION FUND - REGULAR PLAN - GROWTH;INF200K01MO2;;3587.7656;;;12-Dec-2025
-106216;SBI Magnum Low Duration Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01MP9;INF200K01MQ7;1573.5299;;;12-Dec-2025
-106214;SBI Magnum Low Duration Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01MR5;INF200K01MS3;1397.4720;;;12-Dec-2025
+119810;SBI Low Duration Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01VJ3;1441.8445;;;12-Dec-2025
+119811;SBI Low Duration Fund - Direct Plan - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01VK1;INF200K01VL9;1467.0514;;;12-Dec-2025
+119812;SBI LOW DURATION FUND - DIRECT PLAN - GROWTH;INF200K01VM7;;3740.2982;;;12-Dec-2025
+119818;SBI Low Duration Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01VN5;INF200K01VO3;1662.0806;;;12-Dec-2025
+119819;SBI Low Duration Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01VP0;INF200K01VQ8;1443.9540;;;12-Dec-2025
+106213;SBI Low Duration Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01ML8;1397.4831;;;12-Dec-2025
+106215;SBI Low Duration Fund - Regular Plan - Fornightly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01MM6;INF200K01MN4;1421.9453;;;12-Dec-2025
+106212;SBI LOW DURATION FUND - REGULAR PLAN - GROWTH;INF200K01MO2;;3587.7656;;;12-Dec-2025
+106216;SBI Low Duration Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01MP9;INF200K01MQ7;1573.5299;;;12-Dec-2025
+106214;SBI Low Duration Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01MR5;INF200K01MS3;1397.4720;;;12-Dec-2025
 106221;SBI Short Horizon Debt Fund - Ultra Short Term Fund - Institutional Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;INF200K01MD5;1397.8136;;;12-Dec-2025
 106217;SBI Short Horizon Debt Fund - Ultra Short Term Fund - Institutional Plan - Growth;INF200K01MG8;;3651.0359;;;12-Dec-2025
 106222;SBI Short Horizon Debt Fund - Ultra Short Term Fund- Institutional Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01MJ2;INF200K01MK0;1394.3437;;;12-Dec-2025
@@ -4834,14 +4840,14 @@ Nippon India Mutual Fund
 100383;NIPPON INDIA MEDIUM TO LONG DURATION FUND - MONTHLY IDCW Option;INF204K01CN7;INF204K01CO5;10.7605;;;12-Dec-2025
 
 SBI Mutual Fund
-119713;SBI Income Fund - Direct Plan - Half Yearly - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SP6;INF200K01SQ4;21.9737;;;12-Dec-2025
-121940;SBI Income Fund - Direct Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01YS8;INF200K01YT6;22.4958;;;12-Dec-2025
-100638;SBI Income Fund - Regular Plan - Half Yearly - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01610;INF200K01628;18.7164;;;12-Dec-2025
-121944;SBI Income Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01YQ2;INF200K01YR0;20.1513;;;12-Dec-2025
-119712;SBI Income Fund-DIRECT PLAN - Bonus;INF200K01SO9;;46.9745;;;12-Dec-2025
-119714;SBI Income Fund-DIRECT PLAN -Growth;INF200K01SR2;;77.4475;;;12-Dec-2025
-100640;SBI Income Fund-REGULAR PLAN-Bonus;INF200K01602;;43.3567;;;12-Dec-2025
-100639;SBI Income Fund-REGULAR PLAN-Growth;INF200K01594;;71.5564;;;12-Dec-2025
+119713;SBI Medium to Long Duration Fund - Direct Plan - Half Yearly - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SP6;INF200K01SQ4;21.9737;;;12-Dec-2025
+121940;SBI Medium to Long Duration Fund - Direct Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01YS8;INF200K01YT6;22.4958;;;12-Dec-2025
+100638;SBI Medium to Long Duration Fund - Regular Plan - Half Yearly - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01610;INF200K01628;18.7164;;;12-Dec-2025
+121944;SBI Medium to Long Duration Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01YQ2;INF200K01YR0;20.1513;;;12-Dec-2025
+119712;SBI Medium to Long Duration Fund-DIRECT PLAN - Bonus;INF200K01SO9;;46.9745;;;12-Dec-2025
+119714;SBI Medium to Long Duration Fund-DIRECT PLAN -Growth;INF200K01SR2;;77.4475;;;12-Dec-2025
+100640;SBI Medium to Long Duration Fund-REGULAR PLAN-Bonus;INF200K01602;;43.3567;;;12-Dec-2025
+100639;SBI Medium to Long Duration Fund-REGULAR PLAN-Growth;INF200K01594;;71.5564;;;12-Dec-2025
 
 UTI Mutual Fund
 139339;UTI Medium to Long Duration Fund - Direct Plan - Annual IDCW;INF789FA1T80;;13.2257;;;12-Dec-2025
@@ -5893,15 +5899,15 @@ quant Mutual Fund
 151231;quant Gilt Fund - IDCW Option - Regular Plan;INF966L01BJ9;INF966L01BK7;11.8329;;;12-Dec-2025
 
 SBI Mutual Fund
-101934;SBI MAGNUM GILT FUND -  GROWTH - PF (Fixed Period - 3 Yrs) Option;INF200K01AH1;;39.6631;;;12-Dec-2025
-101932;SBI MAGNUM GILT FUND -  GROWTH - PF (Regular) Option;INF200K01AK5;;42.4605;;;12-Dec-2025
-119707;SBI MAGNUM GILT FUND - DIRECT PLAN - GROWTH;INF200K01SH3;;70.1824;;;12-Dec-2025
-119706;SBI Magnum Gilt Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SF7;INF200K01SG5;22.3991;;;12-Dec-2025
-101950;SBI Magnum Gilt Fund - Income Distribution cum Capital Withdrawal Option (IDCW) - PF (Fixed Period - 1 Yr);INF200K01AC2;INF200K01AD0;20.4293;;;12-Dec-2025
-101951;SBI Magnum Gilt Fund - Income Distribution cum Capital Withdrawal Option (IDCW) - PF (Fixed Period - 2 Yrs);INF200K01AF5;INF200K01AG3;20.6737;;;12-Dec-2025
-101952;SBI Magnum Gilt Fund - Income Distribution cum Capital Withdrawal Option (IDCW) - PF (Fixed Period - 3 Yrs);INF200K01AI9;INF200K01AJ7;20.0448;;;12-Dec-2025
-101001;SBI MAGNUM GILT FUND - REGULAR PLAN - GROWTH;INF200K01982;;66.1254;;;12-Dec-2025
-100999;SBI Magnum Gilt Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01990;INF200K01AA6;20.3334;;;12-Dec-2025
+101934;SBI GILT FUND -  GROWTH - PF (Fixed Period - 3 Yrs) Option;INF200K01AH1;;39.6631;;;12-Dec-2025
+101932;SBI GILT FUND -  GROWTH - PF (Regular) Option;INF200K01AK5;;42.4605;;;12-Dec-2025
+119707;SBI GILT FUND - DIRECT PLAN - GROWTH;INF200K01SH3;;70.1824;;;12-Dec-2025
+119706;SBI Gilt Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SF7;INF200K01SG5;22.3991;;;12-Dec-2025
+101950;SBI Gilt Fund - Income Distribution cum Capital Withdrawal Option (IDCW) - PF (Fixed Period - 1 Yr);INF200K01AC2;INF200K01AD0;20.4293;;;12-Dec-2025
+101951;SBI Gilt Fund - Income Distribution cum Capital Withdrawal Option (IDCW) - PF (Fixed Period - 2 Yrs);INF200K01AF5;INF200K01AG3;20.6737;;;12-Dec-2025
+101952;SBI Gilt Fund - Income Distribution cum Capital Withdrawal Option (IDCW) - PF (Fixed Period - 3 Yrs);INF200K01AI9;INF200K01AJ7;20.0448;;;12-Dec-2025
+101001;SBI GILT FUND - REGULAR PLAN - GROWTH;INF200K01982;;66.1254;;;12-Dec-2025
+100999;SBI Gilt Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01990;INF200K01AA6;20.3334;;;12-Dec-2025
 
 Tata Mutual Fund
 119954;Tata Gilt Securities Fund - Direct Plan - Payout of IDCW Option;INF277K01OV1;INF277K01OW9;24.6193;;;12-Dec-2025
@@ -5958,10 +5964,10 @@ ICICI Prudential Mutual Fund
 131057;ICICI Prudential Constant Maturity Gilt Fund - quarterly IDCW;INF109KA1N61;INF109KA1O03;11.2928;;;12-Dec-2025
 
 SBI Mutual Fund
-120137;SBI CONSTANT MATURITY FUND - DIRECT PLAN - GROWTH;INF200K01SK7;;67.2702;;;12-Dec-2025
-120136;SBI Constant Maturity Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SI1;INF200K01SJ9;21.8819;;;12-Dec-2025
-101002;SBI CONSTANT MATURITY FUND - REGULAR PLAN - GROWTH;INF200K01AN9;;64.6067;;;12-Dec-2025
-101003;SBI Constant Maturity Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01AO7;INF200K01AP4;21.0123;;;12-Dec-2025
+120137;SBI CONSTANT MATURITY 10 YEAR GILT FUND - DIRECT PLAN - GROWTH;INF200K01SK7;;67.2702;;;12-Dec-2025
+120136;SBI Constant Maturity 10 Year Gilt Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01SI1;INF200K01SJ9;21.8819;;;12-Dec-2025
+101002;SBI CONSTANT MATURITY 10 Year GILT FUND - REGULAR PLAN - GROWTH;INF200K01AN9;;64.6067;;;12-Dec-2025
+101003;SBI Constant Maturity 10 Year Gilt Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01AO7;INF200K01AP4;21.0123;;;12-Dec-2025
 
 UTI Mutual Fund
 150423;UTI Gilt Fund with 10 year Constant Duration - Direct Plan - Annual IDCW Option;INF789F1AVW7;INF789F1AVX5;11.6046;;;12-Dec-2025
@@ -7532,10 +7538,10 @@ LIC Mutual Fund
 101271;LIC MF Children's Fund-Regular Plan-Growth;INF767K01048;;32.6686;;;12-Dec-2025
 
 SBI Mutual Fund
-148490;SBI Magnum Children's Benefit Fund - Investment Plan - Direct Plan - Growth;INF200KA1R07;;48.2088;;;12-Dec-2025
-148489;SBI Magnum Children's Benefit Fund - Investment Plan - Regular Plan - Growth;INF200KA1Q99;;45.1056;;;12-Dec-2025
-119719;SBI Magnum Children's Benefit Fund - Savings Plan - DIRECT PLAN - GROWTH;INF200K01QR6;;120.6357;;;12-Dec-2025
-101169;SBI Magnum Children's Benefit Fund - Savings Plan - REGULAR PLAN - GROWTH;INF200K01776;;110.5047;;;12-Dec-2025
+148490;SBI Children's Fund - Investment Plan - Direct Plan - Growth;INF200KA1R07;;48.2088;;;12-Dec-2025
+148489;SBI Children's Fund - Investment Plan - Regular Plan - Growth;INF200KA1Q99;;45.1056;;;12-Dec-2025
+119719;SBI Children's Fund - Savings Plan - DIRECT PLAN - GROWTH;INF200K01QR6;;120.6357;;;12-Dec-2025
+101169;SBI Children's Fund - Savings Plan - REGULAR PLAN - GROWTH;INF200K01776;;110.5047;;;12-Dec-2025
 
 Tata Mutual Fund
 101491;Tata Childrens Fund -Regular Plan-Growth Option;INF277K01AJ5;;61.1092;;;12-Dec-2025
@@ -8972,9 +8978,11 @@ DSP Mutual Fund
 151262;DSP Nifty Bank ETF;INF740KA1RX3;;60.5951;;;12-Dec-2025
 152306;DSP Nifty Healthcare ETF;INF740KA1UF4;;148.5286;;;12-Dec-2025
 151820;DSP Nifty IT ETF;INF740KA1SX1;;40.0675;;;12-Dec-2025
+154025;DSP Nifty Midcap 150 ETF;INF740KA1WW5;;22.1377;;;12-Dec-2025
 149403;DSP Nifty Midcap 150 Quality 50 ETF;INF740KA1QL0;;246.7805;;;12-Dec-2025
 151887;DSP Nifty Private Bank ETF;INF740KA1TA7;;29.1543;;;12-Dec-2025
 151888;DSP Nifty PSU Bank ETF;INF740KA1SY9;;82.8946;;;12-Dec-2025
+154024;DSP Nifty Smallcap 250 ETF;INF740KA1WX3;;16.382;;;12-Dec-2025
 152812;DSP Nifty Top 10 Equal Weight ETF;INF740KA1UR9;;101.7463;;;12-Dec-2025
 153874;DSP Nifty500 Flexicap Quality 30 ETF;INF740KA1WU9;;10.7342;;;12-Dec-2025
 150523;DSP Silver ETF;INF740KA1RE3;;186.2247;;;12-Dec-2025
@@ -9246,6 +9254,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;INF084M01EC8;INF084M01ED6;26.4464;;;12-Dec-2025
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;INF084M01EB0;;29.9016;;;12-Dec-2025
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;INF084M01AU8;INF084M01AV6;28.51;;;12-Dec-2025
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;INF084M01AT0;;28.5049;;;12-Dec-2025
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;INF084M01EH7;;40.5418;;;12-Dec-2025
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;INF084M01AZ7;;38.0251;;;12-Dec-2025
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;INF084M01EI5;INF084M01EJ3;40.5625;;;12-Dec-2025
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;INF084M01BA8;INF084M01BB6;38.0486;;;12-Dec-2025
 149289;Aditya Birla Sun Life US Equity Passive FOF-Direct IDCW;INF209KB19C3;INF209KB10D0;18.7221;;;12-Dec-2025
 149291;Aditya Birla Sun Life US Equity Passive FOF-Direct-Growth;INF209KB18C5;;18.7195;;;12-Dec-2025
 149290;Aditya Birla Sun Life US Equity Passive FOF-Regular Growth;INF209KB15C1;;18.4242;;;12-Dec-2025
@@ -9302,6 +9318,10 @@ DSP Mutual Fund
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01284;;24.0331;;;12-Dec-2025
 112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;INF740K01292;INF740K01300;16.7105;;;12-Dec-2025
 119275;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;INF740K01PC5;;25.3662;;;12-Dec-2025
+149816;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;INF740KA1QP1;;19.2752;;;12-Dec-2025
+149815;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;INF740KA1QQ9;INF740KA1QR7;19.2752;;;12-Dec-2025
+149817;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;INF740KA1QM8;;18.6156;;;12-Dec-2025
+149814;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;INF740KA1QN6;INF740KA1QO4;18.6156;;;12-Dec-2025
 152528;DSP US Specific Debt Passive FoF - Direct - Growth;INF740KA1UJ6;;11.9142;;;12-Dec-2025
 152529;DSP US Specific Debt Passive FoF - Direct - IDCW;INF740KA1UK4;INF740KA1UL2;11.9142;;;12-Dec-2025
 152527;DSP US Specific Debt Passive FoF - Regular - Growth;INF740KA1UG2;;11.9038;;;12-Dec-2025
