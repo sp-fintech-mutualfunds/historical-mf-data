@@ -149,6 +149,10 @@ HSBC Mutual Fund
 150500;HSBC Overnight Fund - Unclaimed Redemption above three years;;;1000;;;20-Dec-2025
 150502;HSBC Overnight Fund - Unclaimed Redemption Below three years;;;1233.3605;;;20-Dec-2025
 
+ICICI Prudential Mutual Fund
+145536;ICICI Prudential Overnight Fund - Direct Plan - Growth;INF109KC11G1;;1430.9903;;;20-Dec-2025
+145535;ICICI Prudential Overnight Fund - Growth;INF109KC17E3;;1422.5234;;;20-Dec-2025
+
 Invesco Mutual Fund
 147884;Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment);;INF205KA1122;1000.5303;;;20-Dec-2025
 147883;Invesco India Overnight Fund - Direct Plan - Growth;INF205KA1163;;1341.7282;;;20-Dec-2025
@@ -182,6 +186,12 @@ JM Financial Mutual Fund
 149827;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;;;1073.9936;;;20-Dec-2025
 149829;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;;;1346.6918;;;20-Dec-2025
 149826;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;;;1073.9936;;;20-Dec-2025
+
+Kotak Mahindra Mutual Fund
+146141;Kotak Overnight Fund -Direct Plan-Growth Option;INF174KA1BF9;;1416.723;;;20-Dec-2025
+146142;Kotak Overnight Fund -Regular plan-Growth Option;INF174KA1BC6;;1407.8111;;;20-Dec-2025
+146140;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174KA1BE2;1003.749;;;20-Dec-2025
+146138;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174KA1BB8;1004.898;;;20-Dec-2025
 
 LIC Mutual Fund
 147516;LIC MF Overnight Fund-Direct Plan-Daily IDCW;;INF767K01QG7;1089.4384;;;20-Dec-2025
@@ -461,6 +471,10 @@ HSBC Mutual Fund
 118904;HSBC Liquid Fund - Regular Weekly IDCW;INF336L01LJ4;INF336L01BQ0;1108.2116;;;20-Dec-2025
 118908;HSBC Liquid Fund - Weekly IDCW;;INF336L01BR8;1001.9789;;;20-Dec-2025
 
+ICICI Prudential Mutual Fund
+120197;ICICI Prudential Liquid Fund - Direct Plan - Growth;INF109K01Q49;;401.0052;;;20-Dec-2025
+103340;ICICI Prudential Liquid Fund - Growth;INF109K01VQ1;;396.9709;;;20-Dec-2025
+
 Invesco Mutual Fund
 104484;Invesco India Liquid Fund - Daily IDCW (Reinvestment);;INF205K01HN3;1002.7594;;;20-Dec-2025
 120537;Invesco India Liquid Fund - Direct Plan - Growth;INF205K01MF9;;3718.88;;;20-Dec-2025
@@ -505,6 +519,13 @@ JM Financial Mutual Fund
 148413;JM Liquid Fund - Unclaimed Brokerage I.E.F. (Direct) - Growth Plan;;;41.4437;;;20-Dec-2025
 101549;JM Liquid Fund (Regular) - Bonus Option - Principal Units;INF192K01890;;23.423;;;20-Dec-2025
 101078;JM Liquid Fund (Regular) - Daily IDCW;;INF192K01833;10.4302;;;20-Dec-2025
+
+Kotak Mahindra Mutual Fund
+119764;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NH1;1223.0041;;;20-Dec-2025
+119766;Kotak Liquid Fund - Direct Plan - Growth;INF174K01NE8;;5474.3626;;;20-Dec-2025
+100833;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NL3;1227.169;;;20-Dec-2025
+100835;Kotak Liquid Fund - Regular Plan - Growth;INF174K01NI9;;5420.1424;;;20-Dec-2025
+153586;Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;INF174KA1WK5;INF174KA1WM1;1006.9256;;;20-Dec-2025
 
 LIC Mutual Fund
 120248;LIC MF Liquid Fund-Direct Plan-Daily IDCW;INF767K01DL5;INF767K01DM3;1034.6038;;;20-Dec-2025
@@ -681,6 +702,9 @@ Open Ended Schemes ( Other Scheme - Other  ETFs )
 
 Bajaj Finserv Mutual Fund
 152638;Bajaj Finserv Nifty 1D Rate Liquid ETF;INF0QA701854;;1061.5060;;;20-Dec-2025
+
+Kotak Mahindra Mutual Fund
+151358;Kotak Nifty 1D Rate Liquid ETF;INF174KA1LV5;;1083.1155;;;20-Dec-2025
 
 Mirae Asset Mutual Fund
 153045;Mirae Asset Nifty 1D Rate Liquid ETF - Growth;INF769K01MY5;;1064.6447;;;20-Dec-2025
