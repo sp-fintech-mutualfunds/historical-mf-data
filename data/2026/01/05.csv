@@ -2178,6 +2178,12 @@ Sundaram Mutual Fund
 153667;Sundaram Multi-Factor Fund - Regular - Growth;INF903JA1LY0;;10.6366;;;05-Jan-2026
 153671;Sundaram Multi-Factor Fund - Regular - IDCW Payout;INF903JA1LX2;;10.6366;;;05-Jan-2026
 153668;Sundaram Multi-Factor Fund - Regular - IDCW Reinvestment;;INF903JA1LW4;10.6366;;;05-Jan-2026
+144835;Sundaram Services Fund Direct Plan - Growth;INF903JA1FA2;;39.8925;;;05-Jan-2026
+144836;Sundaram Services Fund Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW) ;INF903JA1FB0;;25.5679;;;05-Jan-2026
+144837;Sundaram Services Fund Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW) ;INF903JA1FC8;;25.5679;;;05-Jan-2026
+144838;Sundaram Services Fund Regular Plan - Growth;INF903JA1EX7;;36.6581;;;05-Jan-2026
+144839;Sundaram Services Fund Regular Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW) ;INF903JA1EY5;;23.4539;;;05-Jan-2026
+144834;Sundaram Services Fund Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW) ;INF903JA1EZ2;;23.4539;;;05-Jan-2026
 
 Tata Mutual Fund
 135789;TATA Banking & Financial Services Fund Direct Plan - Payout of Income Distribution cum capital withdrawal option ;INF277K01Z28;;53.5194;;;05-Jan-2026
@@ -2915,10 +2921,10 @@ Sundaram Mutual Fund
 146961;Sundaram Overnight Fund Regular Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HF7;;1017.4062;;;05-Jan-2026
 
 Tata Mutual Fund
-146978;TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;;INF277K019T3;1000.0000;;;05-Jan-2026
-146979;TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;;INF277K017T7;1000.0000;;;05-Jan-2026
-146980;Tata Overnight Fund-Direct Plan-Growth;INF277K018T5;;1405.0333;;;05-Jan-2026
-146977;Tata Overnight Fund-Regular Plan-Growth;INF277K016T9;;1394.3460;;;05-Jan-2026
+146978;TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;;INF277K019T3;1000.0002;;;05-Jan-2026
+146979;TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;;INF277K017T7;1000.0001;;;05-Jan-2026
+146980;Tata Overnight Fund-Direct Plan-Growth;INF277K018T5;;1405.0378;;;05-Jan-2026
+146977;Tata Overnight Fund-Regular Plan-Growth;INF277K016T9;;1394.3505;;;05-Jan-2026
 
 Trust Mutual Fund
 149796;TRUST MF OVERNIGHT FUND-DIRECT PLAN-DAILY IDCW REINVESTMENT;;INF0GCD01461;1234.1611;;;05-Jan-2026
@@ -3353,11 +3359,11 @@ Sundaram Mutual Fund
 149661;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) -Growth Option;INF173K01DA9;;2370.7603;;;05-Jan-2026
 
 Tata Mutual Fund
-153689;Tata Liquid Fund - Direct Plan - Weekly IDCW Reinvestment;;INF277KA1EE2;1031.3038;;;05-Jan-2026
-153688;Tata Liquid Fund - Regular Plan - Weekly IDCW Reinvestment;;INF277KA1EF9;1027.0282;;;05-Jan-2026
-102672;Tata Liquid Fund -Regular Plan - Growth Option;INF277K01YD8;;4235.9256;;;05-Jan-2026
+153689;Tata Liquid Fund - Direct Plan - Weekly IDCW Reinvestment;;INF277KA1EE2;1031.3060;;;05-Jan-2026
+153688;Tata Liquid Fund - Regular Plan - Weekly IDCW Reinvestment;;INF277KA1EF9;1027.0304;;;05-Jan-2026
+102672;Tata Liquid Fund -Regular Plan - Growth Option;INF277K01YD8;;4235.9344;;;05-Jan-2026
 119862;Tata Liquid Fund- Direct Plan - Daily Reinvestment of IDCW Option;;INF277K012D2;1001.5187;;;05-Jan-2026
-119861;Tata Liquid Fund- Direct Plan-Growth Option;INF277K01YE6;;4289.5079;;;05-Jan-2026
+119861;Tata Liquid Fund- Direct Plan-Growth Option;INF277K01YE6;;4289.5168;;;05-Jan-2026
 101714;Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option;;INF277K011D4;1001.5157;;;05-Jan-2026
 
 The Wealth Company Mutual Fund
@@ -4192,9 +4198,9 @@ Sundaram Mutual Fund
 
 Tata Mutual Fund
 119421;Tata Money Market Fund- Direct Plan - Daily Reinvestment of IDCW Option;;INF277K011C6;1114.5200;;;05-Jan-2026
-119424;Tata Money Market Fund- Direct Plan- Growth Option;INF277K01PR6;;4976.1375;;;05-Jan-2026
+119424;Tata Money Market Fund- Direct Plan- Growth Option;INF277K01PR6;;4976.1427;;;05-Jan-2026
 101986;Tata Money Market Fund- Regular Plan - Daily Reinvestment of IDCW Option;;INF277K014C0;1114.5200;;;05-Jan-2026
-101847;Tata Money Market Fund-Regular Plan - Growth Option;INF277K01LQ7;;4878.3879;;;05-Jan-2026
+101847;Tata Money Market Fund-Regular Plan - Growth Option;INF277K01LQ7;;4878.3931;;;05-Jan-2026
 
 Trust Mutual Fund
 150513;TRUSTMF MONEY MARKET FUND-DIRECT PLAN-GROWTH;INF0GCD01503;;1265.5493;;;05-Jan-2026
@@ -6606,6 +6612,12 @@ Bajaj Finserv Mutual Fund
 152641;Bajaj Finserv Multi Asset Allocation Fund - Direct IDCW;INF0QA701839;INF0QA701847;12.7217;;;05-Jan-2026
 152642;Bajaj Finserv Multi Asset Allocation Fund - Regular Growth;INF0QA701797;;12.4144;;;05-Jan-2026
 152640;Bajaj Finserv Multi Asset Allocation Fund - Regular IDCW;INF0QA701805;INF0QA701813;12.4144;;;05-Jan-2026
+
+Bandhan Mutual Fund
+152324;Bandhan Multi Asset Allocation Fund - Direct Plan - Growth;INF194KB1HM7;;14.1904;;;05-Jan-2026
+152323;Bandhan Multi Asset Allocation Fund - Direct Plan - IDCW;INF194KB1HN5;INF194KB1HO3;14.1904;;;05-Jan-2026
+152326;Bandhan Multi Asset Allocation Fund - Regular Plan - Growth;INF194KB1HJ3;;13.7726;;;05-Jan-2026
+152325;Bandhan Multi Asset Allocation Fund - Regular Plan - IDCW;INF194KB1HK1;INF194KB1HL9;13.7726;;;05-Jan-2026
 
 Bank of India Mutual Fund
 152396;Bank of India Multi Asset Allocation Fund-Direct Plan-Growth;INF761K01FZ3;;12.3370;;;05-Jan-2026
@@ -9052,6 +9064,41 @@ Zerodha Mutual Fund
 152668;Zerodha Nifty Midcap 150 ETF;INF0R8F01059;;11.258;;;05-Jan-2026
 153837;Zerodha Nifty Smallcap 100 ETF;INF0R8F01141;;10.1126;;;05-Jan-2026
 
+Open Ended Schemes ( Other Scheme - FoF Overseas )
+
+
+Bandhan Mutual Fund
+149098;Bandhan US specific Equity Active FOF - GROWTH - DIRECT PLAN;INF194KB1CF2;;19.181;;;05-Jan-2026
+149100;Bandhan US specific Equity Active FOF - GROWTH - REGULAR PLAN;INF194KB1CC9;;18.325;;;05-Jan-2026
+149099;Bandhan US specific Equity Active FOF - IDCW - DIRECT PLAN;INF194KB1CG0;;19.181;;;05-Jan-2026
+149097;Bandhan US specific Equity Active FOF - IDCW - REGULAR PLAN;INF194KB1CD7;;18.325;;;05-Jan-2026
+151548;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - DIRECT PLAN - GROWTH;INF194KB1FV2;;12.4162;;;05-Jan-2026
+151549;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - DIRECT PLAN - IDCW;INF194KB1FW0;INF194KB1GA4;12.4162;;;05-Jan-2026
+151546;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - REGULAR PLAN - GROWTH;INF194KB1FT6;;12.3958;;;05-Jan-2026
+151547;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF- REGULAR PLAN- IDCW;INF194KB1FU4;INF194KB1FZ3;12.3958;;;05-Jan-2026
+
+Invesco Mutual Fund
+149961;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Direct Plan - Growth;INF205KA1585;;21.582;;;05-Jan-2026
+149960;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Regular Plan - Growth;INF205KA1577;;21.3906;;;05-Jan-2026
+148614;Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - Growth;INF205KA1270;;12.562;;;05-Jan-2026
+148615;Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205KA1262;INF205KA1288;12.5615;;;05-Jan-2026
+148613;Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - Growth;INF205KA1247;;11.9462;;;05-Jan-2026
+148612;Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205KA1239;INF205KA1254;11.946;;;05-Jan-2026
+129188;Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - Growth;INF205K01B49;;36.184;;;05-Jan-2026
+129190;Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01B56;INF205K01B64;35.7493;;;05-Jan-2026
+129187;Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - Growth;INF205K01B15;;32.6634;;;05-Jan-2026
+129189;Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01B23;INF205K01B31;32.6166;;;05-Jan-2026
+126353;Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - Growth Option;INF205K01A24;;24.659;;;05-Jan-2026
+126352;Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01A32;INF205K01A40;24.5852;;;05-Jan-2026
+126351;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - Growth Option;INF205K01ZZ9;;22.609;;;05-Jan-2026
+126350;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01A08;INF205K01A16;22.6082;;;05-Jan-2026
+
+Mahindra Manulife Mutual Fund
+149230;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - Growth;INF174V01AY0;;10.7248;;;05-Jan-2026
+149231;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;INF174V01BA8;INF174V01AZ7;10.7248;;;05-Jan-2026
+149228;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;INF174V01AV6;;10.2989;;;05-Jan-2026
+149229;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;INF174V01AX2;INF174V01AW4;10.2989;;;05-Jan-2026
+
 Open Ended Schemes ( Other Scheme - FoF Domestic )
 
 
@@ -9354,8 +9401,16 @@ Nippon India Mutual Fund
 149759;Nippon India Silver ETF FOF-Regular Plan- Growth Option;INF204KC1345;;35.6324;;;05-Jan-2026
 
 Quantum Mutual Fund
+112039;Quantum Diversified Equity All Cap Active FOF - Direct Plan Growth Option;INF082J01093;;88.505;;;05-Jan-2026
+112038;Quantum Diversified Equity All Cap Active FOF - Direct Plan IDCW;INF082J01101;INF082J01119;88.284;;;05-Jan-2026
+141063;Quantum Diversified Equity All Cap Active FOF - Regular Plan Growth Option;INF082J01275;;86.846;;;05-Jan-2026
+141062;Quantum Diversified Equity All Cap Active FOF - Regular Plan IDCW;INF082J01283;INF082J01291;86.625;;;05-Jan-2026
 115132;Quantum Gold Savings Fund - Direct Plan Growth Option;INF082J01150;;52.2017;;;05-Jan-2026
 141064;Quantum Gold Savings Fund - Regular Plan Growth Option;INF082J01358;;51.5090;;;05-Jan-2026
+117608;Quantum Multi Asset Active FOF - Direct Plan Growth Option;INF082J01168;;37.5089;;;05-Jan-2026
+141072;Quantum Multi Asset Active FOF - Regular Plan Growth Option;INF082J01341;;36.5908;;;05-Jan-2026
+150390;Quantum Nifty 50 ETF Fund of Fund - Direct Plan - Growth;INF082J01416;;15.5311;;;05-Jan-2026
+150389;Quantum Nifty 50 ETF Fund of Fund - Regular Plan - Growth;INF082J01424;;15.4674;;;05-Jan-2026
 
 SBI Mutual Fund
 119789;SBI Gold Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01RN3;INF200K01RO1;41.6113;;;05-Jan-2026
