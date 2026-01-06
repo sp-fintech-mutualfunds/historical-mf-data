@@ -1124,6 +1124,12 @@ Canara Robeco Mutual Fund
 149088;Canara Robeco Value Fund - Regular Plan - Growth Option;INF760K01JZ7;;18.7900;;;05-Jan-2026
 149087;Canara Robeco Value Fund - Regular Plan - IDCW (Payout/Reinvestment);INF760K01KB6;INF760K01KA8;17.6700;;;05-Jan-2026
 
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;INF740KA1PP3;;24.295;;;05-Jan-2026
+148596;DSP Value Fund - Direct Plan - IDCW;INF740KA1PQ1;INF740KA1PR9;20.058;;;05-Jan-2026
+148594;DSP Value Fund - Regular Plan - Growth;INF740KA1PM0;;23.365;;;05-Jan-2026
+148597;DSP Value Fund - Regular Plan - IDCW;INF740KA1PN8;INF740KA1PO6;17.782;;;05-Jan-2026
+
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;INF090I01GY2;;838.6072;;;05-Jan-2026
 118493;Templeton India Value Fund - Direct - IDCW ;INF090I01GW6;INF090I01GX4;113.7502;;;05-Jan-2026
@@ -7892,6 +7898,10 @@ DSP Mutual Fund
 146377;DSP Nifty 50 Index Fund - Direct Plan - IDCW;INF740KA1MN5;INF740KA1MO3;22.0099;;;05-Jan-2026
 146379;DSP Nifty 50 Index Fund - Regular Plan - Growth;INF740KA1MJ3;;25.3761;;;05-Jan-2026
 146378;DSP Nifty 50 Index Fund - Regular Plan - IDCW;INF740KA1MK1;INF740KA1ML9;21.8288;;;05-Jan-2026
+154088;DSP Nifty 500 Index Fund - Direct - Growth;INF740KA1XY9;;9.9965;;;05-Jan-2026
+154089;DSP Nifty 500 Index Fund - Direct - IDCW;INF740KA1XZ6;INF740KA1YA7;9.9965;;;05-Jan-2026
+154090;DSP Nifty 500 Index Fund - Regular - Growth;INF740KA1XV5;;9.9963;;;05-Jan-2026
+154091;DSP Nifty 500 Index Fund - Regular - IDCW;INF740KA1XW3;INF740KA1XX1;9.9963;;;05-Jan-2026
 152654;DSP Nifty Bank Index Fund - Direct - Growth;INF740KA1UO6;;12.3322;;;05-Jan-2026
 152653;DSP Nifty Bank Index Fund - Regular - Growth;INF740KA1UN8;;12.2048;;;05-Jan-2026
 153593;DSP Nifty Healthcare Index Fund - Direct - IDCW;INF740KA1WG8;INF740KA1WH6;10.4175;;;05-Jan-2026
@@ -9002,6 +9012,7 @@ DSP Mutual Fund
 151820;DSP Nifty IT ETF;INF740KA1SX1;;39.5348;;;05-Jan-2026
 154025;DSP Nifty Midcap 150 ETF;INF740KA1WW5;;22.5465;;;05-Jan-2026
 149403;DSP Nifty Midcap 150 Quality 50 ETF;INF740KA1QL0;;248.2082;;;05-Jan-2026
+154087;DSP Nifty Next 50 ETF;INF740KA1XU7;;70.3734;;;05-Jan-2026
 151887;DSP Nifty Private Bank ETF;INF740KA1TA7;;29.2347;;;05-Jan-2026
 151888;DSP Nifty PSU Bank ETF;INF740KA1SY9;;87.8312;;;05-Jan-2026
 154024;DSP Nifty Smallcap 250 ETF;INF740KA1WX3;;16.8296;;;05-Jan-2026
@@ -9279,6 +9290,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;INF084M01EC8;INF084M01ED6;26.8473;;;05-Jan-2026
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;INF084M01EB0;;30.3549;;;05-Jan-2026
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;INF084M01AU8;INF084M01AV6;28.9317;;;05-Jan-2026
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;INF084M01AT0;;28.9265;;;05-Jan-2026
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;INF084M01EH7;;40.9726;;;05-Jan-2026
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;INF084M01AZ7;;38.414;;;05-Jan-2026
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;INF084M01EI5;INF084M01EJ3;40.9935;;;05-Jan-2026
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;INF084M01BA8;INF084M01BB6;38.4378;;;05-Jan-2026
 149289;Aditya Birla Sun Life US Equity Passive FOF-Direct IDCW;INF209KB19C3;INF209KB10D0;18.9182;;;05-Jan-2026
 149291;Aditya Birla Sun Life US Equity Passive FOF-Direct-Growth;INF209KB18C5;;18.9156;;;05-Jan-2026
 149290;Aditya Birla Sun Life US Equity Passive FOF-Regular Growth;INF209KB15C1;;18.6128;;;05-Jan-2026
@@ -9335,6 +9354,10 @@ DSP Mutual Fund
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01284;;24.3307;;;05-Jan-2026
 112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;INF740K01292;INF740K01300;16.9174;;;05-Jan-2026
 119275;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;INF740K01PC5;;25.6903;;;05-Jan-2026
+149816;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;INF740KA1QP1;;19.7108;;;05-Jan-2026
+149815;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;INF740KA1QQ9;INF740KA1QR7;19.7108;;;05-Jan-2026
+149817;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;INF740KA1QM8;;19.0253;;;05-Jan-2026
+149814;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;INF740KA1QN6;INF740KA1QO4;19.0253;;;05-Jan-2026
 152528;DSP US Specific Debt Passive FoF - Direct - Growth;INF740KA1UJ6;;11.9562;;;05-Jan-2026
 152529;DSP US Specific Debt Passive FoF - Direct - IDCW;INF740KA1UK4;INF740KA1UL2;11.9562;;;05-Jan-2026
 152527;DSP US Specific Debt Passive FoF - Regular - Growth;INF740KA1UG2;;11.9454;;;05-Jan-2026
@@ -9471,6 +9494,12 @@ SBI Mutual Fund
 148761;SBI US Specific Equity Active FoF- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1U36;INF200KA1U44;22.3328;;;05-Jan-2026
 148762;SBI US Specific Equity Active FoF- Regular Plan - Growth;INF200KA1T96;;21.5572;;;05-Jan-2026
 148759;SBI US Specific Equity Active FoF- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1U02;INF200KA1U10;21.5566;;;05-Jan-2026
+
+Sundaram Mutual Fund
+119602;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;INF903J01OB6;;44.5633;;;05-Jan-2026
+119601;Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW;INF903J01NZ7;INF903J01OA8;37.3992;;;05-Jan-2026
+106370;Sundaram Global Brand Theme-Equity Active FOF - Regular Growth;INF903J01EX1;;40.5264;;;05-Jan-2026
+106369;Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW;INF903J01EY9;INF903J01EZ6;32.7608;;;05-Jan-2026
 
 Open Ended Schemes ( Other Scheme - FoF Domestic )
 
