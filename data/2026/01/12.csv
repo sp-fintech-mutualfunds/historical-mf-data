@@ -763,13 +763,13 @@ Motilal Oswal Mutual Fund
 127039;Motilal Oswal Midcap Fund-Regular Plan-Growth Option;INF247L01411;;98.0115;;;12-Jan-2026
 
 Nippon India Mutual Fund
-100375;NIPPON INDIA GROWTH FUND - IDCW Option;INF204K01299;INF204K01307;121.4709;;;12-Jan-2026
-100376;Nippon India Growth Fund-Growth Plan-Bonus Option;INF204K01315;;696.1820;;;12-Jan-2026
-100377;Nippon India Growth Fund-Growth Plan-Growth Option;INF204K01323;;4181.9951;;;12-Jan-2026
 118666;NIPPON INDIA GROWTH MID CAP FUND - DIRECT Plan - IDCW Option;INF204K01E39;INF204K01E47;192.3906;;;12-Jan-2026
 118665;Nippon India Growth Mid Cap Fund - Direct Plan Growth Plan - Bonus Option;INF204K01E21;;764.1211;;;12-Jan-2026
 118668;Nippon India Growth Mid Cap Fund - Direct Plan Growth Plan - Growth Option;INF204K01E54;;4599.3772;;;12-Jan-2026
+100375;NIPPON INDIA GROWTH MID CAP FUND - IDCW Option;INF204K01299;INF204K01307;121.4709;;;12-Jan-2026
 106260;NIPPON INDIA GROWTH MID CAP FUND - INSTITUTIONAL Plan - IDCW Option;INF204K01257;INF204K01265;1350.0190;;;12-Jan-2026
+100376;Nippon India Growth Mid Cap Fund-Growth Plan-Bonus Option;INF204K01315;;696.1820;;;12-Jan-2026
+100377;Nippon India Growth Mid Cap Fund-Growth Plan-Growth Option;INF204K01323;;4181.9951;;;12-Jan-2026
 
 PGIM India Mutual Fund
 125301;PGIM India Midcap Fund - Direct Plan - Dividend Option - Payout;INF663L01DW1;INF663L01DX9;60.45;;;12-Jan-2026
@@ -1123,6 +1123,12 @@ Canara Robeco Mutual Fund
 149086;Canara Robeco Value Fund - Direct Plan - IDCW (Payout/Reinvestment);INF760K01JY0;INF760K01JX2;18.4700;;;12-Jan-2026
 149088;Canara Robeco Value Fund - Regular Plan - Growth Option;INF760K01JZ7;;18.3400;;;12-Jan-2026
 149087;Canara Robeco Value Fund - Regular Plan - IDCW (Payout/Reinvestment);INF760K01KB6;INF760K01KA8;17.2500;;;12-Jan-2026
+
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;INF740KA1PP3;;23.938;;;12-Jan-2026
+148596;DSP Value Fund - Direct Plan - IDCW;INF740KA1PQ1;INF740KA1PR9;19.763;;;12-Jan-2026
+148594;DSP Value Fund - Regular Plan - Growth;INF740KA1PM0;;23.018;;;12-Jan-2026
+148597;DSP Value Fund - Regular Plan - IDCW;INF740KA1PN8;INF740KA1PO6;17.518;;;12-Jan-2026
 
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;INF090I01GY2;;816.2270;;;12-Jan-2026
@@ -4531,14 +4537,14 @@ Mirae Asset Mutual Fund
 142643;Mirae Asset Short Duration Fund - Regular Plan - IDCW;INF769K01DV0;INF769K01DW8;16.1788;;;12-Jan-2026
 
 Nippon India Mutual Fund
+101665;Nippon India Short Duration  Fund-Growth Plan;INF204K01FL4;;54.4180;;;12-Jan-2026
 125269;NIPPON INDIA SHORT DURATION FUND - Direct Plan - IDCW Option;INF204KA1ES0;INF204KA1ET8;24.1031;;;12-Jan-2026
 118797;NIPPON INDIA SHORT DURATION FUND - Direct Plan - MONTHLY IDCW Option;INF204K01B40;;11.7265;;;12-Jan-2026
 118800;NIPPON INDIA SHORT DURATION FUND - Direct Plan - QUARTERLY IDCW OPTION;INF204K01B65;INF204K01B73;15.2636;;;12-Jan-2026
 118796;Nippon India Short Duration Fund - Direct Plan Growth Plan - Growth Option;INF204K01B32;;59.3082;;;12-Jan-2026
 125268;NIPPON INDIA SHORT DURATION FUND - IDCW Option;INF204KA1EQ4;INF204KA1ER2;22.1341;;;12-Jan-2026
 101667;NIPPON INDIA SHORT DURATION FUND - MONTHLY IDCW Option;INF204K01FM2;INF204K01FN0;11.5070;;;12-Jan-2026
-101669;NIPPON INDIA SHORT TERM FUND - QUARTERLY IDCW OPTION;INF204K01FO8;INF204K01FP5;14.9053;;;12-Jan-2026
-101665;Nippon India Short Term Fund-Growth Plan;INF204K01FL4;;54.4180;;;12-Jan-2026
+101669;NIPPON INDIA SHORT DURATION FUND - QUARTERLY IDCW OPTION;INF204K01FO8;INF204K01FP5;14.9053;;;12-Jan-2026
 
 SBI Mutual Fund
 106230;SBI Short Horizon Debt Fund - Short Term Fund - Retail Dividend - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01IA9;INF200K01IB7;15.5610;;;12-Jan-2026
@@ -5565,12 +5571,12 @@ Aditya Birla Sun Life Mutual Fund
 
 Axis Mutual Fund
 120437;Axis Banking & PSU Debt Fund - Direct Plan - Daily IDCW;;INF846K01CU0;1039.1310;;;12-Jan-2026
-120438;Axis Banking & PSU Debt Fund - Direct Plan - Growth Option;INF846K01CR6;;2800.4119;;;12-Jan-2026
-120439;Axis Banking & PSU Debt Fund - Direct Plan - Monthly IDCW;INF846K01CT2;INF846K01CS4;1033.9424;;;12-Jan-2026
+120438;Axis Banking & PSU Debt Fund - Direct Plan - Growth Option;INF846K01CR6;;2800.6405;;;12-Jan-2026
+120439;Axis Banking & PSU Debt Fund - Direct Plan - Monthly IDCW;INF846K01CT2;INF846K01CS4;1034.0268;;;12-Jan-2026
 120436;Axis Banking & PSU Debt Fund - Direct Plan - Weekly IDCW;INF846K01CV8;INF846K01CW6;1038.2027;;;12-Jan-2026
-117447;Axis Banking & PSU Debt Fund - Regular Plan - Daily IDCW;;INF846K01CC8;1039.0753;;;12-Jan-2026
-117446;Axis Banking & PSU Debt Fund - Regular Plan - Growth option;INF846K01CB0;;2711.6475;;;12-Jan-2026
-117449;Axis Banking & PSU Debt Fund - Regular Plan - Monthly IDCW;INF846K01CF1;INF846K01CG9;1033.7988;;;12-Jan-2026
+117447;Axis Banking & PSU Debt Fund - Regular Plan - Daily IDCW;;INF846K01CC8;1039.1303;;;12-Jan-2026
+117446;Axis Banking & PSU Debt Fund - Regular Plan - Growth option;INF846K01CB0;;2711.8687;;;12-Jan-2026
+117449;Axis Banking & PSU Debt Fund - Regular Plan - Monthly IDCW;INF846K01CF1;INF846K01CG9;1033.8832;;;12-Jan-2026
 117448;Axis Banking & PSU Debt Fund - Regular Plan - Weekly IDCW;INF846K01CD6;INF846K01CE4;1038.2003;;;12-Jan-2026
 
 Bajaj Finserv Mutual Fund
@@ -9279,6 +9285,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;INF084M01EC8;INF084M01ED6;27.1515;;;12-Jan-2026
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;INF084M01EB0;;30.6988;;;12-Jan-2026
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;INF084M01AU8;INF084M01AV6;29.2565;;;12-Jan-2026
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;INF084M01AT0;;29.2512;;;12-Jan-2026
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;INF084M01EH7;;41.6166;;;12-Jan-2026
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;INF084M01AZ7;;39.0133;;;12-Jan-2026
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;INF084M01EI5;INF084M01EJ3;41.6379;;;12-Jan-2026
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;INF084M01BA8;INF084M01BB6;39.0375;;;12-Jan-2026
 149289;Aditya Birla Sun Life US Equity Passive FOF-Direct IDCW;INF209KB19C3;INF209KB10D0;19.1059;;;12-Jan-2026
 149291;Aditya Birla Sun Life US Equity Passive FOF-Direct-Growth;INF209KB18C5;;19.1033;;;12-Jan-2026
 149290;Aditya Birla Sun Life US Equity Passive FOF-Regular Growth;INF209KB15C1;;18.7961;;;12-Jan-2026
@@ -9335,6 +9349,10 @@ DSP Mutual Fund
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01284;;24.4271;;;12-Jan-2026
 112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;INF740K01292;INF740K01300;16.9844;;;12-Jan-2026
 119275;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;INF740K01PC5;;25.7950;;;12-Jan-2026
+149816;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;INF740KA1QP1;;20.0586;;;12-Jan-2026
+149815;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;INF740KA1QQ9;INF740KA1QR7;20.0586;;;12-Jan-2026
+149817;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;INF740KA1QM8;;19.3576;;;12-Jan-2026
+149814;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;INF740KA1QN6;INF740KA1QO4;19.3576;;;12-Jan-2026
 152528;DSP US Specific Debt Passive FoF - Direct - Growth;INF740KA1UJ6;;11.9302;;;12-Jan-2026
 152529;DSP US Specific Debt Passive FoF - Direct - IDCW;INF740KA1UK4;INF740KA1UL2;11.9302;;;12-Jan-2026
 152527;DSP US Specific Debt Passive FoF - Regular - Growth;INF740KA1UG2;;11.9193;;;12-Jan-2026
