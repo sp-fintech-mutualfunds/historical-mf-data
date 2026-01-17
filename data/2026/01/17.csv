@@ -3,6 +3,16 @@ Scheme Code;Scheme Name;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net As
 Open Ended Schemes ( Debt Scheme - Overnight Fund )
 
 
+Axis Mutual Fund
+146679;Axis Overnight Fund - Direct Plan - Daily IDCW;;INF846K01N99;1000.5073;;;17-Jan-2026
+146675;Axis Overnight Fund - Direct Plan - Growth Option;INF846K01N65;;1411.3309;;;17-Jan-2026
+146677;Axis Overnight Fund - Direct Plan - Monthly IDCW;INF846K01N73;INF846K01N81;1004.0930;;;17-Jan-2026
+146676;Axis Overnight Fund - Direct Plan - Weekly IDCW;INF846K01N40;INF846K01N57;1001.4281;;;17-Jan-2026
+146682;Axis Overnight Fund - Regular Plan - Daily IDCW;;INF846K01O56;1000.5032;;;17-Jan-2026
+146678;Axis Overnight Fund - Regular Plan - Growth Option;INF846K01O23;;1406.2207;;;17-Jan-2026
+146681;Axis Overnight Fund - Regular Plan - Monthly IDCW;INF846K01O31;INF846K01O49;1004.0602;;;17-Jan-2026
+146680;Axis Overnight Fund - Regular Plan - Weekly IDCW;INF846K01O07;INF846K01O15;1001.3908;;;17-Jan-2026
+
 Baroda BNP Paribas Mutual Fund
 147197;Baroda BNP Paribas Overnight Fund - Direct Plan - Daily IDCW;;INF955L01HW2;1000.0028;;;17-Jan-2026
 147196;Baroda BNP Paribas Overnight Fund - Direct Plan - Growth;INF955L01HV4;;1400.5526;;;17-Jan-2026
@@ -21,11 +31,38 @@ Canara Robeco Mutual Fund
 147533;CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - DAILY IDCW (Reinvestment);;INF760K01JP8;1001.0000;;;17-Jan-2026
 147534;CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - GROWTH OPTION;INF760K01JO1;;1375.2450;;;17-Jan-2026
 
+Edelweiss Mutual Fund
+147551;Edelweiss Overnight Fund - Direct Plan - Annual - IDCW Option;INF754K01KD5;INF754K01KC7;1379.8403;;;17-Jan-2026
+147557;Edelweiss Overnight Fund - Direct Plan - Daily - IDCW Option;;INF754K01JW7;1000.1898;;;17-Jan-2026
+147550;Edelweiss Overnight Fund - Direct Plan - Fortnightly - IDCW Option;INF754K01JZ0;INF754K01JY3;1371.3357;;;17-Jan-2026
+147570;Edelweiss Overnight Fund - Direct Plan - Growth;INF754K01JV9;;1379.3769;;;17-Jan-2026
+147554;Edelweiss Overnight Fund - Direct Plan - Monthly - IDCW Option;INF754K01KB9;INF754K01KA1;1061.0222;;;17-Jan-2026
+147556;Edelweiss Overnight Fund - Regular Plan - Annual - IDCW Option;INF754K01KM6;INF754K01KL8;1374.4656;;;17-Jan-2026
+147552;Edelweiss Overnight Fund - Regular Plan - Daily - IDCW Option;;INF754K01KF0;1008.359;;;17-Jan-2026
+147549;Edelweiss Overnight Fund - Regular Plan - Fortnightly - IDCW Option;INF754K01KI4;INF754K01KH6;1095.6146;;;17-Jan-2026
+147569;Edelweiss Overnight Fund - Regular Plan - Growth;INF754K01KE3;;1374.4574;;;17-Jan-2026
+147555;Edelweiss Overnight Fund - Regular Plan - Monthly - IDCW Option;INF754K01KK0;INF754K01KJ2;1007.7229;;;17-Jan-2026
+147553;Edelweiss Overnight Fund - Regular Plan - Weekly - IDCW Option;;INF754K01KG8;1017.1221;;;17-Jan-2026
+149476;Edelweiss Overnight Fund - Unclaimed IDCW Plan - Above 3 years;;;1000;;;17-Jan-2026
+149477;Edelweiss Overnight Fund - Unclaimed IDCW Plan - Upto 3 years;;;1262.0557;;;17-Jan-2026
+149479;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Above 3 years;;;1000;;;17-Jan-2026
+149478;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Upto 3 years;;;1262.054;;;17-Jan-2026
+
 Helios Mutual Fund
 152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;INF0R8701087;;1000.1401;;;17-Jan-2026
 152152;Helios Overnight Fund - Direct Plan - Growth Option;INF0R8701079;;1144.1695;;;17-Jan-2026
 152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;INF0R8701103;;1000.1388;;;17-Jan-2026
 152153;Helios Overnight Fund - Regular Plan - Growth Option;INF0R8701095;;1142.8903;;;17-Jan-2026
+
+LIC Mutual Fund
+147516;LIC MF Overnight Fund-Direct Plan-Daily IDCW;;INF767K01QG7;1093.9761;;;17-Jan-2026
+147515;LIC MF Overnight Fund-Direct Plan-Growth;INF767K01QI3;;1382.2328;;;17-Jan-2026
+147513;LIC MF Overnight Fund-Direct Plan-IDCW;INF767K01QE2;INF767K01QF9;1382.3728;;;17-Jan-2026
+147514;LIC MF Overnight Fund-Direct Plan-Weekly IDCW;;INF767K01QH5;1077.6853;;;17-Jan-2026
+147517;LIC MF Overnight Fund-Regular Plan-Daily IDCW;;INF767K01QB8;1092.6142;;;17-Jan-2026
+147519;LIC MF Overnight Fund-Regular Plan-Growth;INF767K01QD4;;1371.0656;;;17-Jan-2026
+147512;LIC MF Overnight Fund-Regular Plan-IDCW;INF767K01PZ9;INF767K01QA0;1212.8027;;;17-Jan-2026
+147518;LIC MF Overnight Fund-Regular Plan-Weekly IDCW;;INF767K01QC6;1179.9739;;;17-Jan-2026
 
 Mahindra Manulife Mutual Fund
 147563;Mahindra Manulife Overnight Fund - Direct Plan - Daily IDCW;;INF174V01846;1383.6363;;;17-Jan-2026
@@ -35,14 +72,53 @@ Mahindra Manulife Mutual Fund
 149471;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW beyond 3 years;;;1000.0000;;;17-Jan-2026
 149470;Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW upto 3 years;;;1265.7356;;;17-Jan-2026
 
+PGIM India Mutual Fund
+147605;PGIM India Overnight Fund - Direct Plan - Daily Dividend Option;;INF663L01T35;1000.0086;;;17-Jan-2026
+147606;PGIM India Overnight Fund - Direct Plan - Growth Option;INF663L01T01;;1375.4174;;;17-Jan-2026
+147608;PGIM India Overnight Fund - Direct Plan - Weekly Dividend Option;INF663L01T19;INF663L01T27;999.9256;;;17-Jan-2026
+147609;PGIM India Overnight Fund - Regular Plan - Daily Dividend Option;;INF663L01T76;1000;;;17-Jan-2026
+147607;PGIM India Overnight Fund - Regular Plan - Weekly Dividend Option;INF663L01T50;INF663L01T68;1007.2914;;;17-Jan-2026
+147600;PGIM India Overnight Fund - Regular Plan- Growth Option;INF663L01T43;;1369.4051;;;17-Jan-2026
+
+Shriram Mutual Fund
+150562;Shriram Overnight Fund -  Direct Growth;INF680P01323;;12.3127;;;17-Jan-2026
+150561;Shriram Overnight Fund - Direct Daily IDCW;;INF680P01331;10.0001;;;17-Jan-2026
+150567;Shriram Overnight Fund - Direct Monthly IDCW;INF680P01380;INF680P01398;10.0014;;;17-Jan-2026
+150558;Shriram Overnight Fund - Regular Daily IDCW;;INF680P01257;10.0001;;;17-Jan-2026
+150565;Shriram Overnight Fund - Regular Growth;INF680P01232;;12.2778;;;17-Jan-2026
+150560;Shriram Overnight Fund - Regular Monthly IDCW;INF680P01307;INF680P01315;10.0016;;;17-Jan-2026
+
+Tata Mutual Fund
+146978;TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;;INF277K019T3;1000.0000;;;17-Jan-2026
+146979;TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;;INF277K017T7;1000.0000;;;17-Jan-2026
+146980;Tata Overnight Fund-Direct Plan-Growth;INF277K018T5;;1407.5063;;;17-Jan-2026
+146977;Tata Overnight Fund-Regular Plan-Growth;INF277K016T9;;1396.7445;;;17-Jan-2026
+
 Trust Mutual Fund
 149796;TRUST MF OVERNIGHT FUND-DIRECT PLAN-DAILY IDCW REINVESTMENT;;INF0GCD01461;1236.0852;;;17-Jan-2026
 149797;TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH;INF0GCD01453;;1261.4569;;;17-Jan-2026
 149798;TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT;;INF0GCD01446;1235.6796;;;17-Jan-2026
 149795;TRUST MF OVERNIGHT FUND-REGULAR-GROWTH;INF0GCD01438;;1258.9552;;;17-Jan-2026
 
+Zerodha Mutual Fund
+153436;Zerodha Overnight Fund - Direct Plan - Growth Option;INF0R8F01075;;10.4391;;;17-Jan-2026
+
 Open Ended Schemes ( Debt Scheme - Liquid Fund )
 
+
+Axis Mutual Fund
+120388;Axis Liquid Fund - Direct Plan - Daily IDCW;;INF846K01DA0;1000.9560;;;17-Jan-2026
+120389;Axis Liquid Fund - Direct Plan - Growth Option;INF846K01CX4;;3026.9182;;;17-Jan-2026
+120391;Axis Liquid Fund - Direct Plan - Monthly IDCW;INF846K01CY2;INF846K01CZ9;1004.1514;;;17-Jan-2026
+120390;Axis Liquid Fund - Direct Plan - Weekly IDCW;INF846K01DB8;INF846K01DC6;1002.8353;;;17-Jan-2026
+112211;Axis Liquid Fund - Regular Plan - Daily IDCW;;INF846K01420;1001.3998;;;17-Jan-2026
+112210;Axis Liquid Fund - Regular Plan - Growth Option;INF846K01412;;2999.6461;;;17-Jan-2026
+112213;Axis Liquid Fund - Regular Plan - Monthly IDCW;INF846K01453;INF846K01461;1004.6830;;;17-Jan-2026
+112212;Axis Liquid Fund - Regular Plan - Weekly IDCW;INF846K01438;INF846K01446;1002.8216;;;17-Jan-2026
+112712;Axis Liquid Fund - Retail Plan - Daily IDCW;;INF846K01362;1000.9559;;;17-Jan-2026
+112713;Axis Liquid Fund - Retail Plan - Growth Option;INF846K01354;;2739.3506;;;17-Jan-2026
+112714;Axis Liquid Fund - Retail Plan - Monthly IDCW;INF846K01396;INF846K01404;1003.7781;;;17-Jan-2026
+112715;Axis Liquid Fund - Retail Plan - Weekly IDCW;INF846K01370;INF846K01388;1001.5686;;;17-Jan-2026
 
 Baroda BNP Paribas Mutual Fund
 119414;Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - DAILY IDCW OPTION;INF955L01AK2;;1002.0849;;;17-Jan-2026
@@ -70,6 +146,38 @@ Capitalmind Mutual Fund
 154011;Capitalmind Liquid Fund - Direct-Growth;INF226401034;;1009.3483;;;17-Jan-2026
 154010;Capitalmind Liquid Fund - Regular-Growth;INF226401042;;1009.0663;;;17-Jan-2026
 
+Edelweiss Mutual Fund
+140194;Edelweiss Liquid Fund - Direct Plan - Bonus Option;INF754K01GY9;;2046.5011;;;17-Jan-2026
+140196;Edelweiss Liquid Fund - Direct Plan - Growth Option;INF754K01GM4;;3517.6449;;;17-Jan-2026
+140198;Edelweiss Liquid Fund - Direct Plan - IDCW Option;INF754K01GO0;INF754K01GN2;3517.6585;;;17-Jan-2026
+140192;Edelweiss Liquid Fund - Direct Plan Annual - IDCW Option;INF754K01GX1;INF754K01GT9;3517.6205;;;17-Jan-2026
+140193;Edelweiss Liquid Fund - Direct Plan daily - IDCW Option;;INF754K01GP7;1174.6455;;;17-Jan-2026
+140199;Edelweiss Liquid Fund - Direct Plan Fortnightly - IDCW Option;INF754K01GV5;INF754K01GR3;2474.1259;;;17-Jan-2026
+140197;Edelweiss Liquid Fund - Direct Plan Monthly - IDCW Option;INF754K01GW3;INF754K01GS1;1007.7982;;;17-Jan-2026
+140195;Edelweiss Liquid Fund - Direct Plan weekly - IDCW Option;INF754K01GU7;INF754K01GQ5;2174.3673;;;17-Jan-2026
+140189;Edelweiss Liquid Fund - Regular Plan - Bonus Option;INF754K01HR1;;2006.9661;;;17-Jan-2026
+140182;Edelweiss Liquid Fund - Regular Plan - Growth Option;INF754K01GZ6;;3445.2381;;;17-Jan-2026
+140190;Edelweiss Liquid Fund - Regular Plan - IDCW Option;INF754K01GK8;INF754K01GL6;3445.2409;;;17-Jan-2026
+140188;Edelweiss Liquid Fund - Regular Plan Annual - IDCW Option;INF754K01HQ3;INF754K01HP5;2383.8077;;;17-Jan-2026
+140181;Edelweiss Liquid Fund - Regular Plan Daily - IDCW Option;;INF754K01HA7;1275.6724;;;17-Jan-2026
+140184;Edelweiss Liquid Fund - Regular Plan Fortnightly - IDCW Option;INF754K01HK6;INF754K01HC3;2153.6593;;;17-Jan-2026
+140183;Edelweiss Liquid Fund - Regular Plan Monthly - IDCW Option;INF754K01HL4;INF754K01HD1;1086.1666;;;17-Jan-2026
+140185;Edelweiss Liquid Fund - Regular Plan Weekly - IDCW Option;INF754K01HJ8;INF754K01HB5;1215.927;;;17-Jan-2026
+140176;Edelweiss Liquid Fund - Retail Plan - Growth Option;INF754K01HE9;;3133.1629;;;17-Jan-2026
+140178;Edelweiss Liquid Fund - Retail Plan - Weekly Dividend Option;;INF754K01HG4;1231.6973;;;17-Jan-2026
+140177;Edelweiss Liquid Fund - Retail Plan Daily - IDCW Option;;INF754K01HF6;1122.6963;;;17-Jan-2026
+140180;Edelweiss Liquid Fund - Retail Plan Monthly - IDCW Option;;INF754K01HI0;1247.8806;;;17-Jan-2026
+
+LIC Mutual Fund
+120248;LIC MF Liquid Fund-Direct Plan-Daily IDCW;INF767K01DL5;INF767K01DM3;1034.6038;;;17-Jan-2026
+120249;LIC MF Liquid Fund-Direct Plan-Growth;INF767K01DN1;;4940.6471;;;17-Jan-2026
+151930;LIC MF Liquid Fund-Direct Plan-Monthly IDCW;INF397L01AK7;INF397L01AJ9;1199.322;;;17-Jan-2026
+151932;LIC MF Liquid Fund-Direct Plan-Weekly IDCW;INF397L01AM3;INF397L01AL5;1071.2579;;;17-Jan-2026
+101184;LIC MF Liquid Fund-Regular Plan-Daily IDCW;INF767K01IQ3;INF767K01IR1;1000.1751;;;17-Jan-2026
+101185;LIC MF Liquid Fund-Regular Plan-Growth;INF767K01IS9;;4867.9603;;;17-Jan-2026
+151928;LIC MF Liquid Fund-Regular Plan-Monthly IDCW;INF397L01976;INF397L01968;1179.3204;;;17-Jan-2026
+151927;LIC MF Liquid Fund-Regular Plan-Weekly IDCW;INF397L01950;INF397L01943;1002.0933;;;17-Jan-2026
+
 Mahindra Manulife Mutual Fund
 139535;Mahindra Manulife Liquid Fund - Direct Plan - Daily IDCW;;INF174V01051;1244.5297;;;17-Jan-2026
 139536;Mahindra Manulife Liquid Fund - Direct Plan - Weekly IDCW;;INF174V01069;1003.3296;;;17-Jan-2026
@@ -77,6 +185,16 @@ Mahindra Manulife Mutual Fund
 139534;Mahindra Manulife Liquid Fund - Regular Plan - Daily IDCW;;INF174V01028;1001.0432;;;17-Jan-2026
 139537;Mahindra Manulife Liquid Fund - Regular Plan - Growth;INF174V01010;;1752.8559;;;17-Jan-2026
 139541;Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW;;INF174V01036;1009.7470;;;17-Jan-2026
+
+PGIM India Mutual Fund
+138285;PGIM India Liquid Fund - Daily Dividend;;INF223J01BO9;100.304;;;17-Jan-2026
+138297;PGIM India Liquid Fund - Direct Plan - Daily Dividend;INF223J01NR7;;126.542;;;17-Jan-2026
+138299;PGIM India Liquid Fund - Direct Plan - Growth;INF223J01NS5;;355.0602;;;17-Jan-2026
+138298;PGIM India Liquid Fund - Direct Plan - Monthly Dividend;INF223J01NT3;INF223J01NU1;116.8209;;;17-Jan-2026
+138301;PGIM India Liquid Fund - Direct Plan - Weekly Dividend;INF223J01NV9;INF223J01NW7;100.5209;;;17-Jan-2026
+138288;PGIM India Liquid Fund - Growth;INF223J01BP6;;350.6558;;;17-Jan-2026
+138287;PGIM India Liquid Fund - Monthly Dividend;INF223J01BL5;;117.2749;;;17-Jan-2026
+138289;PGIM India Liquid Fund - Weekly Dividend;INF223J01BU6;;100.5206;;;17-Jan-2026
 
 PPFAS Mutual Fund
 143263;Parag Parikh Liquid Fund- Direct Plan- Daily Reinvestment of IDCW;;INF879O01118;1000.5405;;;17-Jan-2026
@@ -100,6 +218,22 @@ Quantum Mutual Fund
 152301;Quantum Liquid Fund - Unclaimed Redemption Plan Above 3 years;;;10.0000;;;17-Jan-2026
 152300;Quantum Liquid Fund - Unclaimed Redemption Plan Below 3 years;;;10.9790;;;17-Jan-2026
 
+Shriram Mutual Fund
+153035;Shriram Liquid Fund - Direct Plan Growth Option;INF680P01430;;1075.5225;;;17-Jan-2026
+153036;Shriram Liquid Fund - Regular Plan Growth Option;INF680P01448;;1073.7075;;;17-Jan-2026
+153282;Shriram Unclaimed IDCW Liquid Fund;;;1048.5266;;;17-Jan-2026
+153283;Shriram Unclaimed IDCW Stable Scheme Liquid Fund;;;1000;;;17-Jan-2026
+153280;Shriram Unclaimed Redemption Liquid Fund;;;1061.1773;;;17-Jan-2026
+153281;Shriram Unclaimed Redemption Stable Scheme Liquid Fund;;;1000;;;17-Jan-2026
+
+Tata Mutual Fund
+153689;Tata Liquid Fund - Direct Plan - Weekly IDCW Reinvestment;;INF277KA1EE2;1032.9918;;;17-Jan-2026
+153688;Tata Liquid Fund - Regular Plan - Weekly IDCW Reinvestment;;INF277KA1EF9;1028.6698;;;17-Jan-2026
+102672;Tata Liquid Fund -Regular Plan - Growth Option;INF277K01YD8;;4242.6962;;;17-Jan-2026
+119862;Tata Liquid Fund- Direct Plan - Daily Reinvestment of IDCW Option;;INF277K012D2;1001.5187;;;17-Jan-2026
+119861;Tata Liquid Fund- Direct Plan-Growth Option;INF277K01YE6;;4296.5281;;;17-Jan-2026
+101714;Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option;;INF277K011D4;1001.5157;;;17-Jan-2026
+
 Trust Mutual Fund
 148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1257.4629;;;17-Jan-2026
 148841;TRUSTMF Liquid Fund-Direct Plan-Growth;INF0GCD01255;;1317.7724;;;17-Jan-2026
@@ -109,3 +243,16 @@ Trust Mutual Fund
 148833;TRUSTMF Liquid Fund-Regular Plan-Growth;INF0GCD01198;;1308.3589;;;17-Jan-2026
 148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1180.8979;;;17-Jan-2026
 148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1166.1674;;;17-Jan-2026
+
+Unifi Mutual Fund
+153570;Unifi Liquid Fund- Direct Growth;INF1MIY01056;;1035.66;;;17-Jan-2026
+153571;Unifi Liquid Fund- Regular Growth;INF1MIY01064;;1035.2836;;;17-Jan-2026
+
+Open Ended Schemes ( Other Scheme - Other  ETFs )
+
+
+Edelweiss Mutual Fund
+153920;Edelweiss Nifty 1D Rate Liquid ETF - Growth;INF754K01VW2;;1014.9069;;;17-Jan-2026
+
+Shriram Mutual Fund
+152741;Shriram Nifty 1D Rate Liquid ETF - Growth;INF680P01422;;1088.2922;;;17-Jan-2026
