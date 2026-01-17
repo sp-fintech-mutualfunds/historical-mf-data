@@ -13,6 +13,18 @@ Axis Mutual Fund
 146681;Axis Overnight Fund - Regular Plan - Monthly IDCW;INF846K01O31;INF846K01O49;1004.0602;;;17-Jan-2026
 146680;Axis Overnight Fund - Regular Plan - Weekly IDCW;INF846K01O07;INF846K01O15;1001.3908;;;17-Jan-2026
 
+Bank of India Mutual Fund
+147951;BANK OF INDIA Overnight Fund Direct Plan Growth;INF761K01EU7;;1353.9745;;;17-Jan-2026
+147952;BANK OF INDIA Overnight Fund Direct Plan- Daily IDCW;;INF761K01EV5;1000.0000;;;17-Jan-2026
+147948;BANK OF INDIA Overnight Fund Direct Plan- Monthly IDCW;INF761K01EY9;INF761K01EX1;1003.1992;;;17-Jan-2026
+147936;BANK OF INDIA Overnight Fund Regular Plan Growth;INF761K01EZ6;;1350.0696;;;17-Jan-2026
+147953;BANK OF INDIA Overnight Fund Regular Plan- Daily IDCW;;INF761K01FA6;1000.0000;;;17-Jan-2026
+147949;BANK OF INDIA Overnight Fund Regular Plan- Monthly IDCW;INF761K01FD0;INF761K01FC2;1003.1785;;;17-Jan-2026
+149412;BANK OF INDIA Overnight Fund Unclaimed IDCW Plan - Greater than 3 Years;;;1000.0000;;;17-Jan-2026
+149414;BANK OF INDIA Overnight Fund Unclaimed IDCW Plan - Up to 3 Years;;;1273.0361;;;17-Jan-2026
+149415;BANK OF INDIA Overnight Fund Unclaimed Redemption Plan - Greater than 3 Years;;;1000.0000;;;17-Jan-2026
+149413;BANK OF INDIA Overnight Fund Unclaimed Redemption Plan - Upto 3 Years;;;1273.3472;;;17-Jan-2026
+
 Baroda BNP Paribas Mutual Fund
 147197;Baroda BNP Paribas Overnight Fund - Direct Plan - Daily IDCW;;INF955L01HW2;1000.0028;;;17-Jan-2026
 147196;Baroda BNP Paribas Overnight Fund - Direct Plan - Growth;INF955L01HV4;;1400.5526;;;17-Jan-2026
@@ -100,6 +112,14 @@ Trust Mutual Fund
 149798;TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT;;INF0GCD01446;1235.6796;;;17-Jan-2026
 149795;TRUST MF OVERNIGHT FUND-REGULAR-GROWTH;INF0GCD01438;;1258.9552;;;17-Jan-2026
 
+UTI Mutual Fund
+100814;UTI - Overnight  Fund - Regular Plan - Growth Option;INF789F01604;;3609.7183;;;17-Jan-2026
+120785;UTI - Overnight Fund - Direct Plan - Growth Option;INF789FB1S71;;3649.8723;;;17-Jan-2026
+124266;UTI Overnight Fund - Direct Plan - Daily IDCW;;INF789FB1S89;1371.6621;;;17-Jan-2026
+120786;UTI Overnight Fund - Direct Plan - Periodic IDCW;INF789FB1T05;INF789FB1S97;1915.5037;;;17-Jan-2026
+124265;UTI Overnight Fund - Regular Plan - Daily IDCW;;INF789FB1T13;1370.8617;;;17-Jan-2026
+100813;UTI Overnight Fund - Regular Plan - Periodic IDCW;INF789F01588;INF789F01596;1859.6013;;;17-Jan-2026
+
 Zerodha Mutual Fund
 153436;Zerodha Overnight Fund - Direct Plan - Growth Option;INF0R8F01075;;10.4391;;;17-Jan-2026
 
@@ -119,6 +139,14 @@ Axis Mutual Fund
 112713;Axis Liquid Fund - Retail Plan - Growth Option;INF846K01354;;2739.3506;;;17-Jan-2026
 112714;Axis Liquid Fund - Retail Plan - Monthly IDCW;INF846K01396;INF846K01404;1003.7781;;;17-Jan-2026
 112715;Axis Liquid Fund - Retail Plan - Weekly IDCW;INF846K01370;INF846K01388;1001.5686;;;17-Jan-2026
+
+Bank of India Mutual Fund
+119368;BANK OF INDIA Liquid Fund- Direct Plan- Daily IDCW;;INF761K01CL0;1005.0000;;;17-Jan-2026
+119369;BANK OF INDIA Liquid Fund- Direct Plan- Growth;INF761K01785;;3134.6582;;;17-Jan-2026
+119370;BANK OF INDIA Liquid Fund- Direct Plan- Weekly IDCW;;INF761K01CM8;1005.7410;;;17-Jan-2026
+111971;BANK OF INDIA Liquid Fund- Regular Plan- Daily IDCW;;INF761K01CO4;1004.5400;;;17-Jan-2026
+109254;BANK OF INDIA Liquid Fund- Regular Plan- Growth;INF761K01306;;3103.1602;;;17-Jan-2026
+109255;BANK OF INDIA Liquid Fund- Regular Plan- Weekly IDCW;;INF761K01CP1;1004.3101;;;17-Jan-2026
 
 Baroda BNP Paribas Mutual Fund
 119414;Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - DAILY IDCW OPTION;INF955L01AK2;;1002.0849;;;17-Jan-2026
@@ -247,6 +275,29 @@ Trust Mutual Fund
 Unifi Mutual Fund
 153570;Unifi Liquid Fund- Direct Growth;INF1MIY01056;;1035.66;;;17-Jan-2026
 153571;Unifi Liquid Fund- Regular Growth;INF1MIY01064;;1035.2836;;;17-Jan-2026
+
+UTI Mutual Fund
+134427;UTI Liquid Fund - Direct Plan - Annual IDCW;INF789FA1K63;INF789FA1K71;1962.0922;;;17-Jan-2026
+120558;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F01XP8;1065.4608;;;17-Jan-2026
+141768;UTI Liquid Fund - Direct Plan - Flexi IDCW;INF789FA1K89;INF789FA1K97;1616.0674;;;17-Jan-2026
+140913;UTI Liquid Fund - Direct Plan - Fortnightly IDCW;INF789FA1K06;INF789FA1K14;1155.6745;;;17-Jan-2026
+140504;UTI Liquid Fund - Direct Plan - Half-Yearly IDCW;INF789FA1K48;INF789FA1K55;1532.65;;;17-Jan-2026
+120794;UTI Liquid Fund - Direct Plan - Monthly IDCW;INF789F01XR4;INF789F01XS2;1045.3649;;;17-Jan-2026
+140024;UTI Liquid Fund - Direct Plan - Quarterly IDCW;INF789FA1K22;INF789FA1K30;1853.0619;;;17-Jan-2026
+120777;UTI Liquid Fund - Direct Plan - Weekly IDCW;;INF789F01XT0;1271.5037;;;17-Jan-2026
+133973;UTI Liquid Fund - Regular Plan - Annual IDCW;INF789FA1J66;INF789FA1J74;1948.6511;;;17-Jan-2026
+102010;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F01PG3;1163.309;;;17-Jan-2026
+140517;UTI Liquid Fund - Regular Plan - Flexi IDCW;INF789FA1J82;INF789FA1J90;1606.0354;;;17-Jan-2026
+139838;UTI Liquid Fund - Regular Plan - Fortnightly IDCW;INF789FA1J09;INF789FA1J17;1154.8415;;;17-Jan-2026
+144475;UTI Liquid Fund - Regular Plan - Half-Yearly IDCW;INF789FA1J41;INF789FA1J58;1356.7294;;;17-Jan-2026
+102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;INF789F01PI9;INF789F01PJ7;1108.485;;;17-Jan-2026
+135721;UTI Liquid Fund - Regular Plan - Quarterly IDCW;INF789FA1J25;INF789FA1J33;1839.9596;;;17-Jan-2026
+102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;;INF789F01PK5;1053.3749;;;17-Jan-2026
+120304;UTI-  Liquid Cash Plan - Direct Plan - Growth Option;INF789F01XQ6;;4461.4579;;;17-Jan-2026
+102012;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;INF789F01PH1;;4419.3037;;;17-Jan-2026
+102008;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;INF789F01BC2;INF789F01BA6;1067.678;;;17-Jan-2026
+102009;UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth;INF789F01BB4;;4010.2533;;;17-Jan-2026
+102007;UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option;;INF789F01AZ5;1134.119;;;17-Jan-2026
 
 Open Ended Schemes ( Other Scheme - Other  ETFs )
 
