@@ -26,6 +26,16 @@ Helios Mutual Fund
 152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;INF0R8701236;;10.77;;;19-Jan-2026
 152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;INF0R8701244;INF0R8701251;10.77;;;19-Jan-2026
 
+Navi Mutual Fund
+141414;Navi Large & Midcap Fund - Direct Annual IDCW Payout;INF959L01CR5;INF959L01CS3;41.7742;;;19-Jan-2026
+141415;Navi Large & Midcap Fund - Direct Half Yearly IDCW Payout;INF959L01CP9;INF959L01CQ7;41.8109;;;19-Jan-2026
+135679;Navi Large & Midcap Fund - Direct Normal IDCW Payout;INF959L01CI4;INF959L01CJ2;41.9177;;;19-Jan-2026
+141411;Navi Large & Midcap Fund - Regular Annual IDCW payout;INF959L01CV7;INF959L01CW5;36.1687;;;19-Jan-2026
+141410;NAVI Large & Midcap Fund - Regular Half Yearly IDCW Payout;INF959L01CT1;INF959L01CU9;35.1752;;;19-Jan-2026
+135680;Navi Large & Midcap Fund - Regular Normal IDCW Payout;INF959L01CL8;INF959L01CM6;35.1623;;;19-Jan-2026
+135677;Navi Large & Midcap Fund- Direct Plan- Growth Option;INF959L01CH6;;42.4286;;;19-Jan-2026
+135678;Navi Large & Midcap Fund- Regular Plan- Growth Option;INF959L01CK0;;35.1665;;;19-Jan-2026
+
 Open Ended Schemes ( Equity Scheme - Mid Cap Fund )
 
 
@@ -49,6 +59,15 @@ Helios Mutual Fund
 153910;Helios Small Cap Fund - Direct Plan - IDCW Option;INF0R8701392;INF0R8701400;9.34;;;19-Jan-2026
 153909;Helios Small Cap Fund - Regular Plan - Growth Option;INF0R8701350;;9.32;;;19-Jan-2026
 153911;Helios Small Cap Fund - Regular Plan - IDCW Option;INF0R8701368;INF0R8701376;9.32;;;19-Jan-2026
+
+Open Ended Schemes ( Equity Scheme - Focused Fund )
+
+
+Old Bridge Mutual Fund
+152358;Old Bridge Focused Fund - Direct Growth;INF0S5R01042;;12.71;;;19-Jan-2026
+152359;Old Bridge Focused Fund - Direct IDCW;INF0S5R01059;INF0S5R01067;12.71;;;19-Jan-2026
+152361;Old Bridge Focused Fund - Regular Growth;INF0S5R01034;;12.45;;;19-Jan-2026
+152363;Old Bridge Focused Fund - Regular IDCW;INF0S5R01018;INF0S5R01026;12.45;;;19-Jan-2026
 
 Open Ended Schemes ( Equity Scheme - Sectoral/ Thematic )
 
@@ -78,6 +97,22 @@ Taurus Mutual Fund
 Open Ended Schemes ( Equity Scheme - ELSS )
 
 
+Navi Mutual Fund
+135653;Navi ELSS Tax Saver Fund - Direct Plan IDCW Payout;INF959L01CE3;;34.5036;;;19-Jan-2026
+135652;Navi ELSS Tax Saver Fund - Regular Plan IDCW Payout;INF959L01CG8;;29.1917;;;19-Jan-2026
+135654;Navi ELSS Tax Saver Fund- Direct Plan- Growth Option;INF959L01CD5;;34.9411;;;19-Jan-2026
+135655;Navi ELSS Tax Saver Fund- Regular Plan- Growth Option;INF959L01CF0;;29.1946;;;19-Jan-2026
+151471;NAVI ELSS TAX SAVER NIFTY 50 INDEX FUND - DIRECT PLAN GROWTH;INF959L01GR6;;15.4624;;;19-Jan-2026
+151473;NAVI ELSS TAX SAVER NIFTY 50 INDEX FUND - DIRECT PLAN IDCW PAYOUT;INF959L01GT2;;15.4695;;;19-Jan-2026
+151472;NAVI ELSS TAX SAVER NIFTY 50 INDEX FUND - REGULAR PLAN GROWTH;INF959L01GS4;;15.0435;;;19-Jan-2026
+151474;NAVI ELSS TAX SAVER NIFTY 50 INDEX FUND - REGULAR PLAN IDCW PAYOUT;INF959L01GU0;;15.103;;;19-Jan-2026
+
+NJ Mutual Fund
+151611;NJ ELSS Tax Saver Scheme Direct Growth;INF0J8L01115;;14.57;;;19-Jan-2026
+151612;NJ ELSS Tax Saver Scheme Direct IDCW;INF0J8L01123;;14.57;;;19-Jan-2026
+151609;NJ ELSS Tax Saver Scheme Regular Growth;INF0J8L01099;;13.91;;;19-Jan-2026
+151610;NJ ELSS Tax Saver Scheme Regular IDCW;INF0J8L01107;;13.91;;;19-Jan-2026
+
 Taurus Mutual Fund
 118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;INF044D01CG6;INF044D01AA3;194.21;;;19-Jan-2026
 118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01CH4;INF044D01CI2;89.51;;;19-Jan-2026
@@ -93,6 +128,50 @@ Helios Mutual Fund
 152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;INF0R8701103;;1000.0000;;;19-Jan-2026
 152153;Helios Overnight Fund - Regular Plan - Growth Option;INF0R8701095;;1143.2039;;;19-Jan-2026
 
+NJ Mutual Fund
+150369;NJ Overnight Fund - Direct Plan - Growth Option;INF0J8L01081;;1234.5805;;;19-Jan-2026
+150368;NJ Overnight Fund - Regular Plan - Growth Option;INF0J8L01073;;1230.2735;;;19-Jan-2026
+152116;NJ Overnight Fund - Unclaimed Redemption Plan - Upto 3 Years;;;1072.5749;;;19-Jan-2026
+
+Zerodha Mutual Fund
+153436;Zerodha Overnight Fund - Direct Plan - Growth Option;INF0R8F01075;;10.442;;;19-Jan-2026
+
+Open Ended Schemes ( Debt Scheme - Liquid Fund )
+
+
+Navi Mutual Fund
+119163;Navi Liquid Fund - Direct Plan Daily IDCW - ReInvestment;;INF959L01GK1;10.0129;;;19-Jan-2026
+119161;Navi Liquid Fund - Direct Plan Monthly IDCW - Payout;INF959L01GG9;INF959L01GH7;10.0486;;;19-Jan-2026
+119162;Navi Liquid Fund - Direct Plan Weekly IDCW - Payout;INF959L01GI5;INF959L01GJ3;10.014;;;19-Jan-2026
+112645;Navi Liquid Fund - Regular Plan Daily IDCW;;INF959L01GM7;10.0129;;;19-Jan-2026
+112647;Navi Liquid Fund - Regular Plan Monthly IDCW;INF959L01GN5;INF959L01GO3;10.0482;;;19-Jan-2026
+112646;Navi Liquid Fund - Regular Plan Weekly IDCW;INF959L01GP0;INF959L01GQ8;10.0143;;;19-Jan-2026
+119164;Navi Liquid Fund-Direct Plan-Growth Option;INF959L01GF1;;29.5218;;;19-Jan-2026
+112636;Navi Liquid Fund-Regular Plan-Growth Option;INF959L01GL9;;29.2531;;;19-Jan-2026
+140437;Navi Liquid Fund-Unclaimed Redemption and Dividend Plan greater than 3 years;INF959L01CO2;;10;;;19-Jan-2026
+139386;Navi Liquid Fund-Unclaimed Redemption and Dividend Plan less than 3 years;INF959L01CN4;;29.4237;;;19-Jan-2026
+
+Unifi Mutual Fund
+153570;Unifi Liquid Fund- Direct Growth;INF1MIY01056;;1035.9502;;;19-Jan-2026
+153571;Unifi Liquid Fund- Regular Growth;INF1MIY01064;;1035.5703;;;19-Jan-2026
+
+Open Ended Schemes ( Hybrid Scheme - Aggressive Hybrid Fund )
+
+
+Navi Mutual Fund
+143163;Navi Aggressive Hybrid Fund - Direct Plan - Growth;INF959L01CX3;;23.7338;;;19-Jan-2026
+143195;Navi Aggressive Hybrid Fund - Direct Plan Annual IDCW;INF959L01DG6;INF959L01DH4;23.6324;;;19-Jan-2026
+143186;Navi Aggressive Hybrid Fund - Direct Plan Half Yearly IDCW;INF959L01DE1;INF959L01DF8;23.6292;;;19-Jan-2026
+143192;Navi Aggressive Hybrid Fund - Direct Plan Monthly IDCW;INF959L01DA9;INF959L01DB7;23.6277;;;19-Jan-2026
+143167;Navi Aggressive Hybrid Fund - Direct Plan Normal IDCW;INF959L01CY1;INF959L01CZ8;23.6291;;;19-Jan-2026
+143185;Navi Aggressive Hybrid Fund - Direct Plan Quarterly IDCW;INF959L01DC5;INF959L01DD3;23.6281;;;19-Jan-2026
+143162;Navi Aggressive Hybrid Fund - Regular Plan - Growth;INF959L01DI2;;20.657;;;19-Jan-2026
+143198;Navi Aggressive Hybrid Fund - Regular Plan Annual IDCW;INF959L01DR3;INF959L01DS1;20.6545;;;19-Jan-2026
+143189;Navi Aggressive Hybrid Fund - Regular Plan Half Yearly IDCW;INF959L01DP7;INF959L01DQ5;20.6698;;;19-Jan-2026
+143197;Navi Aggressive Hybrid Fund - Regular Plan Monthly IDCW;INF959L01DL6;INF959L01DM4;20.6564;;;19-Jan-2026
+143166;Navi Aggressive Hybrid Fund - Regular Plan Normal IDCW;INF959L01DJ0;INF959L01DK8;20.6581;;;19-Jan-2026
+143199;Navi Aggressive Hybrid Fund - Regular Plan Quarterly IDCW;INF959L01DN2;INF959L01DO0;20.6571;;;19-Jan-2026
+
 Open Ended Schemes ( Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage )
 
 
@@ -102,8 +181,61 @@ Helios Mutual Fund
 152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;INF0R8701111;;11.53;;;19-Jan-2026
 152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;INF0R8701129;INF0R8701137;11.53;;;19-Jan-2026
 
+NJ Mutual Fund
+149264;NJ Balanced Advantage Fund - Direct Plan - Growth Option;INF0J8L01040;;14.37;;;19-Jan-2026
+149265;NJ Balanced Advantage Fund - Direct Plan - IDCW Payout Option;INF0J8L01032;;14.37;;;19-Jan-2026
+149266;NJ Balanced Advantage Fund - Regular Plan - Growth Option;INF0J8L01024;;13.60;;;19-Jan-2026
+149263;NJ Balanced Advantage Fund - Regular Plan - IDCW Payout Option;INF0J8L01016;;13.60;;;19-Jan-2026
+
+Unifi Mutual Fund
+153376;Unifi Dynamic Asset Allocation Fund - Direct Growth;INF1MIY01015;;10.6944;;;19-Jan-2026
+153377;Unifi Dynamic Asset Allocation Fund - Regular Growth;INF1MIY01023;;10.6404;;;19-Jan-2026
+
+Open Ended Schemes ( Hybrid Scheme - Arbitrage Fund )
+
+
+NJ Mutual Fund
+150367;NJ Arbitrage Fund - Direct Plan - Growth Option;INF0J8L01065;;12.6501;;;19-Jan-2026
+150366;NJ Arbitrage Fund - Regular Plan - Growth Option;INF0J8L01057;;12.3450;;;19-Jan-2026
+
+Old Bridge Mutual Fund
+153981;Old Bridge Arbitrage Fund - Direct - IDCW;INF0S5R01075;INF0S5R01083;10.1256;;;19-Jan-2026
+153979;Old Bridge Arbitrage Fund Direct Growth;INF0S5R01125;;10.1256;;;19-Jan-2026
+153977;Old Bridge Arbitrage Fund Regular Growth;INF0S5R01091;;10.1093;;;19-Jan-2026
+153980;Old Bridge Arbitrage Fund Regular IDCW;INF0S5R01109;INF0S5R01117;10.1093;;;19-Jan-2026
+
 Open Ended Schemes ( Other Scheme - Index Funds )
 
+
+Angel One Mutual Fund
+153529;ANGEL ONE NIFTY 50 INDEX FUND-DIRECT-GROWTH;INF1J2R01072;;10.4723;;;19-Jan-2026
+153530;ANGEL ONE NIFTY 50 INDEX FUND-REGULAR-GROWTH;INF1J2R01080;;10.4375;;;19-Jan-2026
+153330;ANGEL ONE NIFTY TOTAL MARKET INDEX FUND DIRECT PLAN GROWTH OPTION;INF1J2R01023;;11.7841;;;19-Jan-2026
+153331;ANGEL ONE NIFTY TOTAL MARKET INDEX FUND REGULAR PLAN GROWTH OPTION;INF1J2R01031;;11.7054;;;19-Jan-2026
+153956;ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 INDEX FUND - DIRECT GROWTH;INF1J2R01122;;9.6051;;;19-Jan-2026
+153955;ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 INDEX FUND - REGULAR GROWTH;INF1J2R01130;;9.5941;;;19-Jan-2026
+
+Navi Mutual Fund
+152062;NAVI BSE SENSEX INDEX FUND - DIRECT PLAN - GROWTH;INF959L01HK9;;12.9118;;;19-Jan-2026
+152061;NAVI BSE SENSEX INDEX FUND - REGULAR PLAN - GROWTH;INF959L01HJ1;;12.6997;;;19-Jan-2026
+149039;Navi Nifty 50 Index Fund-Direct Plan-Growth;INF959L01FP2;;16.7697;;;19-Jan-2026
+149040;Navi Nifty 50 Index Fund-Regular Plan-Growth;INF959L01FQ0;;16.6164;;;19-Jan-2026
+152751;NAVI NIFTY 500 MULTICAP 50-25-25 DIRECT PLAN;INF959L01HO1;;9.9305;;;19-Jan-2026
+152750;NAVI NIFTY 500 MULTICAP 50-25-25 REGULAR PLAN;INF959L01HN3;;9.8296;;;19-Jan-2026
+149804;Navi Nifty Bank Index Fund- Direct Plan- Growth;INF959L01FT4;;15.7395;;;19-Jan-2026
+149805;Navi Nifty Bank Index Fund- Regular Plan- Growth;INF959L01FU2;;15.2971;;;19-Jan-2026
+150515;Navi Nifty India Manufacturing Index Fund- Direct Plan- Growth;INF959L01GD6;;18.3624;;;19-Jan-2026
+150516;Navi Nifty India Manufacturing Index Fund- Regular Plan- Growth;INF959L01GE4;;17.8751;;;19-Jan-2026
+149892;Navi Nifty Midcap 150 Index Fund Direct Plan- Growth;INF959L01FX6;;20.6781;;;19-Jan-2026
+149893;Navi Nifty Midcap 150 Index Fund Regular Plan- Growth;INF959L01FY4;;20.007;;;19-Jan-2026
+154026;Navi Nifty Midsmall 400 Index Fund - Regular - Growth;INF959L01HS2;;9.9962;;;19-Jan-2026
+154027;Navi Nifty midsmallcap 400 Index Fund- Direct - Growth;INF959L01HR4;;10.006;;;19-Jan-2026
+149447;Navi Nifty Next 50 Index Fund- Direct Plan- Growth;INF959L01FR8;;16.3037;;;19-Jan-2026
+149448;Navi Nifty Next 50 Index Fund- Regular Plan- Growth;INF959L01FS6;;15.9634;;;19-Jan-2026
+153362;Navi Nifty Smallcap 250 Momentum quality index fund- Direct Plan;INF959L01HQ6;;10.7193;;;19-Jan-2026
+153363;Navi Nifty Smallcap 250 Momentum quality index fund- Regular Plan;INF959L01HP8;;10.657;;;19-Jan-2026
+152535;Navi NiftyIT Index Fund - Direct Plan- Growth;INF959L01HM5;;11.5324;;;19-Jan-2026
+152536;Navi NiftyIT Index Fund - Regular Plan -Growth;INF959L01HL7;;11.3794;;;19-Jan-2026
 
 Taurus Mutual Fund
 118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;INF044D01CQ5;;51.8643;;;19-Jan-2026
@@ -111,11 +243,50 @@ Taurus Mutual Fund
 112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;INF044D01948;;48.6286;;;19-Jan-2026
 112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01914;INF044D01922;31.0047;;;19-Jan-2026
 
+Zerodha Mutual Fund
+153932;Zerodha BSE SENSEX Index Fund;INF0R8F01174;;9.9838;;;19-Jan-2026
+152157;Zerodha ELSS Tax Saver Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option;INF0R8F01026;;14.2147;;;19-Jan-2026
+153906;Zerodha Nifty 50 Index Fund - Direct Plan - Growth;INF0R8F01158;;10.1678;;;19-Jan-2026
+152156;Zerodha Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option;INF0R8F01018;;14.1946;;;19-Jan-2026
+154109;Zerodha Nifty Short Duration G-Sec Index Fund - Direct Plan - Growth Option;INF0R8F01182;;1001.6311;;;19-Jan-2026
+
 Open Ended Schemes ( Other Scheme - Gold ETF )
 
 
+Angel One Mutual Fund
+153826;ANGEL ONE GOLD ETF;INF1J2R01114;;13.3998;;;19-Jan-2026
+
 LIC Mutual Fund
 151961;LIC MF Gold Exchange Traded Fund;INF397L01554;;12918.8722;;;19-Jan-2026
+
+Open Ended Schemes ( Other Scheme - Other  ETFs )
+
+
+Angel One Mutual Fund
+153451;ANGEL ONE NIFTY 1D RATE LIQUID ETF - GROWTH;INF1J2R01056;;1043.5765;;;19-Jan-2026
+153531;ANGEL ONE NIFTY 50 ETF;INF1J2R01064;;10.4887;;;19-Jan-2026
+153332;ANGEL ONE NIFTY TOTAL MARKET ETF;INF1J2R01015;;11.7949;;;19-Jan-2026
+153957;ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 ETF;INF1J2R01148;;9.6045;;;19-Jan-2026
+
+Zerodha Mutual Fund
+152667;Zerodha Nifty 100 ETF;INF0R8F01067;;10.9185;;;19-Jan-2026
+152327;Zerodha Nifty 1D Rate Liquid ETF - Growth Option;INF0R8F01034;;112.3676;;;19-Jan-2026
+153905;Zerodha Nifty 50 ETF;INF0R8F01166;;10.1802;;;19-Jan-2026
+153811;Zerodha Nifty 8-13 Yr G-Sec ETF;INF0R8F01133;;29.6331;;;19-Jan-2026
+152668;Zerodha Nifty Midcap 150 ETF;INF0R8F01059;;10.9221;;;19-Jan-2026
+153837;Zerodha Nifty Smallcap 100 ETF;INF0R8F01141;;9.7047;;;19-Jan-2026
+
+Open Ended Schemes ( Other Scheme - FoF Domestic )
+
+
+Angel One Mutual Fund
+153828;ANGEL ONE GOLD ETF FOF - REGULAR GROWTH;INF1J2R01106;;13.1146;;;19-Jan-2026
+153827;ANGEL ONE GOLD ETF FOF- DIRECT GROWTH;INF1J2R01098;;13.1382;;;19-Jan-2026
+
+Zerodha Mutual Fund
+153011;Zerodha Gold ETF FoF-Direct Plan - Growth Option;INF0R8F01083;;18.9883;;;19-Jan-2026
+153757;Zerodha Multi Asset Passive FoF - Direct - Growth;INF0R8F01117;;11.2876;;;19-Jan-2026
+153656;Zerodha Silver ETF FoF - Direct Growth;INF0R8F01109;;26.8862;;;19-Jan-2026
 
 Open Ended Schemes ( Equity Scheme - Flexi Cap Fund )
 
@@ -126,8 +297,32 @@ Helios Mutual Fund
 152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;INF0R8701012;;14.58;;;19-Jan-2026
 152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;INF0R8701020;INF0R8701038;14.58;;;19-Jan-2026
 
+Navi Mutual Fund
+143793;Navi Flexi Cap Fund - Direct Plan - Growth;INF959L01DT9;;26.806;;;19-Jan-2026
+143798;NAVI FLEXI CAP FUND - DIRECT PLAN ANNUAL IDCW PAYOUT;INF959L01EC3;INF959L01ED1;26.6012;;;19-Jan-2026
+143797;NAVI FLEXI CAP FUND - DIRECT PLAN HALF YEARLY IDCW PAYOUT;INF959L01EA7;INF959L01EB5;26.602;;;19-Jan-2026
+143796;NAVI FLEXI CAP FUND - DIRECT PLAN MONTHLY IDCW PAYOUT;INF959L01DW3;INF959L01DX1;26.5964;;;19-Jan-2026
+143792;NAVI FLEXI CAP FUND - DIRECT PLAN NORMAL IDCW PAYOUT;INF959L01DU7;INF959L01DV5;26.5682;;;19-Jan-2026
+143791;NAVI FLEXI CAP FUND - DIRECT PLAN QUARTERLY IDCW PAYOUT;INF959L01DY9;INF959L01DZ6;26.6223;;;19-Jan-2026
+143787;Navi Flexi Cap Fund - Regular Plan - Growth;INF959L01EE9;;23.1328;;;19-Jan-2026
+143795;NAVI FLEXI CAP FUND - REGULAR PLAN ANNUAL IDCW PAYOUT;INF959L01EN0;INF959L01EO8;23.1334;;;19-Jan-2026
+143794;NAVI FLEXI CAP FUND - REGULAR PLAN HALF YEARLY IDCW PAYOUT;INF959L01EL4;INF959L01EM2;23.1364;;;19-Jan-2026
+143790;NAVI FLEXI CAP FUND - REGULAR PLAN MONTHLY IDCW PAYOUT;INF959L01EH2;INF959L01EI0;23.1419;;;19-Jan-2026
+143789;NAVI FLEXI CAP FUND - REGULAR PLAN NORMAL IDCW PAYOUT;INF959L01EF6;INF959L01EG4;23.1361;;;19-Jan-2026
+143788;NAVI FLEXI CAP FUND - REGULAR PLAN QUARTERLY IDCW PAYOUT;INF959L01EJ8;INF959L01EK6;23.1302;;;19-Jan-2026
+
+NJ Mutual Fund
+151917;NJ Flexi Cap Fund - Direct Plan - Growth Option;INF0J8L01156;;13.72;;;19-Jan-2026
+151918;NJ Flexi Cap Fund - Direct Plan - IDCW Option;INF0J8L01164;;13.72;;;19-Jan-2026
+151920;NJ Flexi Cap Fund - Regular Plan - Growth Option;INF0J8L01131;;13.21;;;19-Jan-2026
+151919;NJ Flexi Cap Fund - Regular Plan - IDCW Option;INF0J8L01149;;13.21;;;19-Jan-2026
+
 Taurus Mutual Fund
 118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;INF044D01BV7;INF044D01BW5;114.78;;;19-Jan-2026
 118883;Taurus Flexi Cap Fund - Direct Plan - Growth;INF044D01BU9;;227.50;;;19-Jan-2026
 100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;INF044D01989;;218.60;;;19-Jan-2026
 111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01955;INF044D01963;106.08;;;19-Jan-2026
+
+Unifi Mutual Fund
+153543;Unifi Flexi Cap Fund - Direct Growth;INF1MIY01031;;10.2283;;;19-Jan-2026
+153542;Unifi Flexi Cap Fund - Regular Growth;INF1MIY01049;;10.1454;;;19-Jan-2026
