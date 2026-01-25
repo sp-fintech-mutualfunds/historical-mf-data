@@ -7102,10 +7102,10 @@ NJ Mutual Fund
 150366;NJ Arbitrage Fund - Regular Plan - Growth Option;INF0J8L01057;;12.2756;;;24-Dec-2025
 
 Old Bridge Mutual Fund
-153981;Old Bridge Arbitrage Fund - Direct - IDCW Payout;INF0S5R01075;;10.0683;;;24-Dec-2025
+153981;Old Bridge Arbitrage Fund - Direct - IDCW;INF0S5R01075;INF0S5R01083;10.0683;;;24-Dec-2025
 153979;Old Bridge Arbitrage Fund Direct Growth;INF0S5R01125;;10.0683;;;24-Dec-2025
 153977;Old Bridge Arbitrage Fund Regular Growth;INF0S5R01091;;10.0582;;;24-Dec-2025
-153980;Old Bridge Arbitrage Fund Regular IDCW Payout;INF0S5R01109;;10.0582;;;24-Dec-2025
+153980;Old Bridge Arbitrage Fund Regular IDCW;INF0S5R01109;INF0S5R01117;10.0582;;;24-Dec-2025
 
 PGIM India Mutual Fund
 138875;PGIM India Arbitrage Fund - Direct Plan - Growth;INF223J013N7;;20.1658;;;24-Dec-2025
@@ -9358,10 +9358,10 @@ Motilal Oswal Mutual Fund
 152091;Motilal Oswal Developed Market Ex US ETFs Fund of Funds Regular Plan Growth;INF247L01BS5;;15.5610;;;24-Dec-2025
 
 Navi Mutual Fund
-149910;Navi NASDAQ 100 Fund of Fund- Direct- Growth;INF959L01FZ1;;20.5325;;;24-Dec-2025
-149911;Navi NASDAQ 100 Fund of Fund- Regular- Growth;INF959L01GA2;;20.3932;;;24-Dec-2025
-149830;Navi US Total Stock Market Fund of Fund- Direct Plan- Growth;INF959L01FV0;;19.362;;;24-Dec-2025
-149831;Navi US Total Stock Market Fund of Fund- Regular Plan- Growth;INF959L01FW8;;19.3621;;;24-Dec-2025
+149910;Navi NASDAQ100 US Specific Equity Passive FOF- Direct- Growth;INF959L01FZ1;;20.5325;;;24-Dec-2025
+149911;Navi NASDAQ100 US Specific Equity Passive FOF- Regular- Growth;INF959L01GA2;;20.3932;;;24-Dec-2025
+149830;Navi Total Stock Market US Specific Equity Passive FoF- Direct Plan- Growth;INF959L01FV0;;19.362;;;24-Dec-2025
+149831;Navi Total Stock Market US Specific Equity Passive FoF- Regular Plan- Growth;INF959L01FW8;;19.3621;;;24-Dec-2025
 
 PGIM India Mutual Fund
 138456;PGIM India Emerging Markets Equity Fund of Fund - Direct Plan - Growth;INF223J01NL0;;20.81;;;24-Dec-2025
@@ -9790,8 +9790,8 @@ Motilal Oswal Mutual Fund
 148748;Motilal Oswal Asset Allocation FOF- A- Regular Growth;INF247L01AM0;;19.2518;;;24-Dec-2025
 148750;Motilal Oswal Asset Allocation FOF- C- Direct Growth;INF247L01AN8;;17.4612;;;24-Dec-2025
 148749;Motilal Oswal Asset Allocation FOF- C- Regular Growth;INF247L01AO6;;17.0304;;;24-Dec-2025
-150642;Motilal Oswal Gold and Silver ETFs Fund of Funds(Direct Plan);INF247L01BM8;;28.6316;;;24-Dec-2025
-150641;Motilal Oswal Gold and Silver ETFs Fund of Funds(Regular Plan);INF247L01BN6;;28.3041;;;24-Dec-2025
+150642;Motilal Oswal Gold and Silver Passive Fund of Funds(Direct Plan);INF247L01BM8;;28.6316;;;24-Dec-2025
+150641;Motilal Oswal Gold and Silver Passive Fund of Funds(Regular Plan);INF247L01BN6;;28.3041;;;24-Dec-2025
 145552;Motilal Oswal Nasdaq 100 Fund of Fund- Direct Plan Growth;INF247L01718;;49.4483;;;24-Dec-2025
 145551;Motilal Oswal Nasdaq 100 Fund of Fund- Regular Plan Growth;INF247L01700;;48.0999;;;24-Dec-2025
 

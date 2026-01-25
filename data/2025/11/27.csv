@@ -7022,10 +7022,10 @@ NJ Mutual Fund
 150366;NJ Arbitrage Fund - Regular Plan - Growth Option;INF0J8L01057;;12.2248;;;27-Nov-2025
 
 Old Bridge Mutual Fund
-153981;Old Bridge Arbitrage Fund - Direct - IDCW Payout;INF0S5R01075;;10.0202;;;27-Nov-2025
+153981;Old Bridge Arbitrage Fund - Direct - IDCW;INF0S5R01075;INF0S5R01083;10.0202;;;27-Nov-2025
 153979;Old Bridge Arbitrage Fund Direct Growth;INF0S5R01125;;10.0202;;;27-Nov-2025
 153977;Old Bridge Arbitrage Fund Regular Growth;INF0S5R01091;;10.0164;;;27-Nov-2025
-153980;Old Bridge Arbitrage Fund Regular IDCW Payout;INF0S5R01109;;10.0164;;;27-Nov-2025
+153980;Old Bridge Arbitrage Fund Regular IDCW;INF0S5R01109;INF0S5R01117;10.0164;;;27-Nov-2025
 
 PGIM India Mutual Fund
 138875;PGIM India Arbitrage Fund - Direct Plan - Growth;INF223J013N7;;20.0846;;;27-Nov-2025
@@ -9641,8 +9641,8 @@ Motilal Oswal Mutual Fund
 148748;Motilal Oswal Asset Allocation FOF- A- Regular Growth;INF247L01AM0;;18.9844;;;27-Nov-2025
 148750;Motilal Oswal Asset Allocation FOF- C- Direct Growth;INF247L01AN8;;17.2214;;;27-Nov-2025
 148749;Motilal Oswal Asset Allocation FOF- C- Regular Growth;INF247L01AO6;;16.8021;;;27-Nov-2025
-150642;Motilal Oswal Gold and Silver ETFs Fund of Funds(Direct Plan);INF247L01BM8;;24.5330;;;27-Nov-2025
-150641;Motilal Oswal Gold and Silver ETFs Fund of Funds(Regular Plan);INF247L01BN6;;24.2589;;;27-Nov-2025
+150642;Motilal Oswal Gold and Silver Passive Fund of Funds(Direct Plan);INF247L01BM8;;24.5330;;;27-Nov-2025
+150641;Motilal Oswal Gold and Silver Passive Fund of Funds(Regular Plan);INF247L01BN6;;24.2589;;;27-Nov-2025
 145552;Motilal Oswal Nasdaq 100 Fund of Fund- Direct Plan Growth;INF247L01718;;49.0362;;;27-Nov-2025
 145551;Motilal Oswal Nasdaq 100 Fund of Fund- Regular Plan Growth;INF247L01700;;47.7118;;;27-Nov-2025
 
