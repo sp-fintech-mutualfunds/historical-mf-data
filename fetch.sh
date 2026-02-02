@@ -1,17 +1,17 @@
 #!/bin/bash
 # Data is often backfilled, but not very often.
-# We default to checking last 7 days
-# But on every Sunday, go back a year.
+# We default to checking last 3 days
+# But on every Sunday, go back a week.
 # Returns a 1-7, 1=Mon
 if [ "$(date +%u)" -eq 7 ]; then
-	d=$(date -I -d '-90 days')
-else
 	d=$(date -I -d '-7 days')
+else
+	d=$(date -I -d '-2 days')
 fi
 
-# On the first of every month, go back a year
+# On the first of every month, go back a 30 days
 if [ "$(date +%d)" -eq 1 ]; then
-	d=$(date -I -d '-365 days')
+	d=$(date -I -d '-30 days')
 fi
 echo "Starting date is $d"
 
