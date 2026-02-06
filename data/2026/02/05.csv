@@ -470,7 +470,7 @@ DSP Mutual Fund
 Edelweiss Mutual Fund
 140175;Edelweiss Large & Mid Cap Fund - Direct Plan - Growth Option;INF843K01AL0;;105.301;;;05-Feb-2026
 140172;Edelweiss Large & Mid Cap Fund - Regular Plan - Growth Option;INF843K01047;;88.815;;;05-Feb-2026
-140174;Edelweiss Large and Mid Cap Fund - Direct Plan - IDCW Option;INF843K01AM8;INF843K01AN6;40.844;;;05-Feb-2026
+140174;Edelweiss Large and Mid Cap Fund - Direct Plan - IDCW Option;INF843K01AM8;INF843K01AN6;40.845;;;05-Feb-2026
 140173;Edelweiss Large and Mid Cap Fund - Regular Plan - IDCW Option;INF843K01054;INF843K01062;33.873;;;05-Feb-2026
 
 Franklin Templeton Mutual Fund
@@ -661,7 +661,7 @@ DSP Mutual Fund
 104482;DSP Midcap Fund - Regular Plan - IDCW;INF740K01102;INF740K01110;30.773;;;05-Feb-2026
 
 Edelweiss Mutual Fund
-140228;Edelweiss Mid Cap Fund - Direct Plan - Growth Option;INF843K01AO4;;121.567;;;05-Feb-2026
+140228;Edelweiss Mid Cap Fund - Direct Plan - Growth Option;INF843K01AO4;;121.568;;;05-Feb-2026
 140227;Edelweiss Mid Cap Fund - Direct Plan - IDCW Option;INF843K01AP1;INF843K01AQ9;88.644;;;05-Feb-2026
 140225;Edelweiss Mid Cap Fund - Regular Plan - Growth Option;INF843K01013;;103.395;;;05-Feb-2026
 140226;Edelweiss Mid Cap Fund - Regular Plan - IDCW Option;INF843K01021;INF843K01039;59.61;;;05-Feb-2026
@@ -1271,10 +1271,10 @@ DSP Mutual Fund
 113032;DSP Focused Fund - Regular Plan - IDCW;INF740K01540;INF740K01AC7;22.222;;;05-Feb-2026
 
 Edelweiss Mutual Fund
-150376;Edelweiss Focused Fund - Direct Plan - Growth;INF754K01OP1;;17.85;;;05-Feb-2026
+150376;Edelweiss Focused Fund - Direct Plan - Growth;INF754K01OP1;;17.851;;;05-Feb-2026
 150383;Edelweiss Focused Fund - Direct Plan - IDCW;INF754K01OQ9;INF754K01OR7;17.85;;;05-Feb-2026
 150382;Edelweiss Focused Fund - Regular Plan - Growth;INF754K01OL0;;16.854;;;05-Feb-2026
-150384;Edelweiss Focused Fund - Regular Plan - IDCW;INF754K01OM8;INF754K01ON6;16.853;;;05-Feb-2026
+150384;Edelweiss Focused Fund - Regular Plan - IDCW;INF754K01OM8;INF754K01ON6;16.854;;;05-Feb-2026
 
 Franklin Templeton Mutual Fund
 118564;Franklin India Focused Equity Fund - Direct - Growth;INF090I01IW2;;123.1358;;;05-Feb-2026
@@ -1608,14 +1608,14 @@ DSP Mutual Fund
 147305;DSP Quant Fund - Regular Plan - IDCW;INF740KA1NO1;INF740KA1NP8;18.328;;;05-Feb-2026
 
 Edelweiss Mutual Fund
-152710;Edelweiss Business Cycle Fund - Direct Plan - Growth;INF754K01TA2;;9.0981;;;05-Feb-2026
-152723;Edelweiss Business Cycle Fund - Direct Plan - IDCW Option;INF754K01TB0;INF754K01TC8;9.0981;;;05-Feb-2026
-152724;Edelweiss Business Cycle Fund - Regular Plan - Growth;INF754K01SW8;;8.8752;;;05-Feb-2026
-152722;Edelweiss Business Cycle Fund - Regular Plan - IDCW Option;INF754K01SX6;INF754K01SY4;8.8752;;;05-Feb-2026
-153214;Edelweiss Consumption Fund - Direct - Growth;INF754K01TY2;;11.141;;;05-Feb-2026
-153254;Edelweiss Consumption Fund - Direct - IDCW - Payout;INF754K01TZ9;INF754K01UA0;11.141;;;05-Feb-2026
-153255;Edelweiss Consumption Fund - Regular - Growth;INF754K01UC6;;10.9602;;;05-Feb-2026
-153215;Edelweiss Consumption Fund - Regular - IDCW - Payout;INF754K01UD4;INF754K01UE2;10.9602;;;05-Feb-2026
+152710;Edelweiss Business Cycle Fund - Direct Plan - Growth;INF754K01TA2;;9.0982;;;05-Feb-2026
+152723;Edelweiss Business Cycle Fund - Direct Plan - IDCW Option;INF754K01TB0;INF754K01TC8;9.0982;;;05-Feb-2026
+152724;Edelweiss Business Cycle Fund - Regular Plan - Growth;INF754K01SW8;;8.8753;;;05-Feb-2026
+152722;Edelweiss Business Cycle Fund - Regular Plan - IDCW Option;INF754K01SX6;INF754K01SY4;8.8753;;;05-Feb-2026
+153214;Edelweiss Consumption Fund - Direct - Growth;INF754K01TY2;;11.1407;;;05-Feb-2026
+153254;Edelweiss Consumption Fund - Direct - IDCW - Payout;INF754K01TZ9;INF754K01UA0;11.1407;;;05-Feb-2026
+153255;Edelweiss Consumption Fund - Regular - Growth;INF754K01UC6;;10.9599;;;05-Feb-2026
+153215;Edelweiss Consumption Fund - Regular - IDCW - Payout;INF754K01UD4;INF754K01UE2;10.9599;;;05-Feb-2026
 142386;Edelweiss Recently Listed IPO Fund - DIRECT PLAN - IDCW Option;INF754K01MM2;INF754K01MN0;27.6645;;;05-Feb-2026
 142388;Edelweiss Recently Listed IPO Fund Direct Plan Growth;INF754K01ML4;;27.6644;;;05-Feb-2026
 142384;Edelweiss Recently Listed IPO Fund REGULAR PLAN - IDCW Option;INF754K01MI0;INF754K01MJ8;25.6558;;;05-Feb-2026
@@ -2198,6 +2198,12 @@ Sundaram Mutual Fund
 153667;Sundaram Multi-Factor Fund - Regular - Growth;INF903JA1LY0;;10.3611;;;05-Feb-2026
 153671;Sundaram Multi-Factor Fund - Regular - IDCW Payout;INF903JA1LX2;;10.3611;;;05-Feb-2026
 153668;Sundaram Multi-Factor Fund - Regular - IDCW Reinvestment;;INF903JA1LW4;10.3611;;;05-Feb-2026
+144835;Sundaram Services Fund Direct Plan - Growth;INF903JA1FA2;;38.3548;;;05-Feb-2026
+144836;Sundaram Services Fund Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW) ;INF903JA1FB0;;24.5824;;;05-Feb-2026
+144837;Sundaram Services Fund Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW) ;INF903JA1FC8;;24.5824;;;05-Feb-2026
+144838;Sundaram Services Fund Regular Plan - Growth;INF903JA1EX7;;35.2095;;;05-Feb-2026
+144839;Sundaram Services Fund Regular Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW) ;INF903JA1EY5;;22.5270;;;05-Feb-2026
+144834;Sundaram Services Fund Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW) ;INF903JA1EZ2;;22.5270;;;05-Feb-2026
 
 Tata Mutual Fund
 135789;TATA Banking & Financial Services Fund Direct Plan - Payout of Income Distribution cum capital withdrawal option ;INF277K01Z28;;53.0518;;;05-Feb-2026
@@ -2403,7 +2409,7 @@ DSP Mutual Fund
 104773;DSP ELSS Tax Saver Fund - Regular Plan - IDCW;INF740K01169;INF740K01177;23.999;;;05-Feb-2026
 
 Edelweiss Mutual Fund
-118619;Edelweiss ELSS Tax Saver Fund - Direct Plan - IDCW Option;INF754K01BX2;INF754K01BY0;46.07;;;05-Feb-2026
+118619;Edelweiss ELSS Tax Saver Fund - Direct Plan - IDCW Option;INF754K01BX2;INF754K01BY0;46.06;;;05-Feb-2026
 118620;Edelweiss ELSS Tax Saver Fund - Direct Plan-Growth Option;INF754K01CA8;;136.23;;;05-Feb-2026
 111638;Edelweiss ELSS Tax Saver Fund - Regular Plan - Growth Option;INF754K01517;;114.16;;;05-Feb-2026
 111639;Edelweiss ELSS Tax Saver Fund - Regular Plan - IDCW Option;INF754K01525;INF754K01541;30.55;;;05-Feb-2026
@@ -6231,7 +6237,7 @@ Edelweiss Mutual Fund
 112108;Edelweiss Aggressive Hybrid Fund - Regular Plan - Growth Option;INF754K01202;;64.1;;;05-Feb-2026
 112109;Edelweiss Aggressive Hybrid Fund - Regular Plan - IDCW Option;INF754K01178;INF754K01186;26.71;;;05-Feb-2026
 112012;Edelweiss Aggressive Hybrid Fund- Plan B-Growth Option;INF754K01160;;63.42;;;05-Feb-2026
-118624;Edelweiss Aggressive Hybrid Fund-Direct Plan-Growth Option;INF754K01CE0;;74.43;;;05-Feb-2026
+118624;Edelweiss Aggressive Hybrid Fund-Direct Plan-Growth Option;INF754K01CE0;;74.44;;;05-Feb-2026
 
 Franklin Templeton Mutual Fund
 118546;Franklin India Aggressive Hybrid Fund - Direct - Growth;INF090I01FZ1;;312.0161;;;05-Feb-2026
@@ -6637,6 +6643,12 @@ Bajaj Finserv Mutual Fund
 152642;Bajaj Finserv Multi Asset Allocation Fund - Regular Growth;INF0QA701797;;12.4454;;;05-Feb-2026
 152640;Bajaj Finserv Multi Asset Allocation Fund - Regular IDCW;INF0QA701805;INF0QA701813;12.4454;;;05-Feb-2026
 
+Bandhan Mutual Fund
+152324;Bandhan Multi Asset Allocation Fund - Direct Plan - Growth;INF194KB1HM7;;14.3048;;;05-Feb-2026
+152323;Bandhan Multi Asset Allocation Fund - Direct Plan - IDCW;INF194KB1HN5;INF194KB1HO3;14.3048;;;05-Feb-2026
+152326;Bandhan Multi Asset Allocation Fund - Regular Plan - Growth;INF194KB1HJ3;;13.8668;;;05-Feb-2026
+152325;Bandhan Multi Asset Allocation Fund - Regular Plan - IDCW;INF194KB1HK1;INF194KB1HL9;13.8668;;;05-Feb-2026
+
 Bank of India Mutual Fund
 152396;Bank of India Multi Asset Allocation Fund-Direct Plan-Growth;INF761K01FZ3;;12.5170;;;05-Feb-2026
 152399;Bank of India Multi Asset Allocation Fund-Direct Plan-IDCW;INF761K01GA4;INF761K01GB2;12.5140;;;05-Feb-2026
@@ -6762,6 +6774,10 @@ UTI Mutual Fund
 120761;UTI Multi Asset Allocation Fund - Direct Plan - IDCW;INF789F01VC0;INF789F01VD8;35.3346;;;05-Feb-2026
 111599;UTI Multi Asset Allocation Fund - Regular Plan - Growth Option;INF789F01AP6;;79.5007;;;05-Feb-2026
 111602;UTI Multi Asset Allocation Fund - Regular Plan - IDCW;INF789F01AN1;INF789F01AO9;30.2607;;;05-Feb-2026
+
+WhiteOak Capital Mutual Fund
+151745;WhiteOak Capital Multi Asset Allocation Fund Direct Plan Growth;INF03VN01761;;16.025;;;05-Feb-2026
+151746;WhiteOak Capital Multi Asset Allocation Fund Regular Plan Growth;INF03VN01779;;15.510;;;05-Feb-2026
 
 Open Ended Schemes ( Hybrid Scheme - Arbitrage Fund )
 
@@ -7794,30 +7810,30 @@ Edelweiss Mutual Fund
 153128;Edelweiss CRISIL IBX AAA Financial Services - Jan 2028 Index Fund - Direct - IDCW - Payout;INF754K01TQ8;INF754K01TR6;10.992;;;05-Feb-2026
 153130;Edelweiss CRISIL IBX AAA Financial Services - Jan 2028 Index Fund - Regular - Growth;INF754K01TT2;;10.963;;;05-Feb-2026
 153129;Edelweiss CRISIL IBX AAA Financial Services - Jan 2028 Index Fund - Regular - IDCW - Payout;INF754K01TU0;INF754K01TV8;10.963;;;05-Feb-2026
-149254;Edelweiss Nifty 100 Quality 30 Index Fund Direct Plan Growth;INF754K01NJ6;;14.8546;;;05-Feb-2026
-149255;Edelweiss Nifty 100 Quality 30 Index Fund Direct Plan IDCW;INF754K01NK4;INF754K01NL2;14.647;;;05-Feb-2026
-149256;Edelweiss Nifty 100 Quality 30 Index Fund Regular Plan Growth;INF754K01NF4;;14.4514;;;05-Feb-2026
-149257;Edelweiss Nifty 100 Quality 30 Index Fund Regular Plan IDCW;INF754K01NG2;INF754K01NH0;14.4504;;;05-Feb-2026
-149250;Edelweiss Nifty 50 Index Fund Direct Plan Growth;INF754K01NB3;;15.0935;;;05-Feb-2026
-149251;Edelweiss Nifty 50 Index Fund Direct Plan IDCW;INF754K01NC1;INF754K01ND9;14.8847;;;05-Feb-2026
-149252;Edelweiss Nifty 50 Index Fund Regular Plan Growth;INF754K01MX9;;14.5897;;;05-Feb-2026
-149253;Edelweiss Nifty 50 Index Fund Regular Plan IDCW;INF754K01MY7;INF754K01MZ4;14.5895;;;05-Feb-2026
-152616;Edelweiss Nifty Alpha Low Volatility 30 Index Fund - Direct Plan - Growth;INF754K01SS6;;10.0359;;;05-Feb-2026
-152619;Edelweiss Nifty Alpha Low Volatility 30 Index Fund - Direct Plan - IDCW Payout;INF754K01ST4;INF754K01SU2;10.0359;;;05-Feb-2026
-152617;Edelweiss Nifty Alpha Low Volatility 30 Index Fund - Regular Plan - Growth;INF754K01SO5;;9.9078;;;05-Feb-2026
-152618;Edelweiss Nifty Alpha Low Volatility 30 Index Fund - Regular Plan - IDCW Payout;INF754K01SP2;INF754K01SQ0;9.9078;;;05-Feb-2026
+149254;Edelweiss Nifty 100 Quality 30 Index Fund Direct Plan Growth;INF754K01NJ6;;14.854;;;05-Feb-2026
+149255;Edelweiss Nifty 100 Quality 30 Index Fund Direct Plan IDCW;INF754K01NK4;INF754K01NL2;14.6464;;;05-Feb-2026
+149256;Edelweiss Nifty 100 Quality 30 Index Fund Regular Plan Growth;INF754K01NF4;;14.4508;;;05-Feb-2026
+149257;Edelweiss Nifty 100 Quality 30 Index Fund Regular Plan IDCW;INF754K01NG2;INF754K01NH0;14.4498;;;05-Feb-2026
+149250;Edelweiss Nifty 50 Index Fund Direct Plan Growth;INF754K01NB3;;15.0933;;;05-Feb-2026
+149251;Edelweiss Nifty 50 Index Fund Direct Plan IDCW;INF754K01NC1;INF754K01ND9;14.8845;;;05-Feb-2026
+149252;Edelweiss Nifty 50 Index Fund Regular Plan Growth;INF754K01MX9;;14.5896;;;05-Feb-2026
+149253;Edelweiss Nifty 50 Index Fund Regular Plan IDCW;INF754K01MY7;INF754K01MZ4;14.5893;;;05-Feb-2026
+152616;Edelweiss Nifty Alpha Low Volatility 30 Index Fund - Direct Plan - Growth;INF754K01SS6;;10.0361;;;05-Feb-2026
+152619;Edelweiss Nifty Alpha Low Volatility 30 Index Fund - Direct Plan - IDCW Payout;INF754K01ST4;INF754K01SU2;10.0361;;;05-Feb-2026
+152617;Edelweiss Nifty Alpha Low Volatility 30 Index Fund - Regular Plan - Growth;INF754K01SO5;;9.908;;;05-Feb-2026
+152618;Edelweiss Nifty Alpha Low Volatility 30 Index Fund - Regular Plan - IDCW Payout;INF754K01SP2;INF754K01SQ0;9.908;;;05-Feb-2026
 149343;Edelweiss NIFTY Large Midcap 250 Index Fund - Direct Plan Growth;INF754K01NR9;;17.2643;;;05-Feb-2026
-149339;Edelweiss NIFTY Large Midcap 250 Index Fund - Direct Plan Payout;INF754K01NS7;INF754K01NT5;17.2644;;;05-Feb-2026
-149341;Edelweiss NIFTY Large Midcap 250 Index Fund - Regular Plan Growth;INF754K01NN8;;16.7968;;;05-Feb-2026
-149342;Edelweiss NIFTY Large Midcap 250 Index Fund - Regular Plan Payout;INF754K01NO6;INF754K01NP3;16.7961;;;05-Feb-2026
+149339;Edelweiss NIFTY Large Midcap 250 Index Fund - Direct Plan Payout;INF754K01NS7;INF754K01NT5;17.2643;;;05-Feb-2026
+149341;Edelweiss NIFTY Large Midcap 250 Index Fund - Regular Plan Growth;INF754K01NN8;;16.7967;;;05-Feb-2026
+149342;Edelweiss NIFTY Large Midcap 250 Index Fund - Regular Plan Payout;INF754K01NO6;INF754K01NP3;16.796;;;05-Feb-2026
 150902;Edelweiss Nifty Midcap150 Momentum 50 Index Fund - Direct Plan - Growth;INF754K01QD2;;18.1813;;;05-Feb-2026
 150903;Edelweiss Nifty Midcap150 Momentum 50 Index Fund - Direct Plan - IDCW;INF754K01QE0;INF754K01QF7;18.1843;;;05-Feb-2026
 150900;Edelweiss Nifty Midcap150 Momentum 50 Index Fund - Regular Plan - Growth;INF754K01PZ7;;17.7741;;;05-Feb-2026
 150901;Edelweiss Nifty Midcap150 Momentum 50 Index Fund - Regular Plan - IDCW;INF754K01QA8;INF754K01QB6;17.7742;;;05-Feb-2026
-150899;Edelweiss Nifty Next 50 Index Fund - Direct Plan - Growth;INF754K01QL5;;16.0214;;;05-Feb-2026
-150896;Edelweiss Nifty Next 50 Index Fund - Direct Plan - IDCW;INF754K01QM3;INF754K01QN1;16.021;;;05-Feb-2026
-150897;Edelweiss Nifty Next 50 Index Fund - Regular Plan - Growth;INF754K01QH3;;15.6582;;;05-Feb-2026
-150898;Edelweiss Nifty Next 50 Index Fund - Regular Plan - IDCW;INF754K01QI1;INF754K01QJ9;15.6581;;;05-Feb-2026
+150899;Edelweiss Nifty Next 50 Index Fund - Direct Plan - Growth;INF754K01QL5;;16.0215;;;05-Feb-2026
+150896;Edelweiss Nifty Next 50 Index Fund - Direct Plan - IDCW;INF754K01QM3;INF754K01QN1;16.0211;;;05-Feb-2026
+150897;Edelweiss Nifty Next 50 Index Fund - Regular Plan - Growth;INF754K01QH3;;15.6583;;;05-Feb-2026
+150898;Edelweiss Nifty Next 50 Index Fund - Regular Plan - IDCW;INF754K01QI1;INF754K01QJ9;15.6582;;;05-Feb-2026
 148794;Edelweiss NIFTY PSU Bond Plus SDL Apr 2026 50: 50 Index Fund - Regular Plan - IDCW Option;INF754K01MA7;INF754K01MB5;13.4163;;;05-Feb-2026
 148795;Edelweiss NIFTY PSU Bond Plus SDL Apr 2026 50:50 Index Fund - Direct Plan - Growth;INF754K01MD1;;13.5362;;;05-Feb-2026
 148796;Edelweiss NIFTY PSU Bond Plus SDL Apr 2026 50:50 Index Fund - Direct Plan - IDCW Option;INF754K01ME9;INF754K01MF6;13.5368;;;05-Feb-2026
@@ -8699,6 +8715,9 @@ Baroda BNP Paribas Mutual Fund
 Choice Mutual Fund
 153933;Choice Gold ETF;INF2KCX01012;;150.1733;;;05-Feb-2026
 
+DSP Mutual Fund
+151737;DSP Gold ETF;INF740KA1SW3;;146.8559;;;05-Feb-2026
+
 Edelweiss Mutual Fund
 152193;Edelweiss Gold ETF;INF754K01SE6;;151.0522;;;05-Feb-2026
 
@@ -8746,6 +8765,9 @@ Union Mutual Fund
 
 UTI Mutual Fund
 105463;UTI GOLD Exchange Traded Fund;INF789F1AUX7;;126.0216;;;05-Feb-2026
+
+Zerodha Mutual Fund
+152476;Zerodha Gold ETF;INF0R8F01042;;23.8095;;;05-Feb-2026
 
 Open Ended Schemes ( Other Scheme - Other  ETFs )
 
@@ -8824,11 +8846,11 @@ Edelweiss Mutual Fund
 150987;BHARAT Bond ETF - April 2033;INF754K01QX0;;1273.8372;;;05-Feb-2026
 148445;BHARAT Bond ETF- April 2031;INF754K01LE1;;1396.2556;;;05-Feb-2026
 153180;Edelweiss BSE Capital Markets & Insurance  ETF - Growth;INF754K01TX4;;24.0573;;;05-Feb-2026
-153947;Edelweiss BSE Sensex ETF - Growth;INF754K01VY8;;83.2781;;;05-Feb-2026
+153947;Edelweiss BSE Sensex ETF - Growth;INF754K01VY8;;83.2754;;;05-Feb-2026
 153920;Edelweiss Nifty 1D Rate Liquid ETF - Growth;INF754K01VW2;;1017.4475;;;05-Feb-2026
-153966;Edelweiss Nifty 50 ETF - Growth;INF754K01VX0;;25.6427;;;05-Feb-2026
+153966;Edelweiss Nifty 50 ETF - Growth;INF754K01VX0;;25.6416;;;05-Feb-2026
 152857;Edelweiss Nifty Bank ETF - Growth;INF754K01TE4;;60.3785;;;05-Feb-2026
-153841;Edelweiss Nifty LargeMidcap 250 ETF - Growth;INF754K01VV4;;16.5244;;;05-Feb-2026
+153841;Edelweiss Nifty LargeMidcap 250 ETF - Growth;INF754K01VV4;;16.5243;;;05-Feb-2026
 152981;Edelweiss Nifty500 Multicap Momentum Quality 50 ETF - Growth;INF754K01TF1;;40.9354;;;05-Feb-2026
 152212;Edelweiss Silver ETF;INF754K01SF3;;248.9023;;;05-Feb-2026
 
@@ -8971,6 +8993,8 @@ Mirae Asset Mutual Fund
 154060;Mirae Asset Nifty Top 20 Equal Weight ETF;INF769K01PZ5;;9.4527;;;05-Feb-2026
 153519;Mirae Asset Nifty 50 Equal Weight ETF;;;334.5150;;;05-Feb-2026
 152811;Mirae Asset Nifty500 Multicap 50:25:25 ETF;INF769K01LX9;;16.2038;;;05-Feb-2026
+148927;Mirae Asset NYSE FANG + ETF;INF769K01HF4;;127.7224;;;05-Feb-2026
+149169;Mirae Asset S&P 500 Top 50 ETF;INF769K01HP3;;58.0622;;;05-Feb-2026
 151779;Mirae Asset Silver ETF;INF769K01KG6;;242.6765;;;05-Feb-2026
 
 Motilal Oswal Mutual Fund
@@ -9080,6 +9104,64 @@ Zerodha Mutual Fund
 153811;Zerodha Nifty 8-13 Yr G-Sec ETF;INF0R8F01133;;29.8061;;;05-Feb-2026
 152668;Zerodha Nifty Midcap 150 ETF;INF0R8F01059;;10.9559;;;05-Feb-2026
 153837;Zerodha Nifty Smallcap 100 ETF;INF0R8F01141;;9.6019;;;05-Feb-2026
+153413;Zerodha Silver ETF;INF0R8F01091;;25.3194;;;05-Feb-2026
+
+Open Ended Schemes ( Other Scheme - FoF Overseas )
+
+
+Bandhan Mutual Fund
+149098;Bandhan US specific Equity Active FOF - GROWTH - DIRECT PLAN;INF194KB1CF2;;18.291;;;05-Feb-2026
+149100;Bandhan US specific Equity Active FOF - GROWTH - REGULAR PLAN;INF194KB1CC9;;17.461;;;05-Feb-2026
+149099;Bandhan US specific Equity Active FOF - IDCW - DIRECT PLAN;INF194KB1CG0;;18.291;;;05-Feb-2026
+149097;Bandhan US specific Equity Active FOF - IDCW - REGULAR PLAN;INF194KB1CD7;;17.461;;;05-Feb-2026
+151548;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - DIRECT PLAN - GROWTH;INF194KB1FV2;;12.4742;;;05-Feb-2026
+151549;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - DIRECT PLAN - IDCW;INF194KB1FW0;INF194KB1GA4;12.4742;;;05-Feb-2026
+151546;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - REGULAR PLAN - GROWTH;INF194KB1FT6;;12.4531;;;05-Feb-2026
+151547;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF- REGULAR PLAN- IDCW;INF194KB1FU4;INF194KB1FZ3;12.4531;;;05-Feb-2026
+
+HSBC Mutual Fund
+127073;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth;INF336L01HC7;;31.5489;;;05-Feb-2026
+127071;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth Direct;INF336L01HF0;;34.1148;;;05-Feb-2026
+127072;HSBC Asia Pacific IDCW Yield Fund Direct Plan IDCW;INF336L01HG8;INF336L01HH6;24.147;;;05-Feb-2026
+127070;HSBC Asia Pacific IDCW Yield Fund IDCW;INF336L01HD5;INF336L01HE3;24.2249;;;05-Feb-2026
+120035;HSBC Brazil Fund - Growth Direct;INF336L01BY4;;11.2286;;;05-Feb-2026
+115117;HSBC Brazil Fund - IDCW;INF336L01172;INF336L01180;10.236;;;05-Feb-2026
+120036;HSBC Brazil Fund - IDCW Direct Plan;INF336L01BW8;INF336L01BX6;11.219;;;05-Feb-2026
+115116;HSBC Brazil Fund-Growth;INF336L01164;;10.236;;;05-Feb-2026
+120043;HSBC Global Emerging Market Fund - Growth Direct;INF336L01CJ3;;31.5295;;;05-Feb-2026
+107988;HSBC Global Emerging Markets Fund - Growth;INF336L01446;;28.7658;;;05-Feb-2026
+107989;HSBC Global Emerging Markets Fund - IDCW;INF336L01438;INF336L01420;21.8856;;;05-Feb-2026
+120044;HSBC Global Emerging Markets Fund - IDCW Direct Plan;INF336L01CH7;INF336L01CI5;26.6968;;;05-Feb-2026
+148738;HSBC Global Equity  Climate Change Fund of Fund Direct Plan IDCW;INF336L01PW8;INF336L01PX6;12.0273;;;05-Feb-2026
+148737;HSBC Global Equity Climate Change Fund of Fund - Direct - Growth;INF336L01PV0;;12.0273;;;05-Feb-2026
+148735;HSBC Global Equity Climate Change Fund of Fund - Regular - Growth;INF336L01PY4;;11.6685;;;05-Feb-2026
+148736;HSBC Global Equity Climate Change Fund of Fund IDCW;INF336L01PZ1;INF336L01QA2;11.6685;;;05-Feb-2026
+
+Invesco Mutual Fund
+148614;Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - Growth;INF205KA1270;;11.5283;;;05-Feb-2026
+148615;Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205KA1262;INF205KA1288;11.5278;;;05-Feb-2026
+148613;Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - Growth;INF205KA1247;;10.9548;;;05-Feb-2026
+148612;Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205KA1239;INF205KA1254;10.9546;;;05-Feb-2026
+129188;Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - Growth;INF205K01B49;;37.1089;;;05-Feb-2026
+129190;Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01B56;INF205K01B64;36.6616;;;05-Feb-2026
+129187;Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - Growth;INF205K01B15;;33.4832;;;05-Feb-2026
+129189;Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01B23;INF205K01B31;33.4353;;;05-Feb-2026
+126353;Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - Growth Option;INF205K01A24;;25.9004;;;05-Feb-2026
+126352;Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01A32;INF205K01A40;25.8227;;;05-Feb-2026
+126351;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - Growth Option;INF205K01ZZ9;;23.7397;;;05-Feb-2026
+126350;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01A08;INF205K01A16;23.7389;;;05-Feb-2026
+
+Mahindra Manulife Mutual Fund
+149230;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - Growth;INF174V01AY0;;11.0721;;;05-Feb-2026
+149231;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;INF174V01BA8;INF174V01AZ7;11.0721;;;05-Feb-2026
+149228;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;INF174V01AV6;;10.6243;;;05-Feb-2026
+149229;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;INF174V01AX2;INF174V01AW4;10.6243;;;05-Feb-2026
+
+Mirae Asset Mutual Fund
+150595;Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF - Direct Plan - Growth;INF769K01IQ9;;14.687;;;05-Feb-2026
+150594;Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF - Regular Plan - Growth;INF769K01IP1;;14.477;;;05-Feb-2026
+150597;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;INF769K01IS5;;25.763;;;05-Feb-2026
+150596;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;INF769K01IR7;;25.619;;;05-Feb-2026
 
 Open Ended Schemes ( Other Scheme - FoF Domestic )
 
@@ -9226,6 +9308,20 @@ HDFC Mutual Fund
 150736;HDFC Silver ETF Fund of Fund - Growth Option;INF179KC1DV5;;40.6518;;;05-Feb-2026
 150737;HDFC Silver ETF Fund of Fund - Growth Option - Direct Plan;INF179KC1DU7;;41.1547;;;05-Feb-2026
 
+HSBC Mutual Fund
+129199;HSBC Aggressive Hybrid Active FOF - Dividend;INF336L01HY1;INF336L01HZ8;31.0433;;;05-Feb-2026
+129201;HSBC Aggressive Hybrid Active FOF - Dividend Direct;INF336L01IB7;INF336L01IC5;33.2262;;;05-Feb-2026
+129065;HSBC Aggressive Hybrid Active FOF - Growth;INF336L01IA9;;40.3928;;;05-Feb-2026
+129200;HSBC Aggressive Hybrid Active FOF - Growth Direct;INF336L01ID3;;42.7615;;;05-Feb-2026
+129195;HSBC Income Plus Arbitrage Active FOF - Growth;INF336L01IM4;;22.0552;;;05-Feb-2026
+129197;HSBC Income Plus Arbitrage Active FOF - Growth Direct;INF336L01IP7;;23.4278;;;05-Feb-2026
+129198;HSBC Income Plus Arbitrage Active FOF Direct Plan IDCW;INF336L01IN2;INF336L01IO0;18.9761;;;05-Feb-2026
+129196;HSBC Income Plus Arbitrage Active FOF IDCW;INF336L01IK8;INF336L01IL6;17.2829;;;05-Feb-2026
+129191;HSBC Multi Asset Active FOF - Growth;INF336L01IG6;;39.9123;;;05-Feb-2026
+129193;HSBC Multi Asset Active FOF - Growth Direct;INF336L01IJ0;;42.7219;;;05-Feb-2026
+129194;HSBC Multi Asset Active FOF Direct Plan IDCW;INF336L01IH4;INF336L01II2;22.2174;;;05-Feb-2026
+129192;HSBC Multi Asset Active FOF IDCW;INF336L01IE1;INF336L01IF8;31.7069;;;05-Feb-2026
+
 ICICI Prudential Mutual Fund
 143904;ICICI Prudential BHARAT 22 FOF - Cumulative Option;INF109KC1FW3;;35.6553;;;05-Feb-2026
 143903;ICICI Prudential BHARAT 22 FOF - Direct Plan Cumulative Option;INF109KC1FX1;;35.6685;;;05-Feb-2026
@@ -9327,6 +9423,10 @@ Mirae Asset Mutual Fund
 153639;Mirae Asset Income plus Arbitrage Active FOF - Direct Plan - IDCW;INF769K01PA8;INF769K01OZ8;10.347;;;05-Feb-2026
 153640;Mirae Asset Income plus Arbitrage Active FOF - Regular Plan - Growth;INF769K01OV7;;10.331;;;05-Feb-2026
 153641;Mirae Asset Income plus Arbitrage Active FOF - Regular Plan - IDCW;INF769K01OX3;INF769K01OW5;10.331;;;05-Feb-2026
+153816;Mirae Asset Multi Factor Passive FOF - Direct Plan - Growth;INF769K01PH3;;10.566;;;05-Feb-2026
+153817;Mirae Asset Multi Factor Passive FOF - Direct Plan - IDCW;INF769K01PJ9;INF769K01PI1;10.565;;;05-Feb-2026
+153818;Mirae Asset Multi Factor Passive FOF - Regular Plan - Growth;INF769K01PE0;;10.539;;;05-Feb-2026
+153819;Mirae Asset Multi Factor Passive FOF - Regular Plan - IDCW;INF769K01PG5;INF769K01PF7;10.524;;;05-Feb-2026
 148575;Mirae Asset Nifty 100 ESG Sector Leaders Fund  of Fund Direct IDCW;INF769K01GP5;INF769K01GR1;19.337;;;05-Feb-2026
 148573;Mirae Asset Nifty 100 ESG Sector Leaders Fund  of Fund Regular IDCW;INF769K01GM2;INF769K01GO8;18.950;;;05-Feb-2026
 148574;Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund Direct Growth;INF769K01GQ3;;19.341;;;05-Feb-2026
@@ -9351,6 +9451,10 @@ Mirae Asset Mutual Fund
 152719;Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund - Direct Plan - IDCW;INF769K01LV3;INF769K01LW1;8.672;;;05-Feb-2026
 152720;Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund - Regular Plan - Growth;INF769K01LR1;;8.609;;;05-Feb-2026
 152721;Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund - Regular Plan - IDCW;INF769K01LS9;INF769K01LT7;8.603;;;05-Feb-2026
+148928;Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth;INF769K01HH0;;34.209;;;05-Feb-2026
+148929;Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth;INF769K01HG2;;33.581;;;05-Feb-2026
+149170;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth;INF769K01HR9;;25.291;;;05-Feb-2026
+149171;Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth;INF769K01HQ1;;24.843;;;05-Feb-2026
 
 Motilal Oswal Mutual Fund
 149240;Motilal Oswal 5 Year G-Sec Fund Of Fund Direct -Growth;INF247L01AQ1;;13.2111;;;05-Feb-2026
@@ -9405,6 +9509,12 @@ SBI Mutual Fund
 152735;SBI Silver ETF Fund of Fund- Direct Plan - Growth;INF200KB1233;;26.6249;;;05-Feb-2026
 152736;SBI Silver ETF Fund of Fund- Direct Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);INF200KB1241;INF200KB1258;26.6249;;;05-Feb-2026
 152733;SBI Silver ETF Fund of Fund- Regular Plan - Growth;INF200KB1266;;26.4735;;;05-Feb-2026
+
+Sundaram Mutual Fund
+154123;Sundaram Income Plus Arbitrage Active FoF Fund-Direct-Growth;INF903JA1LZ7;;10.0480;;;05-Feb-2026
+154124;Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Payout;INF903JA1MA8;;10.0480;;;05-Feb-2026
+154127;Sundaram Income Plus Arbitrage Active FoF Fund-Regular-Growth;INF903JA1MC4;;10.0460;;;05-Feb-2026
+154125;Sundaram Income Plus Arbitrage Active FoF Fund-Regular-IDCW Payout;INF903JA1MD2;;10.0460;;;05-Feb-2026
 
 Tata Mutual Fund
 152287;Tata Gold ETF Fund of Fund Direct Plan Growth Option;INF277KA1869;;23.4249;;;05-Feb-2026
@@ -9650,6 +9760,12 @@ PGIM India Mutual Fund
 133839;PGIM India Flexi Cap Fund - Direct Plan - Growth Option;INF663L01FF1;;42.5;;;05-Feb-2026
 133838;PGIM India Flexi Cap Fund - Regular Plan - Dividend Option;INF663L01FK1;INF663L01FL9;19.31;;;05-Feb-2026
 133836;PGIM India Flexi Cap Fund - Regular Plan - Growth Option;INF663L01FJ3;;36.1;;;05-Feb-2026
+
+PPFAS Mutual Fund
+122639;Parag Parikh Flexi Cap Fund - Direct Plan - Growth;INF879O01027;;93.5631;;;05-Feb-2026
+153964;Parag Parikh Flexi Cap Fund - Direct Plan - IDCW;;INF879O01308;93.5632;;;05-Feb-2026
+122640;Parag Parikh Flexi Cap Fund - Regular Plan - Growth;INF879O01019;;85.5488;;;05-Feb-2026
+153965;Parag Parikh Flexi Cap Fund - Regular Plan - IDCW;;INF879O01324;85.5488;;;05-Feb-2026
 
 quant Mutual Fund
 109830;quant Flexi Cap Fund - Growth Option - Regular Plan;INF966L01457;;97.0305;;;05-Feb-2026
