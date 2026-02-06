@@ -1,0 +1,1510 @@
+Scheme Code;Scheme Name;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Repurchase Price;Sale Price;Date
+
+Open Ended Schemes ( Money Market )
+
+
+Taurus Mutual Fund
+139619;Taurus Investor Education Pool - Unclaimed Dividend - Growth;;;10.0000;;;06-Feb-2026
+139618;Taurus Investor Education Pool - Unclaimed Redemption - Growth;;;10.0000;;;06-Feb-2026
+139617;Taurus Unclaimed Redemption - Growth;;;17.3947;;;06-Feb-2026
+
+Open Ended Schemes ( Equity Scheme - Multi Cap Fund )
+
+
+Kotak Mahindra Mutual Fund
+149183;Kotak Multicap Fund- Regular Plan -IDCW Option;INF174KA1HT7;INF174KA1HU5;19.566;;;06-Feb-2026
+149185;Kotak Multicap Fund-Direct Plan-Growth;INF174KA1HV3;;20.835;;;06-Feb-2026
+149187;Kotak Multicap Fund-Direct Plan-IDCW Option;INF174KA1HW1;INF174KA1HX9;20.834;;;06-Feb-2026
+149182;Kotak Multicap Fund-Regular Plan-Growth;INF174KA1HS9;;19.566;;;06-Feb-2026
+
+quant Mutual Fund
+100631;quant Multi Cap Fund-GROWTH OPTION - Regular Plan;INF966L01234;;590.4255;;;06-Feb-2026
+120823;quant Multi Cap Fund-GROWTH OPTION-Direct Plan;INF966L01614;;647.5358;;;06-Feb-2026
+120822;quant Multi Cap Fund-IDCW Option - Direct Plan;INF966L01598;INF966L01606;74.9912;;;06-Feb-2026
+100630;quant Multi Cap Fund-IDCW Option - Regular Plan;INF966L01218;INF966L01226;67.523;;;06-Feb-2026
+
+Trust Mutual Fund
+153644;TRUSTMF MULTI CAP FUND -DIRECT PLAN-GROWTH;INF0GCD01834;;10.42;;;06-Feb-2026
+153645;TRUSTMF MULTI CAP FUND -REGULAR PLAN-GROWTH;INF0GCD01842;;10.32;;;06-Feb-2026
+
+Union Mutual Fund
+150858;Union Multicap Fund - Direct Plan - Growth Option;INF582M01IO7;;16.64;;;06-Feb-2026
+150857;Union Multicap Fund - Direct Plan - IDCW Option;INF582M01IP4;INF582M01IQ2;16.64;;;06-Feb-2026
+150855;Union Multicap Fund - Regular Plan - Growth Option;INF582M01IS8;;15.98;;;06-Feb-2026
+150856;Union Multicap Fund - Regular Plan - IDCW Option;INF582M01IT6;INF582M01IU4;15.98;;;06-Feb-2026
+
+Open Ended Schemes ( Equity Scheme - Large Cap Fund )
+
+
+JM Financial Mutual Fund
+134958;JM Large Cap Fund (Direct) - Annual IDCW;INF192K01JU4;INF192K01JV2;74.1344;;;06-Feb-2026
+120490;JM Large Cap Fund (Direct) - Growth Option;INF192K01BZ0;;179.9736;;;06-Feb-2026
+134957;JM Large Cap Fund (Direct) - Half Yearly IDCW ;INF192K01JR0;INF192K01JZ3;73.6162;;;06-Feb-2026
+120489;JM Large Cap Fund (Direct) - IDCW;INF192K01BX5;INF192K01BY3;72.2573;;;06-Feb-2026
+134956;JM Large Cap Fund (Direct) - Monthly IDCW ;INF192K01JJ7;INF192K01JK5;73.4626;;;06-Feb-2026
+134960;JM Large Cap Fund (Direct) - Quarterly IDCW;INF192K01JN9;INF192K01JO7;74.1476;;;06-Feb-2026
+134961;JM Large Cap Fund (Regular) - Annual IDCW;INF192K01JS8;INF192K01JT6;31.1262;;;06-Feb-2026
+100219;JM Large Cap Fund (Regular) - Growth Option;INF192K01601;;155.9256;;;06-Feb-2026
+134955;JM Large Cap Fund (Regular) - Half Yearly IDCW;INF192K01JP4;INF192K01JQ2;25.5611;;;06-Feb-2026
+100218;JM Large Cap Fund (Regular) - IDCW ;INF192K01585;INF192K01593;30.2689;;;06-Feb-2026
+134959;JM Large Cap Fund (Regular) - Monthly IDCW;INF192K01JH1;INF192K01JI9;24.2279;;;06-Feb-2026
+134954;JM Large Cap Fund (Regular) - Quarterly IDCW;INF192K01JL3;INF192K01JM1;35.1881;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+120152;Kotak Large Cap  Fund - Growth - Direct;INF174K01KW6;;680.518;;;06-Feb-2026
+114458;Kotak Large Cap Fund - Growth;INF174K01153;;587.982;;;06-Feb-2026
+120153;Kotak Large Cap Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KY2;INF174K01KX4;90;;;06-Feb-2026
+114457;Kotak Large Cap Fund - Payout of Income Distribution cumcapital withdrawal option;INF174K01179;INF174K01161;75.899;;;06-Feb-2026
+
+quant Mutual Fund
+150440;quant Large Cap Fund - Growth Option - Direct Plan;INF966L01AT0;;15.7786;;;06-Feb-2026
+150441;quant Large Cap Fund - Growth Option - Regular Plan;INF966L01AW4;;14.9294;;;06-Feb-2026
+150439;quant Large Cap Fund - IDCW Option - Direct Plan;INF966L01AU8;INF966L01AV6;15.8443;;;06-Feb-2026
+150442;quant Large Cap Fund - IDCW Option - Regular Plan;INF966L01AX2;INF966L01AY0;14.8443;;;06-Feb-2026
+
+Taurus Mutual Fund
+118870;Taurus Large Cap Fund - Direct Plan - Growth;INF044D01BX3;;169.44;;;06-Feb-2026
+118871;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01BY1;INF044D01BZ8;74.64;;;06-Feb-2026
+101209;Taurus Large Cap Fund - Regular Plan - Growth;INF044D01773;;159.99;;;06-Feb-2026
+108403;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01740;INF044D01757;70.09;;;06-Feb-2026
+
+Union Mutual Fund
+141248;Union Largecap Fund - Direct Plan - Growth Option;INF582M01CU7;;25.35;;;06-Feb-2026
+141249;Union Largecap Fund - Direct Plan - IDCW Option;INF582M01CV5;INF582M01CW3;25.35;;;06-Feb-2026
+141247;Union Largecap Fund - Regular Plan - Growth Option;INF582M01CQ5;;23.75;;;06-Feb-2026
+141250;Union Largecap Fund - Regular Plan - IDCW Option;INF582M01CR3;INF582M01CS1;23.75;;;06-Feb-2026
+
+Open Ended Schemes ( Equity Scheme - Large & Mid Cap Fund )
+
+
+Helios Mutual Fund
+152941;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;INF0R8701269;;11.13;;;06-Feb-2026
+152942;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;INF0R8701277;INF0R8701285;11.13;;;06-Feb-2026
+152943;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;INF0R8701236;;10.90;;;06-Feb-2026
+152944;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;INF0R8701244;INF0R8701251;10.90;;;06-Feb-2026
+
+JM Financial Mutual Fund
+153629;JM Large & Mid Cap Fund (Direct) - Growth Option;INF192K01NK7;;10.2877;;;06-Feb-2026
+153630;JM Large & Mid Cap Fund (Direct) - IDCW;INF192K01NP6;INF192K01NL5;10.2877;;;06-Feb-2026
+153627;JM Large & Mid Cap Fund (Regular) - Growth Option;INF192K01NM3;;10.191;;;06-Feb-2026
+153628;JM Large & Mid Cap Fund (Regular) - IDCW;INF192K01NO9;INF192K01NN1;10.191;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+120158;Kotak Large & Midcap Fund - Direct- Growth;INF174K01LF9;;408.742;;;06-Feb-2026
+103234;Kotak Large & Midcap Fund - Growth-Regular;INF174K01187;;354.02;;;06-Feb-2026
+120157;Kotak Large & Midcap Fund - IDCW-Direct;INF174K01LG7;INF174K01LH5;72.126;;;06-Feb-2026
+103233;Kotak Large & Midcap Fund - IDCW-Regular;INF174K01203;INF174K01195;61.763;;;06-Feb-2026
+
+Navi Mutual Fund
+141414;Navi Large & Midcap Fund - Direct Annual IDCW Payout;INF959L01CR5;INF959L01CS3;41.6535;;;06-Feb-2026
+141415;Navi Large & Midcap Fund - Direct Half Yearly IDCW Payout;INF959L01CP9;INF959L01CQ7;41.6903;;;06-Feb-2026
+135679;Navi Large & Midcap Fund - Direct Normal IDCW Payout;INF959L01CI4;INF959L01CJ2;41.7968;;;06-Feb-2026
+141411;Navi Large & Midcap Fund - Regular Annual IDCW payout;INF959L01CV7;INF959L01CW5;36.0335;;;06-Feb-2026
+141410;NAVI Large & Midcap Fund - Regular Half Yearly IDCW Payout;INF959L01CT1;INF959L01CU9;35.0437;;;06-Feb-2026
+135680;Navi Large & Midcap Fund - Regular Normal IDCW Payout;INF959L01CL8;INF959L01CM6;35.0309;;;06-Feb-2026
+135677;Navi Large & Midcap Fund- Direct Plan- Growth Option;INF959L01CH6;;42.3062;;;06-Feb-2026
+135678;Navi Large & Midcap Fund- Regular Plan- Growth Option;INF959L01CK0;;35.035;;;06-Feb-2026
+
+quant Mutual Fund
+104515;quant Large & Mid Cap Fund - Bonus Option - Regular Plan;INF966L01424;;108.9793;;;06-Feb-2026
+120824;quant Large & Mid Cap Fund - Bonus Option-Direct Plan;INF966L01655;;108.9793;;;06-Feb-2026
+104513;quant Large & Mid Cap Fund - Growth Option;INF966L01341;;108.7524;;;06-Feb-2026
+120826;quant Large & Mid Cap Fund - Growth Option-Direct Plan;INF966L01648;;119.8708;;;06-Feb-2026
+120825;quant Large & Mid Cap Fund - IDCW Option - Direct Plan;INF966L01622;INF966L01630;55.8151;;;06-Feb-2026
+104514;quant Large & Mid Cap Fund - IDCW Option - Regular Plan;INF966L01325;INF966L01333;66.3822;;;06-Feb-2026
+
+Union Mutual Fund
+147750;Union Large & Midcap Fund - Direct Plan - Growth Option;INF582M01GA0;;27.72;;;06-Feb-2026
+147751;Union Large & Midcap Fund - Direct Plan - IDCW Option;INF582M01GC6;INF582M01GB8;27.72;;;06-Feb-2026
+147748;Union Large & Midcap Fund - Regular Plan - Growth Option;INF582M01GD4;;25.69;;;06-Feb-2026
+147749;Union Large & Midcap Fund - Regular Plan - IDCW Option;INF582M01GG7;INF582M01GF9;25.69;;;06-Feb-2026
+
+Open Ended Schemes ( Equity Scheme - Mid Cap Fund )
+
+
+Helios Mutual Fund
+153326;Helios Mid Cap Fund - Direct Plan - Growth Option;INF0R8701327;;12.36;;;06-Feb-2026
+153324;Helios Mid Cap Fund - Direct Plan - IDCW Option;INF0R8701335;INF0R8701343;12.36;;;06-Feb-2026
+153327;Helios Mid Cap Fund - Regular Plan - Growth Plan;INF0R8701293;;12.19;;;06-Feb-2026
+153325;Helios Mid Cap Fund - Regular Plan - IDCW Option;INF0R8701301;INF0R8701319;12.18;;;06-Feb-2026
+
+JM Financial Mutual Fund
+150815;JM Midcap Fund (Direct) - Growth;INF192K01MV6;;19.6333;;;06-Feb-2026
+150814;JM Midcap Fund (Direct) - IDCW;INF192K01MW4;INF192K01MX2;19.6333;;;06-Feb-2026
+150812;JM Midcap Fund (Regular) - Growth;INF192K01MS2;;18.5555;;;06-Feb-2026
+150813;JM Midcap Fund (Regular) - IDCW;INF192K01MT0;INF192K01MU8;18.5555;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+119774;Kotak Midcap Fund  - Direct Plan - IDCW - Payout & Re-investment of Income Distribution cum capital withdrawal option;INF174K01LU8;INF174K01LV6;93.746;;;06-Feb-2026
+119775;Kotak Midcap Fund - Direct Plan - Growth;INF174K01LT0;;157.348;;;06-Feb-2026
+104908;Kotak Midcap Fund - Regular Plan - Growth;INF174K01DS9;;135.171;;;06-Feb-2026
+104907;Kotak Midcap Fund - Regular Plan - IDCW -Payout & Re-investment of Income Distribution cum capital withdrawal option;INF174K01DU5;INF174K01DT7;74.24;;;06-Feb-2026
+
+quant Mutual Fund
+120841;quant Mid Cap Fund - Growth Option - Direct Plan;INF966L01887;;221.7398;;;06-Feb-2026
+101065;quant Mid Cap Fund - Growth Option - Regular Plan;INF966L01176;;196.5205;;;06-Feb-2026
+120840;quant Mid Cap Fund - IDCW Option - Direct Plan;INF966L01861;INF966L01879;77.8845;;;06-Feb-2026
+101066;quant Mid Cap Fund - IDCW Option - Regular Plan;INF966L01150;INF966L01168;69.8638;;;06-Feb-2026
+
+Taurus Mutual Fund
+118872;Taurus Mid Cap Fund - Direct Plan - Growth;INF044D01CA9;;123.69;;;06-Feb-2026
+118873;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01CB7;INF044D01CC5;109.88;;;06-Feb-2026
+100477;Taurus Mid Cap Fund - Regular Plan - Growth;INF044D01815;;116.88;;;06-Feb-2026
+111642;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01781;INF044D01799;104.18;;;06-Feb-2026
+
+Union Mutual Fund
+148073;Union Midcap Fund - Direct Plan - Growth Option;INF582M01GI3;;51.92;;;06-Feb-2026
+148074;Union Midcap Fund - Direct Plan - IDCW Option;INF582M01GK9;INF582M01GJ1;51.92;;;06-Feb-2026
+148071;Union Midcap Fund - Regular Plan - Growth Option;INF582M01GM5;;47.88;;;06-Feb-2026
+148072;Union Midcap Fund - Regular Plan - IDCW Option;INF582M01GO1;INF582M01GN3;47.88;;;06-Feb-2026
+
+Open Ended Schemes ( Equity Scheme - Small Cap Fund )
+
+
+Helios Mutual Fund
+153912;Helios Small Cap Fund - Direct Plan - Growth Option;INF0R8701384;;9.41;;;06-Feb-2026
+153910;Helios Small Cap Fund - Direct Plan - IDCW Option;INF0R8701392;INF0R8701400;9.41;;;06-Feb-2026
+153909;Helios Small Cap Fund - Regular Plan - Growth Option;INF0R8701350;;9.38;;;06-Feb-2026
+153911;Helios Small Cap Fund - Regular Plan - IDCW Option;INF0R8701368;INF0R8701376;9.38;;;06-Feb-2026
+
+JM Financial Mutual Fund
+152614;JM Small Cap Fund (Direct) - Growth Option;INF192K01NH3;;9.5676;;;06-Feb-2026
+152615;JM Small Cap Fund (Direct) - IDCW Option;INF192K01NI1;INF192K01NJ9;9.5678;;;06-Feb-2026
+152612;JM Small Cap Fund (Regular) - Growth Option;INF192K01NE0;;9.305;;;06-Feb-2026
+152613;JM Small Cap Fund (Regular) - IDCW Option;INF192K01NF7;INF192K01NG5;9.305;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+102875;Kotak-Small Cap Fund - Growth;INF174K01211;;240.097;;;06-Feb-2026
+120164;Kotak-Small Cap Fund - Growth - Direct;INF174K01KT2;;283.467;;;06-Feb-2026
+102874;Kotak-Small Cap Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01237;INF174K01229;104.746;;;06-Feb-2026
+120163;Kotak-Small Cap Fund - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KU0;INF174K01KV8;124.507;;;06-Feb-2026
+
+quant Mutual Fund
+100177;quant Small Cap Fund - Growth - Regular Plan;INF966L01AA0;;239.9971;;;06-Feb-2026
+120828;quant Small Cap Fund - Growth Option - Direct Plan;INF966L01689;;261.9882;;;06-Feb-2026
+120827;quant Small Cap Fund - IDCW Option - Direct Plan;INF966L01663;INF966L01671;204.7947;;;06-Feb-2026
+100176;quant Small Cap Fund - IDCW Option - Regular Plan;INF206A01022;INF966L01044;190.8593;;;06-Feb-2026
+
+Trust Mutual Fund
+152939;TRUSTMF SMALL CAP FUND -DIRECT PLAN-GROWTH;INF0GCD01800;;10.57;;;06-Feb-2026
+152937;TRUSTMF SMALL CAP FUND -DIRECT PLAN-IDCW;INF0GCD01826;INF0GCD01818;10.57;;;06-Feb-2026
+152938;TRUSTMF SMALL CAP FUND -REGULAR PLAN- IDCW;INF0GCD01792;INF0GCD01784;10.35;;;06-Feb-2026
+152940;TRUSTMF SMALL CAP FUND -REGULAR PLAN-GROWTH;INF0GCD01776;;10.35;;;06-Feb-2026
+
+Union Mutual Fund
+129649;Union Small Cap Fund - Direct Plan - Growth Option;INF582M01BU9;;53.50;;;06-Feb-2026
+129646;Union Small Cap Fund - Direct Plan - IDCW Option;INF582M01BW5;INF582M01BV7;40.04;;;06-Feb-2026
+129647;Union Small Cap Fund - Regular Plan - Growth Option;INF582M01BY1;;48.15;;;06-Feb-2026
+129648;Union Small Cap Fund - Regular Plan - IDCW Option;INF582M01CA9;INF582M01BZ8;41.81;;;06-Feb-2026
+
+Open Ended Schemes ( Equity Scheme - Dividend Yield Fund )
+
+
+Kotak Mahindra Mutual Fund
+154097;Kotak Dividend Yield Fund - Direct - Growth;INF174KA1YI5;;10.027;;;06-Feb-2026
+154100;Kotak Dividend Yield Fund - Direct - IDCW;INF174KA1YJ3;INF174KA1YK1;10.027;;;06-Feb-2026
+154099;Kotak Dividend Yield Fund - Regular -Growth;INF174KA1YL9;;10.022;;;06-Feb-2026
+154098;Kotak Dividend Yield Fund - Regular IDCW;INF174KA1YM7;INF174KA1YN5;10.022;;;06-Feb-2026
+
+Open Ended Schemes ( Equity Scheme - Value Fund )
+
+
+JM Financial Mutual Fund
+120486;JM Value Fund (Direct) - Growth Option;INF192K01BT3;;105.1848;;;06-Feb-2026
+120485;JM Value Fund (Direct) - IDCW;INF192K01BR7;INF192K01BS5;71.6666;;;06-Feb-2026
+100254;JM Value Fund (Regular) - Growth Option;INF137A01037;;93.0297;;;06-Feb-2026
+106168;JM Value Fund (Regular) - IDCW;INF137A01011;INF137A01029;64.9615;;;06-Feb-2026
+
+quant Mutual Fund
+149335;Quant Value Fund - Growth Option  - Direct Plan;INF966L01AN3;;20.8412;;;06-Feb-2026
+149337;Quant Value Fund - Growth Option - Regular Plan;INF966L01AQ6;;19.4523;;;06-Feb-2026
+149338;Quant Value Fund - IDCW Option - Direct Plan;INF966L01AO1;INF966L01AP8;19.8018;;;06-Feb-2026
+149336;Quant Value Fund - IDCW Option- Regular Plan;INF966L01AR4;INF966L01AS2;19.5589;;;06-Feb-2026
+
+Union Mutual Fund
+145473;Union Value Fund - Direct Plan - Growth Option;INF582M01EK4;;30.70;;;06-Feb-2026
+145474;Union Value Fund - Direct Plan - IDCW Option;INF582M01EM0;INF582M01EL2;30.70;;;06-Feb-2026
+145471;Union Value Fund - Regular Plan - Growth Option;INF582M01EO6;;28.73;;;06-Feb-2026
+145472;Union Value Fund - Regular Plan - IDCW Option;INF582M01EQ1;INF582M01EP3;28.73;;;06-Feb-2026
+
+Open Ended Schemes ( Equity Scheme - Contra Fund )
+
+
+Kotak Mahindra Mutual Fund
+119769;Kotak Contra Fund - Direct Plan - Growth;INF174K01KZ9;;183.625;;;06-Feb-2026
+119768;Kotak Contra Fund - Direct Plan - IDCW -Payout & Re-investment of Income Distribution cum capital withdrawal option- Direct;INF174K01LA0;INF174K01LB8;65.343;;;06-Feb-2026
+103040;Kotak Contra Fund - Regular Plan - Growth;INF174K01245;;154.606;;;06-Feb-2026
+103039;Kotak Contra Fund - Regular Plan - IDCW - Payout & Re-investment of Income Distribution cum capital withdrawal option;INF174K01260;INF174K01252;53.292;;;06-Feb-2026
+
+Open Ended Schemes ( Equity Scheme - Focused Fund )
+
+
+JM Financial Mutual Fund
+120488;JM Focused Fund (Direct)  - Growth Option;INF192K01BW7;;23.163;;;06-Feb-2026
+120487;JM Focused Fund (Direct) -  IDCW;INF192K01BU1;INF192K01BV9;22.7004;;;06-Feb-2026
+107410;JM Focused Fund (Regular) - Growth Option;INF192K01577;;19.6683;;;06-Feb-2026
+107409;JM Focused Fund (Regular) - IDCW;INF192K01551;INF192K01569;19.6675;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+147473;Kotak Focused Fund- Direct Plan- Growth option;INF174KA1EN7;;30.06;;;06-Feb-2026
+147477;Kotak Focused Fund- Regular plan _ Growth Option;INF174KA1EK3;;27.149;;;06-Feb-2026
+147472;Kotak Focused Fund- Regular Plan-Income Distribution cum capital withdrawal option;INF174KA1EM9;INF174KA1EL1;27.149;;;06-Feb-2026
+147475;Kotak Focused Fund-Direct Plan- Income Distribution cum capital withdrawal option;INF174KA1EP2;INF174KA1EO5;30.061;;;06-Feb-2026
+
+Old Bridge Mutual Fund
+152358;Old Bridge Focused Fund - Direct Growth;INF0S5R01042;;12.67;;;06-Feb-2026
+152359;Old Bridge Focused Fund - Direct IDCW;INF0S5R01059;INF0S5R01067;12.67;;;06-Feb-2026
+152361;Old Bridge Focused Fund - Regular Growth;INF0S5R01034;;12.40;;;06-Feb-2026
+152363;Old Bridge Focused Fund - Regular IDCW;INF0S5R01018;INF0S5R01026;12.40;;;06-Feb-2026
+
+quant Mutual Fund
+109275;quant Focused Fund - Growth Option - Regular Plan;INF966L01374;;84.1989;;;06-Feb-2026
+120834;quant Focused Fund - Growth Option-Direct Plan;INF966L01853;;94.1639;;;06-Feb-2026
+120835;quant Focused Fund - IDCW Option - Direct Plan;INF966L01838;INF966L01846;55.0458;;;06-Feb-2026
+109274;quant Focused Fund - IDCW Option - Regular Plan;INF966L01358;INF966L01366;62.6056;;;06-Feb-2026
+
+Union Mutual Fund
+147492;Union Focused Fund - Direct Plan - Growth Option;INF582M01FS4;;27.02;;;06-Feb-2026
+147491;Union Focused Fund - Direct Plan - IDCW Option;INF582M01FU0;INF582M01FT2;27.02;;;06-Feb-2026
+147490;Union Focused Fund - Regular Plan - Growth Option;INF582M01FW6;;25.39;;;06-Feb-2026
+147493;Union Focused Fund - Regular Plan - IDCW Option;INF582M01FY2;INF582M01FX4;25.39;;;06-Feb-2026
+
+Open Ended Schemes ( Equity Scheme - Sectoral/ Thematic )
+
+
+Helios Mutual Fund
+152679;Helios Financial Services Fund - Direct Plan - Growth Option;INF0R8701202;;12.04;;;06-Feb-2026
+152680;Helios Financial Services Fund - Direct Plan - IDCW Option;INF0R8701210;INF0R8701228;12.04;;;06-Feb-2026
+152682;Helios Financial Services Fund - Regular Plan - Growth Option;INF0R8701178;;11.74;;;06-Feb-2026
+152681;Helios Financial Services Fund - Regular Plan - IDCW Option;INF0R8701186;INF0R8701194;11.74;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+153753;Kotak Active Momentum Fund - Direct Plan - Growth option;INF174KA1XA4;;10.466;;;06-Feb-2026
+153754;Kotak Active Momentum Fund - Direct Plan - IDCW - Payout and Reinvestment;INF174KA1XB2;INF174KA1XC0;10.466;;;06-Feb-2026
+153755;Kotak Active Momentum Fund - Regular Plan - Growth;INF174KA1XD8;;10.398;;;06-Feb-2026
+153756;Kotak Active Momentum Fund - Regular Plan - IDCW - Payout & Reinvestment;INF174KA1XE6;INF174KA1XF3;10.398;;;06-Feb-2026
+151384;Kotak Banking & Financial Services Fund - Direct Plan - Growth;INF174KA1MD1;;17.09;;;06-Feb-2026
+151383;Kotak Banking & Financial Services Fund - Direct Plan - IDCW Payout;INF174KA1ME9;INF174KA1MF6;17.087;;;06-Feb-2026
+151381;Kotak Banking & Financial Services Fund - Regular Plan - Growth;INF174KA1MA7;;16.32;;;06-Feb-2026
+151382;Kotak Banking & Financial Services Fund - Regular Plan - IDCW Payout;INF174KA1MB5;INF174KA1MC3;16.32;;;06-Feb-2026
+150624;Kotak Business Cycle - Direct Plan - Growth;INF174KA1JN6;;16.886;;;06-Feb-2026
+150625;Kotak Business Cycle Fund-Direct Plan-IDCW option;INF174KA1JO4;INF174KA1JP1;16.885;;;06-Feb-2026
+150626;Kotak Business Cycle Fund-Regular Plan--Growth;INF174KA1JK2;;16.042;;;06-Feb-2026
+150622;Kotak Business Cycle Fund-Regular Plan-IDCW option;INF174KA1JL0;INF174KA1JM8;16.042;;;06-Feb-2026
+152169;Kotak Consumption Fund - Direct plan - Growth Option;INF174KA1PP8;;14.175;;;06-Feb-2026
+152172;Kotak Consumption Fund - Direct plan - IDCW Option;INF174KA1PQ6;INF174KA1PR4;14.173;;;06-Feb-2026
+152170;Kotak Consumption Fund - Regular plan - Growth Option;INF174KA1PM5;;13.679;;;06-Feb-2026
+152171;Kotak Consumption Fund - Regular plan - IDCW Option;INF174KA1PN3;INF174KA1PO1;13.677;;;06-Feb-2026
+153447;Kotak Energy Opportunities Fund-Direct-Growth;INF174KA1VX0;;10.463;;;06-Feb-2026
+153448;Kotak Energy Opportunities Fund-Direct-IDCW-Payout & Reinvestment;INF174KA1VY8;INF174KA1VZ5;10.463;;;06-Feb-2026
+153449;Kotak Energy Opportunities Fund-Regular-Growth;INF174KA1WA6;;10.339;;;06-Feb-2026
+153450;Kotak Energy Opportunities Fund-Regular-IDCW-Payout & Reinvestment;INF174KA1WB4;INF174KA1WC2;10.339;;;06-Feb-2026
+148606;Kotak ESG Exclusionary Strategy Fund - Direct Plan - Growth Option;INF174KA1FI4;;19.151;;;06-Feb-2026
+148605;Kotak ESG Exclusionary Strategy Fund - Direct Plan - Payout of Income Distribution cum capital withdrawal option;INF174KA1FH6;INF174KA1FJ2;19.152;;;06-Feb-2026
+148602;Kotak ESG Exclusionary Strategy Fund - Regular Plan - Growth Option;INF174KA1FF0;;17.635;;;06-Feb-2026
+148603;Kotak ESG Exclusionary Strategy Fund - Regular Plan - Payout of Income Distribution cum capital withdrawal option;INF174KA1FE3;INF174KA1FG8;17.634;;;06-Feb-2026
+152214;Kotak Healthcare Fund - Direct Plan - Growth Option;INF174KA1PZ7;;13.497;;;06-Feb-2026
+152215;Kotak Healthcare Fund - Direct Plan - IDCW Option;INF174KA1QA8;INF174KA1QB6;13.496;;;06-Feb-2026
+152216;Kotak Healthcare Fund - Regular Plan - Growth Option;INF174KA1PW4;;13.027;;;06-Feb-2026
+152213;Kotak Healthcare Fund - Regular Plan - IDCW Option;INF174KA1PX2;INF174KA1PY0;13.031;;;06-Feb-2026
+133796;Kotak Infrastructure & Economic Reform Fund - Standard Plan-Growth;INF178L01095;;64.408;;;06-Feb-2026
+133799;Kotak Infrastructure & Economic Reform Fund - Standard Plan-Payout of Income Distribution cum capital withdrawal option;INF178L01079;INF178L01087;51.512;;;06-Feb-2026
+133801;Kotak Infrastructure & Economic Reform Fund- Direct Plan- Growth Option;INF178L01AL9;;76.569;;;06-Feb-2026
+133800;Kotak Infrastructure & Economic Reform Fund- Direct Plan- Payout of Income Distribution cum capital withdrawal option;INF178L01AK1;INF178L01AJ3;75.693;;;06-Feb-2026
+149841;Kotak Manufacture in India Fund - Direct Plan Growth;INF174KA1IF4;;21.074;;;06-Feb-2026
+149842;Kotak Manufacture in India Fund - Direct Plan IDCW Option;INF174KA1IG2;INF174KA1IH0;21.074;;;06-Feb-2026
+149840;Kotak Manufacture in India Fund - Regular Plan Growth;INF174KA1IC1;;19.807;;;06-Feb-2026
+149843;Kotak Manufacture in India Fund - Regular Plan IDCW Option;INF174KA1ID9;INF174KA1IE7;19.807;;;06-Feb-2026
+152910;Kotak MNC Fund-Direct Plan-Growth;INF174KA1TG9;;10.957;;;06-Feb-2026
+152911;Kotak MNC Fund-Direct Plan-IDCW Option;INF174KA1TH7;INF174KA1TI5;10.958;;;06-Feb-2026
+152913;Kotak MNC Fund-Regular Plan- Growth;INF174KA1TJ3;;10.756;;;06-Feb-2026
+152912;KotaK MNC Fund-Regular Plan-IDCW OPTION;INF174KA1TK1;INF174KA1TL9;10.756;;;06-Feb-2026
+151881;Kotak Quant Fund - Direct Plan - Growth Option;INF174KA1OL0;;15.389;;;06-Feb-2026
+151880;Kotak Quant Fund - Direct plan - IDCW Payout;INF174KA1OM8;INF174KA1ON6;15.389;;;06-Feb-2026
+151878;Kotak Quant Fund - Regular Plan - Growth Option;INF174KA1OI6;;15.255;;;06-Feb-2026
+151879;Kotak Quant Fund - Regular Plan - IDCW Payout;INF174KA1OJ4;INF174KA1OK2;15.138;;;06-Feb-2026
+153970;Kotak Rural Opportunities Fund - Direct Plan - Growth;INF174KA1XW8;;10.16;;;06-Feb-2026
+153967;Kotak Rural Opportunities Fund - Direct Plan - IDCW Divdend - Payouout & Reinvestment;INF174KA1XX6;INF174KA1XY4;10.16;;;06-Feb-2026
+153969;Kotak Rural Opportunities Fund - Regular Plan - Growth;INF174KA1XZ1;;10.13;;;06-Feb-2026
+153968;Kotak Rural Opportunities Fund - Regular Plan - IDCW Dividend - Payout & Reinvestment;INF174KA1YA2;INF174KA1YB0;10.13;;;06-Feb-2026
+152702;Kotak Special Opportunities Fund - Direct Plan - Growth Option;INF174KA1SF3;;9.615;;;06-Feb-2026
+152704;Kotak Special Opportunities Fund - Direct Plan - IDCW Payout Option;INF174KA1SG1;;9.616;;;06-Feb-2026
+152703;Kotak Special Opportunities Fund - Regular Plan - Growth Option;INF174KA1SC0;;9.403;;;06-Feb-2026
+152700;Kotak Special Opportunities Fund - Regular Plan - IDCW Option;INF174KA1SD8;INF174KA1SE6;9.402;;;06-Feb-2026
+153117;Kotak Transportation & Logistics Fund-Direct -IDCW-PAYOUT & REINVESTMENT;INF174KA1TT2;INF174KA1TU0;11.666;;;06-Feb-2026
+153118;Kotak Transportation & Logistics Fund-Direct Growth;INF174KA1TS4;;11.666;;;06-Feb-2026
+153116;Kotak Transportation & Logistics Fund-Regular-Growth;INF174KA1TV8;;11.457;;;06-Feb-2026
+153119;Kotak Transportation & Logistics Fund-Regular-IDCW Payout & Reinvestment;INF174KA1TW6;INF174KA1TX4;11.457;;;06-Feb-2026
+
+quant Mutual Fund
+151791;quant BFSI Fund - Growth Option - Direct Plan;INF966L01BX0;;19.7928;;;06-Feb-2026
+151788;quant BFSI Fund - Growth Option - Regular Plan;INF966L01CA6;;18.9692;;;06-Feb-2026
+151790;quant BFSI Fund - IDCW Option - Direct Plan;INF966L01BY8;INF966L01BZ5;19.8153;;;06-Feb-2026
+151789;quant BFSI Fund - IDCW Option - Regular Plan;INF966L01CB4;INF966L01CC2;18.9678;;;06-Feb-2026
+151757;quant Business Cycle Fund - Growth Option - Direct Plan;INF966L01BR2;;15.6996;;;06-Feb-2026
+151758;quant Business Cycle Fund - Growth Option - Regular Plan;INF966L01BU6;;15.0569;;;06-Feb-2026
+151759;quant Business Cycle Fund - IDCW Option - Direct Plan;INF966L01BS0;INF966L01BT8;15.6884;;;06-Feb-2026
+151760;quant Business Cycle Fund - IDCW Option - Regular Plan;INF966L01BV4;INF966L01BW2;15.0713;;;06-Feb-2026
+152255;quant Commodities Fund - Growth Option - Direct Plan;INF966L01DF3;;13.4451;;;06-Feb-2026
+152256;quant Commodities Fund - Growth Option - Regular Plan;INF966L01DC0;;13.0216;;;06-Feb-2026
+152257;quant Commodities Fund - IDCW Option - Direct Plan;INF966L01DG1;INF966L01DH9;13.4409;;;06-Feb-2026
+152258;quant Commodities Fund - IDCW Option - Regular Plan;INF966L01DD8;INF966L01DE6;13.0196;;;06-Feb-2026
+152336;quant Consumption Fund - Growth Option - Direct Plan;INF966L01DN7;;9.4972;;;06-Feb-2026
+152338;quant Consumption Fund - Growth Option - Regular Plan;INF966L01DI7;;9.2021;;;06-Feb-2026
+152339;quant Consumption Fund - IDCW Option - Direct Plan;INF966L01DO5;INF966L01DP2;9.5018;;;06-Feb-2026
+152337;quant Consumption Fund - IDCW Option - Regular Plan;INF966L01DL1;INF966L01DM9;9.2058;;;06-Feb-2026
+148564;quant ESG Integration Strategy Fund - Growth Option - Direct Plan;INF966L01AD4;;35.3983;;;06-Feb-2026
+148560;quant ESG Integration Strategy Fund - Growth Option - Regular Plan;INF966L01AB8;;32.6376;;;06-Feb-2026
+148563;quant ESG Integration Strategy Fund - IDCW Option - Direct Plan;INF966L01AE2;INF966L01AG7;35.3547;;;06-Feb-2026
+148561;quant ESG Integration Strategy Fund - IDCW Option - Regular Plan;INF966L01AC6;INF966L01AF9;32.4792;;;06-Feb-2026
+151853;quant Healthcare Fund - Growth Option - Direct Plan;INF966L01CD0;;15.023;;;06-Feb-2026
+151855;quant Healthcare Fund - Growth Option - Regular Plan;INF966L01CG3;;14.4072;;;06-Feb-2026
+151854;quant Healthcare Fund - IDCW Option - Direct Plan;INF966L01CE8;INF966L01CF5;15.0217;;;06-Feb-2026
+151856;quant Healthcare Fund - IDCW Option - Regular Plan;INF966L01CH1;INF966L01CI9;14.4064;;;06-Feb-2026
+106170;quant Infrastructure Fund - Growth Option;INF966L01523;;36.8737;;;06-Feb-2026
+120833;quant Infrastructure Fund - Growth Option-Direct Plan;INF966L01721;;40.7416;;;06-Feb-2026
+120832;quant Infrastructure Fund - IDCW Option - Direct Plan;INF966L01705;INF966L01713;40.7093;;;06-Feb-2026
+106169;quant Infrastructure Fund - IDCW Option - Regular Plan;INF966L01507;INF966L01515;36.7905;;;06-Feb-2026
+151916;quant Manufacturing Fund - Growth Option - Direct Plan;INF966L01CJ7;;14.3499;;;06-Feb-2026
+151913;quant Manufacturing Fund - Growth Option - Regular Plan;INF966L01CN9;;13.8097;;;06-Feb-2026
+151914;quant Manufacturing Fund - IDCW Option - Direct Plan;INF966L01CK5;INF966L01CL3;14.3465;;;06-Feb-2026
+151915;quant Manufacturing Fund - IDCW Option - Regular Plan;INF966L01CO7;INF966L01CP4;13.915;;;06-Feb-2026
+152189;quant Momentum Fund - Growth Option - Direct Plan;INF966L01CZ3;;14.4328;;;06-Feb-2026
+152190;quant Momentum Fund - Growth Option - Regular Plan;INF966L01CW0;;14.024;;;06-Feb-2026
+152192;quant Momentum Fund - IDCW Option - Direct Plan;INF966L01DA4;INF966L01DB2;14.4185;;;06-Feb-2026
+152191;quant Momentum Fund - IDCW Option - Regular Plan;INF966L01CX8;INF966L01CY6;13.9796;;;06-Feb-2026
+152415;quant PSU Fund - Growth Option - Direct Plan;INF966L01DT4;;10.3786;;;06-Feb-2026
+152413;quant PSU Fund - Growth Option - Regular Plan;INF966L01DQ0;;10.0932;;;06-Feb-2026
+152416;quant PSU Fund - IDCW Option - Direct Plan;INF966L01DU2;INF966L01DV0;10.3848;;;06-Feb-2026
+152414;quant PSU Fund - IDCW Option - Regular Plan;INF966L01DR8;INF966L01DS6;10.0928;;;06-Feb-2026
+148925;quant Quantamental Fund - Growth Option - Direct Plan;INF966L01AK9;;24.8086;;;06-Feb-2026
+148923;quant Quantamental Fund - Growth Option - Regular Plan;INF966L01AH5;;23.0541;;;06-Feb-2026
+148924;quant Quantamental Fund - IDCW Option - Direct Plan;INF966L01AL7;INF966L01AM5;24.9455;;;06-Feb-2026
+148922;quant Quantamental Fund - IDCW Option - Regular Plan;INF966L01AI3;INF966L01AJ1;23.0807;;;06-Feb-2026
+152067;quant Teck Fund - Growth Option - Direct Plan;INF966L01CT6;;10.416;;;06-Feb-2026
+152070;quant Teck Fund - Growth Option - Regular Plan;INF966L01CQ2;;10.024;;;06-Feb-2026
+152068;quant Teck Fund - IDCW Option - Direct Plan;INF966L01CU4;INF966L01CV2;10.4107;;;06-Feb-2026
+152069;quant Teck Fund - IDCW Option - Regular Plan;INF966L01CR0;INF966L01CS8;10.0255;;;06-Feb-2026
+
+Shriram Mutual Fund
+153076;Shriram Multi Sector Rotation Fund - Direct Plan Growth Option;INF680P01455;;8.1472;;;06-Feb-2026
+153077;Shriram Multi Sector Rotation Fund - Regular Plan Growth Option;INF680P01463;;7.9865;;;06-Feb-2026
+
+Taurus Mutual Fund
+118868;Taurus Banking & Financial Services Fund - Direct Plan - Growth;INF044D01CN2;;61.78;;;06-Feb-2026
+118869;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01CO0;INF044D01CP7;61.07;;;06-Feb-2026
+117312;Taurus Banking & Financial Services Fund - Regular Plan - Growth;INF044D01BI4;;55.02;;;06-Feb-2026
+117313;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01BJ2;INF044D01BK0;49.25;;;06-Feb-2026
+111903;Taurus Ethical Fund -  Regular Plan - Bonus Option;INF044D01823;;126.43;;;06-Feb-2026
+118876;Taurus Ethical Fund - Direct Plan - Growth;INF044D01CJ0;;143.57;;;06-Feb-2026
+118877;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01CK8;INF044D01CL6;96.37;;;06-Feb-2026
+111787;Taurus Ethical Fund - Regular Plan - Growth;INF044D01864;;126.45;;;06-Feb-2026
+111788;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01831;INF044D01849;85.48;;;06-Feb-2026
+118878;Taurus Ethical Fund-Direct Plan-Bonus Option #;INF044D01CM4;;47.05;;;06-Feb-2026
+118879;Taurus Infrastructure Fund - Direct Plan - Growth ;INF044D01CD3;;70.88;;;06-Feb-2026
+118880;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01CE1;INF044D01CF8;66.01;;;06-Feb-2026
+105417;Taurus Infrastructure Fund - Regular Plan - Growth;INF044D01906;;65.84;;;06-Feb-2026
+105418;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01872;INF044D01880;61.84;;;06-Feb-2026
+
+The Wealth Company Mutual Fund
+153895;THE WEALTH COMPANY ETHICAL FUND DIRECT GROWTH;INF2F0001214;;9.7749;;;06-Feb-2026
+153898;THE WEALTH COMPANY ETHICAL FUND DIRECT IDCW;INF2F0001206;INF2F0001198;9.7755;;;06-Feb-2026
+153897;THE WEALTH COMPANY ETHICAL FUND REGULAR GROWTH;INF2F0001248;;9.7301;;;06-Feb-2026
+153896;THE WEALTH COMPANY ETHICAL FUND REGULAR IDCW;INF2F0001230;INF2F0001222;9.7298;;;06-Feb-2026
+
+Union Mutual Fund
+153109;Union Active Momentum Fund - Direct Plan - Growth Option;INF582M01KG9;;8.61;;;06-Feb-2026
+153110;Union Active Momentum Fund - Direct Plan - IDCW Option;INF582M01KH7;INF582M01KI5;8.61;;;06-Feb-2026
+153111;Union Active Momentum Fund - Regular Plan - Growth Option;INF582M01KC8;;8.48;;;06-Feb-2026
+153112;Union Active Momentum Fund - Regular Plan - IDCW Option;INF582M01KD6;INF582M01KE4;8.48;;;06-Feb-2026
+152409;Union Business Cycle Fund - Direct Plan - Growth Option;INF582M01JQ0;;11.58;;;06-Feb-2026
+152410;Union Business Cycle Fund - Direct Plan - IDCW Option;INF582M01JR8;INF582M01JS6;11.58;;;06-Feb-2026
+152411;Union Business Cycle Fund - Regular Plan - Growth Option;INF582M01JM9;;11.28;;;06-Feb-2026
+152412;Union Business Cycle Fund - Regular Plan - IDCW Option;INF582M01JN7;INF582M01JO5;11.28;;;06-Feb-2026
+154020;Union Consumption Fund - Direct Plan - Growth Option;INF582M01MH3;;9.52;;;06-Feb-2026
+154021;Union Consumption Fund - Direct Plan - IDCW Option;INF582M01MI1;INF582M01MJ9;9.52;;;06-Feb-2026
+154022;Union Consumption Fund - Regular Plan - Growth Option;INF582M01MD2;;9.50;;;06-Feb-2026
+154023;Union Consumption Fund - Regular Plan - IDCW Option;INF582M01ME0;INF582M01MF7;9.50;;;06-Feb-2026
+151905;Union Innovation & Opportunities Fund - Direct Plan - Growth Option;INF582M01JE6;;14.04;;;06-Feb-2026
+151904;Union Innovation & Opportunities Fund - Direct Plan - IDCW Option;INF582M01JF3;INF582M01JG1;14.04;;;06-Feb-2026
+151903;Union Innovation & Opportunities Fund - Regular Plan - Growth Option;INF582M01JA4;;13.55;;;06-Feb-2026
+151906;Union Innovation & Opportunities Fund - Regular Plan - IDCW Option;INF582M01JB2;INF582M01JC0;13.55;;;06-Feb-2026
+
+Open Ended Schemes ( Equity Scheme - ELSS )
+
+
+JM Financial Mutual Fund
+120494;JM ELSS Tax Saver Fund (Direct) - Growth Option;INF192K01CE3;;55.4142;;;06-Feb-2026
+120493;JM ELSS Tax Saver Fund (Direct) - IDCW;INF192K01CD5;;54.048;;;06-Feb-2026
+107288;JM ELSS Tax Saver Fund (Regular) - Growth option;INF192K01650;;48.1672;;;06-Feb-2026
+107287;JM ELSS Tax Saver Fund (Regular) - IDCW;INF192K01643;;48.1665;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+103339;Kotak ELSS Tax Saver Fund-Growth;INF174K01369;;116.634;;;06-Feb-2026
+119773;Kotak ELSS Tax Saver Fund-Growth - Direct;INF174K01LI3;;137.481;;;06-Feb-2026
+103338;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option;INF174K01385;;43.65;;;06-Feb-2026
+119772;Kotak ELSS Tax Saver Fund-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LJ1;;57.59;;;06-Feb-2026
+
+Navi Mutual Fund
+135653;Navi ELSS Tax Saver Fund - Direct Plan IDCW Payout;INF959L01CE3;;34.2563;;;06-Feb-2026
+135652;Navi ELSS Tax Saver Fund - Regular Plan IDCW Payout;INF959L01CG8;;28.9558;;;06-Feb-2026
+135654;Navi ELSS Tax Saver Fund- Direct Plan- Growth Option;INF959L01CD5;;34.6863;;;06-Feb-2026
+135655;Navi ELSS Tax Saver Fund- Regular Plan- Growth Option;INF959L01CF0;;28.9587;;;06-Feb-2026
+151471;NAVI ELSS TAX SAVER NIFTY 50 INDEX FUND - DIRECT PLAN GROWTH;INF959L01GR6;;15.5304;;;06-Feb-2026
+151473;NAVI ELSS TAX SAVER NIFTY 50 INDEX FUND - DIRECT PLAN IDCW PAYOUT;INF959L01GT2;;15.5374;;;06-Feb-2026
+151472;NAVI ELSS TAX SAVER NIFTY 50 INDEX FUND - REGULAR PLAN GROWTH;INF959L01GS4;;15.1037;;;06-Feb-2026
+151474;NAVI ELSS TAX SAVER NIFTY 50 INDEX FUND - REGULAR PLAN IDCW PAYOUT;INF959L01GU0;;15.1634;;;06-Feb-2026
+
+NJ Mutual Fund
+151611;NJ ELSS Tax Saver Scheme Direct Growth;INF0J8L01115;;14.46;;;06-Feb-2026
+151612;NJ ELSS Tax Saver Scheme Direct IDCW;INF0J8L01123;;14.46;;;06-Feb-2026
+151609;NJ ELSS Tax Saver Scheme Regular Growth;INF0J8L01099;;13.79;;;06-Feb-2026
+151610;NJ ELSS Tax Saver Scheme Regular IDCW;INF0J8L01107;;13.79;;;06-Feb-2026
+
+quant Mutual Fund
+120847;quant ELSS Tax Saver Fund - Growth Option - Direct Plan;INF966L01986;;415.8145;;;06-Feb-2026
+100175;quant ELSS Tax Saver Fund - Growth Option - Regular Plan;INF966L01135;;369.5499;;;06-Feb-2026
+120846;quant ELSS Tax Saver Fund - IDCW Option - Direct Plan;INF966L01960;INF966L01127;55.4302;;;06-Feb-2026
+100174;quant ELSS Tax Saver Fund - IDCW Option - Regular Plan;INF966L01119;;51.3162;;;06-Feb-2026
+
+Shriram Mutual Fund
+145819;Shriram ELSS Tax Saver Fund - Direct Growth;INF680P01158;;23.8585;;;06-Feb-2026
+145822;Shriram ELSS Tax Saver Fund - Direct- IDCW;INF680P01166;;23.6738;;;06-Feb-2026
+145820;Shriram ELSS Tax Saver Fund - Regular Growth;INF680P01133;;21.0583;;;06-Feb-2026
+145821;Shriram ELSS Tax Saver Fund - Regular-IDCW;INF680P01141;;21.0613;;;06-Feb-2026
+
+Taurus Mutual Fund
+118866;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;INF044D01CG6;INF044D01AA3;195.74;;;06-Feb-2026
+118867;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01CH4;INF044D01CI2;90.21;;;06-Feb-2026
+100480;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;INF044D01AC9;;178.94;;;06-Feb-2026
+108402;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01997;;83.83;;;06-Feb-2026
+
+Union Mutual Fund
+119307;Union ELSS Tax Saver Fund - Direct Plan - Growth Option;INF582M01765;;71.09;;;06-Feb-2026
+119306;Union ELSS Tax Saver Fund - Direct Plan - IDCW Option;INF582M01781;INF582M01773;71.09;;;06-Feb-2026
+116051;Union ELSS Tax Saver Fund - Growth Option;INF582M01302;;65.13;;;06-Feb-2026
+116052;Union ELSS Tax Saver Fund - IDCW Option;INF582M01328;INF582M01310;36.41;;;06-Feb-2026
+
+Open Ended Schemes ( Debt Scheme - Overnight Fund )
+
+
+Helios Mutual Fund
+152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;INF0R8701087;;1000.0000;;;06-Feb-2026
+152152;Helios Overnight Fund - Direct Plan - Growth Option;INF0R8701079;;1147.1957;;;06-Feb-2026
+152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;INF0R8701103;;1000.0000;;;06-Feb-2026
+152153;Helios Overnight Fund - Regular Plan - Growth Option;INF0R8701095;;1145.8818;;;06-Feb-2026
+
+JM Financial Mutual Fund
+147838;JM Overnight Fund (Direct) - Daily IDCW;;INF192K01LY2;1000;;;06-Feb-2026
+147835;JM Overnight Fund (Direct) - Weekly IDCW;INF192K01LZ9;INF192K01MA0;1000.3476;;;06-Feb-2026
+147839;JM Overnight Fund (Regular) - Daily IDCW;;INF192K01LU0;1000;;;06-Feb-2026
+147836;JM Overnight Fund (Regular) - Growth;INF192K01LX4;;1349.831;;;06-Feb-2026
+147834;JM Overnight Fund (Regular) - Weekly IDCW;INF192K01LV8;INF192K01LW6;1000.3323;;;06-Feb-2026
+147837;JM Overnight Fund - (Direct) - Growth;INF192K01MB8;;1355.6665;;;06-Feb-2026
+149828;JM Overnight Fund - (Direct) - Unclaimed IDCW - Growth Plan;;;1362.0462;;;06-Feb-2026
+149827;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;;;1073.9936;;;06-Feb-2026
+149829;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;;;1355.6859;;;06-Feb-2026
+149826;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;;;1073.9936;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+146141;Kotak Overnight Fund -Direct Plan-Growth Option;INF174KA1BF9;;1426.4889;;;06-Feb-2026
+146142;Kotak Overnight Fund -Regular plan-Growth Option;INF174KA1BC6;;1417.36;;;06-Feb-2026
+146140;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174KA1BE2;1003.6055;;;06-Feb-2026
+146138;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174KA1BB8;1004.7568;;;06-Feb-2026
+
+NJ Mutual Fund
+150369;NJ Overnight Fund - Direct Plan - Growth Option;INF0J8L01081;;1237.5503;;;06-Feb-2026
+150368;NJ Overnight Fund - Regular Plan - Growth Option;INF0J8L01073;;1233.1721;;;06-Feb-2026
+152116;NJ Overnight Fund - Unclaimed Redemption Plan - Upto 3 Years;;;1075.1539;;;06-Feb-2026
+
+quant Mutual Fund
+151190;quant Overnight Fund - Growth Option - Direct Plan;INF966L01AZ7;;12.2263;;;06-Feb-2026
+151195;quant Overnight Fund - Growth Option - Regular Plan;INF966L01BC4;;12.1863;;;06-Feb-2026
+151193;quant Overnight Fund - IDCW Option - Direct Plan;INF966L01BA8;INF966L01BB6;12.2305;;;06-Feb-2026
+151191;quant Overnight Fund - IDCW Option - Regular Plan;INF966L01BD2;INF966L01BE0;12.1742;;;06-Feb-2026
+154083;quant Overnight Fund - Unclaimed IDCW Greater than 3 years;;;10;;;06-Feb-2026
+154086;quant Overnight Fund - Unclaimed IDCW Less than 3 years;;;10.0738;;;06-Feb-2026
+154085;quant Overnight Fund - Unclaimed Redemption Greater than 3 years;;;10;;;06-Feb-2026
+154084;quant Overnight Fund - Unclaimed Redemption Less than 3 years;;;10.0705;;;06-Feb-2026
+
+Shriram Mutual Fund
+150562;Shriram Overnight Fund -  Direct Growth;INF680P01323;;12.346;;;06-Feb-2026
+150561;Shriram Overnight Fund - Direct Daily IDCW;;INF680P01331;10.0001;;;06-Feb-2026
+150567;Shriram Overnight Fund - Direct Monthly IDCW;INF680P01380;INF680P01398;10.0286;;;06-Feb-2026
+150558;Shriram Overnight Fund - Regular Daily IDCW;;INF680P01257;10.0001;;;06-Feb-2026
+150565;Shriram Overnight Fund - Regular Growth;INF680P01232;;12.3107;;;06-Feb-2026
+150560;Shriram Overnight Fund - Regular Monthly IDCW;INF680P01307;INF680P01315;10.0287;;;06-Feb-2026
+
+Trust Mutual Fund
+149796;TRUST MF OVERNIGHT FUND-DIRECT PLAN-DAILY IDCW REINVESTMENT;;INF0GCD01461;1238.565;;;06-Feb-2026
+149797;TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH;INF0GCD01453;;1264.7991;;;06-Feb-2026
+149798;TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT;;INF0GCD01446;1237.742;;;06-Feb-2026
+149795;TRUST MF OVERNIGHT FUND-REGULAR-GROWTH;INF0GCD01438;;1262.2559;;;06-Feb-2026
+
+Union Mutual Fund
+147002;Union Overnight Fund - Direct Plan - Daily IDCW Option;;INF582M01FB0;1000.8008;;;06-Feb-2026
+147003;Union Overnight Fund - Direct Plan - Growth Option;INF582M01FA2;;1407.4002;;;06-Feb-2026
+147006;Union Overnight Fund - Direct Plan - Monthly IDCW Option;INF582M01FG9;INF582M01FE4;1001.9521;;;06-Feb-2026
+146998;Union Overnight Fund - Regular Plan - Daily IDCW Option;;INF582M01FK1;1001.2621;;;06-Feb-2026
+146997;Union Overnight Fund - Regular Plan - Growth Option;INF582M01FJ3;;1397.8816;;;06-Feb-2026
+147000;Union Overnight Fund - Regular Plan - Monthly IDCW Option;INF582M01FP0;INF582M01FN5;1001.9176;;;06-Feb-2026
+149451;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Beyond 3 years;;;1000.0000;;;06-Feb-2026
+149452;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Upto 3 years;;;1268.0097;;;06-Feb-2026
+149453;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years;;;1000.0000;;;06-Feb-2026
+149454;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;;;1268.1166;;;06-Feb-2026
+
+Zerodha Mutual Fund
+153436;Zerodha Overnight Fund - Direct Plan - Growth Option;INF0R8F01075;;10.467;;;06-Feb-2026
+
+Open Ended Schemes ( Debt Scheme - Liquid Fund )
+
+
+JM Financial Mutual Fund
+120411;JM Liquid Fund (Direct) - Daily IDCW;;INF192K01CH6;10.4302;;;06-Feb-2026
+120406;JM Liquid Fund (Direct) - Growth Option;INF192K01CM6;;74.5443;;;06-Feb-2026
+120408;JM Liquid Fund (Direct) - Quarterly IDCW;INF192K01CK0;INF192K01CL8;42.3219;;;06-Feb-2026
+120407;JM Liquid Fund (Direct) - Weekly IDCW;INF192K01CI4;INF192K01CJ2;11.0135;;;06-Feb-2026
+100244;JM Liquid Fund (Regular) - Quarterly IDCW;INF192K01866;INF192K01874;41.7209;;;06-Feb-2026
+100247;JM Liquid Fund (Regular) - Super Institutional Plan - Growth Option;INF192K01981;;42.3787;;;06-Feb-2026
+100233;JM Liquid Fund (Regular) - Weekly IDCW;INF192K01841;INF192K01858;11.0109;;;06-Feb-2026
+100234;JM Liquid Fund - Growth Option;INF192K01882;;73.7105;;;06-Feb-2026
+148414;JM Liquid Fund - Unclaimed Application Refund Amount I.E.F. (Direct) - Growth Plan;;;41.4437;;;06-Feb-2026
+148413;JM Liquid Fund - Unclaimed Brokerage I.E.F. (Direct) - Growth Plan;;;41.4437;;;06-Feb-2026
+101549;JM Liquid Fund (Regular) - Bonus Option - Principal Units;INF192K01890;;23.6024;;;06-Feb-2026
+101078;JM Liquid Fund (Regular) - Daily IDCW;;INF192K01833;10.4302;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+119764;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NH1;1222.81;;;06-Feb-2026
+119766;Kotak Liquid Fund - Direct Plan - Growth;INF174K01NE8;;5517.1198;;;06-Feb-2026
+100833;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NL3;1236.5747;;;06-Feb-2026
+100835;Kotak Liquid Fund - Regular Plan - Growth;INF174K01NI9;;5461.6847;;;06-Feb-2026
+153586;Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;INF174KA1WK5;INF174KA1WM1;1014.6429;;;06-Feb-2026
+
+Navi Mutual Fund
+119163;Navi Liquid Fund - Direct Plan Daily IDCW - ReInvestment;;INF959L01GK1;10.0129;;;06-Feb-2026
+119161;Navi Liquid Fund - Direct Plan Monthly IDCW - Payout;INF959L01GG9;INF959L01GH7;10.0246;;;06-Feb-2026
+119162;Navi Liquid Fund - Direct Plan Weekly IDCW - Payout;INF959L01GI5;INF959L01GJ3;10.0113;;;06-Feb-2026
+112645;Navi Liquid Fund - Regular Plan Daily IDCW;;INF959L01GM7;10.0129;;;06-Feb-2026
+112647;Navi Liquid Fund - Regular Plan Monthly IDCW;INF959L01GN5;INF959L01GO3;10.0244;;;06-Feb-2026
+112646;Navi Liquid Fund - Regular Plan Weekly IDCW;INF959L01GP0;INF959L01GQ8;10.0116;;;06-Feb-2026
+119164;Navi Liquid Fund-Direct Plan-Growth Option;INF959L01GF1;;29.6071;;;06-Feb-2026
+112636;Navi Liquid Fund-Regular Plan-Growth Option;INF959L01GL9;;29.3369;;;06-Feb-2026
+140437;Navi Liquid Fund-Unclaimed Redemption and Dividend Plan greater than 3 years;INF959L01CO2;;10;;;06-Feb-2026
+139386;Navi Liquid Fund-Unclaimed Redemption and Dividend Plan less than 3 years;INF959L01CN4;;29.5083;;;06-Feb-2026
+
+quant Mutual Fund
+120837;quant Liquid Fund - Growth Option - Direct Plan;INF966L01820;;43.8769;;;06-Feb-2026
+103225;quant Liquid Fund - Growth Option - Regular Plan;INF966L01317;;42.6831;;;06-Feb-2026
+120838;quant Liquid Fund - Monthly IDCW Option - Direct Plan;INF966L01796;INF966L01812;15.7474;;;06-Feb-2026
+103228;quant Liquid Fund - Monthly IDCW Option - Regular Plan;INF966L01291;INF966L01309;15.1787;;;06-Feb-2026
+120839;quant Liquid Fund - Weekly IDCW Option - Direct Plan;INF966L01788;INF966L01804;14.6534;;;06-Feb-2026
+103227;quant Liquid Fund - Weekly IDCW Option - Regular Plan;INF966L01499;INF966L01283;14.4898;;;06-Feb-2026
+120836;quant Liquid Fund-Daily IDCW Option - Direct Plan;;INF966L01770;13.2154;;;06-Feb-2026
+103226;quant Liquid Fund-Daily IDCW Option - Regular Plan;;INF966L01275;12.7093;;;06-Feb-2026
+
+Shriram Mutual Fund
+153035;Shriram Liquid Fund - Direct Plan Growth Option;INF680P01430;;1079.1495;;;06-Feb-2026
+153036;Shriram Liquid Fund - Regular Plan Growth Option;INF680P01448;;1077.2609;;;06-Feb-2026
+153282;Shriram Unclaimed IDCW Liquid Fund;;;1051.9324;;;06-Feb-2026
+153283;Shriram Unclaimed IDCW Stable Scheme Liquid Fund;;;1000;;;06-Feb-2026
+153280;Shriram Unclaimed Redemption Liquid Fund;;;1064.7523;;;06-Feb-2026
+153281;Shriram Unclaimed Redemption Stable Scheme Liquid Fund;;;1000;;;06-Feb-2026
+
+The Wealth Company Mutual Fund
+153887;THE WEALTH COMPANY LIQUID FUND DIRECT DAILY ICDW;;INF2F0001073;1002;;;06-Feb-2026
+153883;THE WEALTH COMPANY LIQUID FUND DIRECT GROWTH;INF2F0001081;;1019.3821;;;06-Feb-2026
+153884;THE WEALTH COMPANY LIQUID FUND DIRECT MONTHLY IDCW;INF2F0001107;INF2F0001099;1004.1225;;;06-Feb-2026
+153889;THE WEALTH COMPANY LIQUID FUND DIRECT WEEKLY;INF2F0001123;INF2F0001115;1003.0784;;;06-Feb-2026
+153886;THE WEALTH COMPANY LIQUID FUND REGULAR DAILY IDCW;;INF2F0001131;1002;;;06-Feb-2026
+153888;THE WEALTH COMPANY LIQUID FUND REGULAR GROWTH;INF2F0001149;;1018.8971;;;06-Feb-2026
+153890;THE WEALTH COMPANY LIQUID FUND REGULAR MONTHLY IDCW;INF2F0001164;INF2F0001156;1004.0317;;;06-Feb-2026
+153885;THE WEALTH COMPANY LIQUID FUND REGULAR WEEKLY IDCW;INF2F0001180;INF2F0001172;1003.0807;;;06-Feb-2026
+
+Trust Mutual Fund
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1260.4679;;;06-Feb-2026
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;INF0GCD01255;;1322.4384;;;06-Feb-2026
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1191.5075;;;06-Feb-2026
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1219.0982;;;06-Feb-2026
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1193.1007;;;06-Feb-2026
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;INF0GCD01198;;1312.8834;;;06-Feb-2026
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1182.9761;;;06-Feb-2026
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1168.7503;;;06-Feb-2026
+
+Union Mutual Fund
+115401;Union Liquid Fund - Daily IDCW Option;;INF582M01021;1001.1995;;;06-Feb-2026
+119301;Union Liquid Fund - Direct Plan - Daily IDCW Option;;INF582M01682;1001.1995;;;06-Feb-2026
+119305;Union Liquid Fund - Direct Plan - Fortnightly IDCW Option;INF582M01724;INF582M01708;1002.9617;;;06-Feb-2026
+119303;Union Liquid Fund - Direct Plan - Growth Option;INF582M01674;;2634.7799;;;06-Feb-2026
+119302;Union Liquid Fund - Direct Plan - Monthly IDCW Option;INF582M01732;INF582M01716;1003.0434;;;06-Feb-2026
+119304;Union Liquid Fund - Direct Plan - Weekly IDCW Option;;INF582M01690;1001.8750;;;06-Feb-2026
+115399;Union Liquid Fund - Fortnightly IDCW Option;INF582M01062;INF582M01047;1002.9390;;;06-Feb-2026
+115398;Union Liquid Fund - Growth Option;INF582M01013;;2601.2868;;;06-Feb-2026
+115400;Union Liquid Fund - Monthly IDCW Option;INF582M01070;INF582M01054;1002.6260;;;06-Feb-2026
+115402;Union Liquid Fund - Weekly IDCW Option;;INF582M01039;1002.0998;;;06-Feb-2026
+
+Open Ended Schemes ( Debt Scheme - Ultra Short Duration Fund )
+
+
+Kotak Mahindra Mutual Fund
+102591;Kotak Savings Fund -Growth;INF174K01FD6;;44.3667;;;06-Feb-2026
+102592;Kotak Savings Fund -Monthly Payout of Income Distribution cum capital withdrawal option;INF174K01FH7;;10.7492;;;06-Feb-2026
+119750;Kotak Savings Fund-Growth - Direct;INF174K01JP2;;46.6072;;;06-Feb-2026
+119751;Kotak Savings Fund-Monthly Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01JQ0;;20.0901;;;06-Feb-2026
+
+Open Ended Schemes ( Debt Scheme - Low Duration Fund )
+
+
+JM Financial Mutual Fund
+143610;JM Low Duration Fund (Direct) - Bonus Option - Principal Units;INF192K01FL1;;23.7892;;;06-Feb-2026
+143604;JM Low Duration Fund (Direct) - Daily IDCW;;INF192K01DT9;10.8457;;;06-Feb-2026
+143606;JM Low Duration Fund (Direct) - Fortnightly IDCW;;INF192K01DV5;11.15;;;06-Feb-2026
+143612;JM Low Duration Fund (Direct) - Growth;INF192K01DW3;;39.5107;;;06-Feb-2026
+143611;JM Low Duration Fund (Direct) - Weekly IDCW;;INF192K01DU7;11.4581;;;06-Feb-2026
+143603;JM Low Duration Fund (Regular) - Daily IDCW;;INF192K01AV1;10.8156;;;06-Feb-2026
+143605;JM Low Duration Fund (Regular) - Fortnightly IDCW ;;INF192K01AX7;11.1085;;;06-Feb-2026
+143607;JM Low Duration Fund (Regular) - Growth Option;INF192K01AY5;;38.3486;;;06-Feb-2026
+143608;JM Low Duration Fund (Regular) - Weekly IDCW;;INF192K01AW9;11.4176;;;06-Feb-2026
+143609;JM Low Duration Fund - Bonus Option - Principal Units;INF192K01FJ5;;23.1041;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+133812;Kotak Low Duration Fund - Direct Plan- Standard Income Distribution cum capital withdrawal option;INF178L01AZ9;INF178L01AY2;1608.5738;;;06-Feb-2026
+133810;Kotak Low Duration Fund- Direct Plan- Growth Option;INF178L01AX4;;3785.0811;;;06-Feb-2026
+133805;Kotak Low Duration Fund- Regular Plan-Growth Option;INF178L01202;;3454.7854;;;06-Feb-2026
+133809;Kotak Low Duration Fund- Regular Plan-Standard Income Distribution cum capital withdrawal option;INF178L01210;INF178L01228;1316.8682;;;06-Feb-2026
+
+Union Mutual Fund
+153654;Union Low Duration Fund - Direct Plan - Growth Option;INF582M01LQ6;;10.3130;;;06-Feb-2026
+153655;Union Low Duration Fund - Direct Plan - IDCW Option;INF582M01LR4;INF582M01LS2;10.3130;;;06-Feb-2026
+153652;Union Low Duration Fund - Regular Plan - Growth Option;INF582M01LU8;;10.2684;;;06-Feb-2026
+153653;Union Low Duration Fund - Regular Plan - IDCW Option;INF582M01LN3;INF582M01LO1;10.2684;;;06-Feb-2026
+
+Open Ended Schemes ( Debt Scheme - Money Market Fund )
+
+
+Kotak Mahindra Mutual Fund
+101893;Kotak Money Market Fund - (Growth);INF174K01NA6;;4659.6749;;;06-Feb-2026
+119746;Kotak Money Market Fund - (Growth) - Direct;INF174K01MW2;;4706.6703;;;06-Feb-2026
+101892;Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option);INF174K018O0;INF174K01NB4;1051.8982;;;06-Feb-2026
+119747;Kotak Money Market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option) - Direct;INF174K019O8;INF174K01MX0;1251.7434;;;06-Feb-2026
+
+Shriram Mutual Fund
+154144;Shriram Money Market Fund - Direct Plan Growth Option;INF680P01471;;1003.1882;;;06-Feb-2026
+154143;Shriram Money Market Fund - Regular Plan Growth Option;INF680P01489;;1003.1234;;;06-Feb-2026
+
+Trust Mutual Fund
+150513;TRUSTMF MONEY MARKET FUND-DIRECT PLAN-GROWTH;INF0GCD01503;;1271.0663;;;06-Feb-2026
+150514;TRUSTMF MONEY MARKET FUND-DIRECT PLAN-MONTHLY IDCW;INF0GCD01529;INF0GCD01511;1144.0213;;;06-Feb-2026
+150511;TRUSTMF MONEY MARKET FUND-REGULAR PLAN-GROWTH;INF0GCD01479;;1262.4317;;;06-Feb-2026
+150512;TRUSTMF MONEY MARKET FUND-REGULAR PLAN-MONTHLY IDCW;INF0GCD01495;INF0GCD01487;1135.9242;;;06-Feb-2026
+
+Union Mutual Fund
+149117;Union Money Market Fund - Direct Plan -  Growth Option;INF582M01HG5;;1314.0421;;;06-Feb-2026
+149123;Union Money Market Fund - Direct Plan -  Monthly IDCW Option;INF582M01HK7;INF582M01HJ9;1011.0797;;;06-Feb-2026
+149116;Union Money Market Fund - Regular Plan -  Growth Option;INF582M01HO9;;1273.2554;;;06-Feb-2026
+149122;Union Money Market Fund - Regular Plan -  Monthly IDCW Option;INF582M01HS0;INF582M01HR2;1003.2597;;;06-Feb-2026
+
+Open Ended Schemes ( Debt Scheme - Short Duration Fund )
+
+
+JM Financial Mutual Fund
+150545;JM Short Duration Fund (Direct) - Growth;INF192K01MP8;;12.7195;;;06-Feb-2026
+150544;JM Short Duration Fund (Direct) - IDCW;INF192K01MQ6;INF192K01MR4;12.7199;;;06-Feb-2026
+150542;JM Short Duration Fund (Regular) - Growth;INF192K01MM5;;12.3766;;;06-Feb-2026
+150543;JM Short Duration Fund (Regular) - IDCW;INF192K01MN3;INF192K01MO1;12.3772;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+135500;Kotak Bond Short Term Plan - Direct - Standard Income Distribution cum capital withdrawal option;INF174K01Z14;INF174K01Z22;16.7858;;;06-Feb-2026
+135501;Kotak Bond Short Term Plan - Regular Plan - Normal Dividend;INF174K01Y98;INF174K01Z06;12.7061;;;06-Feb-2026
+101373;Kotak Bond Short Term Plan-(Growth);INF174K01ES7;;53.6593;;;06-Feb-2026
+119739;Kotak Bond Short Term Plan-(Growth) - Direct;INF174K01JI7;;59.3236;;;06-Feb-2026
+
+Trust Mutual Fund
+149076;TRUSTMF Short Duration Fund-Direct Plan-Growth;INF0GCD01370;;1318.4675;;;06-Feb-2026
+149078;TRUSTMF Short Duration Fund-Direct Plan-Monthly Income Distribution Cum Capital Withdrawal;INF0GCD01396;INF0GCD01404;1147.2961;;;06-Feb-2026
+149079;TRUSTMF Short Duration Fund-Direct Plan-Quarterly Income Distribution Cum Capital Withdrawal;INF0GCD01412;INF0GCD01420;1163.4818;;;06-Feb-2026
+149077;TRUSTMF Short Duration Fund-Direct Plan-Weekly Income Distribution Cum Capital Withdrawal;;INF0GCD01388;1124.043;;;06-Feb-2026
+149073;TRUSTMF Short Duration Fund-Regular Plan-Growth;INF0GCD01313;;1289.0474;;;06-Feb-2026
+149080;TRUSTMF Short Duration Fund-Regular Plan-Monthly Income Distribution Cum Capital Withdrawal;INF0GCD01339;INF0GCD01347;1129.8651;;;06-Feb-2026
+149075;TRUSTMF Short Duration Fund-Regular Plan-Quarterly Income Distribution Cum Capital Withdrawal;INF0GCD01354;INF0GCD01362;1135.7047;;;06-Feb-2026
+149074;TRUSTMF Short Duration Fund-Regular Plan-Weekly Income Distribution Cum Capital Withdrawal;;INF0GCD01321;1107.2513;;;06-Feb-2026
+
+Union Mutual Fund
+153242;Union Short Duration Fund - Direct Plan - Growth Option;INF582M01KO3;;10.7222;;;06-Feb-2026
+153243;Union Short Duration Fund - Direct Plan - IDCW Option;INF582M01KP0;INF582M01KQ8;10.7222;;;06-Feb-2026
+153240;Union Short Duration Fund - Regular Plan - Growth Option;INF582M01KK1;;10.6807;;;06-Feb-2026
+153241;Union Short Duration Fund - Regular Plan - IDCW Option;INF582M01KL9;INF582M01KM7;10.6807;;;06-Feb-2026
+
+Open Ended Schemes ( Debt Scheme - Medium Duration Fund )
+
+
+Kotak Mahindra Mutual Fund
+128079;Kotak Medium Term Fund - Direct - Standard Income Distribution cum capital withdrawal option;INF174K01VS1;INF174K01VU7;26.5484;;;06-Feb-2026
+128006;Kotak Medium Term Fund - Direct Growth;INF174K01VQ5;;26.546;;;06-Feb-2026
+128009;Kotak Medium Term Fund - Growth;INF174K01VL6;;23.7443;;;06-Feb-2026
+128078;Kotak Medium Term Fund - Standard Income Distribution cum capital withdrawal option;INF174K01VN2;INF174K01VP7;14.5739;;;06-Feb-2026
+
+Open Ended Schemes ( Debt Scheme - Medium to Long Duration Fund )
+
+
+JM Financial Mutual Fund
+120430;JM Medium to Long Duration Fund (Direct) - Growth Option;INF192K01CW5;;70.5485;;;06-Feb-2026
+120431;JM Medium to Long Duration Fund (Direct) - Quarterly IDCW;INF192K01CU9;INF192K01CV7;24.9288;;;06-Feb-2026
+100223;JM Medium to Long Duration Fund (Regular) - Growth Option;INF192K01AB3;;63.1322;;;06-Feb-2026
+100222;JM Medium to Long Duration Fund (Regular) - Quarterly IDCW;INF192K01999;INF192K01AA5;21.4653;;;06-Feb-2026
+101181;JM Medium to Long Duration Fund (Regular) - Bonus Option- Principal Units;INF192K01AC1;;25.8292;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+119734;Kotak Bond Fund - Direct Plan - Standard IDCW option;INF174K01JD8;;29.1326;;;06-Feb-2026
+119735;Kotak Bond Fund - Growth - Direct;INF174K01JC0;;87.5295;;;06-Feb-2026
+100300;Kotak Bond Fund - Regular Plan - Standard IDCW Option;INF174K01EQ1;INF174K01EP3;47.4829;;;06-Feb-2026
+100299;Kotak Bond Fund - Regular Plan Growth;INF174K01EM0;;77.5015;;;06-Feb-2026
+
+Open Ended Schemes ( Debt Scheme - Long Duration Fund )
+
+
+Kotak Mahindra Mutual Fund
+152491;Kotak Long Duration Fund - Direct Plan - Growth;INF174KA1RF5;;10.8736;;;06-Feb-2026
+152492;Kotak Long Duration Fund - Direct Plan - IDCW;INF174KA1RG3;INF174KA1RH1;10.8739;;;06-Feb-2026
+152489;Kotak Long Duration Fund - Regular Plan - Growth;INF174KA1RC2;;10.8139;;;06-Feb-2026
+152490;Kotak Long Duration Fund - Regular Plan - IDCW;INF174KA1RD0;INF174KA1RE8;10.8141;;;06-Feb-2026
+
+Open Ended Schemes ( Debt Scheme - Dynamic Bond )
+
+
+JM Financial Mutual Fund
+120432;JM Dynamic Bond Fund (Direct) - Daily IDCW;;INF192K01CZ8;10.0844;;;06-Feb-2026
+120434;JM Dynamic Bond Fund (Direct) - IDCW;INF192K01DB7;INF192K01DC5;45.5685;;;06-Feb-2026
+133414;JM Dynamic Bond Fund (Direct) - Monthly IDCW;INF192K01IL5;INF192K01IM3;45.9187;;;06-Feb-2026
+120433;JM Dynamic Bond Fund (Direct) - Weekly IDCW;;INF192K01DA9;10.5394;;;06-Feb-2026
+105639;JM Dynamic Bond Fund (Regular) - Daily IDCW;;INF192K01668;10.0198;;;06-Feb-2026
+101806;JM Dynamic Bond Fund (Regular) - Growth Option;INF192K01700;;42.3525;;;06-Feb-2026
+101805;JM Dynamic Bond Fund (Regular) - IDCW;INF192K01684;INF192K01692;42.4853;;;06-Feb-2026
+133390;JM Dynamic Bond Fund (Regular) - Monthly IDCW;INF192K01IJ9;INF192K01IK7;42.6869;;;06-Feb-2026
+105637;JM Dynamic Bond Fund (Regular) - Weekly IDCW;;INF192K01676;10.5198;;;06-Feb-2026
+120435;JM Dynamic Bond Fund - (Direct) - Growth Option;INF192K01DD3;;45.3249;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+119753;Kotak Dynamic Bond Fund - Direct Plan - Standard Income Distribution cum capital withdrawal option;INF174K01JX6;;14.6538;;;06-Feb-2026
+119755;Kotak Dynamic Bond Fund - Growth - Direct;INF174K01JU2;;41.7539;;;06-Feb-2026
+117998;Kotak Dynamic Bond Fund Regular Plan - Standard Income Distribution cum capital withdrawal option;INF174K01IY6;INF174K01IZ3;14.356;;;06-Feb-2026
+108511;Kotak Dynamic Bond Fund Regular Plan Growth;INF174K01FA2;;38.1054;;;06-Feb-2026
+
+Union Mutual Fund
+119311;Union Dynamic Bond Fund - Direct Plan - Growth Option;INF582M01799;;24.3914;;;06-Feb-2026
+119310;Union Dynamic Bond Fund - Direct Plan - IDCW Option;INF582M01815;INF582M01807;16.3381;;;06-Feb-2026
+116555;Union Dynamic Bond Fund - Growth Option;INF582M01336;;23.0529;;;06-Feb-2026
+116556;Union Dynamic Bond Fund - IDCW Option;INF582M01351;INF582M01344;15.3694;;;06-Feb-2026
+
+Open Ended Schemes ( Debt Scheme - Corporate Bond Fund )
+
+
+Kotak Mahindra Mutual Fund
+133791;Kotak Corporate Bond Fund- Direct Plan- Growth Option;INF178L01BY0;;4072.6553;;;06-Feb-2026
+133792;Kotak Corporate Bond Fund- Direct Plan- Monthly Payout of Income Distribution cum capital withdrawal option;INF178L01BZ7;;1073.1456;;;06-Feb-2026
+133782;Kotak Corporate Bond Fund- Regular Plan-Growth Option;INF178L01BO1;;3892.6859;;;06-Feb-2026
+133787;Kotak Corporate Bond Fund- Regular Plan-Monthly Dividend Option;INF178L01BQ6;INF178L01BP8;1268.0876;;;06-Feb-2026
+
+Trust Mutual Fund
+151320;TRUSTMF CORPORATE BOND FUND-DIRECT PLAN-GROWTH;INF0GCD01560;;1237.6185;;;06-Feb-2026
+151321;TRUSTMF CORPORATE BOND FUND-DIRECT PLAN-MONTHLY IDCW;INF0GCD01586;INF0GCD01578;1170.4225;;;06-Feb-2026
+151322;TRUSTMF CORPORATE BOND FUND-REGULAR PLAN-GROWTH;INF0GCD01537;;1222.5989;;;06-Feb-2026
+151319;TRUSTMF CORPORATE BOND FUND-REGULAR PLAN-MONTHLY IDCW;INF0GCD01552;INF0GCD01545;1153.5531;;;06-Feb-2026
+
+Union Mutual Fund
+143241;Union Corporate Bond Fund - Direct Plan - Growth Option;INF582M01DU5;;16.0769;;;06-Feb-2026
+143242;Union Corporate Bond Fund - Direct Plan - IDCW Option;INF582M01DW1;INF582M01DV3;16.0769;;;06-Feb-2026
+143239;Union Corporate Bond Fund - Regular Plan - Growth Option;INF582M01DY7;;15.6926;;;06-Feb-2026
+143240;Union Corporate Bond Fund - Regular Plan - IDCW Option;INF582M01EA5;INF582M01DZ4;15.6926;;;06-Feb-2026
+
+Open Ended Schemes ( Debt Scheme - Credit Risk Fund )
+
+
+Kotak Mahindra Mutual Fund
+119740;Kotak Credit Risk Fund - Direct Plan - Standard Income Distribution cum capital withdrawal option;INF174K01MG5;;26.1644;;;06-Feb-2026
+117716;Kotak Credit Risk Fund - Growth;INF174K01DY7;;30.7973;;;06-Feb-2026
+119741;Kotak Credit Risk Fund - Growth - Direct;INF174K01LZ7;;34.835;;;06-Feb-2026
+117715;Kotak Credit Risk Fund - Regular Plan - Standard Income Distribution cum capital withdrawal option;INF174K01EG2;INF174K01EF4;13.3934;;;06-Feb-2026
+
+Open Ended Schemes ( Debt Scheme - Banking and PSU Fund )
+
+
+Kotak Mahindra Mutual Fund
+123690;Kotak Banking and PSU Debt - Growth;INF174K01FO3;;67.5319;;;06-Feb-2026
+123691;Kotak Banking and PSU Debt - Monthly Payout of Income Distribution cum capital withdrawal option;INF174K01FQ8;INF174K01FP0;12.6877;;;06-Feb-2026
+123693;Kotak Banking and PSU Debt Direct - Growth;INF174K01KH7;;70.5115;;;06-Feb-2026
+123692;Kotak Banking and PSU Debt Direct - Monthly Payout of Income Distribution cum capital withdrawal option;INF174K01KK1;INF174K01KL9;10.2688;;;06-Feb-2026
+
+Trust Mutual Fund
+148656;TRUSTMF BANKING & PSU FUND - DIRECT GROWTH;INF0GCD01107;;1340.9203;;;06-Feb-2026
+148655;TRUSTMF BANKING & PSU FUND - REGULAR GROWTH;INF0GCD01016;;1307.6945;;;06-Feb-2026
+148672;TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;INF0GCD01180;INF0GCD01172;1176.2261;;;06-Feb-2026
+148678;TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;INF0GCD01115;1327.0595;;;06-Feb-2026
+148681;TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION;INF0GCD01149;INF0GCD01131;1155.3237;;;06-Feb-2026
+148670;TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;INF0GCD01164;INF0GCD01156;1174.0897;;;06-Feb-2026
+148675;TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;INF0GCD01123;1131.2778;;;06-Feb-2026
+148669;TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;INF0GCD01099;INF0GCD01081;1144.8652;;;06-Feb-2026
+148667;TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;INF0GCD01024;1247.2758;;;06-Feb-2026
+148674;TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;INF0GCD01057;INF0GCD01040;1132.8394;;;06-Feb-2026
+148668;TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;INF0GCD01073;INF0GCD01065;1144.4727;;;06-Feb-2026
+148679;TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL;;INF0GCD01032;1112.3492;;;06-Feb-2026
+
+Open Ended Schemes ( Debt Scheme - Gilt Fund )
+
+
+Kotak Mahindra Mutual Fund
+100281;Kotak Gilt-Investment  Provident Fund and Trust-Growth;INF174K01FL9;;96.6297;;;06-Feb-2026
+119757;Kotak Gilt-Investment  Provident Fund and Trust-Growth - Direct;INF174K01KM7;;110.46;;;06-Feb-2026
+100280;Kotak Gilt-Investment  Provident Fund and Trust-Payout of Income Distribution cum capital withdrawal option;INF174K01FM7;;11.6399;;;06-Feb-2026
+100265;Kotak Gilt-Investment Regular-Growth;INF174K01FI5;;94.4507;;;06-Feb-2026
+119759;Kotak Gilt-Investment Regular-Growth - Direct;INF174K01KE4;;107.8464;;;06-Feb-2026
+100264;Kotak Gilt-Investment Regular-Payout of Income Distribution cum capital withdrawal option;INF174K01FK1;INF174K01FJ3;18.4559;;;06-Feb-2026
+119758;Kotak Gilt-Investment Regular-Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KF1;;23.7318;;;06-Feb-2026
+
+quant Mutual Fund
+151228;quant Gilt Fund - Growth Option - Direct Plan;INF966L01BF7;;12.1975;;;06-Feb-2026
+151230;quant Gilt Fund - Growth Option - Regular Plan;INF966L01BI1;;11.848;;;06-Feb-2026
+151229;quant Gilt Fund - IDCW Option - Direct Plan;INF966L01BG5;INF966L01BH3;12.202;;;06-Feb-2026
+151231;quant Gilt Fund - IDCW Option - Regular Plan;INF966L01BJ9;INF966L01BK7;11.8562;;;06-Feb-2026
+
+Union Mutual Fund
+150408;Union Gilt Fund - Direct Plan - Annual IDCW Option;INF582M01IA6;INF582M01IB4;12.1839;;;06-Feb-2026
+150407;Union Gilt Fund - Direct Plan - Growth Option;INF582M01HW2;;12.1839;;;06-Feb-2026
+150456;Union Gilt Fund - Direct Plan - Half-yearly IDCW Option;INF582M01HX0;INF582M01HY8;12.1839;;;06-Feb-2026
+150406;Union Gilt Fund - Regular Plan - Annual IDCW Option;INF582M01IH1;INF582M01II9;11.9750;;;06-Feb-2026
+150405;Union Gilt Fund - Regular Plan - Growth Option;INF582M01ID0;;11.9750;;;06-Feb-2026
+150457;Union Gilt Fund - Regular Plan - Half-yearly IDCW Option;INF582M01IE8;INF582M01IF5;11.9750;;;06-Feb-2026
+
+Open Ended Schemes ( Debt Scheme - Floater Fund )
+
+
+Kotak Mahindra Mutual Fund
+147269;KOTAK FLOATING RATE FUND-DIRECT PLAN-GROWTH OPTION;INF174KA1EC0;;1611.5849;;;06-Feb-2026
+147267;KOTAK FLOATING RATE FUND-DIRECT PLAN-Standard Reinvestment of Income Distribution cum capital withdrawal option;;INF174KA1EF3;1403.9413;;;06-Feb-2026
+147266;KOTAK FLOATING RATE FUND-REGULAR PLAN-GROWTH OPTION;INF174KA1DY6;;1570.665;;;06-Feb-2026
+147265;KOTAK FLOATING RATE FUND-REGULAR PLAN-STANDARD Reinvestment of Income Distribution cum capital withdrawal option;;INF174KA1EB2;1399.7992;;;06-Feb-2026
+
+Open Ended Schemes ( Hybrid Scheme - Conservative Hybrid Fund )
+
+
+Kotak Mahindra Mutual Fund
+114859;Kotak Debt Hybrid - Growth;INF174K01393;;59.1899;;;06-Feb-2026
+120154;Kotak Debt Hybrid - Growth - Direct;INF174K01JZ1;;68.7977;;;06-Feb-2026
+114858;Kotak Debt Hybrid - Monthly Payout of Income Distribution cum capital withdrawal option;INF174K01419;INF174K01401;12.5813;;;06-Feb-2026
+120155;Kotak Debt Hybrid - Monthly Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01KA2;INF174K01KB0;13.7982;;;06-Feb-2026
+
+Open Ended Schemes ( Hybrid Scheme - Aggressive Hybrid Fund )
+
+
+JM Financial Mutual Fund
+130904;JM Aggressive Hybrid Fund (Direct) - Annual Bonus Option;INF192K01HB8;;136.4474;;;06-Feb-2026
+131477;JM Aggressive Hybrid Fund (Direct) - Annual IDCW;INF192K01HJ1;INF192K01HK9;45.9643;;;06-Feb-2026
+120484;JM Aggressive Hybrid Fund (Direct) - Growth Option;INF192K01BQ9;;136.2248;;;06-Feb-2026
+133402;JM Aggressive Hybrid Fund (Direct) - Half Yearly IDCW;INF192K01HH5;INF192K01HI3;98.0228;;;06-Feb-2026
+120483;JM Aggressive Hybrid Fund (Direct) - IDCW;INF192K01BO4;INF192K01BP1;75.1037;;;06-Feb-2026
+133412;JM Aggressive Hybrid Fund (Direct) - Monthly IDCW;INF192K01HN3;INF192K01HO1;97.994;;;06-Feb-2026
+133406;JM Aggressive Hybrid Fund (Direct) - Quarterly IDCW;INF192K01HR4;INF192K01HS2;34.4668;;;06-Feb-2026
+131476;JM Aggressive Hybrid Fund (Regular) - Annual IDCW;INF192K01HF9;INF192K01HG7;32.8198;;;06-Feb-2026
+133408;JM Aggressive Hybrid Fund (Regular) - Half Yearly IDCW;INF192K01HD4;INF192K01HE2;86.2593;;;06-Feb-2026
+100220;JM Aggressive Hybrid Fund (Regular) - IDCW;INF192K01528;INF192K01536;33.0545;;;06-Feb-2026
+133404;JM Aggressive Hybrid Fund (Regular) - Monthly IDCW;INF192K01HL7;INF192K01HM5;85.5734;;;06-Feb-2026
+133405;JM Aggressive Hybrid Fund (Regular) - Quarterly IDCW;INF192K01HP8;INF192K01HQ6;30.5431;;;06-Feb-2026
+100221;JM Aggressive Hybrid Fund (Regular) -Growth Option;INF192K01544;;118.1825;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+119767;Kotak Aggressive Hybrid Fund - Direct Plan - IDCW - Payout & Reinvestment of Income Distribution cum  capital withdrawal option;INF174K01LL7;INF174K01LM5;45.977;;;06-Feb-2026
+133035;Kotak Aggressive Hybrid Fund - Direct Plan -Growth;INF174K01F00;;75.001;;;06-Feb-2026
+100286;Kotak Aggressive Hybrid Fund - Regular Plan - IDCW - Payout & Reinvestment of Income Distribution cum capital withdrawal option;INF174K01450;INF174K01443;37.267;;;06-Feb-2026
+133036;Kotak Aggressive Hybrid Fund - Regular Plan -Growth;INF174K01E92;;63.412;;;06-Feb-2026
+
+Navi Mutual Fund
+143163;Navi Aggressive Hybrid Fund - Direct Plan - Growth;INF959L01CX3;;23.7023;;;06-Feb-2026
+143195;Navi Aggressive Hybrid Fund - Direct Plan Annual IDCW;INF959L01DG6;INF959L01DH4;23.6005;;;06-Feb-2026
+143186;Navi Aggressive Hybrid Fund - Direct Plan Half Yearly IDCW;INF959L01DE1;INF959L01DF8;23.5743;;;06-Feb-2026
+143192;Navi Aggressive Hybrid Fund - Direct Plan Monthly IDCW;INF959L01DA9;INF959L01DB7;23.596;;;06-Feb-2026
+143167;Navi Aggressive Hybrid Fund - Direct Plan Normal IDCW;INF959L01CY1;INF959L01CZ8;23.5972;;;06-Feb-2026
+143185;Navi Aggressive Hybrid Fund - Direct Plan Quarterly IDCW;INF959L01DC5;INF959L01DD3;23.5807;;;06-Feb-2026
+143162;Navi Aggressive Hybrid Fund - Regular Plan - Growth;INF959L01DI2;;20.6118;;;06-Feb-2026
+143198;Navi Aggressive Hybrid Fund - Regular Plan Annual IDCW;INF959L01DR3;INF959L01DS1;20.6094;;;06-Feb-2026
+143189;Navi Aggressive Hybrid Fund - Regular Plan Half Yearly IDCW;INF959L01DP7;INF959L01DQ5;20.6247;;;06-Feb-2026
+143197;Navi Aggressive Hybrid Fund - Regular Plan Monthly IDCW;INF959L01DL6;INF959L01DM4;20.6113;;;06-Feb-2026
+143166;Navi Aggressive Hybrid Fund - Regular Plan Normal IDCW;INF959L01DJ0;INF959L01DK8;20.613;;;06-Feb-2026
+143199;Navi Aggressive Hybrid Fund - Regular Plan Quarterly IDCW;INF959L01DN2;INF959L01DO0;20.612;;;06-Feb-2026
+
+quant Mutual Fund
+101070;quant Aggressive Hybrid Fund - Growth Option - Regular Plan;INF966L01267;;426.0948;;;06-Feb-2026
+120819;quant Aggressive Hybrid Fund-Growth Option-Direct Plan;INF966L01556;;467.4408;;;06-Feb-2026
+101069;quant Aggressive Hybrid Fund-IDCW Option - Regular Plan;INF966L01242;INF966L01259;58.7701;;;06-Feb-2026
+120818;quant Aggressive Hybrid Fund-IDCW Option-Direct Plan;INF966L01531;INF966L01549;64.743;;;06-Feb-2026
+
+Shriram Mutual Fund
+125711;Shriram Aggressive Hybrid Fund- Direct Growth;INF680P01042;;36.9729;;;06-Feb-2026
+125712;Shriram Aggressive Hybrid Fund- Direct- IDCW;INF680P01059;INF680P01067;29.1457;;;06-Feb-2026
+125713;Shriram Aggressive Hybrid Fund- Regular Growth;INF680P01018;;32.0108;;;06-Feb-2026
+125714;Shriram Aggressive Hybrid Fund- Regular-IDCW;INF680P01026;INF680P01034;25.5948;;;06-Feb-2026
+
+Union Mutual Fund
+148592;Union Aggressive Hybrid Fund - Direct Plan - Growth Option;INF582M01GY0;;19.34;;;06-Feb-2026
+148593;Union Aggressive Hybrid Fund - Direct Plan - IDCW Option;INF582M01HA8;INF582M01GZ7;18.59;;;06-Feb-2026
+148591;Union Aggressive Hybrid Fund - Regular Plan - Growth Option;INF582M01HC4;;18.24;;;06-Feb-2026
+148590;Union Aggressive Hybrid Fund - Regular Plan - IDCW Option;INF582M01HE0;INF582M01HD2;17.49;;;06-Feb-2026
+
+Open Ended Schemes ( Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage )
+
+
+Helios Mutual Fund
+152509;Helios Balanced Advantage Fund- Direct Plan- Growth Option;INF0R8701145;;11.94;;;06-Feb-2026
+152511;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;INF0R8701152;INF0R8701160;11.94;;;06-Feb-2026
+152512;Helios Balanced Advantage Fund- Regular Plan- Growth Option;INF0R8701111;;11.59;;;06-Feb-2026
+152510;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;INF0R8701129;INF0R8701137;11.59;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+144335;Kotak Balanced Advantage Fund  - Direct Plan -Growth Option;INF174KA1210;;22.808;;;06-Feb-2026
+144336;Kotak Balanced Advantage Fund - Regular Plan - Payout of Income Distribution cum capital withdrawal option Option;INF174KA1160;INF174KA1178;20.896;;;06-Feb-2026
+144334;Kotak Balanced Advantage Fund -Direct Plan  -Payout of Income Distribution cum capital withdrawal option;INF174KA1194;INF174KA1202;22.808;;;06-Feb-2026
+144333;Kotak Balanced Advantage Fund -Regular Plan - Growth Option;INF174KA1186;;20.896;;;06-Feb-2026
+
+NJ Mutual Fund
+149264;NJ Balanced Advantage Fund - Direct Plan - Growth Option;INF0J8L01040;;14.32;;;06-Feb-2026
+149265;NJ Balanced Advantage Fund - Direct Plan - IDCW Payout Option;INF0J8L01032;;14.32;;;06-Feb-2026
+149266;NJ Balanced Advantage Fund - Regular Plan - Growth Option;INF0J8L01024;;13.54;;;06-Feb-2026
+149263;NJ Balanced Advantage Fund - Regular Plan - IDCW Payout Option;INF0J8L01016;;13.54;;;06-Feb-2026
+
+quant Mutual Fund
+151713;quant Dynamic Asset Allocation Fund - Growth Option - Direct Plan;INF966L01BL5;;16.6902;;;06-Feb-2026
+151714;quant Dynamic Asset Allocation Fund - Growth Option - Regular Plan;INF966L01BO9;;15.9916;;;06-Feb-2026
+151712;quant Dynamic Asset Allocation Fund - IDCW Option - Direct Plan;INF966L01BM3;INF966L01BN1;16.685;;;06-Feb-2026
+151715;quant Dynamic Asset Allocation Fund - IDCW Option - Regular Plan;INF966L01BP6;INF966L01BQ4;15.9931;;;06-Feb-2026
+
+Shriram Mutual Fund
+147406;Shriram Balanced Advantage Fund - Direct Growth;INF680P01208;;19.2228;;;06-Feb-2026
+147403;Shriram Balanced Advantage Fund - Direct- IDCW;INF680P01216;INF680P01224;19.0681;;;06-Feb-2026
+147405;Shriram Balanced Advantage Fund - Regular Growth;INF680P01174;;17.0071;;;06-Feb-2026
+147404;Shriram Balanced Advantage Fund - Regular-IDCW;INF680P01182;INF680P01190;17.0299;;;06-Feb-2026
+
+Union Mutual Fund
+142038;Union Balanced Advantage Fund - Direct Plan - Growth Option;INF582M01DE9;;22.33;;;06-Feb-2026
+142037;Union Balanced Advantage Fund - Direct Plan - IDCW Option;INF582M01DG4;INF582M01DF6;21.47;;;06-Feb-2026
+142035;Union Balanced Advantage Fund - Regular Plan - Growth Option;INF582M01DI0;;20.58;;;06-Feb-2026
+142036;Union Balanced Advantage Fund - Regular Plan - IDCW Option;INF582M01DK6;INF582M01DJ8;19.73;;;06-Feb-2026
+
+Open Ended Schemes ( Hybrid Scheme - Multi Asset Allocation )
+
+
+quant Mutual Fund
+120820;quant Multi Asset Allocation Fund - IDCW Option - Direct Plan;INF966L01564;INF966L01572;163.0773;;;06-Feb-2026
+101071;quant Multi Asset Allocation Fund - IDCW Option - Regular Plan;INF966L01184;INF966L01192;150.1785;;;06-Feb-2026
+101072;quant Multi Asset Allocation Fund-GROWTH OPTION - Regular Plan;INF966L01200;;163.8269;;;06-Feb-2026
+120821;quant Multi Asset Allocation Fund-GROWTH OPTION-Direct Plan;INF966L01580;;176.951;;;06-Feb-2026
+
+Shriram Mutual Fund
+152051;Shriram Multi Asset Allocation Fund - Direct Growth;INF680P01406;;13.9489;;;06-Feb-2026
+152052;Shriram Multi Asset Allocation Fund - Regular Growth;INF680P01414;;13.3407;;;06-Feb-2026
+
+The Wealth Company Mutual Fund
+153999;The Wealth Company Multi Asset Allocation Fund - Direct Growth;INF2F0001347;;10.3938;;;06-Feb-2026
+154000;The Wealth Company Multi Asset Allocation Fund - Direct IDCW;INF2F0001354;INF2F0001362;10.3932;;;06-Feb-2026
+154002;The Wealth Company Multi Asset Allocation Fund - Regular Growth;INF2F0001313;;10.366;;;06-Feb-2026
+154001;The Wealth Company Multi Asset Allocation Fund - Regular IDCW;INF2F0001321;INF2F0001339;10.3583;;;06-Feb-2026
+
+Union Mutual Fund
+152787;Union Multi Asset Allocation Fund- Direct Plan - Growth Option;INF582M01JY4;;12.46;;;06-Feb-2026
+152784;Union Multi Asset Allocation Fund- Direct Plan - IDCW Option;INF582M01JZ1;INF582M01KA2;12.46;;;06-Feb-2026
+152786;Union Multi Asset Allocation Fund- Regular Plan - Growth Option;INF582M01JU2;;12.25;;;06-Feb-2026
+152785;Union Multi Asset Allocation Fund- Regular Plan - IDCW Option;INF582M01JV0;INF582M01JW8;12.25;;;06-Feb-2026
+
+Open Ended Schemes ( Hybrid Scheme - Arbitrage Fund )
+
+
+JM Financial Mutual Fund
+133395;JM Arbitrage Fund (Direct) - Annual Bonus Option - Principal Units;INF192K01GX4;;18.5447;;;06-Feb-2026
+135173;JM Arbitrage Fund (Direct) - Annual IDCW;INF192K01KY4;INF192K01KZ1;16.4298;;;06-Feb-2026
+130604;JM Arbitrage Fund (Direct) - Bonus Option - Principal Units;INF192K01GL9;;19.3215;;;06-Feb-2026
+120482;JM Arbitrage Fund (Direct) - Growth Option;INF192K01BN6;;36.1046;;;06-Feb-2026
+135171;JM Arbitrage Fund (Direct) - Half Yearly IDCW;INF192K01KU2;INF192K01KV0;16.699;;;06-Feb-2026
+135172;JM Arbitrage Fund (Direct) - Monthly IDCW;INF192K01KM9;INF192K01KN7;14.5793;;;06-Feb-2026
+135174;JM Arbitrage Fund (Direct) - Quarterly IDCW;INF192K01KQ0;INF192K01KR8;17.1563;;;06-Feb-2026
+120481;JM Arbitrage Fund (Direct)- IDCW;INF192K01BL0;INF192K01BM8;17.0138;;;06-Feb-2026
+135167;JM Arbitrage Fund (Regular) - Annual IDCW;INF192K01KW8;INF192K01KX6;14.8961;;;06-Feb-2026
+130603;JM Arbitrage Fund (Regular) - Bonus Option - Principal Units;INF192K01GJ3;;18.3301;;;06-Feb-2026
+103780;JM Arbitrage Fund (Regular) - Growth Option;INF192K01510;;33.7169;;;06-Feb-2026
+135170;JM Arbitrage Fund (Regular) - Half Yearly IDCW;INF192K01KS6;INF192K01KT4;15.0041;;;06-Feb-2026
+103781;JM Arbitrage Fund (Regular) - IDCW ;INF192K01494;INF192K01502;15.6492;;;06-Feb-2026
+135168;JM Arbitrage Fund (Regular) - Monthly IDCW;INF192K01KK3;INF192K01KL1;13.2562;;;06-Feb-2026
+135169;JM Arbitrage Fund (Regular) - Quarterly IDCW;INF192K01KO5;INF192K01KP2;15.2266;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+119770;Kotak  Arbitrage Fund - Direct Plan - IDCW -Payout &  Reinvestment of Income Distribution cum capital withdrawal option;INF174K01LE2;INF174K01LD4;11.2242;;;06-Feb-2026
+119771;Kotak Arbitrage Fund - Direct Plan - Growth;INF174K01LC6;;41.6381;;;06-Feb-2026
+105968;Kotak Arbitrage Fund - Regular Plan - Growth;INF174K01302;;38.8239;;;06-Feb-2026
+105967;Kotak Arbitrage Fund - Regular Plan - IDCW - Payout & Re-investment of Income Distribution cum capital withdrawal option;INF174K01328;INF174K01310;10.7396;;;06-Feb-2026
+
+NJ Mutual Fund
+150367;NJ Arbitrage Fund - Direct Plan - Growth Option;INF0J8L01065;;12.6888;;;06-Feb-2026
+150366;NJ Arbitrage Fund - Regular Plan - Growth Option;INF0J8L01057;;12.3783;;;06-Feb-2026
+
+Old Bridge Mutual Fund
+153981;Old Bridge Arbitrage Fund - Direct - IDCW;INF0S5R01075;INF0S5R01083;10.1645;;;06-Feb-2026
+153979;Old Bridge Arbitrage Fund Direct Growth;INF0S5R01125;;10.1645;;;06-Feb-2026
+153977;Old Bridge Arbitrage Fund Regular Growth;INF0S5R01091;;10.1439;;;06-Feb-2026
+153980;Old Bridge Arbitrage Fund Regular IDCW;INF0S5R01109;INF0S5R01117;10.1439;;;06-Feb-2026
+
+quant Mutual Fund
+153426;quant Arbitrage Fund - Growth Option - Direct Plan;INF966L01DW8;;10.6232;;;06-Feb-2026
+153428;quant Arbitrage Fund - Growth Option - Regular Plan;INF966L01DZ1;;10.5721;;;06-Feb-2026
+153427;quant Arbitrage Fund - IDCW Option - Direct Plan;INF966L01DX6;INF966L01DY4;10.6174;;;06-Feb-2026
+153429;quant Arbitrage Fund - IDCW Option - Regular Plan;INF966L01EA2;INF966L01EB0;10.5722;;;06-Feb-2026
+
+The Wealth Company Mutual Fund
+153891;THE WEALTH COMPANY ARBITRAGE FUND DIRECT GROWTH;INF2F0001271;;10.2155;;;06-Feb-2026
+153893;THE WEALTH COMPANY ARBITRAGE FUND DIRECT IDCW;INF2F0001263;INF2F0001255;10.2149;;;06-Feb-2026
+153892;THE WEALTH COMPANY ARBITRAGE FUND REGULAR GROWTH;INF2F0001305;;10.1949;;;06-Feb-2026
+153894;THE WEALTH COMPANY ARITRAGE FUND REGULAR IDCW;INF2F0001289;INF2F0001297;10.1948;;;06-Feb-2026
+
+Trust Mutual Fund
+153804;TRUSTMF ARBITRAGE FUND -DIRECT PLAN-GROWTH;INF0GCD01859;;10.2921;;;06-Feb-2026
+153805;TRUSTMF ARBITRAGE FUND -REGULAR PLAN-GROWTH;INF0GCD01867;;10.2553;;;06-Feb-2026
+
+Union Mutual Fund
+146297;Union Arbitrage Fund - Direct Plan - Growth Option;INF582M01ES7;;15.0732;;;06-Feb-2026
+146296;Union Arbitrage Fund - Direct Plan - IDCW Option;INF582M01EU3;INF582M01ET5;14.7155;;;06-Feb-2026
+146294;Union Arbitrage Fund - Regular Plan - Growth Option;INF582M01EW9;;14.5133;;;06-Feb-2026
+146295;Union Arbitrage Fund - Regular Plan - IDCW Option;INF582M01EY5;INF582M01EX7;14.1712;;;06-Feb-2026
+
+Open Ended Schemes ( Hybrid Scheme - Equity Savings )
+
+
+Kotak Mahindra Mutual Fund
+131373;Kotak Equity Savings Fund - Direct - Growth;INF174K01D28;;29.8324;;;06-Feb-2026
+131375;Kotak Equity Savings Fund - Direct - Monthly Payout of Income Distribution cum capital withdrawal option;INF174K01D36;INF174K01D51;21.4168;;;06-Feb-2026
+131372;Kotak Equity Savings Fund - Regular - Growth;INF174K01C78;;26.997;;;06-Feb-2026
+131374;Kotak Equity Savings Fund - Regular - Monthly Payout of Income Distribution cum capital withdrawal option;INF174K01C86;INF174K01D02;19.7662;;;06-Feb-2026
+
+quant Mutual Fund
+153705;quant Equity Savings Fund - Growth Option - Direct Plan;INF966L01EC8;;10.2787;;;06-Feb-2026
+153707;quant Equity Savings Fund - Growth Option - Regular Plan;INF966L01EF1;;10.1841;;;06-Feb-2026
+153706;quant Equity Savings Fund - IDCW Option - Direct Plan;INF966L01ED6;INF966L01EE4;10.2671;;;06-Feb-2026
+153708;quant Equity Savings Fund - IDCW Option - Regular Plan;INF966L01EG9;INF966L01EH7;10.1839;;;06-Feb-2026
+
+Union Mutual Fund
+144312;Union Equity Savings Fund - Direct Plan - Growth Option;INF582M01EC1;;17.85;;;06-Feb-2026
+144313;Union Equity Savings Fund - Direct Plan - IDCW Option;INF582M01EE7;INF582M01ED9;17.85;;;06-Feb-2026
+144310;Union Equity Savings Fund - Regular Plan - Growth Option;INF582M01EG2;;17.12;;;06-Feb-2026
+144311;Union Equity Savings Fund - Regular Plan - IDCW Option;INF582M01EI8;INF582M01EH0;17.12;;;06-Feb-2026
+
+Open Ended Schemes ( Solution Oriented Scheme - Retirement Fund )
+
+
+Union Mutual Fund
+150554;Union Retirement Fund - Direct Plan - Growth Option;INF582M01IK5;;16.79;;;06-Feb-2026
+150555;Union Retirement Fund - Direct Plan - IDCW Option;INF582M01IL3;;16.79;;;06-Feb-2026
+150552;Union Retirement Fund - Regular Plan - Growth Option;INF582M01IM1;;16.00;;;06-Feb-2026
+150553;Union Retirement Fund - Regular Plan - IDCW Option;INF582M01IN9;;16.00;;;06-Feb-2026
+
+Open Ended Schemes ( Solution Oriented Scheme - Children’s Fund )
+
+
+Union Mutual Fund
+152219;Union Children's Fund - Direct Plan - Growth Option;INF582M01JK3;;12.87;;;06-Feb-2026
+152220;Union Children's Fund - Direct Plan - IDCW Option;INF582M01JL1;;12.87;;;06-Feb-2026
+152217;Union Children's Fund - Regular Plan - Growth Option;INF582M01JI7;;12.51;;;06-Feb-2026
+152218;Union Children's Fund - Regular Plan - IDCW Option;INF582M01JJ5;;10.88;;;06-Feb-2026
+
+Open Ended Schemes ( Other Scheme - Index Funds )
+
+
+Angel One Mutual Fund
+153529;ANGEL ONE NIFTY 50 INDEX FUND-DIRECT-GROWTH;INF1J2R01072;;10.5178;;;06-Feb-2026
+153530;ANGEL ONE NIFTY 50 INDEX FUND-REGULAR-GROWTH;INF1J2R01080;;10.4802;;;06-Feb-2026
+153330;ANGEL ONE NIFTY TOTAL MARKET INDEX FUND DIRECT PLAN GROWTH OPTION;INF1J2R01023;;11.8212;;;06-Feb-2026
+153331;ANGEL ONE NIFTY TOTAL MARKET INDEX FUND REGULAR PLAN GROWTH OPTION;INF1J2R01031;;11.738;;;06-Feb-2026
+153956;ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 INDEX FUND - DIRECT GROWTH;INF1J2R01122;;9.6118;;;06-Feb-2026
+153955;ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 INDEX FUND - REGULAR GROWTH;INF1J2R01130;;9.5974;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+152038;Kotak  BSE Housing Index Fund - Regular Plan - Growth Option;INF174KA1OU1;;12.834;;;06-Feb-2026
+152040;Kotak  BSE Housing Index Fund - Regular Plan - IDCW Option;INF174KA1OV9;INF174KA1OW7;12.834;;;06-Feb-2026
+152039;Kotak BSE Housing Index Fund - Direct Plan - Growth Option;INF174KA1OX5;;13.004;;;06-Feb-2026
+152037;Kotak BSE Housing Index Fund - Direct Plan - IDCW Option;INF174KA1OY3;INF174KA1OZ0;13.003;;;06-Feb-2026
+152755;Kotak BSE PSU Index Fund - Direct Plan - Growth;INF174KA1SL1;;9.739;;;06-Feb-2026
+152754;Kotak BSE PSU Index Fund - Direct Plan - IDCW Payout and Reinvestment;INF174KA1SM9;INF174KA1SN7;9.739;;;06-Feb-2026
+152752;Kotak BSE PSU Index Fund - Regular Plan - Growth;INF174KA1SI7;;9.643;;;06-Feb-2026
+152753;Kotak BSE PSU Index Fund - Regular Plan - IDCW Payout and Reinvestment;INF174KA1SJ5;INF174KA1SK3;9.644;;;06-Feb-2026
+153284;Kotak BSE Sensex Index Fund - Regular - Growth;INF174KA1US2;;11.081;;;06-Feb-2026
+153285;Kotak BSE Sensex Index Fund - Regular - IDCW;INF174KA1UT0;INF174KA1UU8;11.081;;;06-Feb-2026
+153286;Kotak BSE Sensex Index Fund- Direct - Growth;INF174KA1UV6;;11.099;;;06-Feb-2026
+153287;Kotak BSE Sensex Index Fund- Direct - IDCW;INF174KA1UQ6;INF174KA1UR4;11.099;;;06-Feb-2026
+153313;Kotak CRISIL - IBX AAA Bond Financial Services Index Dec 2026 Fund - Direct - Growth;INF174KA1UX2;;10.7336;;;06-Feb-2026
+153312;Kotak CRISIL - IBX AAA Bond Financial Services Index Dec 2026 Fund - Direct - IDCW;INF174KA1UY0;INF174KA1UZ7;10.7334;;;06-Feb-2026
+153311;Kotak CRISIL - IBX AAA Bond Financial Services Index Dec 2026 Fund - Regular - Growth;INF174KA1VA8;;10.7129;;;06-Feb-2026
+153310;Kotak CRISIL - IBX AAA Bond Financial Services Index Dec 2026 Fund - Regular - IDCW;INF174KA1VB6;INF174KA1VC4;10.7129;;;06-Feb-2026
+152869;Kotak CRISIL -IBX AAA Financial Services Index Sep-2027 Fund-DIRECT PLAN-GROWTH Option;INF174KA1TF1;;11.1683;;;06-Feb-2026
+152868;Kotak CRISIL -IBX AAA Financial Services Index Sep-2027 Fund-DIRECT PLAN-IDCW;INF174KA1SU2;INF174KA1SV0;11.1667;;;06-Feb-2026
+152866;Kotak CRISIL -IBX AAA Financial Services Index Sep-2027 Fund-REGULAR PLAN-GROWTH;INF174KA1SW8;;11.1352;;;06-Feb-2026
+152867;Kotak CRISIL-IBX AAA Financial Services Index Sep-2027 Fund-REGULAR PLAN-IDCW;INF174KA1SX6;INF174KA1SY4;11.1352;;;06-Feb-2026
+153372;Kotak CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Direct-Growth;INF174KA1VK7;;10.6326;;;06-Feb-2026
+153373;Kotak CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Direct-IDCW;INF174KA1VL5;INF174KA1VM3;10.633;;;06-Feb-2026
+153375;Kotak CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Regular-Growth;INF174KA1VN1;;10.61;;;06-Feb-2026
+153374;Kotak CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Regular-IDCW;INF174KA1VO9;INF174KA1VP6;10.6099;;;06-Feb-2026
+153875;Kotak CRISIL-IBX Financial Services 9 to 12 Months Debt Index Fund - Direct - Growth;INF174KA1XM9;;10.2023;;;06-Feb-2026
+153876;Kotak CRISIL-IBX Financial Services 9 to 12 Months Debt Index Fund - Direct - IDCW;INF174KA1XN7;INF174KA1XO5;10.2024;;;06-Feb-2026
+153877;Kotak CRISIL-IBX Financial Services 9 to 12 Months Debt Index Fund - Regular - Growth;INF174KA1XP2;;10.1948;;;06-Feb-2026
+153878;Kotak CRISIL-IBX Financial Services 9 to 12 Months Debt Index Fund - Regular - IDCW;INF174KA1XQ0;INF174KA1XR8;10.1927;;;06-Feb-2026
+153146;Kotak Nifty 100 Equal Weight Index Fund - Direct Plan - Growth;INF174KA1TY2;;10.805;;;06-Feb-2026
+153143;Kotak Nifty 100 Equal Weight index Fund - Direct Plan - IDCW Option;INF174KA1TZ9;INF174KA1UA0;10.805;;;06-Feb-2026
+153145;Kotak Nifty 100 Equal Weight Index Fund - Regular Plan - Growth;INF174KA1UB8;;10.745;;;06-Feb-2026
+153144;Kotak Nifty 100 Equal Weight Index Fund - Regular Plan - IDCW Option;INF174KA1UC6;INF174KA1UD4;10.745;;;06-Feb-2026
+152663;Kotak NIFTY 100 Low Volatility 30 Index Fund - Direct plan - Growth option;INF174KA1RZ3;;11.1139;;;06-Feb-2026
+152665;Kotak NIFTY 100 Low Volatility 30 Index Fund - Direct plan - IDCW option;INF174KA1SA4;INF174KA1SB2;11.1139;;;06-Feb-2026
+152664;Kotak NIFTY 100 Low Volatility 30 Index Fund - Regular plan - Growth option;INF174KA1RW0;;10.9979;;;06-Feb-2026
+152666;Kotak NIFTY 100 Low Volatility 30 Index Fund - Regular plan - IDCW option;INF174KA1RX8;INF174KA1RY6;10.9979;;;06-Feb-2026
+151781;Kotak Nifty 200 Momentum 30 Index Fund - Direct Plan - Growth Option;INF174KA1OB1;;14.715;;;06-Feb-2026
+151782;Kotak Nifty 200 Momentum 30 Index Fund - Direct Plan - IDCW Payout;INF174KA1OC9;INF174KA1OD7;14.715;;;06-Feb-2026
+151783;Kotak Nifty 200 Momentum 30 Index Fund - Regular Plan - Growth Option;INF174KA1NY5;;14.526;;;06-Feb-2026
+151780;Kotak Nifty 200 Momentum 30 Index Fund - Regular Plan - IDCW Payout;INF174KA1NZ2;INF174KA1OA3;14.526;;;06-Feb-2026
+153660;KOTAK NIFTY 200 QUALITY 30 INDEX FUND - DIRECT PLAN - GROWTH;INF174KA1WN9;;10.075;;;06-Feb-2026
+153658;KOTAK NIFTY 200 QUALITY 30 INDEX FUND - DIRECT PLAN - IDCW - PAYOUT AND REINVESTMENT;INF174KA1WO7;INF174KA1WP4;10.075;;;06-Feb-2026
+153659;KOTAK NIFTY 200 QUALITY 30 INDEX FUND - REGULAR PLAN - GROWTH;INF174KA1WQ2;;10.053;;;06-Feb-2026
+153661;KOTAK NIFTY 200 QUALITY 30 INDEX FUND - REGULAR PLAN - IDCW - PAYOUT AND REINVESTMENT;INF174KA1WR0;INF174KA1WS8;10.053;;;06-Feb-2026
+153150;Kotak Nifty 50 Equal Weight Index Fund - Direct Plan - Growth;INF174KA1UE2;;11.302;;;06-Feb-2026
+153147;Kotak Nifty 50 Equal Weight Index Fund - Direct Plan - IDCW Option;INF174KA1UF9;INF174KA1UG7;11.302;;;06-Feb-2026
+153148;Kotak Nifty 50 Equal Weight Index Fund - Regular Plan - Growth;INF174KA1UH5;;11.239;;;06-Feb-2026
+153149;Kotak Nifty 50 Equal Weight Index Fund - Regular Plan - IDCW Option;INF174KA1UI3;INF174KA1UJ1;11.239;;;06-Feb-2026
+148978;Kotak Nifty 50 Index Fund - Direct Plan-Growth;INF174KA1HA7;;16.956;;;06-Feb-2026
+148976;Kotak Nifty 50 Index Fund - Direct Plan-IDCW Payout;INF174KA1HB5;INF174KA1HC3;16.952;;;06-Feb-2026
+148974;Kotak Nifty 50 Index Fund - Regular Plan-Growth;INF174KA1GX1;;16.712;;;06-Feb-2026
+148979;Kotak Nifty 50 Index Fund - Regular Plan-IDCW Payout;INF174KA1GY9;INF174KA1GZ6;16.712;;;06-Feb-2026
+153680;Kotak Nifty AAA Bond Financial Services Mar 2028 Index Fund - Direct Plan - Growth;INF174KA1WY6;;10.3199;;;06-Feb-2026
+153681;Kotak Nifty AAA Bond Financial Services Mar 2028 Index Fund - Direct Plan - IDCW - Payout & Reinvestment;INF174KA1WZ3;INF174KA1WU4;10.3197;;;06-Feb-2026
+153683;Kotak Nifty AAA Bond Financial Services Mar 2028 Index Fund - Regular Plan - Growth;INF174KA1WV2;;10.3074;;;06-Feb-2026
+153682;Kotak Nifty AAA Bond Financial Services Mar 2028 Index Fund - Regular Plan - IDCW - Payout & Reinvestment;INF174KA1WW0;INF174KA1WX8;10.3074;;;06-Feb-2026
+153781;Kotak Nifty Alpha 50 Index Fund - Direct Plan - Growth;INF174KA1XG1;;9.67;;;06-Feb-2026
+153782;Kotak Nifty Alpha 50 Index Fund - Direct Plan - IDCW - Payout & Reinvestment;INF174KA1XH9;INF174KA1XI7;9.67;;;06-Feb-2026
+153784;Kotak Nifty Alpha 50 Index Fund - Regular Plan - Growth;INF174KA1XJ5;;9.643;;;06-Feb-2026
+153783;Kotak Nifty Alpha 50 Index Fund - Regular Plan - IDCW - Payout & Reinvestment;INF174KA1XK3;INF174KA1XL1;9.643;;;06-Feb-2026
+153353;Kotak Nifty Commodities Index Fund-Direct Growth;INF174KA1VE0;;12.328;;;06-Feb-2026
+153354;KOTAK NIFTY COMMODITIES INDEX FUND-DIRECT-IDCW-PAYOUT & REINVESTMENT;INF174KA1VF7;INF174KA1VG5;12.329;;;06-Feb-2026
+153351;KOTAK NIFTY COMMODITIES INDEX FUND-REGULAR GROWTH;INF174KA1VH3;;12.299;;;06-Feb-2026
+153352;KOTAK NIFTY COMMODITIES INDEX FUND-REGULAR-IDCW-PAYOUT & REINVESTMENT;INF174KA1VI1;INF174KA1VJ9;12.299;;;06-Feb-2026
+151911;Kotak Nifty Financial Services Ex-Bank Index Fund - Direct Plan - Growth option;INF174KA1OR7;;16.478;;;06-Feb-2026
+151912;Kotak Nifty Financial Services Ex-Bank Index Fund - Direct Plan - IDCW option;INF174KA1OS5;INF174KA1OT3;16.478;;;06-Feb-2026
+151909;Kotak Nifty Financial Services Ex-Bank Index Fund - Regular Plan - Growth option;INF174KA1OO4;;16.255;;;06-Feb-2026
+151910;Kotak Nifty Financial Services Ex-Bank Index Fund - Regular Plan - IDCW option;INF174KA1OP1;INF174KA1OQ9;16.255;;;06-Feb-2026
+152098;Kotak Nifty G-Sec July 2033 Index Fund - Direct Plan - Growth;INF174KA1PJ1;;12.0928;;;06-Feb-2026
+152099;Kotak Nifty G-Sec July 2033 Index Fund - Direct Plan - IDCW Payout;INF174KA1PK9;INF174KA1PL7;12.0929;;;06-Feb-2026
+152100;Kotak Nifty G-Sec July 2033 Index Fund - Regular Plan - Growth;INF174KA1PG7;;12.0229;;;06-Feb-2026
+152101;Kotak Nifty G-Sec July 2033 Index Fund - Regular Plan - IDCW Payout;INF174KA1PH5;INF174KA1PI3;12.0228;;;06-Feb-2026
+152873;Kotak Nifty India Tourism Index Fund-Direct Plan-IDCW Option;INF174KA1TA2;INF174KA1TB0;8.664;;;06-Feb-2026
+152870;Kotak Nifty India Tourism Index Fund-Direct-Growth Option;INF174KA1SZ1;;8.662;;;06-Feb-2026
+152872;Kotak Nifty India Tourism Index Fund-Regular plan-Growth;INF174KA1TC8;;8.587;;;06-Feb-2026
+152871;Kotak Nifty India Tourism Index Fund-Regular Plan-IDCW Option;INF174KA1TD6;INF174KA1TE4;8.587;;;06-Feb-2026
+153401;KOTAK NIFTY MIDCAP 150 INDEX FUND-DIRECT PLAN-GROWTH;INF174KA1VQ4;;11.256;;;06-Feb-2026
+153402;KOTAK NIFTY MIDCAP 150 INDEX FUND-DIRECT PLAN-IDCW-PAYOUT AND REINVESTMENT;INF174KA1VR2;INF174KA1VS0;11.256;;;06-Feb-2026
+153399;KOTAK NIFTY MIDCAP 150 INDEX FUND-REGULAR PLAN-GROWTH;INF174KA1VT8;;11.208;;;06-Feb-2026
+153400;KOTAK NIFTY MIDCAP 150 INDEX FUND-REGULAR PLAN-IDCW PAYOUT AND REINVESTMENT;INF174KA1VU6;INF174KA1VV4;11.208;;;06-Feb-2026
+152916;Kotak Nifty Midcap 150 Momentum 50 Index Fund-Direct Plan-Growth;INF174KA1TM7;;9.36;;;06-Feb-2026
+152917;Kotak Nifty Midcap 150 Momentum 50 Index Fund-Direct Plan-IDCW option;INF174KA1TN5;INF174KA1TO3;9.36;;;06-Feb-2026
+152918;Kotak Nifty Midcap 150 Momentum 50 Index Fund-Regular Plan-Growth;INF174KA1TP0;;9.28;;;06-Feb-2026
+152919;Kotak Nifty Midcap 150 Momentum 50 Index Fund-Regular plan-IDCW option;INF174KA1TQ8;INF174KA1TR6;9.279;;;06-Feb-2026
+152767;KOTAK NIFTY MIDCAP 50 INDEX FUND-DIRECT PLAN- GROWTH;INF174KA1SR8;;10.455;;;06-Feb-2026
+152768;KOTAK NIFTY MIDCAP 50 INDEX FUND-DIRECT PLAN-IDCW PAYOUT AND REINVESTMENT;INF174KA1SS6;INF174KA1ST4;10.455;;;06-Feb-2026
+152765;KOTAK NIFTY MIDCAP 50 INDEX FUND-REGULAR PLAN-GROWTH;INF174KA1SO5;;10.361;;;06-Feb-2026
+152766;KOTAK NIFTY MIDCAP 50 INDEX FUND-REGULAR PLAN-IDCW PAYOUT AND REINVESTMENT;INF174KA1SP2;INF174KA1SQ0;10.361;;;06-Feb-2026
+148745;Kotak Nifty Next 50 Index Fund - Direct Plan - Growth Option;INF174KA1GA9;;20.1463;;;06-Feb-2026
+148746;Kotak Nifty Next 50 Index Fund - Direct Plan -Payout of Income Distribution cum capital withdrawal option;INF174KA1FZ8;INF174KA1GB7;20.1461;;;06-Feb-2026
+148743;Kotak Nifty Next 50 Index Fund - Regular Plan - Growth Option;INF174KA1FX3;;19.6526;;;06-Feb-2026
+148744;Kotak Nifty Next 50 Index Fund - Regular Plan - Payout of Income Distribution cum capital withdrawal option;INF174KA1FW5;INF174KA1FY1;19.6531;;;06-Feb-2026
+149855;Kotak Nifty SDL Apr  2027 Top 12 Equal Weight Index Fund-Direct Plan-Growth;INF174KA1IL2;;12.8062;;;06-Feb-2026
+149852;Kotak Nifty SDL Apr  2027 Top 12 Equal Weight Index Fund-Regular Plan- Growth;INF174KA1II8;;12.7277;;;06-Feb-2026
+149853;Kotak Nifty SDL Apr  2027 Top 12 Equal Weight Index Fund-Regular Plan-IDCW Option;INF174KA1IJ6;INF174KA1IK4;12.7279;;;06-Feb-2026
+149854;Kotak Nifty SDL Apr 2027 Top 12 Equal Weight Index Fund-Direct Plan-IDCW Option;INF174KA1IM0;INF174KA1IN8;12.8055;;;06-Feb-2026
+149865;Kotak Nifty SDL Apr 2032 Top 12 Equal Weight Index Fund-Direct Plan- Growth;INF174KA1IR9;;13.0287;;;06-Feb-2026
+149864;Kotak Nifty SDL Apr 2032 Top 12 Equal Weight Index Fund-Direct Plan-IDCW Option;INF174KA1IS7;INF174KA1IT5;13.0273;;;06-Feb-2026
+149862;Kotak Nifty SDL Apr 2032 Top 12 Equal Weight Index Fund-Regular Plan-Growth;INF174KA1IO6;;12.9407;;;06-Feb-2026
+149866;Kotak Nifty SDL Apr 2032 Top 12 Equal Weight Index Fund-Regular Plan-IDCW Option;INF174KA1IP3;INF174KA1IQ1;12.9446;;;06-Feb-2026
+151218;Kotak Nifty SDL Jul 2026 Index Fund Direct Plan Growth;INF174KA1LC5;;12.4876;;;06-Feb-2026
+151219;Kotak Nifty SDL Jul 2026 Index Fund Direct Plan IDCW;INF174KA1LD3;INF174KA1LE1;12.051;;;06-Feb-2026
+151216;Kotak Nifty SDL Jul 2026 Index Fund Regular Plan Growth;INF174KA1KZ8;;12.4064;;;06-Feb-2026
+151217;Kotak Nifty SDL Jul 2026 Index Fund Regular Plan IDCW;INF174KA1LA9;INF174KA1LB7;12.4066;;;06-Feb-2026
+151420;Kotak Nifty SDL Jul 2033 Index Fund Direct Plan Growth Option;INF174KA1MJ8;;12.5267;;;06-Feb-2026
+151418;Kotak Nifty SDL Jul 2033 Index Fund Direct Plan IDCW;INF174KA1MK6;INF174KA1ML4;12.1583;;;06-Feb-2026
+151417;Kotak Nifty SDL Jul 2033 Index Fund Regular Plan Growth Option;INF174KA1MG4;;12.4387;;;06-Feb-2026
+151419;Kotak Nifty SDL Jul 2033 Index Fund Regular Plan IDCW;INF174KA1MH2;INF174KA1MI0;12.4387;;;06-Feb-2026
+150725;Kotak Nifty SDL Plus AAA PSU Bond Jul 2028 60:40 Index Fund Direct Plan - Growth;INF174KA1JT3;;12.8672;;;06-Feb-2026
+150726;Kotak Nifty SDL Plus AAA PSU Bond Jul 2028 60:40 Index Fund Direct Plan - IDCW;INF174KA1JU1;INF174KA1JV9;12.8673;;;06-Feb-2026
+150723;Kotak Nifty SDL Plus AAA PSU Bond Jul 2028 60:40 Index Fund Regular Plan - Growth;INF174KA1JQ9;;12.7846;;;06-Feb-2026
+150724;Kotak Nifty SDL Plus AAA PSU Bond Jul 2028 60:40 Index Fund Regular Plan - IDCW;INF174KA1JR7;INF174KA1JS5;12.7806;;;06-Feb-2026
+153220;Kotak Nifty SmallCap 250 Index Fund - Direct - IDCW;INF174KA1UL7;INF174KA1UM5;10.298;;;06-Feb-2026
+153223;Kotak Nifty SmallCap 250 Index Fund- Direct - Growth;INF174KA1UK9;;10.298;;;06-Feb-2026
+153221;Kotak Nifty SmallCap 250 Index Fund- Regular - Growth;INF174KA1UN3;;10.246;;;06-Feb-2026
+153222;Kotak Nifty SmallCap 250 Index Fund- Regular - IDCW;INF174KA1UO1;INF174KA1UP8;10.247;;;06-Feb-2026
+151649;Kotak Nifty Smallcap 50 Index Fund - Direct Plan - Growth;INF174KA1NB3;;19.343;;;06-Feb-2026
+151650;Kotak Nifty Smallcap 50 Index Fund - Direct Plan - IDCW;INF174KA1NC1;INF174KA1ND9;19.354;;;06-Feb-2026
+151647;Kotak Nifty Smallcap 50 Index Fund - Regular Plan - Growth;INF174KA1MY7;;18.996;;;06-Feb-2026
+151648;Kotak Nifty Smallcap 50 Index Fund - Regular Plan - IDCW;INF174KA1MZ4;INF174KA1NA5;18.996;;;06-Feb-2026
+153461;Kotak Nifty Top 10 Equal Weight Index Fund-Direct Plan-Growth;INF174KA1WD0;;10.156;;;06-Feb-2026
+153462;Kotak Nifty Top 10 Equal Weight Index Fund-Direct Plan-IDCW-Payout and Reinvestment;INF174KA1WE8;INF174KA1WF5;10.156;;;06-Feb-2026
+153463;Kotak Nifty Top 10 Equal Weight Index Fund-Regular Plan-Growth;INF174KA1WG3;;10.101;;;06-Feb-2026
+153464;Kotak Nifty Top 10 Equal Weight Index Fund-Regular Plan-IDCW Payout and Reinvestment;INF174KA1WH1;INF174KA1WI9;10.101;;;06-Feb-2026
+154032;Kotak Nifty500 Momentum 50 Index Fund - Direct Plan - Growth;INF174KA1YC8;;9.775;;;06-Feb-2026
+154029;Kotak Nifty500 Momentum 50 Index Fund - Direct Plan - IDCW - Payout & Investment;INF174KA1YD6;INF174KA1YE4;9.775;;;06-Feb-2026
+154030;Kotak Nifty500 Momentum 50 Index Fund - Regular Plan - Growth;INF174KA1YF1;;9.77;;;06-Feb-2026
+154031;Kotak Nifty500 Momentum 50 Index Fund - Regular Plan - IDCW - Payout & Reinvestment;INF174KA1YG9;INF174KA1YH7;9.77;;;06-Feb-2026
+
+Navi Mutual Fund
+152062;NAVI BSE SENSEX INDEX FUND - DIRECT PLAN - GROWTH;INF959L01HK9;;12.964;;;06-Feb-2026
+152061;NAVI BSE SENSEX INDEX FUND - REGULAR PLAN - GROWTH;INF959L01HJ1;;12.7469;;;06-Feb-2026
+149039;Navi Nifty 50 Index Fund-Direct Plan-Growth;INF959L01FP2;;16.8443;;;06-Feb-2026
+149040;Navi Nifty 50 Index Fund-Regular Plan-Growth;INF959L01FQ0;;16.6885;;;06-Feb-2026
+152751;NAVI NIFTY 500 MULTICAP 50-25-25 DIRECT PLAN;INF959L01HO1;;9.9345;;;06-Feb-2026
+152750;NAVI NIFTY 500 MULTICAP 50-25-25 REGULAR PLAN;INF959L01HN3;;9.8301;;;06-Feb-2026
+149804;Navi Nifty Bank Index Fund- Direct Plan- Growth;INF959L01FT4;;15.7965;;;06-Feb-2026
+149805;Navi Nifty Bank Index Fund- Regular Plan- Growth;INF959L01FU2;;15.3459;;;06-Feb-2026
+150515;Navi Nifty India Manufacturing Index Fund- Direct Plan- Growth;INF959L01GD6;;18.6687;;;06-Feb-2026
+150516;Navi Nifty India Manufacturing Index Fund- Regular Plan- Growth;INF959L01GE4;;18.1688;;;06-Feb-2026
+149892;Navi Nifty Midcap 150 Index Fund Direct Plan- Growth;INF959L01FX6;;20.7316;;;06-Feb-2026
+149893;Navi Nifty Midcap 150 Index Fund Regular Plan- Growth;INF959L01FY4;;20.0495;;;06-Feb-2026
+154026;Navi Nifty Midsmall 400 Index Fund - Regular - Growth;INF959L01HS2;;9.9765;;;06-Feb-2026
+154027;Navi Nifty midsmallcap 400 Index Fund- Direct - Growth;INF959L01HR4;;9.9888;;;06-Feb-2026
+149447;Navi Nifty Next 50 Index Fund- Direct Plan- Growth;INF959L01FR8;;16.3967;;;06-Feb-2026
+149448;Navi Nifty Next 50 Index Fund- Regular Plan- Growth;INF959L01FS6;;16.0465;;;06-Feb-2026
+153362;Navi Nifty Smallcap 250 Momentum quality index fund- Direct Plan;INF959L01HQ6;;10.6151;;;06-Feb-2026
+153363;Navi Nifty Smallcap 250 Momentum quality index fund- Regular Plan;INF959L01HP8;;10.549;;;06-Feb-2026
+152535;Navi NiftyIT Index Fund - Direct Plan- Growth;INF959L01HM5;;10.5675;;;06-Feb-2026
+152536;Navi NiftyIT Index Fund - Regular Plan -Growth;INF959L01HL7;;10.4239;;;06-Feb-2026
+
+Taurus Mutual Fund
+118881;Taurus Nifty 50 Index Fund - Direct Plan - Growth;INF044D01CQ5;;52.0645;;;06-Feb-2026
+118882;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01CR3;INF044D01CS1;48.7264;;;06-Feb-2026
+112948;Taurus Nifty 50 Index Fund - Regular Plan - Growth;INF044D01948;;48.8076;;;06-Feb-2026
+112949;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01914;INF044D01922;31.1189;;;06-Feb-2026
+
+Zerodha Mutual Fund
+153932;Zerodha BSE SENSEX Index Fund;INF0R8F01174;;10.0245;;;06-Feb-2026
+152157;Zerodha ELSS Tax Saver Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option;INF0R8F01026;;14.2695;;;06-Feb-2026
+153906;Zerodha Nifty 50 Index Fund - Direct Plan - Growth;INF0R8F01158;;10.211;;;06-Feb-2026
+152156;Zerodha Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option;INF0R8F01018;;14.2496;;;06-Feb-2026
+154109;Zerodha Nifty Short Duration G-Sec Index Fund - Direct Plan - Growth Option;INF0R8F01182;;1002.6062;;;06-Feb-2026
+
+Open Ended Schemes ( Other Scheme - Gold ETF )
+
+
+Angel One Mutual Fund
+153826;ANGEL ONE GOLD ETF;INF1J2R01114;;14.1274;;;06-Feb-2026
+
+Choice Mutual Fund
+153933;Choice Gold ETF;INF2KCX01012;;150.3240;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+106193;KOTAK GOLD ETF;INF174KA1HJ8;;126.3347;;;06-Feb-2026
+
+LIC Mutual Fund
+151961;LIC MF Gold Exchange Traded Fund;INF397L01554;;13534.5666;;;06-Feb-2026
+
+The Wealth Company Mutual Fund
+154092;The Wealth Company Gold ETF;INF2F0001370;;150.3846;;;06-Feb-2026
+
+Union Mutual Fund
+153337;Union Gold ETF;INF582M01KS4;;148.1192;;;06-Feb-2026
+
+Open Ended Schemes ( Other Scheme - Other  ETFs )
+
+
+Angel One Mutual Fund
+153451;ANGEL ONE NIFTY 1D RATE LIQUID ETF - GROWTH;INF1J2R01056;;1045.8694;;;06-Feb-2026
+153531;ANGEL ONE NIFTY 50 ETF;INF1J2R01064;;10.535;;;06-Feb-2026
+153332;ANGEL ONE NIFTY TOTAL MARKET ETF;INF1J2R01015;;11.8326;;;06-Feb-2026
+153957;ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 ETF;INF1J2R01148;;9.6133;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+109010;Kotak BSE Sensex ETF;INF174KA1JD7;;91.1235;;;06-Feb-2026
+153314;Kotak MSCI India ETF;INF174KA1VD2;;30.611;;;06-Feb-2026
+153315;Kotak Nifty 100 Equal Weight ETF;INF174KA1UW4;;34.029;;;06-Feb-2026
+150000;Kotak Nifty 100 Low Volatility 30 ETF;INF174KA1IY5;;21.5371;;;06-Feb-2026
+151358;Kotak Nifty 1D Rate Liquid ETF;INF174KA1LV5;;1090.2053;;;06-Feb-2026
+153904;Kotak Nifty 200 Momentum 30 ETF;INF174KA1XS6;;30.819;;;06-Feb-2026
+112351;Kotak Nifty 50 ETF;INF174K014P6;;283.0299;;;06-Feb-2026
+135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;153.9786;;;06-Feb-2026
+149397;Kotak Nifty Alpha 50 ETF;INF174KA1IA5;;47.6646;;;06-Feb-2026
+133122;Kotak Nifty Bank ETF;INF174K01F59;;621.6004;;;06-Feb-2026
+153934;Kotak Nifty Chemicals ETF;INF174KA1XV0;;28.369;;;06-Feb-2026
+150492;Kotak Nifty India Consumption ETF;INF174KA1JE5;;120.8047;;;06-Feb-2026
+148763;Kotak Nifty IT ETF;INF174KA1GC5;;39.1919;;;06-Feb-2026
+153398;Kotak Nifty Midcap 150 ETF;INF174KA1VW2;;22.213;;;06-Feb-2026
+149757;Kotak Nifty Midcap 50 ETF;INF174KA1IB3;;173.4499;;;06-Feb-2026
+150531;Kotak Nifty MNC ETF;INF174KA1JF2;;31.7125;;;06-Feb-2026
+154101;Kotak Nifty Next 50 ETF;INF174KA1YO3;;69.185;;;06-Feb-2026
+106929;Kotak Nifty PSU Bank ETF;INF373I01023;;885.6683;;;06-Feb-2026
+153657;Kotak Nifty200 Quality 30 ETF;INF174KA1WT6;;20.999;;;06-Feb-2026
+150948;Kotak Silver ETF;INF174KA1KU9;;232.5108;;;06-Feb-2026
+
+Shriram Mutual Fund
+152741;Shriram Nifty 1D Rate Liquid ETF - Growth;INF680P01422;;1091.0083;;;06-Feb-2026
+
+Zerodha Mutual Fund
+152667;Zerodha Nifty 100 ETF;INF0R8F01067;;10.9687;;;06-Feb-2026
+152327;Zerodha Nifty 1D Rate Liquid ETF - Growth Option;INF0R8F01034;;112.6241;;;06-Feb-2026
+153905;Zerodha Nifty 50 ETF;INF0R8F01166;;10.2274;;;06-Feb-2026
+153811;Zerodha Nifty 8-13 Yr G-Sec ETF;INF0R8F01133;;29.6441;;;06-Feb-2026
+152668;Zerodha Nifty Midcap 150 ETF;INF0R8F01059;;10.9553;;;06-Feb-2026
+153837;Zerodha Nifty Smallcap 100 ETF;INF0R8F01141;;9.5766;;;06-Feb-2026
+
+Open Ended Schemes ( Other Scheme - FoF Domestic )
+
+
+Angel One Mutual Fund
+153828;ANGEL ONE GOLD ETF FOF - REGULAR GROWTH;INF1J2R01106;;13.5747;;;06-Feb-2026
+153827;ANGEL ONE GOLD ETF FOF- DIRECT GROWTH;INF1J2R01098;;13.6025;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+114758;Kotak Gold Fund Growth;INF174K01AT3;;57.7131;;;06-Feb-2026
+119781;Kotak Gold Fund Growth - Direct;INF174K01MP6;;60.9145;;;06-Feb-2026
+114757;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option;INF174K01AU1;INF174K01AV9;57.712;;;06-Feb-2026
+119780;Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option- Direct;INF174K01MQ4;INF174K01MR2;60.914;;;06-Feb-2026
+153921;Kotak Gold Silver Passive FOF - Direct Plan - Growth;INF174KA1XT4;;15.345;;;06-Feb-2026
+153922;Kotak Gold Silver Passive FOF - Regular Plan - Growth;INF174KA1XU2;;15.334;;;06-Feb-2026
+150820;Kotak Income Plus Arbitrage Omni  FOF-Regular Plan-Growth;INF174KA1KG8;;12.7353;;;06-Feb-2026
+150822;Kotak Income Plus Arbitrage Omni FOF-Direct Plan-Growth;INF174KA1KJ2;;12.7913;;;06-Feb-2026
+150823;Kotak Income Plus Arbitrage Omni FOF-Direct Plan-IDCW;INF174KA1KK0;INF174KA1KL8;12.7915;;;06-Feb-2026
+150821;Kotak Income Plus Arbitrage Omni FOF-Regular Plan-IDCW;INF174KA1KH6;INF174KA1KI4;12.7352;;;06-Feb-2026
+151603;Kotak Silver ETF Fund of Fund - Direct Plan - Growth Option;INF174KA1MQ3;;31.3765;;;06-Feb-2026
+151602;Kotak Silver ETF Fund of Fund - Regular Plan - Growth Option;INF174KA1MR1;;30.9717;;;06-Feb-2026
+
+The Wealth Company Mutual Fund
+154131;THE WEALTH COMPANY GOLD ETF FOF DIRECT GROWTH;INF2F0001412;;9.7702;;;06-Feb-2026
+154132;THE WEALTH COMPANY GOLD ETF FOF DIRECT IDCW;INF2F0001420;INF2F0001438;9.7702;;;06-Feb-2026
+154133;THE WEALTH COMPANY GOLD ETF FOF REGULAR GROWTH;INF2F0001388;;9.7692;;;06-Feb-2026
+154134;THE WEALTH COMPANY GOLD ETF FOF REGULAR IDCW;INF2F0001396;INF2F0001404;9.7692;;;06-Feb-2026
+
+Union Mutual Fund
+153824;Union Diversified Equity All Cap Active FOF - Direct Plan - Growth Option;INF582M01LZ7;;9.8230;;;06-Feb-2026
+153825;Union Diversified Equity All Cap Active FOF - Direct Plan - IDCW Option;INF582M01MA8;INF582M01MB6;9.8230;;;06-Feb-2026
+153822;Union Diversified Equity All Cap Active FOF - Regular Plan - Growth Option;INF582M01LV6;;9.7848;;;06-Feb-2026
+153823;Union Diversified Equity All Cap Active FOF - Regular Plan - IDCW Option;INF582M01LW4;INF582M01LX2;9.7848;;;06-Feb-2026
+153340;Union Gold ETF Fund of Fund - Direct Plan - Growth Option;INF582M01LA0;;17.0918;;;06-Feb-2026
+153339;Union Gold ETF Fund of Fund - Direct Plan - IDCW Option;INF582M01KW6;;17.0918;;;06-Feb-2026
+153338;Union Gold ETF Fund of Fund - Regular Plan - Growth Option;INF582M01KT2;;17.0494;;;06-Feb-2026
+153341;Union Gold ETF Fund of Fund - Regular Plan - IDCW Option;INF582M01KU0;;17.0494;;;06-Feb-2026
+153575;Union Income Plus Arbitrage Active FOF - Direct Plan - Growth Option;INF582M01LF9;;10.1987;;;06-Feb-2026
+153576;Union Income Plus Arbitrage Active FOF - Direct Plan - IDCW Option;INF582M01LG7;INF582M01LH5;10.1987;;;06-Feb-2026
+153573;Union Income Plus Arbitrage Active FOF - Regular Plan - Growth Option;INF582M01LB8;;10.1673;;;06-Feb-2026
+153574;Union Income Plus Arbitrage Active FOF - Regular Plan - IDCW Option;INF582M01LC6;INF582M01LD4;10.1673;;;06-Feb-2026
+
+Zerodha Mutual Fund
+153011;Zerodha Gold ETF FoF-Direct Plan - Growth Option;INF0R8F01083;;19.7713;;;06-Feb-2026
+153757;Zerodha Multi Asset Passive FoF - Direct - Growth;INF0R8F01117;;11.4524;;;06-Feb-2026
+153656;Zerodha Silver ETF FoF - Direct Growth;INF0R8F01109;;21.4034;;;06-Feb-2026
+
+Open Ended Schemes ( Equity Scheme - Flexi Cap Fund )
+
+
+Helios Mutual Fund
+152135;Helios Flexi Cap Fund - Direct Plan - Growth Option;INF0R8701046;;15.25;;;06-Feb-2026
+152138;Helios Flexi Cap Fund - Direct Plan - IDCW Option;INF0R8701053;INF0R8701061;15.25;;;06-Feb-2026
+152136;Helios Flexi Cap Fund - Regular Plan - Growth Option;INF0R8701012;;14.76;;;06-Feb-2026
+152137;Helios Flexi Cap Fund - Regular Plan - IDCW Option;INF0R8701020;INF0R8701038;14.76;;;06-Feb-2026
+
+JM Financial Mutual Fund
+120492;JM Flexicap Fund (Direct) - Growth Option;INF192K01CC7;;108.1652;;;06-Feb-2026
+120491;JM Flexicap Fund (Direct) - IDCW;INF192K01CA1;INF192K01CB9;98.3168;;;06-Feb-2026
+109522;JM Flexicap Fund (Regular) - Growth option;INF192K01635;;94.4076;;;06-Feb-2026
+109523;JM Flexicap Fund (Regular) - IDCW;INF192K01619;INF192K01627;72.7484;;;06-Feb-2026
+
+Kotak Mahindra Mutual Fund
+112090;Kotak Flexicap Fund - Growth;INF174K01336;;87.79;;;06-Feb-2026
+120166;Kotak Flexicap Fund - Growth - Direct;INF174K01LS2;;99.362;;;06-Feb-2026
+112089;Kotak Flexicap Fund - Payout of Income Distribution cum capital withdrawal option;INF174K01351;INF174K01344;53.011;;;06-Feb-2026
+120165;Kotak Flexicap Fund - Payout of Income Distribution cum capital withdrawal option- Direct;INF174K01LQ6;INF174K01LR4;60.681;;;06-Feb-2026
+
+Navi Mutual Fund
+143793;Navi Flexi Cap Fund - Direct Plan - Growth;INF959L01DT9;;26.7727;;;06-Feb-2026
+143798;NAVI FLEXI CAP FUND - DIRECT PLAN ANNUAL IDCW PAYOUT;INF959L01EC3;INF959L01ED1;26.5683;;;06-Feb-2026
+143797;NAVI FLEXI CAP FUND - DIRECT PLAN HALF YEARLY IDCW PAYOUT;INF959L01EA7;INF959L01EB5;26.5689;;;06-Feb-2026
+143796;NAVI FLEXI CAP FUND - DIRECT PLAN MONTHLY IDCW PAYOUT;INF959L01DW3;INF959L01DX1;26.5633;;;06-Feb-2026
+143792;NAVI FLEXI CAP FUND - DIRECT PLAN NORMAL IDCW PAYOUT;INF959L01DU7;INF959L01DV5;26.5343;;;06-Feb-2026
+143791;NAVI FLEXI CAP FUND - DIRECT PLAN QUARTERLY IDCW PAYOUT;INF959L01DY9;INF959L01DZ6;26.59;;;06-Feb-2026
+143787;Navi Flexi Cap Fund - Regular Plan - Growth;INF959L01EE9;;23.085;;;06-Feb-2026
+143795;NAVI FLEXI CAP FUND - REGULAR PLAN ANNUAL IDCW PAYOUT;INF959L01EN0;INF959L01EO8;23.0857;;;06-Feb-2026
+143794;NAVI FLEXI CAP FUND - REGULAR PLAN HALF YEARLY IDCW PAYOUT;INF959L01EL4;INF959L01EM2;23.0887;;;06-Feb-2026
+143790;NAVI FLEXI CAP FUND - REGULAR PLAN MONTHLY IDCW PAYOUT;INF959L01EH2;INF959L01EI0;23.0942;;;06-Feb-2026
+143789;NAVI FLEXI CAP FUND - REGULAR PLAN NORMAL IDCW PAYOUT;INF959L01EF6;INF959L01EG4;23.0884;;;06-Feb-2026
+143788;NAVI FLEXI CAP FUND - REGULAR PLAN QUARTERLY IDCW PAYOUT;INF959L01EJ8;INF959L01EK6;23.0825;;;06-Feb-2026
+
+NJ Mutual Fund
+151917;NJ Flexi Cap Fund - Direct Plan - Growth Option;INF0J8L01156;;13.62;;;06-Feb-2026
+151918;NJ Flexi Cap Fund - Direct Plan - IDCW Option;INF0J8L01164;;13.62;;;06-Feb-2026
+151920;NJ Flexi Cap Fund - Regular Plan - Growth Option;INF0J8L01131;;13.10;;;06-Feb-2026
+151919;NJ Flexi Cap Fund - Regular Plan - IDCW Option;INF0J8L01149;;13.10;;;06-Feb-2026
+
+quant Mutual Fund
+109830;quant Flexi Cap Fund - Growth Option - Regular Plan;INF966L01457;;97.1232;;;06-Feb-2026
+120843;quant Flexi Cap Fund - Growth Option-Direct Plan;INF966L01911;;108.6225;;;06-Feb-2026
+120842;quant Flexi Cap Fund - IDCW Option - Direct Plan;INF966L01895;INF966L01903;73.8359;;;06-Feb-2026
+109831;quant Flexi Cap Fund - IDCW Option - Regular Plan;INF966L01432;INF966L01440;69.4157;;;06-Feb-2026
+
+Shriram Mutual Fund
+144905;Shriram Flexi Cap Fund - Direct Growth;INF680P01109;;22.9285;;;06-Feb-2026
+144906;Shriram Flexi Cap Fund - Direct-IDCW;INF680P01117;INF680P01125;22.7015;;;06-Feb-2026
+144902;Shriram Flexi Cap Fund - Regular Growth;INF680P01075;;20.1374;;;06-Feb-2026
+144903;Shriram Flexi Cap Fund - Regular-IDCW;INF680P01083;INF680P01091;20.1303;;;06-Feb-2026
+
+Taurus Mutual Fund
+118884;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;INF044D01BV7;INF044D01BW5;115.15;;;06-Feb-2026
+118883;Taurus Flexi Cap Fund - Direct Plan - Growth;INF044D01BU9;;228.24;;;06-Feb-2026
+100476;Taurus Flexi Cap Fund - Regular Plan - Growth ;INF044D01989;;219.31;;;06-Feb-2026
+111640;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;INF044D01955;INF044D01963;106.42;;;06-Feb-2026
+
+The Wealth Company Mutual Fund
+153872;THE WEALTH COMPANY FLEXI CAP FUND - DIRECT GROWTH;INF2F0001040;;10.0527;;;06-Feb-2026
+153873;THE WEALTH COMPANY FLEXI CAP FUND - DIRECT IDCW;INF2F0001057;INF2F0001065;10.0522;;;06-Feb-2026
+153870;THE WEALTH COMPANY FLEXI CAP FUND - REGULAR GROWTH;INF2F0001016;;9.99;;;06-Feb-2026
+153871;THE WEALTH COMPANY FLEXI CAP FUND - REGULAR IDCW;INF2F0001024;INF2F0001032;9.9899;;;06-Feb-2026
+
+Trust Mutual Fund
+152584;TRUSTMF Flexi Cap Fund-Direct Plan- Growth;INF0GCD01743;;11.63;;;06-Feb-2026
+152585;TRUSTMF Flexi Cap Fund-Direct Plan- IDCW;INF0GCD01750;INF0GCD01768;11.63;;;06-Feb-2026
+152582;TRUSTMF Flexi Cap Fund-Regular Plan- Growth;INF0GCD01719;;11.28;;;06-Feb-2026
+152583;TRUSTMF Flexi Cap Fund-Regular Plan- IDCW;INF0GCD01727;INF0GCD01735;11.28;;;06-Feb-2026
+
+Union Mutual Fund
+119292;Union Flexi Cap Fund - Direct Plan - Growth Option;INF582M01633;;57.28;;;06-Feb-2026
+119293;Union Flexi Cap Fund - Direct Plan - IDCW Option;INF582M01658;INF582M01641;50.04;;;06-Feb-2026
+115270;Union Flexi Cap Fund - Growth Option;INF582M01104;;51.13;;;06-Feb-2026
+115290;Union Flexi Cap Fund - IDCW Option;INF582M01120;INF582M01112;32.30;;;06-Feb-2026
+
+Close Ended Schemes ( Income )
+
+
+Kotak Mahindra Mutual Fund
+149139;Kotak FMP Series 292 - Direct Plan - Growth;INF174KA1HM2;;13.1249;;;06-Feb-2026
+149138;Kotak FMP Series 292 - Direct Plan - IDCW Payout;INF174KA1HN0;;13.1248;;;06-Feb-2026
+149136;Kotak FMP Series 292 - Regular Plan - Growth;INF174KA1HK6;;12.9494;;;06-Feb-2026
+149137;Kotak FMP Series 292 - Regular Plan - IDCW Payout;INF174KA1HL4;;12.9494;;;06-Feb-2026
+151174;Kotak FMP Series 300 - Direct Plan - Growth;INF174KA1KX3;;12.4537;;;06-Feb-2026
+151175;Kotak FMP Series 300 - Direct Plan - IDCW Payout;INF174KA1KY1;;12.4538;;;06-Feb-2026
+151172;Kotak FMP Series 300 - Regular Plan - Growth;INF174KA1KV7;;12.4143;;;06-Feb-2026
+151173;Kotak FMP Series 300 - Regular Plan - IDCW Payout;INF174KA1KW5;;12.4147;;;06-Feb-2026
+151286;Kotak FMP Series 304-Direct Plan-Growth Option;INF174KA1LP7;;12.7801;;;06-Feb-2026
+151287;Kotak FMP Series 304-Direct Plan-Payout of IDCW;INF174KA1LQ5;;12.7789;;;06-Feb-2026
+151285;Kotak FMP Series 304-Regular Plan-Growth Option;INF174KA1LN2;;12.7673;;;06-Feb-2026
+151288;Kotak FMP Series 304-Regular Plan-Payout of IDCW;INF174KA1LO0;;12.7672;;;06-Feb-2026
+151316;Kotak FMP Series 305 - Direct Plan - Growth;INF174KA1LT9;;12.3772;;;06-Feb-2026
+151317;Kotak FMP Series 305 - Direct Plan - IDCW;INF174KA1LU7;;12.3772;;;06-Feb-2026
+151315;Kotak FMP Series 305 - Regular Plan - Growth;INF174KA1LR3;;12.3206;;;06-Feb-2026
+151318;Kotak FMP Series 305 - Regular Plan - IDCW;INF174KA1LS1;;12.3206;;;06-Feb-2026
+151681;Kotak FMP Series 308 - Direct Plan - Growth;INF174KA1NG2;;12.4853;;;06-Feb-2026
+151682;Kotak FMP Series 308 - Direct Plan - IDCW Payout;INF174KA1NH0;;12.4842;;;06-Feb-2026
+151679;Kotak FMP Series 308 - Regular Plan - Growth;INF174KA1NE7;;12.3719;;;06-Feb-2026
+151680;Kotak FMP Series 308 - Regular Plan - IDCW Payout;INF174KA1NF4;;12.3719;;;06-Feb-2026
+151686;Kotak FMP Series 310 - Direct Plan - Growth Option;INF174KA1NO6;;12.2347;;;06-Feb-2026
+151683;Kotak FMP Series 310 - Regular Plan - Growth Option;INF174KA1NM0;;12.1462;;;06-Feb-2026
+151685;Kotak FMP Series 310 - Regular Plan - IDCW Payout option;INF174KA1NN8;;12.146;;;06-Feb-2026
+
+Trust Mutual Fund
+151620;TRUSTMF FIXED MATURITY PLAN -SERIES II (1196 DAYS)-DIRECT PLAN -GROWTH;INF0GCD01651;;1262.2552;;;06-Feb-2026
+151617;TRUSTMF FIXED MATURITY PLAN -SERIES II (1196 DAYS)-REGULAR PLAN -GROWTH;INF0GCD01636;;1258.4377;;;06-Feb-2026
+151618;TRUSTMF FIXED MATURITY PLAN -SERIES II (1196 DAYS)-REGULAR PLAN -IDCW PAYOUT;INF0GCD01644;;1258.437;;;06-Feb-2026
+
+Union Mutual Fund
+151622;Union Fixed Maturity Plan - Series 13 - Direct Plan - Growth Option;INF582M01IW0;;12.1968;;;06-Feb-2026
+151624;Union Fixed Maturity Plan - Series 13 - Regular Plan - Growth Option;INF582M01IY6;;12.0928;;;06-Feb-2026
+151623;Union Fixed Maturity Plan - Series 13 - Regular Plan - IDCW Payout Option;INF582M01IZ3;;12.0928;;;06-Feb-2026
