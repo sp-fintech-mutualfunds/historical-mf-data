@@ -79,6 +79,12 @@ JM Financial Mutual Fund
 149829;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;;;1355.8453;;;07-Feb-2026
 149826;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;;;1073.9936;;;07-Feb-2026
 
+Kotak Mahindra Mutual Fund
+146141;Kotak Overnight Fund -Direct Plan-Growth Option;INF174KA1BF9;;1426.6633;;;07-Feb-2026
+146142;Kotak Overnight Fund -Regular plan-Growth Option;INF174KA1BC6;;1417.5297;;;07-Feb-2026
+146140;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174KA1BE2;1003.7282;;;07-Feb-2026
+146138;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174KA1BB8;1004.877;;;07-Feb-2026
+
 LIC Mutual Fund
 147516;LIC MF Overnight Fund-Direct Plan-Daily IDCW;;INF767K01QG7;1097.5953;;;07-Feb-2026
 147515;LIC MF Overnight Fund-Direct Plan-Growth;INF767K01QI3;;1386.2309;;;07-Feb-2026
@@ -136,6 +142,14 @@ Union Mutual Fund
 149452;Union Overnight Fund - Unclaimed Amounts Plan - IDCW Upto 3 years;;;1268.1639;;;07-Feb-2026
 149453;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years;;;1000.0000;;;07-Feb-2026
 149454;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;;;1268.2709;;;07-Feb-2026
+
+UTI Mutual Fund
+100814;UTI - Overnight  Fund - Regular Plan - Growth Option;INF789F01604;;3620.0569;;;07-Feb-2026
+120785;UTI - Overnight Fund - Direct Plan - Growth Option;INF789FB1S71;;3660.4311;;;07-Feb-2026
+124266;UTI Overnight Fund - Direct Plan - Daily IDCW;;INF789FB1S89;1371.6621;;;07-Feb-2026
+120786;UTI Overnight Fund - Direct Plan - Periodic IDCW;INF789FB1T05;INF789FB1S97;1921.0451;;;07-Feb-2026
+124265;UTI Overnight Fund - Regular Plan - Daily IDCW;;INF789FB1T13;1370.8617;;;07-Feb-2026
+100813;UTI Overnight Fund - Regular Plan - Periodic IDCW;INF789F01588;INF789F01596;1864.9274;;;07-Feb-2026
 
 Zerodha Mutual Fund
 153436;Zerodha Overnight Fund - Direct Plan - Growth Option;INF0R8F01075;;10.4683;;;07-Feb-2026
@@ -239,6 +253,13 @@ JM Financial Mutual Fund
 101549;JM Liquid Fund (Regular) - Bonus Option - Principal Units;INF192K01890;;23.606;;;07-Feb-2026
 101078;JM Liquid Fund (Regular) - Daily IDCW;;INF192K01833;10.4302;;;07-Feb-2026
 
+Kotak Mahindra Mutual Fund
+119764;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NH1;1223.0072;;;07-Feb-2026
+119766;Kotak Liquid Fund - Direct Plan - Growth;INF174K01NE8;;5518.0094;;;07-Feb-2026
+100833;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NL3;1236.7703;;;07-Feb-2026
+100835;Kotak Liquid Fund - Regular Plan - Growth;INF174K01NI9;;5462.5489;;;07-Feb-2026
+153586;Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;INF174KA1WK5;INF174KA1WM1;1014.8034;;;07-Feb-2026
+
 LIC Mutual Fund
 120248;LIC MF Liquid Fund-Direct Plan-Daily IDCW;INF767K01DL5;INF767K01DM3;1034.6038;;;07-Feb-2026
 120249;LIC MF Liquid Fund-Direct Plan-Growth;INF767K01DN1;;4958.6795;;;07-Feb-2026
@@ -327,11 +348,37 @@ Union Mutual Fund
 115400;Union Liquid Fund - Monthly IDCW Option;INF582M01070;INF582M01054;1002.7863;;;07-Feb-2026
 115402;Union Liquid Fund - Weekly IDCW Option;;INF582M01039;1002.2600;;;07-Feb-2026
 
+UTI Mutual Fund
+134427;UTI Liquid Fund - Direct Plan - Annual IDCW;INF789FA1K63;INF789FA1K71;1969.2782;;;07-Feb-2026
+120558;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F01XP8;1064.1973;;;07-Feb-2026
+141768;UTI Liquid Fund - Direct Plan - Flexi IDCW;INF789FA1K89;INF789FA1K97;1621.9861;;;07-Feb-2026
+140913;UTI Liquid Fund - Direct Plan - Fortnightly IDCW;INF789FA1K06;INF789FA1K14;1157.3418;;;07-Feb-2026
+140504;UTI Liquid Fund - Direct Plan - Half-Yearly IDCW;INF789FA1K48;INF789FA1K55;1538.2632;;;07-Feb-2026
+120794;UTI Liquid Fund - Direct Plan - Monthly IDCW;INF789F01XR4;INF789F01XS2;1043.8141;;;07-Feb-2026
+140024;UTI Liquid Fund - Direct Plan - Quarterly IDCW;INF789FA1K22;INF789FA1K30;1859.8485;;;07-Feb-2026
+120777;UTI Liquid Fund - Direct Plan - Weekly IDCW;;INF789F01XT0;1276.1604;;;07-Feb-2026
+133973;UTI Liquid Fund - Regular Plan - Annual IDCW;INF789FA1J66;INF789FA1J74;1955.6753;;;07-Feb-2026
+102010;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F01PG3;1167.5023;;;07-Feb-2026
+140517;UTI Liquid Fund - Regular Plan - Flexi IDCW;INF789FA1J82;INF789FA1J90;1611.8246;;;07-Feb-2026
+139838;UTI Liquid Fund - Regular Plan - Fortnightly IDCW;INF789FA1J09;INF789FA1J17;1156.4886;;;07-Feb-2026
+144475;UTI Liquid Fund - Regular Plan - Half-Yearly IDCW;INF789FA1J41;INF789FA1J58;1361.6207;;;07-Feb-2026
+102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;INF789F01PI9;INF789F01PJ7;1112.4807;;;07-Feb-2026
+135721;UTI Liquid Fund - Regular Plan - Quarterly IDCW;INF789FA1J25;INF789FA1J33;1846.592;;;07-Feb-2026
+102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;;INF789F01PK5;1053.6284;;;07-Feb-2026
+120304;UTI-  Liquid Cash Plan - Direct Plan - Growth Option;INF789F01XQ6;;4477.7975;;;07-Feb-2026
+102012;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;INF789F01PH1;;4435.2337;;;07-Feb-2026
+102008;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;INF789F01BC2;INF789F01BA6;1065.5217;;;07-Feb-2026
+102009;UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth;INF789F01BB4;;4024.7088;;;07-Feb-2026
+102007;UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option;;INF789F01AZ5;1132.912;;;07-Feb-2026
+
 Open Ended Schemes ( Other Scheme - Other  ETFs )
 
 
 Edelweiss Mutual Fund
 153920;Edelweiss Nifty 1D Rate Liquid ETF - Growth;INF754K01VW2;;1017.6752;;;07-Feb-2026
+
+Kotak Mahindra Mutual Fund
+151358;Kotak Nifty 1D Rate Liquid ETF;INF174KA1LV5;;1090.3262;;;07-Feb-2026
 
 Shriram Mutual Fund
 152741;Shriram Nifty 1D Rate Liquid ETF - Growth;INF680P01422;;1091.128;;;07-Feb-2026
