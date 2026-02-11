@@ -1142,6 +1142,12 @@ Canara Robeco Mutual Fund
 149088;Canara Robeco Value Fund - Regular Plan - Growth Option;INF760K01JZ7;;18.5200;;;10-Feb-2026
 149087;Canara Robeco Value Fund - Regular Plan - IDCW (Payout/Reinvestment);INF760K01KB6;INF760K01KA8;17.4200;;;10-Feb-2026
 
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;INF740KA1PP3;;24.382;;;10-Feb-2026
+148596;DSP Value Fund - Direct Plan - IDCW;INF740KA1PQ1;INF740KA1PR9;20.13;;;10-Feb-2026
+148594;DSP Value Fund - Regular Plan - Growth;INF740KA1PM0;;23.43;;;10-Feb-2026
+148597;DSP Value Fund - Regular Plan - IDCW;INF740KA1PN8;INF740KA1PO6;17.831;;;10-Feb-2026
+
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;INF090I01GY2;;832.8657;;;10-Feb-2026
 118493;Templeton India Value Fund - Direct - IDCW ;INF090I01GW6;INF090I01GX4;112.9707;;;10-Feb-2026
@@ -9328,6 +9334,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;INF084M01EC8;INF084M01ED6;26.8236;;;10-Feb-2026
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;INF084M01EB0;;30.3281;;;10-Feb-2026
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;INF084M01AU8;INF084M01AV6;28.8905;;;10-Feb-2026
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;INF084M01AT0;;28.8853;;;10-Feb-2026
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;INF084M01EH7;;41.859;;;10-Feb-2026
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;INF084M01AZ7;;39.2218;;;10-Feb-2026
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;INF084M01EI5;INF084M01EJ3;41.8804;;;10-Feb-2026
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;INF084M01BA8;INF084M01BB6;39.2462;;;10-Feb-2026
 149289;Aditya Birla Sun Life US Equity Passive FOF-Direct IDCW;INF209KB19C3;INF209KB10D0;18.7969;;;10-Feb-2026
 149291;Aditya Birla Sun Life US Equity Passive FOF-Direct-Growth;INF209KB18C5;;18.7944;;;10-Feb-2026
 149290;Aditya Birla Sun Life US Equity Passive FOF-Regular Growth;INF209KB15C1;;18.4869;;;10-Feb-2026
@@ -9354,10 +9368,10 @@ Axis Mutual Fund
 148700;Axis Greater China Equity Fund of Fund - Direct Plan - IDCW;INF846K01Y47;INF846K01Y54;11.47;;;10-Feb-2026
 148701;Axis Greater China Equity Fund of Fund - Regular Plan - Growth Option;INF846K01Y62;;10.87;;;10-Feb-2026
 148702;Axis Greater China Equity Fund of Fund - Regular Plan - IDCW;INF846K01Y70;INF846K01Y88;10.86;;;10-Feb-2026
-150751;Axis US Specific Equity Passive FOF - Direct Plan - Growth;INF846K012K9;;24.3058;;;10-Feb-2026
-150749;Axis US Specific Equity Passive FOF - Direct Plan - IDCW;INF846K013K7;INF846K014K5;24.3058;;;10-Feb-2026
-150750;Axis US Specific Equity Passive FOF - Regular Plan - Growth;INF846K015K2;;24.0049;;;10-Feb-2026
-150748;Axis US Specific Equity Passive FOF - Regular Plan - IDCW;INF846K016K0;INF846K017K8;24.0048;;;10-Feb-2026
+150751;Axis NASDAQ 100 US Specific Equity Passive FOF - Direct Plan - Growth;INF846K012K9;;24.3058;;;10-Feb-2026
+150749;Axis NASDAQ 100 US Specific Equity Passive FOF - Direct Plan - IDCW;INF846K013K7;INF846K014K5;24.3058;;;10-Feb-2026
+150750;Axis NASDAQ 100 US Specific Equity Passive FOF - Regular Plan - Growth;INF846K015K2;;24.0049;;;10-Feb-2026
+150748;Axis NASDAQ 100 US Specific Equity Passive FOF - Regular Plan - IDCW;INF846K016K0;INF846K017K8;24.0048;;;10-Feb-2026
 152240;Axis US Specific Treasury Dynamic Debt Passive FOF - Direct Plan - Growth Option;INF846K017T9;;11.8103;;;10-Feb-2026
 152241;Axis US Specific Treasury Dynamic Debt Passive FOF - Direct Plan - IDCW Option;INF846K018T7;INF846K019T5;11.8095;;;10-Feb-2026
 152239;Axis US Specific Treasury Dynamic Debt Passive FOF - Regular Plan - Growth Option;INF846K013T8;;11.7979;;;10-Feb-2026
@@ -9384,6 +9398,10 @@ DSP Mutual Fund
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01284;;26.5717;;;10-Feb-2026
 112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;INF740K01292;INF740K01300;18.4756;;;10-Feb-2026
 119275;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;INF740K01PC5;;28.0728;;;10-Feb-2026
+149816;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;INF740KA1QP1;;19.3264;;;10-Feb-2026
+149815;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;INF740KA1QQ9;INF740KA1QR7;19.3264;;;10-Feb-2026
+149817;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;INF740KA1QM8;;18.6378;;;10-Feb-2026
+149814;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;INF740KA1QN6;INF740KA1QO4;18.6378;;;10-Feb-2026
 152528;DSP US Specific Debt Passive FoF - Direct - Growth;INF740KA1UJ6;;12.0608;;;10-Feb-2026
 152529;DSP US Specific Debt Passive FoF - Direct - IDCW;INF740KA1UK4;INF740KA1UL2;12.0608;;;10-Feb-2026
 152527;DSP US Specific Debt Passive FoF - Regular - Growth;INF740KA1UG2;;12.0493;;;10-Feb-2026
