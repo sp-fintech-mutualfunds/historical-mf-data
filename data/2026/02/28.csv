@@ -3,6 +3,18 @@ Scheme Code;Scheme Name;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net As
 Open Ended Schemes ( Debt Scheme - Overnight Fund )
 
 
+Bank of India Mutual Fund
+147951;BANK OF INDIA Overnight Fund Direct Plan Growth;INF761K01EU7;;1361.6714;;;28-Feb-2026
+147952;BANK OF INDIA Overnight Fund Direct Plan- Daily IDCW;;INF761K01EV5;1000.0000;;;28-Feb-2026
+147948;BANK OF INDIA Overnight Fund Direct Plan- Monthly IDCW;INF761K01EY9;INF761K01EX1;1000.2689;;;28-Feb-2026
+147936;BANK OF INDIA Overnight Fund Regular Plan Growth;INF761K01EZ6;;1357.7073;;;28-Feb-2026
+147953;BANK OF INDIA Overnight Fund Regular Plan- Daily IDCW;;INF761K01FA6;1000.0000;;;28-Feb-2026
+147949;BANK OF INDIA Overnight Fund Regular Plan- Monthly IDCW;INF761K01FD0;INF761K01FC2;1000.2669;;;28-Feb-2026
+149412;BANK OF INDIA Overnight Fund Unclaimed IDCW Plan - Greater than 3 Years;;;1000.0000;;;28-Feb-2026
+149414;BANK OF INDIA Overnight Fund Unclaimed IDCW Plan - Up to 3 Years;;;1280.2677;;;28-Feb-2026
+149415;BANK OF INDIA Overnight Fund Unclaimed Redemption Plan - Greater than 3 Years;;;1000.0000;;;28-Feb-2026
+149413;BANK OF INDIA Overnight Fund Unclaimed Redemption Plan - Upto 3 Years;;;1280.5521;;;28-Feb-2026
+
 Edelweiss Mutual Fund
 147551;Edelweiss Overnight Fund - Direct Plan - Annual - IDCW Option;INF754K01KD5;INF754K01KC7;1387.6236;;;28-Feb-2026
 147557;Edelweiss Overnight Fund - Direct Plan - Daily - IDCW Option;;INF754K01JW7;1000.2015;;;28-Feb-2026
@@ -38,6 +50,12 @@ JM Financial Mutual Fund
 149827;JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan;;;1073.9936;;;28-Feb-2026
 149829;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;;;1359.4879;;;28-Feb-2026
 149826;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;;;1073.9936;;;28-Feb-2026
+
+Kotak Mahindra Mutual Fund
+146141;Kotak Overnight Fund -Direct Plan-Growth Option;INF174KA1BF9;;1430.6438;;;28-Feb-2026
+146142;Kotak Overnight Fund -Regular plan-Growth Option;INF174KA1BC6;;1421.411;;;28-Feb-2026
+146140;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174KA1BE2;1003.7426;;;28-Feb-2026
+146138;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174KA1BB8;1004.8913;;;28-Feb-2026
 
 LIC Mutual Fund
 147516;LIC MF Overnight Fund-Direct Plan-Daily IDCW;;INF767K01QG7;1100.6237;;;28-Feb-2026
@@ -104,6 +122,14 @@ Abakkus Mutual Fund
 154054;Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment;;INF2JJD01102;101.1216;;;28-Feb-2026
 154056;Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment;;INF2JJD01094;100.0908;;;28-Feb-2026
 
+Bank of India Mutual Fund
+119368;BANK OF INDIA Liquid Fund- Direct Plan- Daily IDCW;;INF761K01CL0;1005.0000;;;28-Feb-2026
+119369;BANK OF INDIA Liquid Fund- Direct Plan- Growth;INF761K01785;;3157.2733;;;28-Feb-2026
+119370;BANK OF INDIA Liquid Fund- Direct Plan- Weekly IDCW;;INF761K01CM8;1005.7603;;;28-Feb-2026
+111971;BANK OF INDIA Liquid Fund- Regular Plan- Daily IDCW;;INF761K01CO4;1005.0000;;;28-Feb-2026
+109254;BANK OF INDIA Liquid Fund- Regular Plan- Growth;INF761K01306;;3125.4251;;;28-Feb-2026
+109255;BANK OF INDIA Liquid Fund- Regular Plan- Weekly IDCW;;INF761K01CP1;1005.7554;;;28-Feb-2026
+
 Edelweiss Mutual Fund
 140194;Edelweiss Liquid Fund - Direct Plan - Bonus Option;INF754K01GY9;;2061.2369;;;28-Feb-2026
 140196;Edelweiss Liquid Fund - Direct Plan - Growth Option;INF754K01GM4;;3542.9743;;;28-Feb-2026
@@ -139,6 +165,13 @@ JM Financial Mutual Fund
 148413;JM Liquid Fund - Unclaimed Brokerage I.E.F. (Direct) - Growth Plan;;;41.4437;;;28-Feb-2026
 101549;JM Liquid Fund (Regular) - Bonus Option - Principal Units;INF192K01890;;23.6874;;;28-Feb-2026
 101078;JM Liquid Fund (Regular) - Daily IDCW;;INF192K01833;10.4302;;;28-Feb-2026
+
+Kotak Mahindra Mutual Fund
+119764;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NH1;1223.0143;;;28-Feb-2026
+119766;Kotak Liquid Fund - Direct Plan - Growth;INF174K01NE8;;5537.3522;;;28-Feb-2026
+100833;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NL3;1241.0202;;;28-Feb-2026
+100835;Kotak Liquid Fund - Regular Plan - Growth;INF174K01NI9;;5481.3205;;;28-Feb-2026
+153586;Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;INF174KA1WK5;INF174KA1WM1;1018.2904;;;28-Feb-2026
 
 LIC Mutual Fund
 120248;LIC MF Liquid Fund-Direct Plan-Daily IDCW;INF767K01DL5;INF767K01DM3;1034.6038;;;28-Feb-2026
@@ -248,6 +281,9 @@ Open Ended Schemes ( Other Scheme - Other  ETFs )
 
 Edelweiss Mutual Fund
 153920;Edelweiss Nifty 1D Rate Liquid ETF - Growth;INF754K01VW2;;1020.3489;;;28-Feb-2026
+
+Kotak Mahindra Mutual Fund
+151358;Kotak Nifty 1D Rate Liquid ETF;INF174KA1LV5;;1093.1815;;;28-Feb-2026
 
 Shriram Mutual Fund
 152741;Shriram Nifty 1D Rate Liquid ETF - Growth;INF680P01422;;1093.8526;;;28-Feb-2026
