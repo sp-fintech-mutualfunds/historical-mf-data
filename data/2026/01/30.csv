@@ -9255,7 +9255,7 @@ Nippon India Mutual Fund
 149758;Nippon India Silver ETF;INF204KC1402;;315.6072;;;30-Jan-2026
 
 Quantum Mutual Fund
-108479;Quantum Nifty 50 ETF;INF082J01028;;2767.2960;;;30-Jan-2026
+108479;Quantum Nifty 50 ETF;INF082J01499;;2767.2960;;;30-Jan-2026
 
 SBI Mutual Fund
 134014;SBI BSE 100 ETF;INF200KA1572;;292.6929;;;30-Jan-2026
@@ -9384,7 +9384,7 @@ DSP Mutual Fund
 119252;DSP US Specific Equity Omni FoF - Direct Plan - Growth;INF740K01OH7;;88.7760;;;30-Jan-2026
 119253;DSP US Specific Equity Omni FoF - Direct Plan - IDCW;INF740K01OI5;INF740K01OJ3;74.2867;;;30-Jan-2026
 117691;DSP US Specific Equity Omni FoF - Regular Plan - Growth Option;INF740K01LP6;;80.6116;;;30-Jan-2026
-117692;DSP US Specific Equity Omni FoF - Regular Plan - IDCW;INF740K01LQ4;;38.3288;;;30-Jan-2026
+117692;DSP US Specific Equity Omni FoF - Regular Plan - IDCW;INF740K01LQ4;INF740K01LR2;38.3288;;;30-Jan-2026
 119277;DSP World Gold Mining Overseas Equity Omni FoF - Direct Plan - Growth;INF740K01OZ9;;65.8705;;;30-Jan-2026
 119278;DSP World Gold Mining Overseas Equity Omni FoF - Direct Plan - IDCW;INF740K01PA9;INF740K01PB7;39.4286;;;30-Jan-2026
 106597;DSP World Gold Mining Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01250;;61.3755;;;30-Jan-2026
@@ -10042,9 +10042,9 @@ Union Mutual Fund
 153822;Union Diversified Equity All Cap Active FOF - Regular Plan - Growth Option;INF582M01LV6;;9.6616;;;30-Jan-2026
 153823;Union Diversified Equity All Cap Active FOF - Regular Plan - IDCW Option;INF582M01LW4;INF582M01LX2;9.6616;;;30-Jan-2026
 153340;Union Gold ETF Fund of Fund - Direct Plan - Growth Option;INF582M01LA0;;17.9589;;;30-Jan-2026
-153339;Union Gold ETF Fund of Fund - Direct Plan - IDCW Option;INF582M01KW6;;17.9589;;;30-Jan-2026
+153339;Union Gold ETF Fund of Fund - Direct Plan - IDCW Option;INF582M01KW6;INF582M01KX4;17.9589;;;30-Jan-2026
 153338;Union Gold ETF Fund of Fund - Regular Plan - Growth Option;INF582M01KT2;;17.9154;;;30-Jan-2026
-153341;Union Gold ETF Fund of Fund - Regular Plan - IDCW Option;INF582M01KU0;;17.9154;;;30-Jan-2026
+153341;Union Gold ETF Fund of Fund - Regular Plan - IDCW Option;INF582M01KU0;INF582M01KV8;17.9154;;;30-Jan-2026
 153575;Union Income Plus Arbitrage Active FOF - Direct Plan - Growth Option;INF582M01LF9;;10.2035;;;30-Jan-2026
 153576;Union Income Plus Arbitrage Active FOF - Direct Plan - IDCW Option;INF582M01LG7;INF582M01LH5;10.2035;;;30-Jan-2026
 153573;Union Income Plus Arbitrage Active FOF - Regular Plan - Growth Option;INF582M01LB8;;10.1726;;;30-Jan-2026
@@ -10583,10 +10583,10 @@ SBI Mutual Fund
 150650;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Direct Plan - IDCW Payout;INF200KA16O5;;12.6322;;;30-Jan-2026
 150647;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Regular Plan - Growth;INF200KA13O2;;12.5809;;;30-Jan-2026
 150648;SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Regular Plan - IDCW Payout;INF200KA14O0;;12.5809;;;30-Jan-2026
-151559;SBI Fixed Maturity Plan (FMP) - Series 79 (1170 Days) - Direct Plan - Growth;INF200KA19W2;;12.2969;;;30-Jan-2026
-151558;SBI Fixed Maturity Plan (FMP) - Series 79 (1170 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Payout;INF200KA10X9;;12.2972;;;30-Jan-2026
-151556;SBI Fixed Maturity Plan (FMP) - Series 79 (1170 Days) - Regular Plan - Growth;INF200KA17W6;;12.2544;;;30-Jan-2026
-151557;SBI Fixed Maturity Plan (FMP) - Series 79 (1170 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Payout;INF200KA18W4;;12.2545;;;30-Jan-2026
+151559;SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Direct Plan - Growth;INF200KA19W2;;12.2969;;;30-Jan-2026
+151558;SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Payout;INF200KA10X9;;12.2972;;;30-Jan-2026
+151556;SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Regular Plan - Growth;INF200KA17W6;;12.2544;;;30-Jan-2026
+151557;SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Payout;INF200KA18W4;;12.2545;;;30-Jan-2026
 148848;SBI Fixed Maturity Plan (FMP) - Series 42 (1857 Days) Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1V27;;13.4128;;;30-Jan-2026
 148845;SBI Fixed Maturity Plan (FMP) - Series 42 (1857 Days) Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1V01;;13.3097;;;30-Jan-2026
 148846;SBI Fixed Maturity Plan (FMP) Series 42 (1857 Days) - Direct Plan - Growth;INF200KA1V19;;13.4125;;;30-Jan-2026
