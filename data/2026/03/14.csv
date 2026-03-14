@@ -3,6 +3,20 @@ Scheme Code;Scheme Name;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net As
 Open Ended Schemes ( Debt Scheme - Overnight Fund )
 
 
+Bajaj Finserv Mutual Fund
+153437;Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years IDCW Plan;INF0QA701AE3;;1046.9828;;;14-Mar-2026
+153438;Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years Redemption Plan;INF0QA701AF0;;1053.8150;;;14-Mar-2026
+151843;Bajaj Finserv Overnight Fund - Direct Plan - Daily - IDCW;;INF0QA701185;1033.1412;;;14-Mar-2026
+151850;Bajaj Finserv Overnight Fund - Direct Plan - Fortnightly - IDCW;INF0QA701235;INF0QA701201;1033.8381;;;14-Mar-2026
+151849;Bajaj Finserv Overnight Fund - Direct Plan - Growth;INF0QA701177;;1178.7944;;;14-Mar-2026
+151845;Bajaj Finserv Overnight Fund - Direct Plan - Monthly - IDCW;INF0QA701243;INF0QA701219;1036.7718;;;14-Mar-2026
+151844;Bajaj Finserv Overnight Fund - Direct Plan - Weekly - IDCW;INF0QA701227;INF0QA701193;1033.8438;;;14-Mar-2026
+151852;Bajaj Finserv Overnight Fund - Regular Plan - Daily - IDCW;;INF0QA701292;1032.8859;;;14-Mar-2026
+151847;Bajaj Finserv Overnight Fund - Regular Plan - Fortnightly - IDCW;INF0QA701318;INF0QA701276;1033.5896;;;14-Mar-2026
+151851;Bajaj Finserv Overnight Fund - Regular Plan - Growth;INF0QA701250;;1177.2087;;;14-Mar-2026
+151848;Bajaj Finserv Overnight Fund - Regular Plan - Monthly - IDCW;INF0QA701326;INF0QA701284;1036.4934;;;14-Mar-2026
+151846;Bajaj Finserv Overnight Fund - Regular Plan - Weekly - IDCW;INF0QA701300;INF0QA701268;1033.5332;;;14-Mar-2026
+
 Bank of India Mutual Fund
 147951;BANK OF INDIA Overnight Fund Direct Plan Growth;INF761K01EU7;;1364.2223;;;14-Mar-2026
 147952;BANK OF INDIA Overnight Fund Direct Plan- Daily IDCW;;INF761K01EV5;1000.0000;;;14-Mar-2026
@@ -165,6 +179,18 @@ Zerodha Mutual Fund
 
 Open Ended Schemes ( Debt Scheme - Liquid Fund )
 
+
+Bajaj Finserv Mutual Fund
+151835;Bajaj Finserv Liquid Fund - Direct Plan - Daily - IDCW;;INF0QA701029;1034.6939;;;14-Mar-2026
+151838;Bajaj Finserv Liquid Fund - Direct Plan - Fortnightly - IDCW;INF0QA701078;INF0QA701045;1035.3306;;;14-Mar-2026
+151833;Bajaj Finserv Liquid Fund - Direct Plan - Growth;INF0QA701011;;1198.6320;;;14-Mar-2026
+151836;Bajaj Finserv Liquid Fund - Direct Plan - Monthly - IDCW;INF0QA701086;INF0QA701052;1038.6758;;;14-Mar-2026
+151834;Bajaj Finserv Liquid Fund - Direct Plan - Weekly - IDCW;INF0QA701060;INF0QA701037;1035.3213;;;14-Mar-2026
+151839;Bajaj Finserv Liquid Fund - Regular Plan - Daily - IDCW;;INF0QA701136;1033.8241;;;14-Mar-2026
+151841;Bajaj Finserv Liquid Fund - Regular Plan - Fortnightly - IDCW;INF0QA701151;INF0QA701110;1034.4209;;;14-Mar-2026
+151837;Bajaj Finserv Liquid Fund - Regular Plan - Growth;INF0QA701094;;1193.0599;;;14-Mar-2026
+151842;Bajaj Finserv Liquid Fund - Regular Plan - Monthly - IDCW;INF0QA701169;INF0QA701128;1037.6539;;;14-Mar-2026
+151840;Bajaj Finserv Liquid Fund - Regular Plan - Weekly - IDCW;INF0QA701144;INF0QA701102;1034.4175;;;14-Mar-2026
 
 Bank of India Mutual Fund
 119368;BANK OF INDIA Liquid Fund- Direct Plan- Daily IDCW;;INF761K01CL0;1005.0000;;;14-Mar-2026
@@ -333,6 +359,10 @@ Tata Mutual Fund
 119861;Tata Liquid Fund- Direct Plan-Growth Option;INF277K01YE6;;4335.8803;;;14-Mar-2026
 101714;Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option;;INF277K011D4;1001.5157;;;14-Mar-2026
 
+Unifi Mutual Fund
+153570;Unifi Liquid Fund- Direct Growth;INF1MIY01056;;1044.7199;;;14-Mar-2026
+153571;Unifi Liquid Fund- Regular Growth;INF1MIY01064;;1044.2441;;;14-Mar-2026
+
 Union Mutual Fund
 115401;Union Liquid Fund - Daily IDCW Option;;INF582M01021;1001.1995;;;14-Mar-2026
 119301;Union Liquid Fund - Direct Plan - Daily IDCW Option;;INF582M01682;1001.1995;;;14-Mar-2026
@@ -370,6 +400,9 @@ UTI Mutual Fund
 
 Open Ended Schemes ( Other Scheme - Other  ETFs )
 
+
+Bajaj Finserv Mutual Fund
+152638;Bajaj Finserv Nifty 1D Rate Liquid ETF;INF0QA701854;;1072.7050;;;14-Mar-2026
 
 Edelweiss Mutual Fund
 153920;Edelweiss Nifty 1D Rate Liquid ETF - Growth;INF754K01VW2;;1022.154;;;14-Mar-2026
