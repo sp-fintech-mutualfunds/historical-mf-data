@@ -9194,19 +9194,19 @@ Kotak Mahindra Mutual Fund
 151358;Kotak Nifty 1D Rate Liquid ETF;INF174KA1LV5;;1095.0004;;;13-Mar-2026
 153904;Kotak Nifty 200 Momentum 30 ETF;INF174KA1XS6;;28.366;;;13-Mar-2026
 112351;Kotak Nifty 50 ETF;INF174K014P6;;255.1107;;;13-Mar-2026
-135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174K01Z71;;13.9597;;;13-Mar-2026
+135744;Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option;INF174KA1ZE1;;13.9597;;;13-Mar-2026
 149397;Kotak Nifty Alpha 50 ETF;INF174KA1IA5;;44.7996;;;13-Mar-2026
-133122;Kotak Nifty Bank ETF;INF174K01F59;;55.5662;;;13-Mar-2026
+133122;Kotak Nifty Bank ETF;INF174KA1ZB7;;55.5662;;;13-Mar-2026
 153934;Kotak Nifty Chemicals ETF;INF174KA1XV0;;26.339;;;13-Mar-2026
-150492;Kotak Nifty India Consumption ETF;INF174KA1JE5;;10.8322;;;13-Mar-2026
+150492;Kotak Nifty India Consumption ETF;INF174KA1ZF8;;10.8322;;;13-Mar-2026
 148763;Kotak Nifty IT ETF;INF174KA1GC5;;31.9933;;;13-Mar-2026
 153398;Kotak Nifty Midcap 150 ETF;INF174KA1VW2;;20.521;;;13-Mar-2026
-149757;Kotak Nifty Midcap 50 ETF;INF174KA1IB3;;15.8398;;;13-Mar-2026
+149757;Kotak Nifty Midcap 50 ETF;INF174KA1ZC5;;15.8398;;;13-Mar-2026
 150531;Kotak Nifty MNC ETF;INF174KA1JF2;;29.9757;;;13-Mar-2026
 154101;Kotak Nifty Next 50 ETF;INF174KA1YO3;;64.897;;;13-Mar-2026
 106929;Kotak Nifty PSU Bank ETF;INF373I01023;;849.3864;;;13-Mar-2026
 153657;Kotak Nifty200 Quality 30 ETF;INF174KA1WT6;;19.185;;;13-Mar-2026
-150948;Kotak Silver ETF;INF174KA1KU9;;25.0432;;;13-Mar-2026
+150948;Kotak Silver ETF;INF174KA1ZD3;;25.0432;;;13-Mar-2026
 
 LIC Mutual Fund
 135672;LIC MF BSE Sensex ETF;INF767K01OT5;;836.6829;;;13-Mar-2026
@@ -9414,6 +9414,12 @@ Bandhan Mutual Fund
 151546;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - REGULAR PLAN - GROWTH;INF194KB1FT6;;12.7721;;;13-Mar-2026
 151547;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF- REGULAR PLAN- IDCW;INF194KB1FU4;INF194KB1FZ3;12.7721;;;13-Mar-2026
 
+Baroda BNP Paribas Mutual Fund
+150285;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - Growth Option;INF251K01QT5;;15.2655;;;13-Mar-2026
+150287;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - IDCW Option;INF251K01QU3;INF251K01QV1;15.2655;;;13-Mar-2026
+150286;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan - IDCW Option;INF251K01QR9;INF251K01QS7;14.4976;;;13-Mar-2026
+150284;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan Growth;INF251K01QQ1;;14.4976;;;13-Mar-2026
+
 DSP Mutual Fund
 119276;DSP Global Clean Energy Overseas Equity Omni FoF - Direct Plan - IDCW;INF740K01PD3;INF740K01PE1;19.1663;;;13-Mar-2026
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01284;;25.9926;;;13-Mar-2026
@@ -9455,6 +9461,10 @@ Franklin Templeton Mutual Fund
 118550;Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - IDCW;INF090I01JP4;INF090I01JQ2;87.7893;;;13-Mar-2026
 116633;Franklin U.S. Opportunities Equity Active Fund of Funds - Growth;INF090I01EW1;;77.2198;;;13-Mar-2026
 116632;Franklin U.S. Opportunities Equity Active Fund of Funds - IDCW;INF090I01EV3;INF090I01EU5;77.2198;;;13-Mar-2026
+
+HDFC Mutual Fund
+149180;HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option;INF179KC1BO4;;18.628;;;13-Mar-2026
+149181;HDFC Developed World Overseas Equity Passive FOF - Growth Option;INF179KC1BP1;;18.246;;;13-Mar-2026
 
 HSBC Mutual Fund
 127073;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth;INF336L01HC7;;31.4062;;;13-Mar-2026
@@ -9552,6 +9562,12 @@ SBI Mutual Fund
 148762;SBI US Specific Equity Active FoF- Regular Plan - Growth;INF200KA1T96;;21.4167;;;13-Mar-2026
 148759;SBI US Specific Equity Active FoF- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1U02;INF200KA1U10;21.4161;;;13-Mar-2026
 
+Sundaram Mutual Fund
+119602;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;INF903J01OB6;;42.3045;;;13-Mar-2026
+119601;Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW;INF903J01NZ7;INF903J01OA8;35.5035;;;13-Mar-2026
+106370;Sundaram Global Brand Theme-Equity Active FOF - Regular Growth;INF903J01EX1;;38.4095;;;13-Mar-2026
+106369;Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW;INF903J01EY9;INF903J01EZ6;31.0495;;;13-Mar-2026
+
 Open Ended Schemes ( Other Scheme - FoF Domestic )
 
 
@@ -9600,6 +9616,18 @@ Axis Mutual Fund
 120472;Axis Gold Fund - Direct Plan - IDCW;INF846K01DQ6;INF846K01DR4;49.7494;;;13-Mar-2026
 115897;Axis Gold Fund - Regular Plan - Growth Option;INF846K01AL3;;45.6148;;;13-Mar-2026
 115898;Axis Gold Fund - Regular Plan - IDCW;INF846K01AM1;INF846K01AN9;45.6718;;;13-Mar-2026
+147895;Axis Income Plus Arbitrage Active FOF - Direct Plan - Annual IDCW;INF846K01U25;INF846K01U17;14.0728;;;13-Mar-2026
+147889;Axis Income Plus Arbitrage Active FOF - Direct Plan - Growth Option;INF846K01U09;;15.2615;;;13-Mar-2026
+147894;Axis Income Plus Arbitrage Active FOF - Direct Plan - Half Yearly Dividend Option;INF846K01U74;INF846K01U82;11.7810;;;13-Mar-2026
+147891;Axis Income Plus Arbitrage Active FOF - Direct Plan - IDCW;INF846K01U90;INF846K01V08;15.2742;;;13-Mar-2026
+147892;Axis Income Plus Arbitrage Active FOF - Direct Plan - Monthly IDCW;INF846K01U41;INF846K01U33;15.2742;;;13-Mar-2026
+147893;Axis Income Plus Arbitrage Active FOF - Direct Plan - Quarterly IDCW;INF846K01U66;INF846K01U58;12.1739;;;13-Mar-2026
+147898;Axis Income Plus Arbitrage Active FOF - Regular Plan - Annual IDCW;INF846K01V32;INF846K01V24;13.8112;;;13-Mar-2026
+147890;Axis Income Plus Arbitrage Active FOF - Regular Plan - Growth Option;INF846K01V16;;14.9649;;;13-Mar-2026
+147897;Axis Income Plus Arbitrage Active FOF - Regular Plan - Half Yearly IDCW;INF846K01V81;INF846K01V99;12.3253;;;13-Mar-2026
+147888;Axis Income Plus Arbitrage Active FOF - Regular Plan - IDCW;INF846K01W07;INF846K01W15;14.9654;;;13-Mar-2026
+147896;Axis Income Plus Arbitrage Active FOF - Regular Plan - Monthly IDCW;INF846K01V57;INF846K01V40;14.9641;;;13-Mar-2026
+147905;Axis Income Plus Arbitrage Active FOF - Regular Plan - Quarterly IDCW;INF846K01V73;INF846K01V65;11.4186;;;13-Mar-2026
 153924;Axis Income Plus Arbitrage Passive FOF - Direct Plan - Growth Option;INF846KA1283;;10.1870;;;13-Mar-2026
 153925;Axis Income Plus Arbitrage Passive FOF - Direct Plan - IDCW Option;INF846KA1309;INF846KA1325;10.1870;;;13-Mar-2026
 153927;Axis Income Plus Arbitrage Passive FOF - Regular Plan - Growth Option;INF846KA1275;;10.1749;;;13-Mar-2026
