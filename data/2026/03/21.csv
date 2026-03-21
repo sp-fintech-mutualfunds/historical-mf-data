@@ -3,6 +3,16 @@ Scheme Code;Scheme Name;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net As
 Open Ended Schemes ( Debt Scheme - Overnight Fund )
 
 
+Axis Mutual Fund
+146679;Axis Overnight Fund - Direct Plan - Daily IDCW;;INF846K01N99;1000.5073;;;21-Mar-2026
+146675;Axis Overnight Fund - Direct Plan - Growth Option;INF846K01N65;;1423.4944;;;21-Mar-2026
+146677;Axis Overnight Fund - Direct Plan - Monthly IDCW;INF846K01N73;INF846K01N81;1004.1571;;;21-Mar-2026
+146676;Axis Overnight Fund - Direct Plan - Weekly IDCW;INF846K01N40;INF846K01N57;1001.4220;;;21-Mar-2026
+146682;Axis Overnight Fund - Regular Plan - Daily IDCW;;INF846K01O56;1000.5032;;;21-Mar-2026
+146678;Axis Overnight Fund - Regular Plan - Growth Option;INF846K01O23;;1418.2423;;;21-Mar-2026
+146681;Axis Overnight Fund - Regular Plan - Monthly IDCW;INF846K01O31;INF846K01O49;1004.1221;;;21-Mar-2026
+146680;Axis Overnight Fund - Regular Plan - Weekly IDCW;INF846K01O07;INF846K01O15;1001.3857;;;21-Mar-2026
+
 Bajaj Finserv Mutual Fund
 153437;Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years IDCW Plan;INF0QA701AE3;;1048.1897;;;21-Mar-2026
 153438;Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years Redemption Plan;INF0QA701AF0;;1054.8711;;;21-Mar-2026
@@ -58,6 +68,21 @@ Edelweiss Mutual Fund
 149477;Edelweiss Overnight Fund - Unclaimed IDCW Plan - Upto 3 years;;;1272.8105;;;21-Mar-2026
 149479;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Above 3 years;;;1000;;;21-Mar-2026
 149478;Edelweiss Overnight Fund - Unclaimed Redemption Plan - Upto 3 years;;;1272.8089;;;21-Mar-2026
+
+Groww Mutual Fund
+147458;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01GM6;1001.6708;;;21-Mar-2026
+147452;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GP9;INF666M01GQ7;1216.616;;;21-Mar-2026
+147450;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Growth Option;INF666M01GL8;;1385.6006;;;21-Mar-2026
+147453;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GR5;INF666M01GS3;1003.7971;;;21-Mar-2026
+147451;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GN4;INF666M01GO2;1002.8988;;;21-Mar-2026
+147455;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01GU9;1001.2051;;;21-Mar-2026
+147457;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GX3;INF666M01GY1;1002.4377;;;21-Mar-2026
+147454;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Growth Option;INF666M01GT1;;1376.9376;;;21-Mar-2026
+147459;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GZ8;INF666M01HA9;1003.7701;;;21-Mar-2026
+147456;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GV7;INF666M01GW5;1001.6542;;;21-Mar-2026
+149394;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Dividend < 3 years;;;1283.3917;;;21-Mar-2026
+149396;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Redemption < 3 Years;;;1271.413;;;21-Mar-2026
+149395;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Redemption > 3 Years;;;1000;;;21-Mar-2026
 
 Helios Mutual Fund
 152151;Helios Overnight Fund - Direct Plan - Daily IDCW Option;INF0R8701087;;1000.1419;;;21-Mar-2026
@@ -166,6 +191,20 @@ Zerodha Mutual Fund
 Open Ended Schemes ( Debt Scheme - Liquid Fund )
 
 
+Axis Mutual Fund
+120388;Axis Liquid Fund - Direct Plan - Daily IDCW;;INF846K01DA0;1000.9560;;;21-Mar-2026
+120389;Axis Liquid Fund - Direct Plan - Growth Option;INF846K01CX4;;3058.4259;;;21-Mar-2026
+120391;Axis Liquid Fund - Direct Plan - Monthly IDCW;INF846K01CY2;INF846K01CZ9;1004.3028;;;21-Mar-2026
+120390;Axis Liquid Fund - Direct Plan - Weekly IDCW;INF846K01DB8;INF846K01DC6;1003.0718;;;21-Mar-2026
+112211;Axis Liquid Fund - Regular Plan - Daily IDCW;;INF846K01420;1001.3998;;;21-Mar-2026
+112210;Axis Liquid Fund - Regular Plan - Growth Option;INF846K01412;;3030.3495;;;21-Mar-2026
+112213;Axis Liquid Fund - Regular Plan - Monthly IDCW;INF846K01453;INF846K01461;1004.8292;;;21-Mar-2026
+112212;Axis Liquid Fund - Regular Plan - Weekly IDCW;INF846K01438;INF846K01446;1003.0580;;;21-Mar-2026
+112712;Axis Liquid Fund - Retail Plan - Daily IDCW;;INF846K01362;1000.9559;;;21-Mar-2026
+112713;Axis Liquid Fund - Retail Plan - Growth Option;INF846K01354;;2765.0477;;;21-Mar-2026
+112714;Axis Liquid Fund - Retail Plan - Monthly IDCW;INF846K01396;INF846K01404;1003.8771;;;21-Mar-2026
+112715;Axis Liquid Fund - Retail Plan - Weekly IDCW;INF846K01370;INF846K01388;1001.7647;;;21-Mar-2026
+
 Bajaj Finserv Mutual Fund
 151835;Bajaj Finserv Liquid Fund - Direct Plan - Daily - IDCW;;INF0QA701029;1034.6939;;;21-Mar-2026
 151838;Bajaj Finserv Liquid Fund - Direct Plan - Fortnightly - IDCW;INF0QA701078;INF0QA701045;1036.6113;;;21-Mar-2026
@@ -221,6 +260,18 @@ Edelweiss Mutual Fund
 140178;Edelweiss Liquid Fund - Retail Plan - Weekly Dividend Option;;INF754K01HG4;1231.8614;;;21-Mar-2026
 140177;Edelweiss Liquid Fund - Retail Plan Daily - IDCW Option;;INF754K01HF6;1134.2082;;;21-Mar-2026
 140180;Edelweiss Liquid Fund - Retail Plan Monthly - IDCW Option;;INF754K01HI0;1248.064;;;21-Mar-2026
+
+Groww Mutual Fund
+119135;Groww Liquid Fund ( formerly known as Indiabulls Liquid )Fund - Direct Plan - Growth Option;INF666M01451;;2666.2094;;;21-Mar-2026
+119136;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01469;1002.2739;;;21-Mar-2026
+115991;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Regular Plan - Growth Option;INF666M01014;;2632.0894;;;21-Mar-2026
+119138;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01501;INF666M01485;1003.6107;;;21-Mar-2026
+119139;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01519;INF666M01493;1032.468;;;21-Mar-2026
+119137;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01527;INF666M01477;1002.808;;;21-Mar-2026
+115992;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment);;INF666M01022;1002.2725;;;21-Mar-2026
+115995;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01071;INF666M01055;1004.6853;;;21-Mar-2026
+115993;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01089;INF666M01030;1002.7935;;;21-Mar-2026
+115994;Groww Liquid Fund (formerly known as Indiabulls Liquid) Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01063;INF666M01048;1003.5669;;;21-Mar-2026
 
 JM Financial Mutual Fund
 120411;JM Liquid Fund (Direct) - Daily IDCW;;INF192K01CH6;10.4302;;;21-Mar-2026
@@ -328,6 +379,10 @@ Trust Mutual Fund
 148833;TRUSTMF Liquid Fund-Regular Plan-Growth;INF0GCD01198;;1321.3783;;;21-Mar-2026
 148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1188.6354;;;21-Mar-2026
 148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1173.0506;;;21-Mar-2026
+
+Unifi Mutual Fund
+153570;Unifi Liquid Fund- Direct Growth;INF1MIY01056;;1045.8621;;;21-Mar-2026
+153571;Unifi Liquid Fund- Regular Growth;INF1MIY01064;;1045.3737;;;21-Mar-2026
 
 Union Mutual Fund
 115401;Union Liquid Fund - Daily IDCW Option;;INF582M01021;1001.1995;;;21-Mar-2026
