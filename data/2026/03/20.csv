@@ -2237,6 +2237,12 @@ Sundaram Mutual Fund
 153667;Sundaram Multi-Factor Fund - Regular - Growth;INF903JA1LY0;;9.4180;;;20-Mar-2026
 153671;Sundaram Multi-Factor Fund - Regular - IDCW Payout;INF903JA1LX2;;9.4180;;;20-Mar-2026
 153668;Sundaram Multi-Factor Fund - Regular - IDCW Reinvestment;;INF903JA1LW4;9.4180;;;20-Mar-2026
+144835;Sundaram Services Fund Direct Plan - Growth;INF903JA1FA2;;34.1474;;;20-Mar-2026
+144836;Sundaram Services Fund Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW) ;INF903JA1FB0;;21.8858;;;20-Mar-2026
+144837;Sundaram Services Fund Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW) ;INF903JA1FC8;;21.8858;;;20-Mar-2026
+144838;Sundaram Services Fund Regular Plan - Growth;INF903JA1EX7;;31.3032;;;20-Mar-2026
+144839;Sundaram Services Fund Regular Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW) ;INF903JA1EY5;;20.0278;;;20-Mar-2026
+144834;Sundaram Services Fund Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW) ;INF903JA1EZ2;;20.0278;;;20-Mar-2026
 
 Tata Mutual Fund
 135789;TATA Banking & Financial Services Fund Direct Plan - Payout of Income Distribution cum capital withdrawal option ;INF277K01Z28;;47.8951;;;20-Mar-2026
@@ -5153,6 +5159,20 @@ Bandhan Mutual Fund
 135915;BANDHAN Corporate Bond Fund - Regular Periodic IDCW;INF194KA1L99;INF194KA1M07;13.4113;;;20-Mar-2026
 139205;BANDHAN Corporate Bond Fund - Regular Quarterly IDCW;INF194KA1R51;INF194KA1R69;10.7343;;;20-Mar-2026
 
+Baroda BNP Paribas Mutual Fund
+150230;BARODA BNP PARIBAS Corporate Bond Fund - Defunct Plan - Annual-IDCW Option;INF251K01EN4;INF251K01EO2;11.8725;;;20-Mar-2026
+150229;BARODA BNP PARIBAS Corporate Bond Fund - Defunct Plan - Growth Option;INF251K01EI4;;32.9825;;;20-Mar-2026
+150231;BARODA BNP PARIBAS Corporate Bond Fund - Defunct Plan - Monthly-IDCW Option;INF251K01EJ2;INF251K01EK0;10.3057;;;20-Mar-2026
+150228;BARODA BNP PARIBAS Corporate Bond Fund - Defunct Plan - Quarterly-IDCW Option;INF251K01EL8;INF251K01EM6;10.4195;;;20-Mar-2026
+150236;BARODA BNP PARIBAS Corporate Bond Fund - Direct Plan - Annual IDCW Option;INF251K01GU4;INF251K01GV2;12.1543;;;20-Mar-2026
+150237;BARODA BNP PARIBAS Corporate Bond Fund - Direct Plan - Growth Option;INF251K01GP4;;30.3226;;;20-Mar-2026
+150238;BARODA BNP PARIBAS Corporate Bond Fund - Direct Plan - Monthly IDCW Option;INF251K01GQ2;INF251K01GR0;10.5061;;;20-Mar-2026
+150239;BARODA BNP PARIBAS Corporate Bond Fund - Direct Plan - Quarterly IDCW Option;INF251K01GS8;INF251K01GT6;10.6656;;;20-Mar-2026
+150233;BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - ANNUAL IDCW OPTION;INF251K01EU9;INF251K01EV7;11.7957;;;20-Mar-2026
+150235;BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - GROWTH OPTION;INF251K01EP9;;28.4966;;;20-Mar-2026
+150234;BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - MONTHLY IDCW OPTION;INF251K01EQ7;INF251K01ER5;10.3492;;;20-Mar-2026
+150232;BARODA BNP PARIBAS CORPORATE BOND FUND - Regular Plan - QUARTERLY IDCW OPTION;INF251K01ES3;INF251K01ET1;10.4314;;;20-Mar-2026
+
 Canara Robeco Mutual Fund
 126685;CANARA ROBECO CORPORATE BOND FUND - DIRECT PLAN - GROWTH OPTION;INF760K01HB2;;24.0614;;;20-Mar-2026
 126686;CANARA ROBECO CORPORATE BOND FUND - DIRECT PLAN - IDCW (Payout/Reinvestment);INF760K01HC0;INF760K01HD8;12.4887;;;20-Mar-2026
@@ -6062,6 +6082,14 @@ Bandhan Mutual Fund
 118490;BANDHAN Conservative Hybrid Fund-Direct Plan-IDCW;INF194K017B5;INF194K016B7;13.0526;;;20-Mar-2026
 118492;BANDHAN Conservative Hybrid Fund-Direct Plan-Quarterly IDCW;INF194K010C8;INF194K019B1;16.1907;;;20-Mar-2026
 
+Baroda BNP Paribas Mutual Fund
+150206;BARODA BNP PARIBAS Conservative Hybrid Fund - Direct Plan - Growth Option;INF251K01HR8;;55.0195;;;20-Mar-2026
+150207;BARODA BNP PARIBAS Conservative Hybrid Fund - Direct Plan - Monthly IDCW Option;INF251K01HS6;INF251K01HT4;12.9117;;;20-Mar-2026
+150208;BARODA BNP PARIBAS Conservative Hybrid Fund - Direct Plan - Quarterly IDCW Option;INF251K01HU2;INF251K01HV0;12.6160;;;20-Mar-2026
+150203;BARODA BNP PARIBAS Conservative Hybrid Fund-Regular Plan-Growth Option;INF251K01845;;44.6881;;;20-Mar-2026
+150204;BARODA BNP PARIBAS Conservative hybrid Fund-Regular Plan-Monthly IDCW Option;INF251K01852;INF251K01860;10.5210;;;20-Mar-2026
+150205;BARODA BNP PARIBAS Conservative Hybrid Fund-Regular Plan-Quarterly IDCW Option;INF251K01878;INF251K01886;10.7642;;;20-Mar-2026
+
 Canara Robeco Mutual Fund
 118309;CANARA ROBECO CONSERVATIVE HYBRID FUND - DIRECT PLAN - GROWTH OPTION;INF760K01GB4;;110.1005;;;20-Mar-2026
 118311;CANARA ROBECO CONSERVATIVE HYBRID FUND - DIRECT PLAN - MONTHLY IDCW (Payout/Reinvestment);INF760K01FZ5;INF760K01GA6;15.7638;;;20-Mar-2026
@@ -6648,6 +6676,12 @@ Bajaj Finserv Mutual Fund
 152642;Bajaj Finserv Multi Asset Allocation Fund - Regular Growth;INF0QA701797;;11.6563;;;20-Mar-2026
 152640;Bajaj Finserv Multi Asset Allocation Fund - Regular IDCW;INF0QA701805;INF0QA701813;11.6563;;;20-Mar-2026
 
+Bandhan Mutual Fund
+152324;Bandhan Multi Asset Allocation Fund - Direct Plan - Growth;INF194KB1HM7;;13.6157;;;20-Mar-2026
+152323;Bandhan Multi Asset Allocation Fund - Direct Plan - IDCW;INF194KB1HN5;INF194KB1HO3;13.6157;;;20-Mar-2026
+152326;Bandhan Multi Asset Allocation Fund - Regular Plan - Growth;INF194KB1HJ3;;13.1767;;;20-Mar-2026
+152325;Bandhan Multi Asset Allocation Fund - Regular Plan - IDCW;INF194KB1HK1;INF194KB1HL9;13.1767;;;20-Mar-2026
+
 Bank of India Mutual Fund
 152396;Bank of India Multi Asset Allocation Fund-Direct Plan-Growth;INF761K01FZ3;;12.1732;;;20-Mar-2026
 152399;Bank of India Multi Asset Allocation Fund-Direct Plan-IDCW;INF761K01GA4;INF761K01GB2;12.1698;;;20-Mar-2026
@@ -6703,10 +6737,10 @@ Invesco Mutual Fund
 153048;Invesco India Multi Asset Allocation Fund - Regular Plan - IDCW;INF205KA1AA5;INF205KA1AB3;11.74;;;20-Mar-2026
 
 Kotak Mahindra Mutual Fund
-152064;Kotak Multi Asset Allocation Fund - Direct Plan - Growth Option;INF174KA1PD4;;15.572;;;20-Mar-2026
-152063;Kotak Multi Asset Allocation Fund - Direct Plan - IDCW Option;INF174KA1PE2;INF174KA1PF9;15.265;;;20-Mar-2026
-152065;Kotak Multi Asset Allocation Fund - Regular Plan - Growth Option;INF174KA1PA0;;15.048;;;20-Mar-2026
-152066;Kotak Multi Asset Allocation Fund - Regular Plan - IDCW Option;INF174KA1PB8;INF174KA1PC6;14.753;;;20-Mar-2026
+152064;Kotak Multi Asset Allocation Fund - Direct Plan - Growth Option;INF174KA1PD4;;15.569;;;20-Mar-2026
+152063;Kotak Multi Asset Allocation Fund - Direct Plan - IDCW Option;INF174KA1PE2;INF174KA1PF9;15.263;;;20-Mar-2026
+152065;Kotak Multi Asset Allocation Fund - Regular Plan - Growth Option;INF174KA1PA0;;15.046;;;20-Mar-2026
+152066;Kotak Multi Asset Allocation Fund - Regular Plan - IDCW Option;INF174KA1PB8;INF174KA1PC6;14.751;;;20-Mar-2026
 
 LIC Mutual Fund
 153246;LIC MF Multi Asset Allocation Fund-Direct Plan-Growth;INF767K01RZ5;;11.4678;;;20-Mar-2026
@@ -8282,6 +8316,8 @@ Motilal Oswal Mutual Fund
 150444;Motilal Oswal BSE Financials ex Bank 30 Index Fund Regular Growth;INF247L01BD7;;15.8266;;;20-Mar-2026
 149919;Motilal Oswal BSE Low Volatility Index Fund-Direct plan;INF247L01AY5;;15.5690;;;20-Mar-2026
 149920;Motilal Oswal BSE Low Volatility Index Fund-Regular plan;INF247L01AZ2;;15.1695;;;20-Mar-2026
+150521;Motilal Oswal BSE Quality Index Fund-Direct plan;INF247L01BI6;;16.0669;;;20-Mar-2026
+150522;Motilal Oswal BSE Quality Index Fund-Regular plan;INF247L01BJ4;;15.6765;;;20-Mar-2026
 149800;Motilal Oswal Nifty 200 Momentum 30 Index Fund-Direct Plan;INF247L01AV1;;14.1613;;;20-Mar-2026
 149799;Motilal Oswal Nifty 200 Momentum 30 Index Fund-Regular Plan;INF247L01AW9;;13.7745;;;20-Mar-2026
 147794;Motilal Oswal Nifty 50 Index Fund - Direct plan - Growth;INF247L01AE7;;20.0359;;;20-Mar-2026
@@ -8786,6 +8822,9 @@ Union Mutual Fund
 UTI Mutual Fund
 105463;UTI GOLD Exchange Traded Fund;INF789F1AUX7;;124.0641;;;20-Mar-2026
 
+Zerodha Mutual Fund
+152476;Zerodha Gold ETF;INF0R8F01042;;23.0316;;;20-Mar-2026
+
 Open Ended Schemes ( Other Scheme - Other  ETFs )
 
 
@@ -9131,9 +9170,42 @@ Zerodha Mutual Fund
 153811;Zerodha Nifty 8-13 Yr G-Sec ETF;INF0R8F01133;;29.8788;;;20-Mar-2026
 152668;Zerodha Nifty Midcap 150 ETF;INF0R8F01059;;10.1293;;;20-Mar-2026
 153837;Zerodha Nifty Smallcap 100 ETF;INF0R8F01141;;8.8944;;;20-Mar-2026
+153413;Zerodha Silver ETF;INF0R8F01091;;23.2459;;;20-Mar-2026
 
 Open Ended Schemes ( Other Scheme - FoF Overseas )
 
+
+Bandhan Mutual Fund
+149098;Bandhan US specific Equity Active FOF - GROWTH - DIRECT PLAN;INF194KB1CF2;;18.026;;;20-Mar-2026
+149100;Bandhan US specific Equity Active FOF - GROWTH - REGULAR PLAN;INF194KB1CC9;;17.189;;;20-Mar-2026
+149099;Bandhan US specific Equity Active FOF - IDCW - DIRECT PLAN;INF194KB1CG0;;18.026;;;20-Mar-2026
+149097;Bandhan US specific Equity Active FOF - IDCW - REGULAR PLAN;INF194KB1CD7;;17.189;;;20-Mar-2026
+151548;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - DIRECT PLAN - GROWTH;INF194KB1FV2;;12.9307;;;20-Mar-2026
+151549;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - DIRECT PLAN - IDCW;INF194KB1FW0;INF194KB1GA4;12.9307;;;20-Mar-2026
+151546;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - REGULAR PLAN - GROWTH;INF194KB1FT6;;12.9079;;;20-Mar-2026
+151547;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF- REGULAR PLAN- IDCW;INF194KB1FU4;INF194KB1FZ3;12.9079;;;20-Mar-2026
+
+Invesco Mutual Fund
+149961;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Direct Plan - Growth;INF205KA1585;;21.1535;;;20-Mar-2026
+149960;Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Regular Plan - Growth;INF205KA1577;;20.9557;;;20-Mar-2026
+148614;Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - Growth;INF205KA1270;;11.6165;;;20-Mar-2026
+148615;Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205KA1262;INF205KA1288;11.6158;;;20-Mar-2026
+148613;Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - Growth;INF205KA1247;;11.0268;;;20-Mar-2026
+148612;Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205KA1239;INF205KA1254;11.0266;;;20-Mar-2026
+129188;Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - Growth;INF205K01B49;;35.8912;;;20-Mar-2026
+129190;Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01B56;INF205K01B64;35.4565;;;20-Mar-2026
+129187;Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - Growth;INF205K01B15;;32.3643;;;20-Mar-2026
+129189;Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01B23;INF205K01B31;32.318;;;20-Mar-2026
+126353;Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - Growth Option;INF205K01A24;;24.8454;;;20-Mar-2026
+126352;Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01A32;INF205K01A40;24.7705;;;20-Mar-2026
+126351;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - Growth Option;INF205K01ZZ9;;22.7627;;;20-Mar-2026
+126350;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01A08;INF205K01A16;22.7625;;;20-Mar-2026
+
+Mahindra Manulife Mutual Fund
+149230;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - Growth;INF174V01AY0;;10.8542;;;20-Mar-2026
+149231;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;INF174V01BA8;INF174V01AZ7;10.8542;;;20-Mar-2026
+149228;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;INF174V01AV6;;10.4043;;;20-Mar-2026
+149229;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;INF174V01AX2;INF174V01AW4;10.4043;;;20-Mar-2026
 
 Mirae Asset Mutual Fund
 154187;Mirae Asset BSE India Defence ETF FOF - Direct Plan - Growth;INF769K01QG3;;9.415;;;20-Mar-2026
@@ -9215,6 +9287,10 @@ Bandhan Mutual Fund
 Baroda BNP Paribas Mutual Fund
 153795;Baroda BNP Paribas Gold ETF Fund of Funds Direct Growth;INF251K01VF4;;14.6630;;;20-Mar-2026
 153794;Baroda BNP Paribas Gold ETF Fund of Funds Regular Growth;INF251K01VE7;;14.6431;;;20-Mar-2026
+153536;Baroda BNP Paribas Income Plus Arbitrage Active FOF Direct Growth;INF251K01UT7;;10.4316;;;20-Mar-2026
+153540;Baroda BNP Paribas Income Plus Arbitrage Active FOF Direct IDCW Payout;INF251K01UU5;INF251K01UV3;10.4316;;;20-Mar-2026
+153541;Baroda BNP Paribas Income Plus Arbitrage Active FOF Regular Growth;INF251K01UR1;;10.4144;;;20-Mar-2026
+153538;Baroda BNP Paribas Income Plus Arbitrage Active FOF Regular IDCW Payout;INF251K01UX9;INF251K01US9;10.4144;;;20-Mar-2026
 153552;Baroda BNP Paribas Multi Asset Active FOF Direct Growth;INF251K01UO8;;11.0725;;;20-Mar-2026
 153550;Baroda BNP Paribas Multi Asset Active FOF Direct IDCW Payout;INF251K01UP5;INF251K01UQ3;11.0725;;;20-Mar-2026
 153548;Baroda BNP Paribas Multi Asset Active FOF Regular Growth;INF251K01UM2;;10.9931;;;20-Mar-2026
@@ -9483,6 +9559,12 @@ SBI Mutual Fund
 152735;SBI Silver ETF Fund of Fund- Direct Plan - Growth;INF200KB1233;;24.5234;;;20-Mar-2026
 152736;SBI Silver ETF Fund of Fund- Direct Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);INF200KB1241;INF200KB1258;24.5233;;;20-Mar-2026
 152733;SBI Silver ETF Fund of Fund- Regular Plan - Growth;INF200KB1266;;24.3743;;;20-Mar-2026
+
+Sundaram Mutual Fund
+154123;Sundaram Income Plus Arbitrage Active FoF Fund-Direct-Growth;INF903JA1LZ7;;10.1038;;;20-Mar-2026
+154124;Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Payout;INF903JA1MA8;;10.1038;;;20-Mar-2026
+154127;Sundaram Income Plus Arbitrage Active FoF Fund-Regular-Growth;INF903JA1MC4;;10.0980;;;20-Mar-2026
+154125;Sundaram Income Plus Arbitrage Active FoF Fund-Regular-IDCW Payout;INF903JA1MD2;;10.0980;;;20-Mar-2026
 
 Tata Mutual Fund
 152287;Tata Gold ETF Fund of Fund Direct Plan Growth Option;INF277KA1869;;22.5359;;;20-Mar-2026
