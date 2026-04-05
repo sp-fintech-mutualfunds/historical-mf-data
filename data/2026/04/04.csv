@@ -79,6 +79,17 @@ Canara Robeco Mutual Fund
 147533;CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - DAILY IDCW (Reinvestment);;INF760K01JP8;1001.0000;;;04-Apr-2026
 147534;CANARA ROBECO OVERNIGHT FUND - REGULAR PLAN - GROWTH OPTION;INF760K01JO1;;1389.7044;;;04-Apr-2026
 
+DSP Mutual Fund
+146062;DSP Overnight Fund - Direct Plan - Growth;INF740KA1MC8;;1443.6532;;;04-Apr-2026
+146065;DSP Overnight Fund - Direct Plan - IDCW - Daily;;INF740KA1OR2;1000.2835;;;04-Apr-2026
+146061;DSP Overnight Fund - Regular Plan - Growth;INF740KA1MB0;;1435.3161;;;04-Apr-2026
+146066;DSP Overnight Fund - Regular Plan - IDCW - Daily;;INF740KA1OU6;1000.2860;;;04-Apr-2026
+146063;DSP Overnight Fund - Regular Plan - IDCW - Weekly;INF740KA1OV4;INF740KA1OW2;1001.5385;;;04-Apr-2026
+149313;Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund);;;10.0028;;;04-Apr-2026
+149312;Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund);;;12.8597;;;04-Apr-2026
+149311;Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund);;;10.0028;;;04-Apr-2026
+149310;Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund);;;12.8597;;;04-Apr-2026
+
 Edelweiss Mutual Fund
 147551;Edelweiss Overnight Fund - Direct Plan - Annual - IDCW Option;INF754K01KD5;INF754K01KC7;1394.5265;;;04-Apr-2026
 147557;Edelweiss Overnight Fund - Direct Plan - Daily - IDCW Option;;INF754K01JW7;1000.2109;;;04-Apr-2026
@@ -413,6 +424,14 @@ Capitalmind Mutual Fund
 154011;Capitalmind Liquid Fund - Direct-Growth;INF226401034;;1023.7364;;;04-Apr-2026
 154010;Capitalmind Liquid Fund - Regular-Growth;INF226401042;;1023.0174;;;04-Apr-2026
 
+DSP Mutual Fund
+119125;DSP Liquidity Fund - Direct Plan - Growth;INF740K01QL4;;3948.3141;;;04-Apr-2026
+119124;DSP Liquidity Fund - Direct Plan - IDCW - Daily;;INF740KA1OB6;1001.4890;;;04-Apr-2026
+119123;DSP Liquidity Fund - Direct Plan - IDCW - Weekly;INF740KA1OC4;INF740KA1OD2;1001.4917;;;04-Apr-2026
+103347;DSP Liquidity Fund - Regular Plan - Growth;INF740K01FK9;;3900.7779;;;04-Apr-2026
+103348;DSP Liquidity Fund - Regular Plan - IDCW - Weekly;INF740K01FM5;INF740K01FL7;1001.4865;;;04-Apr-2026
+103349;DSP Liquidity Fund- Regular Plan - IDCW - Daily;;INF740KA1OE0;1001.4842;;;04-Apr-2026
+
 Edelweiss Mutual Fund
 140194;Edelweiss Liquid Fund - Direct Plan - Bonus Option;INF754K01GY9;;2075.7342;;;04-Apr-2026
 140196;Edelweiss Liquid Fund - Direct Plan - Growth Option;INF754K01GM4;;3567.893;;;04-Apr-2026
@@ -522,11 +541,11 @@ JM Financial Mutual Fund
 101078;JM Liquid Fund (Regular) - Daily IDCW;;INF192K01833;10.4302;;;04-Apr-2026
 
 Kotak Mahindra Mutual Fund
-119764;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NH1;1223.2238;;;04-Apr-2026
-119766;Kotak Liquid Fund - Direct Plan - Growth;INF174K01NE8;;5576.7216;;;04-Apr-2026
-100833;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NL3;1249.6997;;;04-Apr-2026
-100835;Kotak Liquid Fund - Regular Plan - Growth;INF174K01NI9;;5519.6554;;;04-Apr-2026
-153586;Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;INF174KA1WK5;INF174KA1WM1;1025.4121;;;04-Apr-2026
+119764;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NH1;1223.2251;;;04-Apr-2026
+119766;Kotak Liquid Fund - Direct Plan - Growth;INF174K01NE8;;5576.7274;;;04-Apr-2026
+100833;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NL3;1249.701;;;04-Apr-2026
+100835;Kotak Liquid Fund - Regular Plan - Growth;INF174K01NI9;;5519.6612;;;04-Apr-2026
+153586;Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;INF174KA1WK5;INF174KA1WM1;1025.4131;;;04-Apr-2026
 
 LIC Mutual Fund
 120248;LIC MF Liquid Fund-Direct Plan-Daily IDCW;INF767K01DL5;INF767K01DM3;1034.6472;;;04-Apr-2026
