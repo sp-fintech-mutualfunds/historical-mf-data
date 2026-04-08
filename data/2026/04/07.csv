@@ -1158,6 +1158,12 @@ Canara Robeco Mutual Fund
 149088;Canara Robeco Value Fund - Regular Plan - Growth Option;INF760K01JZ7;;16.7100;;;07-Apr-2026
 149087;Canara Robeco Value Fund - Regular Plan - IDCW (Payout/Reinvestment);INF760K01KB6;INF760K01KA8;15.7100;;;07-Apr-2026
 
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;INF740KA1PP3;;22.745;;;07-Apr-2026
+148596;DSP Value Fund - Direct Plan - IDCW;INF740KA1PQ1;INF740KA1PR9;17.228;;;07-Apr-2026
+148594;DSP Value Fund - Regular Plan - Growth;INF740KA1PM0;;21.828;;;07-Apr-2026
+148597;DSP Value Fund - Regular Plan - IDCW;INF740KA1PN8;INF740KA1PO6;15.256;;;07-Apr-2026
+
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;INF090I01GY2;;753.9730;;;07-Apr-2026
 118493;Templeton India Value Fund - Direct - IDCW ;INF090I01GW6;INF090I01GX4;102.2686;;;07-Apr-2026
@@ -9092,8 +9098,6 @@ Angel One Mutual Fund
 153332;ANGEL ONE NIFTY TOTAL MARKET ETF;INF1J2R01015;;10.7671;;;07-Apr-2026
 153957;ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 ETF;INF1J2R01148;;9.1586;;;07-Apr-2026
 154205;ANGEL ONE SILVER ETF;INF1J2R01171;;8.7656;;;07-Apr-2026
-154206;ANGEL ONE SILVER ETF FOF -DIRECT GROWTH;INF1J2R01155;;8.0099;;;07-Apr-2026
-154207;ANGEL ONE SILVER ETF FOF -REGULAR GROWTH;INF1J2R01163;;8.0058;;;07-Apr-2026
 
 Axis Mutual Fund
 151585;Axis BSE Sensex ETF;INF846K010Q0;;76.9098;;;07-Apr-2026
@@ -9421,6 +9425,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;INF084M01EC8;INF084M01ED6;26.4366;;;07-Apr-2026
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;INF084M01EB0;;29.8906;;;07-Apr-2026
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;INF084M01AU8;INF084M01AV6;28.4497;;;07-Apr-2026
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;INF084M01AT0;;28.4446;;;07-Apr-2026
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;INF084M01EH7;;40.6161;;;07-Apr-2026
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;INF084M01AZ7;;38.0222;;;07-Apr-2026
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;INF084M01EI5;INF084M01EJ3;40.6369;;;07-Apr-2026
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;INF084M01BA8;INF084M01BB6;38.0458;;;07-Apr-2026
 149289;Aditya Birla Sun Life US Equity Passive FOF-Direct IDCW;INF209KB19C3;INF209KB10D0;18.2912;;;07-Apr-2026
 149291;Aditya Birla Sun Life US Equity Passive FOF-Direct-Growth;INF209KB18C5;;18.2887;;;07-Apr-2026
 149290;Aditya Birla Sun Life US Equity Passive FOF-Regular Growth;INF209KB15C1;;17.9796;;;07-Apr-2026
@@ -9469,6 +9481,10 @@ DSP Mutual Fund
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01284;;26.4477;;;07-Apr-2026
 112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;INF740K01292;INF740K01300;18.3894;;;07-Apr-2026
 119275;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;INF740K01PC5;;27.9666;;;07-Apr-2026
+149816;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;INF740KA1QP1;;18.5298;;;07-Apr-2026
+149815;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;INF740KA1QQ9;INF740KA1QR7;18.5298;;;07-Apr-2026
+149817;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;INF740KA1QM8;;17.8449;;;07-Apr-2026
+149814;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;INF740KA1QN6;INF740KA1QO4;17.8449;;;07-Apr-2026
 152528;DSP US Specific Debt Passive FoF - Direct - Growth;INF740KA1UJ6;;12.2625;;;07-Apr-2026
 152529;DSP US Specific Debt Passive FoF - Direct - IDCW;INF740KA1UK4;INF740KA1UL2;12.2625;;;07-Apr-2026
 152527;DSP US Specific Debt Passive FoF - Regular - Growth;INF740KA1UG2;;12.2499;;;07-Apr-2026
@@ -9594,6 +9610,12 @@ SBI Mutual Fund
 148762;SBI US Specific Equity Active FoF- Regular Plan - Growth;INF200KA1T96;;21.5924;;;07-Apr-2026
 148759;SBI US Specific Equity Active FoF- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1U02;INF200KA1U10;21.5917;;;07-Apr-2026
 
+Sundaram Mutual Fund
+119602;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;INF903J01OB6;;42.0680;;;07-Apr-2026
+119601;Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW;INF903J01NZ7;INF903J01OA8;35.3050;;;07-Apr-2026
+106370;Sundaram Global Brand Theme-Equity Active FOF - Regular Growth;INF903J01EX1;;38.1712;;;07-Apr-2026
+106369;Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW;INF903J01EY9;INF903J01EZ6;30.8569;;;07-Apr-2026
+
 Open Ended Schemes ( Other Scheme - FoF Domestic )
 
 
@@ -9634,6 +9656,8 @@ Aditya Birla Sun Life Mutual Fund
 Angel One Mutual Fund
 153828;ANGEL ONE GOLD ETF FOF - REGULAR GROWTH;INF1J2R01106;;13.392;;;07-Apr-2026
 153827;ANGEL ONE GOLD ETF FOF- DIRECT GROWTH;INF1J2R01098;;13.4306;;;07-Apr-2026
+154206;ANGEL ONE SILVER ETF FOF -DIRECT GROWTH;INF1J2R01155;;8.0099;;;07-Apr-2026
+154207;ANGEL ONE SILVER ETF FOF -REGULAR GROWTH;INF1J2R01163;;8.0058;;;07-Apr-2026
 
 Axis Mutual Fund
 154078;Axis Gold and Silver Passive FOF - Direct Plan - Growth;INF846KA1408;;10.8114;;;07-Apr-2026
