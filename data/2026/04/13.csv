@@ -435,6 +435,12 @@ Aditya Birla Sun Life Mutual Fund
 119433;Aditya Birla Sun Life Large & Mid Cap Fund -Direct - IDCW;INF209K01VG0;INF209K01VI6;198.56;;;13-Apr-2026
 100034;Aditya Birla Sun Life Large & Mid Cap Fund -Regular - IDCW;INF209K01157;INF209K01CE5;128.45;;;13-Apr-2026
 
+Axis Mutual Fund
+145110;Axis Large & Mid Cap Fund - Direct Plan - Growth;INF846K01J46;;35.39;;;13-Apr-2026
+145109;Axis Large & Mid Cap Fund - Direct Plan - IDCW;INF846K01J53;INF846K01J61;23.74;;;13-Apr-2026
+145112;Axis Large & Mid Cap Fund - Regular Plan - Growth;INF846K01J79;;31.87;;;13-Apr-2026
+145111;Axis Large & Mid Cap Fund - Regular Plan - IDCW;INF846K01J87;INF846K01J95;18.59;;;13-Apr-2026
+
 Bajaj Finserv Mutual Fund
 152408;Bajaj Finserv Large and Mid Cap Fund- Direct Plan- Growth;INF0QA701763;;12.032;;;13-Apr-2026
 152405;Bajaj Finserv Large and Mid Cap Fund- Direct Plan- IDCW;INF0QA701771;INF0QA701789;12.032;;;13-Apr-2026
@@ -9517,6 +9523,10 @@ Franklin Templeton Mutual Fund
 116633;Franklin U.S. Opportunities Equity Active Fund of Funds - Growth;INF090I01EW1;;82.1892;;;13-Apr-2026
 116632;Franklin U.S. Opportunities Equity Active Fund of Funds - IDCW;INF090I01EV3;INF090I01EU5;82.1892;;;13-Apr-2026
 
+HDFC Mutual Fund
+149180;HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option;INF179KC1BO4;;19.331;;;13-Apr-2026
+149181;HDFC Developed World Overseas Equity Passive FOF - Growth Option;INF179KC1BP1;;18.927;;;13-Apr-2026
+
 HSBC Mutual Fund
 127073;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth;INF336L01HC7;;32.6354;;;13-Apr-2026
 127071;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth Direct;INF336L01HF0;;35.3289;;;13-Apr-2026
@@ -9683,6 +9693,10 @@ Axis Mutual Fund
 149846;Axis Multi Factor Passive FoF - Direct Plan - IDCW;INF846K012G7;INF846K013G5;15.2874;;;13-Apr-2026
 149844;Axis Multi Factor Passive FoF - Regular Plan - Growth Option;INF846K014G3;;15.0971;;;13-Apr-2026
 149845;Axis Multi Factor Passive FoF - Regular Plan - IDCW;INF846K015G0;INF846K016G8;15.0971;;;13-Apr-2026
+153960;Axis Multi-Asset Active FoF - Direct Plan - Growth;INF846KA1366;;10.1550;;;13-Apr-2026
+153961;Axis Multi-Asset Active FoF - Direct Plan - IDCW;INF846KA1374;INF846KA1382;10.1550;;;13-Apr-2026
+153963;Axis Multi-Asset Active FoF - Regular Plan - Growth;INF846KA1333;;10.1180;;;13-Apr-2026
+153962;Axis Multi-Asset Active FoF - Regular Plan - IDCW;INF846KA1341;INF846KA1358;10.1180;;;13-Apr-2026
 149243;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Direct Plan - Growth Option;INF846K017C5;;12.8006;;;13-Apr-2026
 149242;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - Growth Option;INF846K010D8;;12.7272;;;13-Apr-2026
 149245;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - IDCW Option;INF846K011D6;INF846K012D4;12.7272;;;13-Apr-2026
@@ -10525,18 +10539,18 @@ DSP Mutual Fund
 149191;DSP FMP Series - 264 - 60M - 17D - Direct - IDCW;INF740KA1QI6;INF740KA1QJ4;13.1415;;;13-Apr-2026
 149189;DSP FMP Series - 264 - 60M - 17D - Regular - IDCW;INF740KA1QF2;INF740KA1QG0;13.0508;;;13-Apr-2026
 149188;DSP FMP Series - 264 - 60M - 17D - Regular Plan - Growth;INF740KA1QE5;;13.0514;;;13-Apr-2026
-150842;DSP FMP Series - 267 - 1246 Days - Direct - Growth;INF740KA1RI4;;12.7129;;;13-Apr-2026
-150840;DSP FMP Series - 267 - 1246 Days - Direct - IDCW;INF740KA1RK0;INF740KA1RJ2;12.7129;;;13-Apr-2026
-150843;DSP FMP Series - 267 - 1246 Days - Regular - Growth;INF740KA1RF0;;12.6654;;;13-Apr-2026
-150841;DSP FMP Series - 267 - 1246 Days - Regular - IDCW;INF740KA1RH6;INF740KA1RG8;12.6654;;;13-Apr-2026
+150842;DSP FMP Series - 267 - 1172 Days - Direct - Growth;INF740KA1YL4;;12.7129;;;13-Apr-2026
+150840;DSP FMP Series - 267 - 1172 Days - Direct - IDCW;INF740KA1YM2;INF740KA1YN0;12.7129;;;13-Apr-2026
+150843;DSP FMP Series - 267 - 1172 Days - Regular - Growth;INF740KA1YI0;;12.6654;;;13-Apr-2026
+150841;DSP FMP Series - 267 - 1172 Days - Regular - IDCW;INF740KA1YJ8;INF740KA1YK6;12.6654;;;13-Apr-2026
 150885;DSP FMP Series - 268 - 1281 Days - Direct - Growth;INF740KA1RO2;;12.6906;;;13-Apr-2026
 150886;DSP FMP Series - 268 - 1281 Days - Direct - IDCW;INF740KA1RQ7;INF740KA1RP9;12.6895;;;13-Apr-2026
 150884;DSP FMP Series - 268 - 1281 Days - Regular - Growth;INF740KA1RL8;;12.6264;;;13-Apr-2026
 150887;DSP FMP Series - 268 - 1281 Days - Regular - IDCW;INF740KA1RN4;INF740KA1RM6;12.6263;;;13-Apr-2026
-151449;DSP FMP Series - 270 - 1144 Days - Direct - Growth;INF740KA1SN2;;12.4762;;;13-Apr-2026
-151450;DSP FMP Series - 270 - 1144 Days - Direct - IDCW;INF740KA1SO0;INF740KA1SP7;12.4762;;;13-Apr-2026
-151447;DSP FMP Series - 270 - 1144 Days - Regular - Growth;INF740KA1SK8;;12.4372;;;13-Apr-2026
-151448;DSP FMP Series - 270 - 1144 Days - Regular - IDCW;INF740KA1SL6;INF740KA1SM4;12.4372;;;13-Apr-2026
+151449;DSP FMP Series - 270 - 1172 Days - Direct - Growth;INF740KA1YR1;;12.4762;;;13-Apr-2026
+151450;DSP FMP Series - 270 - 1172 Days - Direct - IDCW;INF740KA1YS9;INF740KA1YT7;12.4762;;;13-Apr-2026
+151447;DSP FMP Series - 270 - 1172 Days - Regular - Growth;INF740KA1YO8;;12.4372;;;13-Apr-2026
+151448;DSP FMP Series - 270 - 1172 Days - Regular - IDCW;INF740KA1YP5;INF740KA1YQ3;12.4372;;;13-Apr-2026
 
 HDFC Mutual Fund
 151865;HDFC Charity Fund for Cancer Cure - IDCW Option - 50% IDCW Donation Option;INF179KC1HC6;;10.332;;;13-Apr-2026
