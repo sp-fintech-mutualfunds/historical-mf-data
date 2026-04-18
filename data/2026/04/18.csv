@@ -3,6 +3,20 @@ Scheme Code;Scheme Name;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net As
 Open Ended Schemes ( Debt Scheme - Overnight Fund )
 
 
+Bajaj Finserv Mutual Fund
+153437;Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years IDCW Plan;INF0QA701AE3;;1052.4138;;;18-Apr-2026
+153438;Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years Redemption Plan;INF0QA701AF0;;1059.0959;;;18-Apr-2026
+151843;Bajaj Finserv Overnight Fund - Direct Plan - Daily - IDCW;;INF0QA701185;1033.1412;;;18-Apr-2026
+151850;Bajaj Finserv Overnight Fund - Direct Plan - Fortnightly - IDCW;INF0QA701235;INF0QA701201;1034.8319;;;18-Apr-2026
+151849;Bajaj Finserv Overnight Fund - Direct Plan - Growth;INF0QA701177;;1184.6755;;;18-Apr-2026
+151845;Bajaj Finserv Overnight Fund - Direct Plan - Monthly - IDCW;INF0QA701243;INF0QA701219;1033.5718;;;18-Apr-2026
+151844;Bajaj Finserv Overnight Fund - Direct Plan - Weekly - IDCW;INF0QA701227;INF0QA701193;1033.8387;;;18-Apr-2026
+151852;Bajaj Finserv Overnight Fund - Regular Plan - Daily - IDCW;;INF0QA701292;1032.8859;;;18-Apr-2026
+151847;Bajaj Finserv Overnight Fund - Regular Plan - Fortnightly - IDCW;INF0QA701318;INF0QA701276;1034.5776;;;18-Apr-2026
+151851;Bajaj Finserv Overnight Fund - Regular Plan - Growth;INF0QA701250;;1183.0253;;;18-Apr-2026
+151848;Bajaj Finserv Overnight Fund - Regular Plan - Monthly - IDCW;INF0QA701326;INF0QA701284;1033.3097;;;18-Apr-2026
+151846;Bajaj Finserv Overnight Fund - Regular Plan - Weekly - IDCW;INF0QA701300;INF0QA701268;1033.5650;;;18-Apr-2026
+
 Bank of India Mutual Fund
 147951;BANK OF INDIA Overnight Fund Direct Plan Growth;INF761K01EU7;;1371.3227;;;18-Apr-2026
 147952;BANK OF INDIA Overnight Fund Direct Plan- Daily IDCW;;INF761K01EV5;1000.0000;;;18-Apr-2026
@@ -69,6 +83,12 @@ JM Financial Mutual Fund
 149829;JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan;INF192K01MI3;;1368.4976;;;18-Apr-2026
 149826;JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan;INF192K01MK9;;1073.9936;;;18-Apr-2026
 
+Kotak Mahindra Mutual Fund
+146141;Kotak Overnight Fund -Direct Plan-Growth Option;INF174KA1BF9;;1440.6283;;;18-Apr-2026
+146142;Kotak Overnight Fund -Regular plan-Growth Option;INF174KA1BC6;;1431.1577;;;18-Apr-2026
+146140;Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174KA1BE2;1003.7413;;;18-Apr-2026
+146138;Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174KA1BB8;1004.8898;;;18-Apr-2026
+
 LIC Mutual Fund
 147516;LIC MF Overnight Fund-Direct Plan-Daily IDCW;;INF767K01QG7;1108.2826;;;18-Apr-2026
 147515;LIC MF Overnight Fund-Direct Plan-Growth;INF767K01QI3;;1399.6556;;;18-Apr-2026
@@ -103,6 +123,14 @@ Shriram Mutual Fund
 150565;Shriram Overnight Fund - Regular Growth;INF680P01232;;12.431;;;18-Apr-2026
 150560;Shriram Overnight Fund - Regular Monthly IDCW;INF680P01307;INF680P01315;10.0043;;;18-Apr-2026
 
+Sundaram Mutual Fund
+146963;Sundaram Overnight Fund Direct Plan - Growth;INF903JA1HG5;;1434.0351;;;18-Apr-2026
+146962;Sundaram Overnight Fund Direct Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HH3;;1036.4419;;;18-Apr-2026
+146957;Sundaram Overnight Fund Direct Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HM3;;1036.4419;;;18-Apr-2026
+146959;Sundaram Overnight Fund Regular Plan - Growth;INF903JA1GZ7;;1424.1969;;;18-Apr-2026
+146960;Sundaram Overnight Fund Regular Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HA8;;1031.5231;;;18-Apr-2026
+146961;Sundaram Overnight Fund Regular Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HF7;;1031.5231;;;18-Apr-2026
+
 UTI Mutual Fund
 100814;UTI - Overnight  Fund - Regular Plan - Growth Option;INF789F01604;;3654.94;;;18-Apr-2026
 120785;UTI - Overnight Fund - Direct Plan - Growth Option;INF789FB1S71;;3696.0709;;;18-Apr-2026
@@ -111,8 +139,23 @@ UTI Mutual Fund
 124265;UTI Overnight Fund - Regular Plan - Daily IDCW;;INF789FB1T13;1370.8617;;;18-Apr-2026
 100813;UTI Overnight Fund - Regular Plan - Periodic IDCW;INF789F01588;INF789F01596;1882.8979;;;18-Apr-2026
 
+Zerodha Mutual Fund
+153436;Zerodha Overnight Fund - Direct Plan - Growth Option;INF0R8F01075;;10.5666;;;18-Apr-2026
+
 Open Ended Schemes ( Debt Scheme - Liquid Fund )
 
+
+Bajaj Finserv Mutual Fund
+151835;Bajaj Finserv Liquid Fund - Direct Plan - Daily - IDCW;;INF0QA701029;1034.6939;;;18-Apr-2026
+151838;Bajaj Finserv Liquid Fund - Direct Plan - Fortnightly - IDCW;INF0QA701078;INF0QA701045;1037.5567;;;18-Apr-2026
+151833;Bajaj Finserv Liquid Fund - Direct Plan - Growth;INF0QA701011;;1208.4822;;;18-Apr-2026
+151836;Bajaj Finserv Liquid Fund - Direct Plan - Monthly - IDCW;INF0QA701086;INF0QA701052;1035.1925;;;18-Apr-2026
+151834;Bajaj Finserv Liquid Fund - Direct Plan - Weekly - IDCW;INF0QA701060;INF0QA701037;1035.6215;;;18-Apr-2026
+151839;Bajaj Finserv Liquid Fund - Regular Plan - Daily - IDCW;;INF0QA701136;1033.8241;;;18-Apr-2026
+151841;Bajaj Finserv Liquid Fund - Regular Plan - Fortnightly - IDCW;INF0QA701151;INF0QA701110;1036.6206;;;18-Apr-2026
+151837;Bajaj Finserv Liquid Fund - Regular Plan - Growth;INF0QA701094;;1202.6344;;;18-Apr-2026
+151842;Bajaj Finserv Liquid Fund - Regular Plan - Monthly - IDCW;INF0QA701169;INF0QA701128;1034.3033;;;18-Apr-2026
+151840;Bajaj Finserv Liquid Fund - Regular Plan - Weekly - IDCW;INF0QA701144;INF0QA701102;1034.7094;;;18-Apr-2026
 
 Bank of India Mutual Fund
 119368;BANK OF INDIA Liquid Fund- Direct Plan- Daily IDCW;;INF761K01CL0;1005.0000;;;18-Apr-2026
@@ -143,6 +186,10 @@ Canara Robeco Mutual Fund
 109351;CANARA ROBECO LIQUID FUND - REGULAR PLAN - MONTHLY IDCW (Payout/Reinvestment);INF760K01CX7;INF760K01CY5;1006.8335;;;18-Apr-2026
 109350;CANARA ROBECO LIQUID FUND - REGULAR PLAN - WEEKLY IDCW (Payout/Reinvestment);INF760K01BZ4;INF760K01CZ2;1001.9891;;;18-Apr-2026
 139235;Canara Robeco Liquid Fund -Unclaimed Redemption and Dividend Plan -Direct Growth Option;INF760K01IC8;;1811.6946;;;18-Apr-2026
+
+Capitalmind Mutual Fund
+154011;Capitalmind Liquid Fund - Direct-Growth;INF226401034;;1027.1824;;;18-Apr-2026
+154010;Capitalmind Liquid Fund - Regular-Growth;INF226401042;;1026.3792;;;18-Apr-2026
 
 Edelweiss Mutual Fund
 140194;Edelweiss Liquid Fund - Direct Plan - Bonus Option;INF754K01GY9;;2082.5595;;;18-Apr-2026
@@ -179,6 +226,13 @@ JM Financial Mutual Fund
 148413;JM Liquid Fund - Unclaimed Brokerage I.E.F. (Direct) - Growth Plan;;;41.4437;;;18-Apr-2026
 101549;JM Liquid Fund (Regular) - Bonus Option - Principal Units;INF192K01890;;23.9183;;;18-Apr-2026
 101078;JM Liquid Fund (Regular) - Daily IDCW;;INF192K01833;10.4302;;;18-Apr-2026
+
+Kotak Mahindra Mutual Fund
+119764;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NH1;1222.9947;;;18-Apr-2026
+119766;Kotak Liquid Fund - Direct Plan - Growth;INF174K01NE8;;5594.5788;;;18-Apr-2026
+100833;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NL3;1253.6436;;;18-Apr-2026
+100835;Kotak Liquid Fund - Regular Plan - Growth;INF174K01NI9;;5537.0748;;;18-Apr-2026
+153586;Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;INF174KA1WK5;INF174KA1WM1;1028.6481;;;18-Apr-2026
 
 LIC Mutual Fund
 120248;LIC MF Liquid Fund-Direct Plan-Daily IDCW;INF767K01DL5;INF767K01DM3;1035.2975;;;18-Apr-2026
@@ -238,6 +292,12 @@ Shriram Mutual Fund
 153280;Shriram Unclaimed Redemption Liquid Fund;;;1079.2128;;;18-Apr-2026
 153281;Shriram Unclaimed Redemption Stable Scheme Liquid Fund;;;1000;;;18-Apr-2026
 
+Sundaram Mutual Fund
+149664;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Direct Plan - Growth Option;INF173K01GU0;;2446.7644;;;18-Apr-2026
+149660;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Regular Plan IDCW;INF173K01DD3;INF173K01DE1;1047.3744;;;18-Apr-2026
+149662;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) -Direct Plan - IDCW;INF173K01GV8;INF173K01GW6;1049.8510;;;18-Apr-2026
+149661;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) -Growth Option;INF173K01DA9;;2414.6667;;;18-Apr-2026
+
 UTI Mutual Fund
 134427;UTI Liquid Fund - Direct Plan - Annual IDCW;INF789FA1K63;INF789FA1K71;1996.8564;;;18-Apr-2026
 120558;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F01XP8;1065.9537;;;18-Apr-2026
@@ -264,8 +324,14 @@ UTI Mutual Fund
 Open Ended Schemes ( Other Scheme - Other  ETFs )
 
 
+Bajaj Finserv Mutual Fund
+152638;Bajaj Finserv Nifty 1D Rate Liquid ETF;INF0QA701854;;1077.8298;;;18-Apr-2026
+
 Edelweiss Mutual Fund
 153920;Edelweiss Nifty 1D Rate Liquid ETF - Growth;INF754K01VW2;;1027.0698;;;18-Apr-2026
+
+Kotak Mahindra Mutual Fund
+151358;Kotak Nifty 1D Rate Liquid ETF;INF174KA1LV5;;1100.3253;;;18-Apr-2026
 
 Shriram Mutual Fund
 152741;Shriram Nifty 1D Rate Liquid ETF - Growth;INF680P01422;;1100.5935;;;18-Apr-2026
