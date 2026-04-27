@@ -438,6 +438,12 @@ Aditya Birla Sun Life Mutual Fund
 119433;Aditya Birla Sun Life Large & Mid Cap Fund -Direct - IDCW;INF209K01VG0;INF209K01VI6;203.78;;;24-Apr-2026
 100034;Aditya Birla Sun Life Large & Mid Cap Fund -Regular - IDCW;INF209K01157;INF209K01CE5;131.79;;;24-Apr-2026
 
+Axis Mutual Fund
+145110;Axis Large & Mid Cap Fund - Direct Plan - Growth;INF846K01J46;;36.21;;;24-Apr-2026
+145109;Axis Large & Mid Cap Fund - Direct Plan - IDCW;INF846K01J53;INF846K01J61;24.29;;;24-Apr-2026
+145112;Axis Large & Mid Cap Fund - Regular Plan - Growth;INF846K01J79;;32.59;;;24-Apr-2026
+145111;Axis Large & Mid Cap Fund - Regular Plan - IDCW;INF846K01J87;INF846K01J95;19.01;;;24-Apr-2026
+
 Bajaj Finserv Mutual Fund
 152408;Bajaj Finserv Large and Mid Cap Fund- Direct Plan- Growth;INF0QA701763;;12.229;;;24-Apr-2026
 152405;Bajaj Finserv Large and Mid Cap Fund- Direct Plan- IDCW;INF0QA701771;INF0QA701789;12.229;;;24-Apr-2026
@@ -1665,10 +1671,10 @@ Canara Robeco Mutual Fund
 154251;Canara Robeco Banking and Financials Services Fund - Direct Plan - IDCW;INF760K01LP4;INF760K01LR0;10.5300;;;24-Apr-2026
 154248;Canara Robeco Banking and Financials Services Fund - Regular Plan - Growth;INF760K01LM1;;10.5200;;;24-Apr-2026
 154249;Canara Robeco Banking and Financials Services Fund - Regular Plan - IDCW;INF760K01LO7;INF760K01LQ2;10.5200;;;24-Apr-2026
-118273;CANARA ROBECO CONSUMER TRENDS FUND - DIRECT PLAN - GROWTH OPTION;INF760K01DU1;;119.3400;;;24-Apr-2026
-118274;CANARA ROBECO CONSUMER TRENDS FUND - DIRECT PLAN - IDCW (Payout/Reinvestment);INF760K01DS5;INF760K01DT3;81.4400;;;24-Apr-2026
-112152;CANARA ROBECO CONSUMER TRENDS FUND - REGULAR PLAN - GROWTH OPTION;INF760K01241;;102.8100;;;24-Apr-2026
-112153;CANARA ROBECO CONSUMER TRENDS FUND - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01225;INF760K01233;44.1700;;;24-Apr-2026
+118273;CANARA ROBECO CONSUMPTION FUND - DIRECT PLAN - GROWTH OPTION;INF760K01DU1;;119.3400;;;24-Apr-2026
+118274;CANARA ROBECO CONSUMPTION FUND - DIRECT PLAN - IDCW (Payout/Reinvestment);INF760K01DS5;INF760K01DT3;81.4400;;;24-Apr-2026
+112152;CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - GROWTH OPTION;INF760K01241;;102.8100;;;24-Apr-2026
+112153;CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - IDCW (Payout/Reinvestment);INF760K01225;INF760K01233;44.1700;;;24-Apr-2026
 118267;CANARA ROBECO INFRASTRUCTURE FUND - DIRECT PLAN - GROWTH OPTION;INF760K01FO9;;194.0900;;;24-Apr-2026
 118268;CANARA ROBECO INFRASTRUCTURE FUND - DIRECT PLAN - IDCW (Payout/Reinvestment);INF760K01FM3;INF760K01FN1;92.6700;;;24-Apr-2026
 103390;CANARA ROBECO INFRASTRUCTURE FUND - REGULAR PLAN - GROWTH OPTION;INF760K01274;;170.9600;;;24-Apr-2026
@@ -2028,6 +2034,10 @@ Kotak Mahindra Mutual Fund
 152911;Kotak MNC Fund-Direct Plan-IDCW Option;INF174KA1TH7;INF174KA1TI5;11.648;;;24-Apr-2026
 152913;Kotak MNC Fund-Regular Plan- Growth;INF174KA1TJ3;;11.4;;;24-Apr-2026
 152912;KotaK MNC Fund-Regular Plan-IDCW OPTION;INF174KA1TK1;INF174KA1TL9;11.4;;;24-Apr-2026
+147727;Kotak Pioneer Fund- Direct Plan- Growth Option;INF174KA1EZ1;;35.217;;;24-Apr-2026
+147724;Kotak Pioneer Fund- Regular Plan- Growth Option;INF174KA1EW8;;31.835;;;24-Apr-2026
+147728;Kotak Pioneer Fund- Regular Plan- Reinvestment of Income Distribution cum capital withdrawal option;INF174KA1EU2;INF174KA1EV0;31.849;;;24-Apr-2026
+147725;Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option;INF174KA1EX6;INF174KA1EY4;35.212;;;24-Apr-2026
 151881;Kotak Quant Fund - Direct Plan - Growth Option;INF174KA1OL0;;14.897;;;24-Apr-2026
 151880;Kotak Quant Fund - Direct plan - IDCW Payout;INF174KA1OM8;INF174KA1ON6;14.897;;;24-Apr-2026
 151878;Kotak Quant Fund - Regular Plan - Growth Option;INF174KA1OI6;;14.747;;;24-Apr-2026
@@ -9516,6 +9526,10 @@ Franklin Templeton Mutual Fund
 116633;Franklin U.S. Opportunities Equity Active Fund of Funds - Growth;INF090I01EW1;;87.6210;;;24-Apr-2026
 116632;Franklin U.S. Opportunities Equity Active Fund of Funds - IDCW;INF090I01EV3;INF090I01EU5;87.6210;;;24-Apr-2026
 
+HDFC Mutual Fund
+149180;HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option;INF179KC1BO4;;20.221;;;24-Apr-2026
+149181;HDFC Developed World Overseas Equity Passive FOF - Growth Option;INF179KC1BP1;;19.796;;;24-Apr-2026
+
 HSBC Mutual Fund
 127073;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth;INF336L01HC7;;34.0416;;;24-Apr-2026
 127071;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth Direct;INF336L01HF0;;36.8593;;;24-Apr-2026
@@ -9561,6 +9575,10 @@ Kotak Mahindra Mutual Fund
 106442;Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option;INF174K01DX9;INF174K01DW1;37.238;;;24-Apr-2026
 119778;Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LX2;INF174K01LY0;40.71;;;24-Apr-2026
 106441;Kotak Global Emerging Market Overseas Equity Omni FOF- Growth;INF174K01DV3;;37.235;;;24-Apr-2026
+149058;Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan -IDCW Option;INF174KA1HE9;INF174KA1HF6;13.8653;;;24-Apr-2026
+149056;Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan-Growth;INF174KA1HD1;;13.8648;;;24-Apr-2026
+149060;Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan - IDCW Option;INF174KA1HH2;INF174KA1HI0;14.6663;;;24-Apr-2026
+149059;Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth;INF174KA1HG4;;14.6684;;;24-Apr-2026
 148646;Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Growth;INF174KA1FO2;;12.302;;;24-Apr-2026
 148649;Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;INF174KA1FN4;INF174KA1FP9;12.3019;;;24-Apr-2026
 148645;Kotak International REIT Overseas Equity Omni FOF - Regular Plan - Growth;INF174KA1FL8;;11.7305;;;24-Apr-2026
@@ -9678,6 +9696,10 @@ Axis Mutual Fund
 149846;Axis Multi Factor Passive FoF - Direct Plan - IDCW;INF846K012G7;INF846K013G5;15.5392;;;24-Apr-2026
 149844;Axis Multi Factor Passive FoF - Regular Plan - Growth Option;INF846K014G3;;15.3492;;;24-Apr-2026
 149845;Axis Multi Factor Passive FoF - Regular Plan - IDCW;INF846K015G0;INF846K016G8;15.3501;;;24-Apr-2026
+153960;Axis Multi-Asset Active FoF - Direct Plan - Growth;INF846KA1366;;10.2865;;;24-Apr-2026
+153961;Axis Multi-Asset Active FoF - Direct Plan - IDCW;INF846KA1374;INF846KA1382;10.2865;;;24-Apr-2026
+153963;Axis Multi-Asset Active FoF - Regular Plan - Growth;INF846KA1333;;10.2459;;;24-Apr-2026
+153962;Axis Multi-Asset Active FoF - Regular Plan - IDCW;INF846KA1341;INF846KA1358;10.2459;;;24-Apr-2026
 149243;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Direct Plan - Growth Option;INF846K017C5;;12.8385;;;24-Apr-2026
 149242;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - Growth Option;INF846K010D8;;12.7651;;;24-Apr-2026
 149245;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - IDCW Option;INF846K011D6;INF846K012D4;12.7651;;;24-Apr-2026
