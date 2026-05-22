@@ -1161,6 +1161,12 @@ Canara Robeco Mutual Fund
 149088;Canara Robeco Value Fund - Regular Plan - Growth Option;INF760K01JZ7;;17.5400;;;21-May-2026
 149087;Canara Robeco Value Fund - Regular Plan - IDCW (Payout/Reinvestment);INF760K01KB6;INF760K01KA8;16.5000;;;21-May-2026
 
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;INF740KA1PP3;;24.388;;;21-May-2026
+148596;DSP Value Fund - Direct Plan - IDCW;INF740KA1PQ1;INF740KA1PR9;18.472;;;21-May-2026
+148594;DSP Value Fund - Regular Plan - Growth;INF740KA1PM0;;23.382;;;21-May-2026
+148597;DSP Value Fund - Regular Plan - IDCW;INF740KA1PN8;INF740KA1PO6;16.342;;;21-May-2026
+
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;INF090I01GY2;;772.3980;;;21-May-2026
 118493;Templeton India Value Fund - Direct - IDCW ;INF090I01GW6;INF090I01GX4;104.7668;;;21-May-2026
@@ -7117,16 +7123,16 @@ Groww Mutual Fund
 
 HDFC Mutual Fund
 118931;HDFC ARBITRAGE FUND - Growth Option - Direct Plan;INF179K01UU8;;33.766;;;21-May-2026
+129054;HDFC ARBITRAGE FUND - Monthly IDCW - Direct Plan;INF179KA1KS8;INF179KA1KR0;11.262;;;21-May-2026
 118930;HDFC ARBITRAGE FUND - Quarterly IDCW Option - Direct Plan;INF179K01UV6;INF179K01UW4;25.588;;;21-May-2026
+129051;HDFC ARBITRAGE FUND - Regular Plan - Monthly IDCW Option;INF179KA1KO7;INF179KA1KN9;11.374;;;21-May-2026
+106793;HDFC ARBITRAGE FUND - Regular Plan -Growth Option;INF179K01343;;32.206;;;21-May-2026
 106796;HDFC ARBITRAGE FUND - Retail Growth Option;INF179K01319;;31.235;;;21-May-2026
 106799;HDFC ARBITRAGE FUND - Retail IDCW Option;;;23.278;;;21-May-2026
 106797;HDFC ARBITRAGE FUND - Retail Quarterly IDCW Option;INF179K01327;;22.266;;;21-May-2026
-106793;HDFC ARBITRAGE FUND - Wholesale Growth Option;INF179K01343;;32.206;;;21-May-2026
-129052;HDFC ARBITRAGE FUND - Wholesale Growth Option - Direct Plan;INF179KA1KT6;;21.301;;;21-May-2026
 106795;HDFC ARBITRAGE FUND - Wholesale IDCW Option;INF179KA1KM1;INF179KA1KL3;10.906;;;21-May-2026
 129053;HDFC ARBITRAGE FUND - Wholesale IDCW Option - Direct Plan;INF179KA1KQ2;INF179KA1KP4;11.662;;;21-May-2026
-129054;HDFC ARBITRAGE FUND - Wholesale Monthly IDCW - Direct Plan;INF179KA1KS8;INF179KA1KR0;11.262;;;21-May-2026
-129051;HDFC ARBITRAGE FUND - Wholesale Monthly IDCW Option  ;INF179KA1KO7;INF179KA1KN9;11.374;;;21-May-2026
+129052;HDFC ARBITRAGE FUND -Direct Plan - Growth Option;INF179KA1KT6;;21.301;;;21-May-2026
 
 Helios Mutual Fund
 154257;Helios Arbitrage Fund - Direct Growth;INF0R8701442;;10.10;;;21-May-2026
@@ -9436,6 +9442,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;INF084M01EC8;INF084M01ED6;31.8189;;;21-May-2026
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;INF084M01EB0;;35.976;;;21-May-2026
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;INF084M01AU8;INF084M01AV6;34.2195;;;21-May-2026
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;INF084M01AT0;;34.2133;;;21-May-2026
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;INF084M01EH7;;46.0604;;;21-May-2026
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;INF084M01AZ7;;43.0904;;;21-May-2026
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;INF084M01EI5;INF084M01EJ3;46.084;;;21-May-2026
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;INF084M01BA8;INF084M01BB6;43.1172;;;21-May-2026
 149289;Aditya Birla Sun Life US Equity Passive FOF-Direct IDCW;INF209KB19C3;INF209KB10D0;23.0038;;;21-May-2026
 149291;Aditya Birla Sun Life US Equity Passive FOF-Direct-Growth;INF209KB18C5;;23.0007;;;21-May-2026
 149290;Aditya Birla Sun Life US Equity Passive FOF-Regular Growth;INF209KB15C1;;22.6027;;;21-May-2026
@@ -9492,6 +9506,10 @@ DSP Mutual Fund
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01284;;30.1908;;;21-May-2026
 112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;INF740K01292;INF740K01300;20.9920;;;21-May-2026
 119275;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;INF740K01PC5;;31.9466;;;21-May-2026
+149816;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;INF740KA1QP1;;21.9904;;;21-May-2026
+149815;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;INF740KA1QQ9;INF740KA1QR7;21.9904;;;21-May-2026
+149817;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;INF740KA1QM8;;21.1549;;;21-May-2026
+149814;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;INF740KA1QN6;INF740KA1QO4;21.1549;;;21-May-2026
 152528;DSP US Specific Debt Passive FoF - Direct - Growth;INF740KA1UJ6;;12.5830;;;21-May-2026
 152529;DSP US Specific Debt Passive FoF - Direct - IDCW;INF740KA1UK4;INF740KA1UL2;12.5830;;;21-May-2026
 152527;DSP US Specific Debt Passive FoF - Regular - Growth;INF740KA1UG2;;12.5693;;;21-May-2026
