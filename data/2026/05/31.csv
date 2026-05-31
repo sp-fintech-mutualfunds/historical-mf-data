@@ -608,6 +608,14 @@ SBI Mutual Fund
 101206;SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH;INF200K01LQ9;;4357.0370;;;31-May-2026
 103140;SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01LO4;INF200K01LP1;1393.3636;;;31-May-2026
 
+Shriram Mutual Fund
+154395;Shriram Overnight Fund- Direct Daily IDCW;;INF680P01513;1000.0101;;;31-May-2026
+154394;Shriram Overnight Fund- Direct Growth;INF680P01497;;1254.371;;;31-May-2026
+154396;Shriram Overnight Fund- Direct Monthly IDCW;INF680P01612;INF680P01638;1002.2878;;;31-May-2026
+154398;Shriram Overnight Fund- Regular Daily IDCW;;INF680P01521;1000.0042;;;31-May-2026
+154399;Shriram Overnight Fund- Regular Growth;INF680P01505;;1250.4787;;;31-May-2026
+154402;Shriram Overnight Fund- Regular Monthly IDCW;INF680P01620;INF680P01646;1002.3038;;;31-May-2026
+
 Sundaram Mutual Fund
 146963;Sundaram Overnight Fund Direct Plan - Growth;INF903JA1HG5;;1442.6274;;;31-May-2026
 146962;Sundaram Overnight Fund Direct Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW);INF903JA1HH3;;1042.6519;;;31-May-2026
@@ -1041,6 +1049,14 @@ SBI Mutual Fund
 105283;SBI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01LY3;INF200K01LZ0;1414.0278;;;31-May-2026
 105282;SBI Liquid Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);INF200K01MB9;INF200K01MC7;1379.0725;;;31-May-2026
 105280;SBI Liquid Fund - REGULAR PLAN -Growth;INF200K01MA1;;4308.6797;;;31-May-2026
+
+Shriram Mutual Fund
+153035;Shriram Liquid Fund - Direct Plan Growth Option;INF680P01430;;1100.9369;;;31-May-2026
+153036;Shriram Liquid Fund - Regular Plan Growth Option;INF680P01448;;1098.5662;;;31-May-2026
+153282;Shriram Unclaimed IDCW Liquid Fund;;;1073.7352;;;31-May-2026
+153283;Shriram Unclaimed IDCW Stable Scheme Liquid Fund;;;1000;;;31-May-2026
+153280;Shriram Unclaimed Redemption Liquid Fund;;;1086.2128;;;31-May-2026
+153281;Shriram Unclaimed Redemption Stable Scheme Liquid Fund;;;1000;;;31-May-2026
 
 Sundaram Mutual Fund
 149664;Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Direct Plan - Growth Option;INF173K01GU0;;2462.4364;;;31-May-2026
@@ -2157,6 +2173,9 @@ SBI Mutual Fund
 154354;SBI Nifty200 Value 30 ETF;INF200KB1AX1;;15.4621;;;31-May-2026
 152749;SBI Nifty50 Equal Weight ETF;INF200KB1282;;32.7674;;;31-May-2026
 152725;SBI Silver ETF;INF200KB1217;;255.4607;;;31-May-2026
+
+Shriram Mutual Fund
+152741;Shriram Nifty 1D Rate Liquid ETF - Growth;INF680P01422;;1106.5917;;;31-May-2026
 
 Zerodha Mutual Fund
 152327;Zerodha Nifty 1D Rate Liquid ETF - Growth Option;INF0R8F01034;;114.3101;;;31-May-2026
