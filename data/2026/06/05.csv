@@ -2040,6 +2040,10 @@ Kotak Mahindra Mutual Fund
 152911;Kotak MNC Fund-Direct Plan-IDCW Option;INF174KA1TH7;INF174KA1TI5;12.198;;;05-Jun-2026
 152913;Kotak MNC Fund-Regular Plan- Growth;INF174KA1TJ3;;11.919;;;05-Jun-2026
 152912;KotaK MNC Fund-Regular Plan-IDCW OPTION;INF174KA1TK1;INF174KA1TL9;11.919;;;05-Jun-2026
+147727;Kotak Pioneer Fund- Direct Plan- Growth Option;INF174KA1EZ1;;36.691;;;05-Jun-2026
+147724;Kotak Pioneer Fund- Regular Plan- Growth Option;INF174KA1EW8;;33.116;;;05-Jun-2026
+147728;Kotak Pioneer Fund- Regular Plan- Reinvestment of Income Distribution cum capital withdrawal option;INF174KA1EU2;INF174KA1EV0;33.131;;;05-Jun-2026
+147725;Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option;INF174KA1EX6;INF174KA1EY4;36.685;;;05-Jun-2026
 151881;Kotak Quant Fund - Direct Plan - Growth Option;INF174KA1OL0;;14.844;;;05-Jun-2026
 151880;Kotak Quant Fund - Direct plan - IDCW Payout;INF174KA1OM8;INF174KA1ON6;14.844;;;05-Jun-2026
 151878;Kotak Quant Fund - Regular Plan - Growth Option;INF174KA1OI6;;14.684;;;05-Jun-2026
@@ -4270,11 +4274,11 @@ Baroda BNP Paribas Mutual Fund
 147373;Baroda BNP Paribas Money Market Fund - Direct Plan - Monthly IDCW;INF955L01IG3;;1030.2371;;;05-Jun-2026
 147378;Baroda BNP Paribas Money Market Fund - Direct Plan-Daily IDCW;;INF955L01IE8;1000.0000;;;05-Jun-2026
 147376;Baroda BNP Paribas Money Market Fund - Regular Plan - Monthly IDCW;INF955L01IB4;;1010.7274;;;05-Jun-2026
-147379;Baroda BNP Paribas Money Market Fund -Direct Plan - Weekly IDCW;;INF955L01IF5;1001.3183;;;05-Jun-2026
+147379;Baroda BNP Paribas Money Market Fund -Direct Plan - Weekly IDCW;INF251K01VT5;INF955L01IF5;1001.3183;;;05-Jun-2026
 147377;Baroda BNP Paribas Money Market Fund- Direct Plan - Growth;INF955L01ID0;;1479.6818;;;05-Jun-2026
 147382;Baroda BNP Paribas Money Market Fund-Regular Plan - Growth;INF955L01HY8;;1455.5566;;;05-Jun-2026
 147380;Baroda BNP Paribas Money Market Fund-Regular Plan- Daily IDCW;;INF955L01HZ5;1005.9752;;;05-Jun-2026
-147381;Baroda BNP Paribas Money Market Fund-Regular Plan-Weekly IDCW;;INF955L01IA6;1001.4563;;;05-Jun-2026
+147381;Baroda BNP Paribas Money Market Fund-Regular Plan-Weekly IDCW;INF251K01VS7;INF955L01IA6;1001.4563;;;05-Jun-2026
 
 DSP Mutual Fund
 123288;DSP Savings Fund - Direct Plan -  IDCW - Daily;;INF740KA1PB3;10.1527;;;05-Jun-2026
@@ -9544,6 +9548,10 @@ Franklin Templeton Mutual Fund
 116633;Franklin U.S. Opportunities Equity Active Fund of Funds - Growth;INF090I01EW1;;90.0405;;;05-Jun-2026
 116632;Franklin U.S. Opportunities Equity Active Fund of Funds - IDCW;INF090I01EV3;INF090I01EU5;90.0405;;;05-Jun-2026
 
+HDFC Mutual Fund
+149180;HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option;INF179KC1BO4;;21.37;;;05-Jun-2026
+149181;HDFC Developed World Overseas Equity Passive FOF - Growth Option;INF179KC1BP1;;20.911;;;05-Jun-2026
+
 HSBC Mutual Fund
 127073;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth;INF336L01HC7;;37.2015;;;05-Jun-2026
 127071;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth Direct;INF336L01HF0;;40.3147;;;05-Jun-2026
@@ -9589,6 +9597,10 @@ Kotak Mahindra Mutual Fund
 106442;Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option;INF174K01DX9;INF174K01DW1;40.406;;;05-Jun-2026
 119778;Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01LX2;INF174K01LY0;44.209;;;05-Jun-2026
 106441;Kotak Global Emerging Market Overseas Equity Omni FOF- Growth;INF174K01DV3;;40.403;;;05-Jun-2026
+149058;Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan -IDCW Option;INF174KA1HE9;INF174KA1HF6;14.4138;;;05-Jun-2026
+149056;Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan-Growth;INF174KA1HD1;;14.4133;;;05-Jun-2026
+149060;Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan - IDCW Option;INF174KA1HH2;INF174KA1HI0;15.2649;;;05-Jun-2026
+149059;Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth;INF174KA1HG4;;15.2671;;;05-Jun-2026
 148646;Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Growth;INF174KA1FO2;;12.1233;;;05-Jun-2026
 148649;Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;INF174KA1FN4;INF174KA1FP9;12.1233;;;05-Jun-2026
 148645;Kotak International REIT Overseas Equity Omni FOF - Regular Plan - Growth;INF174KA1FL8;;11.5497;;;05-Jun-2026
@@ -9635,6 +9647,12 @@ SBI Mutual Fund
 148761;SBI US Specific Equity Active FoF- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1U36;INF200KA1U44;24.9314;;;05-Jun-2026
 148762;SBI US Specific Equity Active FoF- Regular Plan - Growth;INF200KA1T96;;23.9993;;;05-Jun-2026
 148759;SBI US Specific Equity Active FoF- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA1U02;INF200KA1U10;23.9985;;;05-Jun-2026
+
+Sundaram Mutual Fund
+119602;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;INF903J01OB6;;47.2327;;;05-Jun-2026
+119601;Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW;INF903J01NZ7;INF903J01OA8;39.6395;;;05-Jun-2026
+106370;Sundaram Global Brand Theme-Equity Active FOF - Regular Growth;INF903J01EX1;;42.7793;;;05-Jun-2026
+106369;Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW;INF903J01EY9;INF903J01EZ6;34.5820;;;05-Jun-2026
 
 Open Ended Schemes ( Other Scheme - FoF Domestic )
 
@@ -9706,6 +9724,10 @@ Axis Mutual Fund
 149846;Axis Multi Factor Passive FoF - Direct Plan - IDCW;INF846K012G7;INF846K013G5;15.4467;;;05-Jun-2026
 149844;Axis Multi Factor Passive FoF - Regular Plan - Growth Option;INF846K014G3;;15.2477;;;05-Jun-2026
 149845;Axis Multi Factor Passive FoF - Regular Plan - IDCW;INF846K015G0;INF846K016G8;15.2486;;;05-Jun-2026
+153960;Axis Multi-Asset Active FoF - Direct Plan - Growth;INF846KA1366;;10.4064;;;05-Jun-2026
+153961;Axis Multi-Asset Active FoF - Direct Plan - IDCW;INF846KA1374;INF846KA1382;10.4064;;;05-Jun-2026
+153963;Axis Multi-Asset Active FoF - Regular Plan - Growth;INF846KA1333;;10.3509;;;05-Jun-2026
+153962;Axis Multi-Asset Active FoF - Regular Plan - IDCW;INF846KA1341;INF846KA1358;10.3509;;;05-Jun-2026
 150618;Axis Silver Fund of Fund - Regular Plan - IDCW Option;INF846K019J6;INF846K010K3;42.7672;;;05-Jun-2026
 150617;Axis Silver Fund of Fund -Regular Plan- Growth Option;INF846K018J8;;42.7688;;;05-Jun-2026
 150616;Axis Silver Fund of Fund- Direct Plan - IDCW Option;INF846K016J2;INF846K017J0;43.5914;;;05-Jun-2026
