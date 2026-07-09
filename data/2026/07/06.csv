@@ -8975,9 +8975,6 @@ Open Ended Schemes ( Other Scheme - Gold ETF )
 360 ONE Mutual Fund
 153357;360 ONE Gold ETF;INF579M01BB5;;141.0479;;;06-Jul-2026
 
-Aditya Birla Sun Life Mutual Fund
-115127;Aditya Birla Sun Life Gold ETF;INF209KB18D3;;127.0451;;;06-Jul-2026
-
 Angel One Mutual Fund
 153826;ANGEL ONE GOLD ETF;INF1J2R01114;;13.4972;;;06-Jul-2026
 
@@ -9060,9 +9057,7 @@ Open Ended Schemes ( Other Scheme - Other  ETFs )
 Aditya Birla Sun Life Mutual Fund
 152802;Aditya Birla Sun Life Crisil 10 Year Gilt ETF;INF209KC1142;;113.1232;;;06-Jul-2026
 152732;ADITYA BIRLA SUN LIFE CRISIL BROAD BASED GILT ETF;INF209KC1134;;114.5237;;;06-Jul-2026
-151533;Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout;INF209KB18T9;;1000.0000;;;06-Jul-2026
 150498;Aditya Birla Sun Life Nifty 200 Momentum 30 ETF;INF209KB14K7;;31.0683;;;06-Jul-2026
-149779;Aditya Birla Sun Life Silver ETF;INF209KB19F6;;230.8540;;;06-Jul-2026
 
 Angel One Mutual Fund
 153451;ANGEL ONE NIFTY 1D RATE LIQUID ETF - GROWTH;INF1J2R01056;;1066.8909;;;06-Jul-2026
@@ -10544,6 +10539,7 @@ Open Ended Schemes ( Exchange Traded Funds (ETFs) - Equity ETF )
 Aditya Birla Sun Life Mutual Fund
 139581;Aditya Birla Sun Life BSE Sensex ETF;INF209KB10E8;;78.8130;;;06-Jul-2026
 154224;Aditya Birla Sun Life BSE Top 10 Banks ETF;INF209KC1670;;175.6849;;;06-Jul-2026
+115127;Aditya Birla Sun Life Gold ETF;INF209KB18D3;;127.0451;;;06-Jul-2026
 154220;Aditya Birla Sun Life MSCI India ETF;INF209KC1662;;29.7384;;;06-Jul-2026
 150497;Aditya Birla Sun Life Nifty 200 Quality 30 ETF;INF209KB15K4;;21.0068;;;06-Jul-2026
 115512;Aditya Birla Sun Life Nifty 50 ETF;INF209KB19D1;;28.5929;;;06-Jul-2026
@@ -10552,6 +10548,13 @@ Aditya Birla Sun Life Mutual Fund
 149293;Aditya Birla Sun Life Nifty IT ETF;INF209KB11D8;;29.8112;;;06-Jul-2026
 145881;Aditya Birla Sunlife Nifty Next 50 ETF;INF209KB16D7;;76.3740;;;06-Jul-2026
 152620;Aditya Birla Sun Life Nifty PSE ETF;INF209KB19Z4;;10.3973;;;06-Jul-2026
+149779;Aditya Birla Sun Life Silver ETF;INF209KB19F6;;230.8540;;;06-Jul-2026
+
+Open Ended Schemes ( Exchange Traded Funds (ETFs) - Debt ETF )
+
+
+Aditya Birla Sun Life Mutual Fund
+151533;Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout;INF209KB18T9;;1000.0000;;;06-Jul-2026
 
 Open Ended Schemes ( Overseas Fund of Funds - Fund of Funds investing overseas )
 
