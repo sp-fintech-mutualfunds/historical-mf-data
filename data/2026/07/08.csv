@@ -1167,6 +1167,12 @@ Canara Robeco Mutual Fund
 149088;Canara Robeco Value Fund - Regular Plan - Growth Option;INF760K01JZ7;;17.6300;;;08-Jul-2026
 149087;Canara Robeco Value Fund - Regular Plan - IDCW (Payout/Reinvestment);INF760K01KB6;INF760K01KA8;16.5800;;;08-Jul-2026
 
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;INF740KA1PP3;;24.5890;;;08-Jul-2026
+148596;DSP Value Fund - Direct Plan - IDCW;INF740KA1PQ1;INF740KA1PR9;18.6240;;;08-Jul-2026
+148594;DSP Value Fund - Regular Plan - Growth;INF740KA1PM0;;23.5490;;;08-Jul-2026
+148597;DSP Value Fund - Regular Plan - IDCW;INF740KA1PN8;INF740KA1PO6;16.4590;;;08-Jul-2026
+
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;INF090I01GY2;;781.5113;;;08-Jul-2026
 118493;Templeton India Value Fund - Direct - IDCW ;INF090I01GW6;INF090I01GX4;106.0017;;;08-Jul-2026
@@ -3616,29 +3622,6 @@ Union Mutual Fund
 115398;Union Liquid Fund - Growth Option;INF582M01013;;2673.4276;;;08-Jul-2026
 115400;Union Liquid Fund - Monthly IDCW Option;INF582M01070;INF582M01054;1002.8700;;;08-Jul-2026
 115402;Union Liquid Fund - Weekly IDCW Option;;INF582M01039;1001.7099;;;08-Jul-2026
-
-UTI Mutual Fund
-134427;UTI Liquid Fund - Direct Plan - Annual IDCW;INF789F1AE45;INF789F1AE52;202.5121;;;08-Jul-2026
-120558;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F1AD38;106.5304;;;08-Jul-2026
-141768;UTI Liquid Fund - Direct Plan - Flexi IDCW;INF789F1AE60;INF789F1AE78;166.798;;;08-Jul-2026
-140913;UTI Liquid Fund - Direct Plan - Fortnightly IDCW;INF789F1AD87;INF789F1AD95;115.7609;;;08-Jul-2026
-140504;UTI Liquid Fund - Direct Plan - Half-Yearly IDCW;INF789F1AE29;INF789F1AE37;158.1883;;;08-Jul-2026
-120794;UTI Liquid Fund - Direct Plan - Monthly IDCW;INF789F1AD53;INF789F1AD61;104.5319;;;08-Jul-2026
-140024;UTI Liquid Fund - Direct Plan - Quarterly IDCW;INF789F1AE03;INF789F1AE11;191.2588;;;08-Jul-2026
-120777;UTI Liquid Fund - Direct Plan - Weekly IDCW;;INF789F1AD79;107.8199;;;08-Jul-2026
-133973;UTI Liquid Fund - Regular Plan - Annual IDCW;INF789F1AD12;INF789F1AD20;201.0229;;;08-Jul-2026
-102010;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F1AF77;120.007;;;08-Jul-2026
-140517;UTI Liquid Fund - Regular Plan - Flexi IDCW;INF789F1AF02;INF789F1AF10;165.6786;;;08-Jul-2026
-139838;UTI Liquid Fund - Regular Plan - Fortnightly IDCW;INF789F1AF28;INF789F1AF36;115.6744;;;08-Jul-2026
-144475;UTI Liquid Fund - Regular Plan - Half-Yearly IDCW;INF789F1AF51;INF789F1AF69;140.0063;;;08-Jul-2026
-102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;INF789F1AF93;INF789F1AG01;112.7523;;;08-Jul-2026
-135721;UTI Liquid Fund - Regular Plan - Quarterly IDCW;INF789F1AG43;INF789F1AG50;189.8103;;;08-Jul-2026
-102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;;INF789F1AG19;105.2834;;;08-Jul-2026
-120304;UTI-  Liquid Cash Plan - Direct Plan - Growth Option;INF789F1AD46;;460.4774;;;08-Jul-2026
-102012;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;INF789F1AF85;;455.8954;;;08-Jul-2026
-102008;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;INF789F1AF44;INF789F1AG27;106.4881;;;08-Jul-2026
-102009;UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth;INF789F1AG35;;413.6978;;;08-Jul-2026
-102007;UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option;;INF789F1AE94;113.2457;;;08-Jul-2026
 
 WhiteOak Capital Mutual Fund
 145969;WhiteOak Capital Liquid Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);;INF03VN01019;1001.9025;;;08-Jul-2026
@@ -9227,7 +9210,6 @@ Kotak Mahindra Mutual Fund
 149757;Kotak Nifty Midcap 50 ETF;INF174KA1ZC5;;17.9637;;;08-Jul-2026
 150531;Kotak Nifty MNC ETF;INF174KA1JF2;;33.1721;;;08-Jul-2026
 154101;Kotak Nifty Next 50 ETF;INF174KA1YO3;;71.269;;;08-Jul-2026
-106929;Kotak Nifty PSU Bank ETF;INF373I01023;;809.0168;;;08-Jul-2026
 153657;Kotak Nifty200 Quality 30 ETF;INF174KA1WT6;;20.065;;;08-Jul-2026
 150948;Kotak Silver ETF;INF174KA1ZD3;;21.3641;;;08-Jul-2026
 
@@ -9396,6 +9378,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;INF084M01EC8;INF084M01ED6;31.3257;;;08-Jul-2026
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;INF084M01EB0;;35.4184;;;08-Jul-2026
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;INF084M01AU8;INF084M01AV6;33.6647;;;08-Jul-2026
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;INF084M01AT0;;33.6587;;;08-Jul-2026
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;INF084M01EH7;;46.5686;;;08-Jul-2026
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;INF084M01AZ7;;43.5315;;;08-Jul-2026
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;INF084M01EI5;INF084M01EJ3;46.5924;;;08-Jul-2026
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;INF084M01BA8;INF084M01BB6;43.5585;;;08-Jul-2026
 152140;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct Growth;INF209KB16W7;;12.8466;;;08-Jul-2026
 152139;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct IDCW Payout;INF209KB17W5;INF209KB18W3;12.8466;;;08-Jul-2026
 152142;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Regular Growth;INF209KB13W4;;12.8305;;;08-Jul-2026
@@ -9448,6 +9438,10 @@ DSP Mutual Fund
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01284;;29.0127;;;08-Jul-2026
 112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;INF740K01292;INF740K01300;20.1728;;;08-Jul-2026
 119275;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;INF740K01PC5;;30.7213;;;08-Jul-2026
+149816;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;INF740KA1QP1;;22.4090;;;08-Jul-2026
+149815;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;INF740KA1QQ9;INF740KA1QR7;22.4090;;;08-Jul-2026
+149817;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;INF740KA1QM8;;21.5329;;;08-Jul-2026
+149814;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;INF740KA1QN6;INF740KA1QO4;21.5329;;;08-Jul-2026
 152528;DSP US Specific Debt Passive FoF - Direct - Growth;INF740KA1UJ6;;12.5047;;;08-Jul-2026
 152529;DSP US Specific Debt Passive FoF - Direct - IDCW;INF740KA1UK4;INF740KA1UL2;12.5047;;;08-Jul-2026
 152527;DSP US Specific Debt Passive FoF - Regular - Growth;INF740KA1UG2;;12.4903;;;08-Jul-2026
@@ -10465,6 +10459,32 @@ Helios Mutual Fund
 152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;INF0R8701103;;1000.0000;;;08-Jul-2026
 152153;Helios Overnight Fund - Regular Plan - Growth Option;INF0R8701095;;1169.4150;;;08-Jul-2026
 
+Open Ended Schemes ( Income/Debt Oriented Schemes - Liquid Fund )
+
+
+UTI Mutual Fund
+134427;UTI Liquid Fund - Direct Plan - Annual IDCW;INF789F1AE45;INF789F1AE52;202.5121;;;08-Jul-2026
+120558;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F1AD38;106.5304;;;08-Jul-2026
+141768;UTI Liquid Fund - Direct Plan - Flexi IDCW;INF789F1AE60;INF789F1AE78;166.798;;;08-Jul-2026
+140913;UTI Liquid Fund - Direct Plan - Fortnightly IDCW;INF789F1AD87;INF789F1AD95;115.7609;;;08-Jul-2026
+120304;UTI Liquid Fund - Direct Plan - Growth Option;INF789F1AD46;;460.4774;;;08-Jul-2026
+140504;UTI Liquid Fund - Direct Plan - Half-Yearly IDCW;INF789F1AE29;INF789F1AE37;158.1883;;;08-Jul-2026
+120794;UTI Liquid Fund - Direct Plan - Monthly IDCW;INF789F1AD53;INF789F1AD61;104.5319;;;08-Jul-2026
+140024;UTI Liquid Fund - Direct Plan - Quarterly IDCW;INF789F1AE03;INF789F1AE11;191.2588;;;08-Jul-2026
+120777;UTI Liquid Fund - Direct Plan - Weekly IDCW;;INF789F1AD79;107.8199;;;08-Jul-2026
+102008;UTI Liquid Fund - Discontinued - Regular Plan - Monthly Dividend Option;INF789F1AF44;INF789F1AG27;106.4881;;;08-Jul-2026
+102009;UTI Liquid Fund - Discontinued - Regular Plan -Growth;INF789F1AG35;;413.6978;;;08-Jul-2026
+102007;UTI Liquid Fund - Discontinued -Regular Plan Periodic Dividend Option;;INF789F1AE94;113.2457;;;08-Jul-2026
+133973;UTI Liquid Fund - Regular Plan - Annual IDCW;INF789F1AD12;INF789F1AD20;201.0229;;;08-Jul-2026
+102010;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F1AF77;120.007;;;08-Jul-2026
+140517;UTI Liquid Fund - Regular Plan - Flexi IDCW;INF789F1AF02;INF789F1AF10;165.6786;;;08-Jul-2026
+139838;UTI Liquid Fund - Regular Plan - Fortnightly IDCW;INF789F1AF28;INF789F1AF36;115.6744;;;08-Jul-2026
+102012;UTI Liquid Fund - Regular Plan - Growth Option;INF789F1AF85;;455.8954;;;08-Jul-2026
+144475;UTI Liquid Fund - Regular Plan - Half-Yearly IDCW;INF789F1AF51;INF789F1AF69;140.0063;;;08-Jul-2026
+102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;INF789F1AF93;INF789F1AG01;112.7523;;;08-Jul-2026
+135721;UTI Liquid Fund - Regular Plan - Quarterly IDCW;INF789F1AG43;INF789F1AG50;189.8103;;;08-Jul-2026
+102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;;INF789F1AG19;105.2834;;;08-Jul-2026
+
 Open Ended Schemes ( Hybrid Schemes - Aggressive Hybrid Fund )
 
 
@@ -10534,6 +10554,9 @@ Aditya Birla Sun Life Mutual Fund
 145881;Aditya Birla Sunlife Nifty Next 50 ETF;INF209KB16D7;;74.5078;;;08-Jul-2026
 152620;Aditya Birla Sun Life Nifty PSE ETF;INF209KB19Z4;;10.1641;;;08-Jul-2026
 149779;Aditya Birla Sun Life Silver ETF;INF209KB19F6;;219.8863;;;08-Jul-2026
+
+Kotak Mahindra Mutual Fund
+106929;Kotak Nifty PSU Bank ETF;INF174KA1A86;;809.0168;;;08-Jul-2026
 
 Open Ended Schemes ( Exchange Traded Funds (ETFs) - Debt ETF )
 
