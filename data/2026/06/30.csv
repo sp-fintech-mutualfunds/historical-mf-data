@@ -3623,29 +3623,6 @@ Union Mutual Fund
 115400;Union Liquid Fund - Monthly IDCW Option;INF582M01070;INF582M01054;1001.8063;;;30-Jun-2026
 115402;Union Liquid Fund - Weekly IDCW Option;;INF582M01039;1001.6114;;;30-Jun-2026
 
-UTI Mutual Fund
-134427;UTI Liquid Fund - Direct Plan - Annual IDCW;INF789F1AE45;INF789F1AE52;202.2825;;;30-Jun-2026
-120558;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F1AD38;106.5304;;;30-Jun-2026
-141768;UTI Liquid Fund - Direct Plan - Flexi IDCW;INF789F1AE60;INF789F1AE78;166.6089;;;30-Jun-2026
-140913;UTI Liquid Fund - Direct Plan - Fortnightly IDCW;INF789F1AD87;INF789F1AD95;115.6297;;;30-Jun-2026
-140504;UTI Liquid Fund - Direct Plan - Half-Yearly IDCW;INF789F1AE29;INF789F1AE37;158.009;;;30-Jun-2026
-120794;UTI Liquid Fund - Direct Plan - Monthly IDCW;INF789F1AD53;INF789F1AD61;104.9931;;;30-Jun-2026
-140024;UTI Liquid Fund - Direct Plan - Quarterly IDCW;INF789F1AE03;INF789F1AE11;191.042;;;30-Jun-2026
-120777;UTI Liquid Fund - Direct Plan - Weekly IDCW;;INF789F1AD79;107.6977;;;30-Jun-2026
-133973;UTI Liquid Fund - Regular Plan - Annual IDCW;INF789F1AD12;INF789F1AD20;200.7999;;;30-Jun-2026
-102010;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F1AF77;119.8739;;;30-Jun-2026
-140517;UTI Liquid Fund - Regular Plan - Flexi IDCW;INF789F1AF02;INF789F1AF10;165.4949;;;30-Jun-2026
-139838;UTI Liquid Fund - Regular Plan - Fortnightly IDCW;INF789F1AF28;INF789F1AF36;115.5461;;;30-Jun-2026
-144475;UTI Liquid Fund - Regular Plan - Half-Yearly IDCW;INF789F1AF51;INF789F1AF69;139.8473;;;30-Jun-2026
-102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;INF789F1AF93;INF789F1AG01;113.2604;;;30-Jun-2026
-135721;UTI Liquid Fund - Regular Plan - Quarterly IDCW;INF789F1AG43;INF789F1AG50;189.5998;;;30-Jun-2026
-102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;;INF789F1AG19;105.4492;;;30-Jun-2026
-120304;UTI-  Liquid Cash Plan - Direct Plan - Growth Option;INF789F1AD46;;459.9553;;;30-Jun-2026
-102012;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;INF789F1AF85;;455.3898;;;30-Jun-2026
-102008;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;INF789F1AF44;INF789F1AG27;106.9696;;;30-Jun-2026
-102009;UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth;INF789F1AG35;;413.239;;;30-Jun-2026
-102007;UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option;;INF789F1AE94;113.866;;;30-Jun-2026
-
 WhiteOak Capital Mutual Fund
 145969;WhiteOak Capital Liquid Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);;INF03VN01019;1001.9025;;;30-Jun-2026
 145966;WhiteOak Capital Liquid Fund- Direct plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);INF03VN01027;INF03VN01035;1001.6184;;;30-Jun-2026
@@ -3797,12 +3774,6 @@ ITI Mutual Fund
 148906;ITI Ultra Short Duration Fund - Regular Plan - Growth Option;INF00XX01952;;1306.7327;;;30-Jun-2026
 148914;ITI Ultra Short Duration Fund - Regular Plan - Monthly IDCW Option;INF00XX01AC6;INF00XX01994;1001.5569;;;30-Jun-2026
 148907;ITI Ultra Short Duration Fund - Regular Plan - Weekly IDCW Option;;INF00XX01978;1001.1747;;;30-Jun-2026
-
-Kotak Mahindra Mutual Fund
-102591;Kotak Savings Fund -Growth;INF174K01FD6;;45.4943;;;30-Jun-2026
-102592;Kotak Savings Fund -Monthly Payout of Income Distribution cum capital withdrawal option;INF174K01FH7;;10.7671;;;30-Jun-2026
-119750;Kotak Savings Fund-Growth - Direct;INF174K01JP2;;47.8786;;;30-Jun-2026
-119751;Kotak Savings Fund-Monthly Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01JQ0;;20.6434;;;30-Jun-2026
 
 LIC Mutual Fund
 147771;LIC MF Ultra Short Duration Fund-Direct Plan-Daily IDCW;;INF767K01QP8;1102.1317;;;30-Jun-2026
@@ -4356,12 +4327,6 @@ Invesco Mutual Fund
 Jio BlackRock Mutual Fund
 153649;JioBlackRock Money Market Fund - Direct Plan - Growth Option;INF22M001028;;1062.3271;;;30-Jun-2026
 
-Kotak Mahindra Mutual Fund
-101893;Kotak Money Market Fund - (Growth);INF174K01NA6;;4784.4374;;;30-Jun-2026
-119746;Kotak Money Market Fund - (Growth) - Direct;INF174K01MW2;;4836.744;;;30-Jun-2026
-101892;Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option);INF174K018O0;INF174K01NB4;1060.9866;;;30-Jun-2026
-119747;Kotak Money Market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option) - Direct;INF174K019O8;INF174K01MX0;1286.3385;;;30-Jun-2026
-
 LIC Mutual Fund
 150392;LIC MF Money Market Fund-Direct Plan-Growth;INF767K01RE0;;1285.2111;;;30-Jun-2026
 150391;LIC MF Money Market Fund-Direct Plan-IDCW;INF767K01RF7;INF767K01RG5;1285.2111;;;30-Jun-2026
@@ -4607,12 +4572,6 @@ JM Financial Mutual Fund
 150544;JM Short Duration Fund (Direct) - IDCW;INF192K01MQ6;INF192K01MR4;13.0325;;;30-Jun-2026
 150542;JM Short Duration Fund (Regular) - Growth;INF192K01MM5;;12.6453;;;30-Jun-2026
 150543;JM Short Duration Fund (Regular) - IDCW;INF192K01MN3;INF192K01MO1;12.6458;;;30-Jun-2026
-
-Kotak Mahindra Mutual Fund
-135500;Kotak Bond Short Term Plan - Direct - Standard Income Distribution cum capital withdrawal option;INF174K01Z14;INF174K01Z22;16.1618;;;30-Jun-2026
-135501;Kotak Bond Short Term Plan - Regular Plan - Normal Dividend;INF174K01Y98;INF174K01Z06;12.1954;;;30-Jun-2026
-101373;Kotak Bond Short Term Plan-(Growth);INF174K01ES7;;54.9311;;;30-Jun-2026
-119739;Kotak Bond Short Term Plan-(Growth) - Direct;INF174K01JI7;;60.9067;;;30-Jun-2026
 
 LIC Mutual Fund
 145954;LIC MF Short Duration Fund-Direct Plan-Growth;INF767K01PW6;;16.5633;;;30-Jun-2026
@@ -5390,12 +5349,6 @@ Invesco Mutual Fund
 106177;Invesco India Corporate Bond Fund - Regular Plan - Growth;INF205K01RM4;;3355.4671;;;30-Jun-2026
 106171;Invesco India Corporate Bond Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);INF205K01RN2;INF205K01RO0;1923.2414;;;30-Jun-2026
 106172;Invesco India Corporate Bond Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment);INF205K01RP7;INF205K01RQ5;1165.3602;;;30-Jun-2026
-
-Kotak Mahindra Mutual Fund
-133791;Kotak Corporate Bond Fund- Direct Plan- Growth Option;INF178L01BY0;;4182.7509;;;30-Jun-2026
-133792;Kotak Corporate Bond Fund- Direct Plan- Monthly Payout of Income Distribution cum capital withdrawal option;INF178L01BZ7;;1080.7798;;;30-Jun-2026
-133782;Kotak Corporate Bond Fund- Regular Plan-Growth Option;INF178L01BO1;;3992.7004;;;30-Jun-2026
-133787;Kotak Corporate Bond Fund- Regular Plan-Monthly Dividend Option;INF178L01BQ6;INF178L01BP8;1300.6704;;;30-Jun-2026
 
 Mirae Asset Mutual Fund
 148755;Mirae Asset Corporate Bond Fund Direct Growth Plan;INF769K01HD9;;13.7587;;;30-Jun-2026
@@ -8971,9 +8924,6 @@ Open Ended Schemes ( Other Scheme - Gold ETF )
 360 ONE Mutual Fund
 153357;360 ONE Gold ETF;INF579M01BB5;;137.1712;;;30-Jun-2026
 
-Aditya Birla Sun Life Mutual Fund
-115127;Aditya Birla Sun Life Gold ETF;INF209KB18D3;;123.5189;;;30-Jun-2026
-
 Angel One Mutual Fund
 153826;ANGEL ONE GOLD ETF;INF1J2R01114;;13.1262;;;30-Jun-2026
 
@@ -9056,9 +9006,7 @@ Open Ended Schemes ( Other Scheme - Other  ETFs )
 Aditya Birla Sun Life Mutual Fund
 152802;Aditya Birla Sun Life Crisil 10 Year Gilt ETF;INF209KC1142;;112.609;;;30-Jun-2026
 152732;ADITYA BIRLA SUN LIFE CRISIL BROAD BASED GILT ETF;INF209KC1134;;114.296;;;30-Jun-2026
-151533;Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout;INF209KB18T9;;1000.;;;30-Jun-2026
 150498;Aditya Birla Sun Life Nifty 200 Momentum 30 ETF;INF209KB14K7;;31.2464;;;30-Jun-2026
-149779;Aditya Birla Sun Life Silver ETF;INF209KB19F6;;223.0254;;;30-Jun-2026
 
 Angel One Mutual Fund
 153451;ANGEL ONE NIFTY 1D RATE LIQUID ETF - GROWTH;INF1J2R01056;;1066.0354;;;30-Jun-2026
@@ -9231,7 +9179,6 @@ Kotak Mahindra Mutual Fund
 149757;Kotak Nifty Midcap 50 ETF;INF174KA1ZC5;;17.9533;;;30-Jun-2026
 150531;Kotak Nifty MNC ETF;INF174KA1JF2;;33.3926;;;30-Jun-2026
 154101;Kotak Nifty Next 50 ETF;INF174KA1YO3;;71.995;;;30-Jun-2026
-106929;Kotak Nifty PSU Bank ETF;INF373I01023;;850.9928;;;30-Jun-2026
 153657;Kotak Nifty200 Quality 30 ETF;INF174KA1WT6;;19.843;;;30-Jun-2026
 150948;Kotak Silver ETF;INF174KA1ZD3;;21.6697;;;30-Jun-2026
 
@@ -10475,6 +10422,68 @@ Helios Mutual Fund
 152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;INF0R8701103;;1000.0000;;;30-Jun-2026
 152153;Helios Overnight Fund - Regular Plan - Growth Option;INF0R8701095;;1168.1439;;;30-Jun-2026
 
+Open Ended Schemes ( Income/Debt Oriented Schemes - Liquid Fund )
+
+
+UTI Mutual Fund
+134427;UTI Liquid Fund - Direct Plan - Annual IDCW;INF789F1AE45;INF789F1AE52;202.2825;;;30-Jun-2026
+120558;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F1AD38;106.5304;;;30-Jun-2026
+141768;UTI Liquid Fund - Direct Plan - Flexi IDCW;INF789F1AE60;INF789F1AE78;166.6089;;;30-Jun-2026
+140913;UTI Liquid Fund - Direct Plan - Fortnightly IDCW;INF789F1AD87;INF789F1AD95;115.6297;;;30-Jun-2026
+120304;UTI Liquid Fund - Direct Plan - Growth Option;INF789F1AD46;;459.9553;;;30-Jun-2026
+140504;UTI Liquid Fund - Direct Plan - Half-Yearly IDCW;INF789F1AE29;INF789F1AE37;158.009;;;30-Jun-2026
+120794;UTI Liquid Fund - Direct Plan - Monthly IDCW;INF789F1AD53;INF789F1AD61;104.9931;;;30-Jun-2026
+140024;UTI Liquid Fund - Direct Plan - Quarterly IDCW;INF789F1AE03;INF789F1AE11;191.042;;;30-Jun-2026
+120777;UTI Liquid Fund - Direct Plan - Weekly IDCW;;INF789F1AD79;107.6977;;;30-Jun-2026
+102008;UTI Liquid Fund - Discontinued - Regular Plan - Monthly Dividend Option;INF789F1AF44;INF789F1AG27;106.9696;;;30-Jun-2026
+102009;UTI Liquid Fund - Discontinued - Regular Plan -Growth;INF789F1AG35;;413.239;;;30-Jun-2026
+102007;UTI Liquid Fund - Discontinued -Regular Plan Periodic Dividend Option;;INF789F1AE94;113.866;;;30-Jun-2026
+133973;UTI Liquid Fund - Regular Plan - Annual IDCW;INF789F1AD12;INF789F1AD20;200.7999;;;30-Jun-2026
+102010;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);;INF789F1AF77;119.8739;;;30-Jun-2026
+140517;UTI Liquid Fund - Regular Plan - Flexi IDCW;INF789F1AF02;INF789F1AF10;165.4949;;;30-Jun-2026
+139838;UTI Liquid Fund - Regular Plan - Fortnightly IDCW;INF789F1AF28;INF789F1AF36;115.5461;;;30-Jun-2026
+102012;UTI Liquid Fund - Regular Plan - Growth Option;INF789F1AF85;;455.3898;;;30-Jun-2026
+144475;UTI Liquid Fund - Regular Plan - Half-Yearly IDCW;INF789F1AF51;INF789F1AF69;139.8473;;;30-Jun-2026
+102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;INF789F1AF93;INF789F1AG01;113.2604;;;30-Jun-2026
+135721;UTI Liquid Fund - Regular Plan - Quarterly IDCW;INF789F1AG43;INF789F1AG50;189.5998;;;30-Jun-2026
+102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;;INF789F1AG19;105.4492;;;30-Jun-2026
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - Ultra Short Term Fund )
+
+
+Kotak Mahindra Mutual Fund
+102591;Kotak Savings Fund -Growth;INF174K01FD6;;45.4943;;;30-Jun-2026
+102592;Kotak Savings Fund -Monthly Payout of Income Distribution cum capital withdrawal option;INF174K01FH7;;10.7671;;;30-Jun-2026
+119750;Kotak Savings Fund-Growth - Direct;INF174K01JP2;;47.8786;;;30-Jun-2026
+119751;Kotak Savings Fund-Monthly Payout of Income Distribution cum capital withdrawal option - Direct;INF174K01JQ0;;20.6434;;;30-Jun-2026
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - Money Market Fund )
+
+
+Kotak Mahindra Mutual Fund
+101893;Kotak Money Market Fund - (Growth);INF174K01NA6;;4784.4374;;;30-Jun-2026
+119746;Kotak Money Market Fund - (Growth) - Direct;INF174K01MW2;;4836.744;;;30-Jun-2026
+101892;Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option);INF174K018O0;INF174K01NB4;1060.9866;;;30-Jun-2026
+119747;Kotak Money Market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option) - Direct;INF174K019O8;INF174K01MX0;1286.3385;;;30-Jun-2026
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - Short Term Fund )
+
+
+Kotak Mahindra Mutual Fund
+135500;Kotak Bond Short Term Plan - Direct - Standard Income Distribution cum capital withdrawal option;INF174K01Z14;INF174K01Z22;16.1618;;;30-Jun-2026
+135501;Kotak Bond Short Term Plan - Regular Plan - Normal Dividend;INF174K01Y98;INF174K01Z06;12.1954;;;30-Jun-2026
+101373;Kotak Bond Short Term Plan-(Growth);INF174K01ES7;;54.9311;;;30-Jun-2026
+119739;Kotak Bond Short Term Plan-(Growth) - Direct;INF174K01JI7;;60.9067;;;30-Jun-2026
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - Corporate Bond Fund )
+
+
+Kotak Mahindra Mutual Fund
+133791;Kotak Corporate Bond Fund- Direct Plan- Growth Option;INF178L01BY0;;4182.7509;;;30-Jun-2026
+133792;Kotak Corporate Bond Fund- Direct Plan- Monthly Payout of Income Distribution cum capital withdrawal option;INF178L01BZ7;;1080.7798;;;30-Jun-2026
+133782;Kotak Corporate Bond Fund- Regular Plan-Growth Option;INF178L01BO1;;3992.7004;;;30-Jun-2026
+133787;Kotak Corporate Bond Fund- Regular Plan-Monthly Dividend Option;INF178L01BQ6;INF178L01BP8;1300.6704;;;30-Jun-2026
+
 Open Ended Schemes ( Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation )
 
 
@@ -10527,6 +10536,7 @@ Open Ended Schemes ( Exchange Traded Funds (ETFs) - Equity ETF )
 Aditya Birla Sun Life Mutual Fund
 139581;Aditya Birla Sun Life BSE Sensex ETF;INF209KB10E8;;76.9776;;;30-Jun-2026
 154224;Aditya Birla Sun Life BSE Top 10 Banks ETF;INF209KC1670;;172.114;;;30-Jun-2026
+115127;Aditya Birla Sun Life Gold ETF;INF209KB18D3;;123.5189;;;30-Jun-2026
 154220;Aditya Birla Sun Life MSCI India ETF;INF209KC1662;;29.1284;;;30-Jun-2026
 150497;Aditya Birla Sun Life Nifty 200 Quality 30 ETF;INF209KB15K4;;20.4687;;;30-Jun-2026
 115512;Aditya Birla Sun Life Nifty 50 ETF;INF209KB19D1;;27.9245;;;30-Jun-2026
@@ -10535,6 +10545,16 @@ Aditya Birla Sun Life Mutual Fund
 149293;Aditya Birla Sun Life Nifty IT ETF;INF209KB11D8;;28.7434;;;30-Jun-2026
 145881;Aditya Birla Sunlife Nifty Next 50 ETF;INF209KB16D7;;75.266;;;30-Jun-2026
 152620;Aditya Birla Sun Life Nifty PSE ETF;INF209KB19Z4;;10.3474;;;30-Jun-2026
+149779;Aditya Birla Sun Life Silver ETF;INF209KB19F6;;223.0254;;;30-Jun-2026
+
+Kotak Mahindra Mutual Fund
+106929;Kotak Nifty PSU Bank ETF;INF174KA1A86;;850.9928;;;30-Jun-2026
+
+Open Ended Schemes ( Exchange Traded Funds (ETFs) - Debt ETF )
+
+
+Aditya Birla Sun Life Mutual Fund
+151533;Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout;INF209KB18T9;;1000.;;;30-Jun-2026
 
 Open Ended Schemes ( Overseas Fund of Funds - Fund of Funds investing overseas )
 
