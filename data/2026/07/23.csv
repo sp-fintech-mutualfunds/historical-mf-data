@@ -1131,6 +1131,12 @@ Canara Robeco Mutual Fund
 149088;Canara Robeco Value Fund - Regular Plan - Growth Option;INF760K01JZ7;;17.6700;;;23-Jul-2026
 149087;Canara Robeco Value Fund - Regular Plan - IDCW (Payout/Reinvestment);INF760K01KB6;INF760K01KA8;16.6200;;;23-Jul-2026
 
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;INF740KA1PP3;;24.6510;;;23-Jul-2026
+148596;DSP Value Fund - Direct Plan - IDCW;INF740KA1PQ1;INF740KA1PR9;18.6710;;;23-Jul-2026
+148594;DSP Value Fund - Regular Plan - Growth;INF740KA1PM0;;23.6000;;;23-Jul-2026
+148597;DSP Value Fund - Regular Plan - IDCW;INF740KA1PN8;INF740KA1PO6;16.4950;;;23-Jul-2026
+
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;INF090I01GY2;;771.1132;;;23-Jul-2026
 118493;Templeton India Value Fund - Direct - IDCW ;INF090I01GW6;INF090I01GX4;104.5912;;;23-Jul-2026
@@ -9208,6 +9214,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;INF084M01EC8;INF084M01ED6;30.8280;;;23-Jul-2026
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;INF084M01EB0;;34.8557;;;23-Jul-2026
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;INF084M01AU8;INF084M01AV6;33.1224;;;23-Jul-2026
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;INF084M01AT0;;33.1164;;;23-Jul-2026
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;INF084M01EH7;;46.4946;;;23-Jul-2026
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;INF084M01AZ7;;43.4516;;;23-Jul-2026
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;INF084M01EI5;INF084M01EJ3;46.5184;;;23-Jul-2026
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;INF084M01BA8;INF084M01BB6;43.4785;;;23-Jul-2026
 152140;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct Growth;INF209KB16W7;;12.9751;;;23-Jul-2026
 152139;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct IDCW Payout;INF209KB17W5;INF209KB18W3;12.9751;;;23-Jul-2026
 152142;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Regular Growth;INF209KB13W4;;12.9587;;;23-Jul-2026
@@ -9260,6 +9274,10 @@ DSP Mutual Fund
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01284;;29.0860;;;23-Jul-2026
 112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;INF740K01292;INF740K01300;20.2238;;;23-Jul-2026
 119275;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;INF740K01PC5;;30.8054;;;23-Jul-2026
+149816;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;INF740KA1QP1;;22.1561;;;23-Jul-2026
+149815;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;INF740KA1QQ9;INF740KA1QR7;22.1561;;;23-Jul-2026
+149817;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;INF740KA1QM8;;21.2824;;;23-Jul-2026
+149814;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;INF740KA1QN6;INF740KA1QO4;21.2824;;;23-Jul-2026
 152528;DSP US Specific Debt Passive FoF - Direct - Growth;INF740KA1UJ6;;12.6144;;;23-Jul-2026
 152529;DSP US Specific Debt Passive FoF - Direct - IDCW;INF740KA1UK4;INF740KA1UL2;12.6144;;;23-Jul-2026
 152527;DSP US Specific Debt Passive FoF - Regular - Growth;INF740KA1UG2;;12.5996;;;23-Jul-2026
@@ -10091,12 +10109,6 @@ ICICI Prudential Mutual Fund
 148989;ICICI Prudential Flexicap Fund - Growth;INF109KC1Q80;;19.83;;;23-Jul-2026
 148988;ICICI Prudential Flexicap Fund - IDCW;INF109KC1Q98;INF109KC1R06;16.62;;;23-Jul-2026
 
-Invesco Mutual Fund
-149763;Invesco India Flexi Cap Fund - Direct Plan - Growth;INF205KA1494;;20.35;;;23-Jul-2026
-149765;Invesco India Flexi Cap Fund - Direct Plan - IDCW;INF205KA1486;INF205KA1502;18.21;;;23-Jul-2026
-149766;Invesco India Flexi Cap Fund - Regular Plan - Growth;INF205KA1460;;19.03;;;23-Jul-2026
-149764;Invesco India Flexi Cap Fund - Regular Plan - IDCW;INF205KA1452;INF205KA1478;16.92;;;23-Jul-2026
-
 ITI Mutual Fund
 151379;ITI Flexi Cap Fund- Direct Plan- Growth;INF00XX01CO7;;20.2570;;;23-Jul-2026
 151380;ITI Flexi Cap Fund- Direct Plan- IDCW;INF00XX01CP4;INF00XX01CQ2;19.6208;;;23-Jul-2026
@@ -10448,6 +10460,12 @@ Groww Mutual Fund
 
 Open Ended Schemes ( Equity Schemes - Flexi Cap Fund )
 
+
+Invesco Mutual Fund
+149763;Invesco India Flexi Cap Fund - Direct Plan - Growth;INF205KA1494;;20.35;;;23-Jul-2026
+149765;Invesco India Flexi Cap Fund - Direct Plan - IDCW;INF205KA1486;INF205KA1502;18.21;;;23-Jul-2026
+149766;Invesco India Flexi Cap Fund - Regular Plan - Growth;INF205KA1460;;19.03;;;23-Jul-2026
+149764;Invesco India Flexi Cap Fund - Regular Plan - IDCW;INF205KA1452;INF205KA1478;16.92;;;23-Jul-2026
 
 Mahindra Manulife Mutual Fund
 149104;Mahindra Manulife Flexi Cap Fund - Direct Plan -Growth;INF174V01AS2;;17.0781;;;23-Jul-2026
