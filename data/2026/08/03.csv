@@ -3205,14 +3205,6 @@ JM Financial Mutual Fund
 101549;JM Liquid Fund (Regular) - Bonus Option - Principal Units;INF192K01890;;24.3539;;;03-Aug-2026
 101078;JM Liquid Fund (Regular) - Daily IDCW;;INF192K01833;10.4302;;;03-Aug-2026
 
-Kotak Mahindra Mutual Fund
-119764;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NH1;1222.81;;;03-Aug-2026
-119766;Kotak Liquid Fund - Direct Plan - Growth;INF174K01NE8;;5699.9908;;;03-Aug-2026
-153585;Kotak Liquid Fund - Direct Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;INF174KA1WL3;INF174KA1WJ7;1009.9068;;;03-Aug-2026
-100833;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NL3;1276.7416;;;03-Aug-2026
-100835;Kotak Liquid Fund - Regular Plan - Growth;INF174K01NI9;;5639.093;;;03-Aug-2026
-153586;Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;INF174KA1WK5;INF174KA1WM1;1045.306;;;03-Aug-2026
-
 LIC Mutual Fund
 120248;LIC MF Liquid Fund-Direct Plan-Daily IDCW;INF767K01DL5;INF767K01DM3;1035.2975;;;03-Aug-2026
 120249;LIC MF Liquid Fund-Direct Plan-Growth;INF767K01DN1;;5121.9285;;;03-Aug-2026
@@ -8974,6 +8966,10 @@ DSP Mutual Fund
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;INF740K01284;;28.2400;;;03-Aug-2026
 112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;INF740K01292;INF740K01300;19.6356;;;03-Aug-2026
 119275;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;INF740K01PC5;;29.9141;;;03-Aug-2026
+149816;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;INF740KA1QP1;;22.4199;;;03-Aug-2026
+149815;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;INF740KA1QQ9;INF740KA1QR7;22.4199;;;03-Aug-2026
+149817;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;INF740KA1QM8;;21.5302;;;03-Aug-2026
+149814;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;INF740KA1QN6;INF740KA1QO4;21.5302;;;03-Aug-2026
 152528;DSP US Specific Debt Passive FoF - Direct - Growth;INF740KA1UJ6;;12.4836;;;03-Aug-2026
 152529;DSP US Specific Debt Passive FoF - Direct - IDCW;INF740KA1UK4;INF740KA1UL2;12.4836;;;03-Aug-2026
 152527;DSP US Specific Debt Passive FoF - Regular - Growth;INF740KA1UG2;;12.4688;;;03-Aug-2026
@@ -9979,6 +9975,14 @@ Invesco Mutual Fund
 139387;Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years;;;1834.828;;;03-Aug-2026
 104485;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);INF205KA1BD7;INF205K01HO1;1018.586;;;03-Aug-2026
 
+Kotak Mahindra Mutual Fund
+119764;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NH1;1222.81;;;03-Aug-2026
+119766;Kotak Liquid Fund - Direct Plan - Growth;INF174K01NE8;;5699.9908;;;03-Aug-2026
+153585;Kotak Liquid Fund - Direct Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;INF174KA1WL3;INF174KA1WJ7;1009.9068;;;03-Aug-2026
+100833;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF174K01NL3;1276.7416;;;03-Aug-2026
+100835;Kotak Liquid Fund - Regular Plan - Growth;INF174K01NI9;;5639.093;;;03-Aug-2026
+153586;Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;INF174KA1WK5;INF174KA1WM1;1045.306;;;03-Aug-2026
+
 UTI Mutual Fund
 134427;UTI Liquid Fund - Direct Plan - Annual IDCW;INF789F1AE45;INF789F1AE52;203.4393;;;03-Aug-2026
 120558;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);;INF789F1AD38;106.5304;;;03-Aug-2026
@@ -10643,6 +10647,9 @@ Aditya Birla Sun Life Mutual Fund
 
 Bajaj Finserv Mutual Fund
 154492;Bajaj Finserv BSE Top 10 Banks ETF;INF0QA701CI0;;21.0781;;;03-Aug-2026
+
+DSP Mutual Fund
+154528;DSP BSE MidSmall Private Banks ETF;INF740KA1ZH9;;17.3368;;;03-Aug-2026
 
 Edelweiss Mutual Fund
 154535;Edelweiss BSE LargeMid (60:40) Stable Dividend 50 ETF;INF754K01XI7;;36.6796;;;03-Aug-2026
