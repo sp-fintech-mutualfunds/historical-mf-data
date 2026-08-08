@@ -96,6 +96,13 @@ Tata Mutual Fund
 146980;Tata Overnight Fund-Direct Plan-Growth;INF277K018T5;;1448.1152;;;08-Aug-2026
 146977;Tata Overnight Fund-Regular Plan-Growth;INF277K016T9;;1436.0288;;;08-Aug-2026
 
+Trust Mutual Fund
+149796;TRUST MF OVERNIGHT FUND-DIRECT PLAN-DAILY IDCW REINVESTMENT;;INF0GCD01461;1268.8270;;;08-Aug-2026
+149797;TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH;INF0GCD01453;;1296.6289;;;08-Aug-2026
+149798;TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT;;INF0GCD01446;1256.5277;;;08-Aug-2026
+149795;TRUST MF OVERNIGHT FUND-REGULAR-GROWTH;INF0GCD01438;;1293.6601;;;08-Aug-2026
+153520;TRUSTMF OVERNIGHT FUND - UNCLAIMED REDEMPTION PLAN GROWTH;;;1001.2158;;;08-Aug-2026
+
 UTI Mutual Fund
 100814;UTI - Overnight  Fund - Regular Plan - Growth Option;INF789F01604;;3712.108;;;08-Aug-2026
 120785;UTI - Overnight Fund - Direct Plan - Growth Option;INF789FB1S71;;3754.5417;;;08-Aug-2026
@@ -103,6 +110,9 @@ UTI Mutual Fund
 120786;UTI Overnight Fund - Direct Plan - Periodic IDCW;INF789FB1T05;INF789FB1S97;1970.4357;;;08-Aug-2026
 124265;UTI Overnight Fund - Regular Plan - Daily IDCW;;INF789FB1T13;1370.8617;;;08-Aug-2026
 100813;UTI Overnight Fund - Regular Plan - Periodic IDCW;INF789F01588;INF789F01596;1912.3489;;;08-Aug-2026
+
+Zerodha Mutual Fund
+153436;Zerodha Overnight Fund - Direct Plan - Growth Option;INF0R8F01075;;10.7307;;;08-Aug-2026
 
 Open Ended Schemes ( Debt Scheme - Liquid Fund )
 
@@ -250,6 +260,16 @@ Tata Mutual Fund
 119861;Tata Liquid Fund- Direct Plan-Growth Option;INF277K01YE6;;4457.7562;;;08-Aug-2026
 101714;Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option;;INF277K011D4;1001.5157;;;08-Aug-2026
 
+Trust Mutual Fund
+148842;TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal;;INF0GCD01263;1290.8885;;;08-Aug-2026
+148841;TRUSTMF Liquid Fund-Direct Plan-Growth;INF0GCD01255;;1366.7159;;;08-Aug-2026
+148839;TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal;INF0GCD01305;INF0GCD01297;1219.2187;;;08-Aug-2026
+148837;TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal;INF0GCD01271;INF0GCD01289;1246.7544;;;08-Aug-2026
+148834;TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal;;INF0GCD01206;1218.5484;;;08-Aug-2026
+148833;TRUSTMF Liquid Fund-Regular Plan-Growth;INF0GCD01198;;1355.8014;;;08-Aug-2026
+148843;TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal;INF0GCD01248;INF0GCD01230;1209.4675;;;08-Aug-2026
+148836;TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal;INF0GCD01214;INF0GCD01222;1193.6340;;;08-Aug-2026
+
 Unifi Mutual Fund
 153570;Unifi Liquid Fund- Direct Growth;INF1MIY01056;;1070.2063;;;08-Aug-2026
 153571;Unifi Liquid Fund- Regular Growth;INF1MIY01064;;1069.3991;;;08-Aug-2026
@@ -269,6 +289,21 @@ Choice Mutual Fund
 154413;Choice Overnight Fund - Growth Option - Direct Plan;INF2KCX01087;;100.5015;;;08-Aug-2026
 154415;Choice Overnight Fund - Growth Option - Regular Plan;INF2KCX01095;;100.4911;;;08-Aug-2026
 
+Groww Mutual Fund
+147458;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01GM6;1001.6429;;;08-Aug-2026
+147452;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GP9;INF666M01GQ7;1216.7068;;;08-Aug-2026
+147450;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Growth Option;INF666M01GL8;;1412.7361;;;08-Aug-2026
+147453;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GR5;INF666M01GS3;1002.1007;;;08-Aug-2026
+147451;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GN4;INF666M01GO2;1002.0307;;;08-Aug-2026
+147455;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01GU9;1001.1869;;;08-Aug-2026
+147457;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GX3;INF666M01GY1;1002.4791;;;08-Aug-2026
+147454;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Growth Option;INF666M01GT1;;1403.299;;;08-Aug-2026
+147459;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GZ8;INF666M01HA9;1002.0936;;;08-Aug-2026
+147456;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01GV7;INF666M01GW5;1001.6741;;;08-Aug-2026
+149394;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Dividend < 3 years;;;1310.2204;;;08-Aug-2026
+149396;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Redemption < 3 Years;;;1296.5689;;;08-Aug-2026
+149395;Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Redemption > 3 Years;;;1000;;;08-Aug-2026
+
 NJ Mutual Fund
 150369;NJ Overnight Fund - Direct Plan - Growth Option;INF0J8L01081;;1269.2516;;;08-Aug-2026
 150368;NJ Overnight Fund - Regular Plan - Growth Option;INF0J8L01073;;1264.1525;;;08-Aug-2026
@@ -276,6 +311,18 @@ NJ Mutual Fund
 
 Open Ended Schemes ( Income/Debt Oriented Schemes - Liquid Fund )
 
+
+Groww Mutual Fund
+119135;Groww Liquid Fund ( formerly known as Indiabulls Liquid )Fund - Direct Plan - Growth Option;INF666M01451;;2737.479;;;08-Aug-2026
+119136;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment);;INF666M01469;1002.2656;;;08-Aug-2026
+115991;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Regular Plan - Growth Option;INF666M01014;;2701.388;;;08-Aug-2026
+119138;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01501;INF666M01485;1004.0238;;;08-Aug-2026
+119139;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01519;INF666M01493;1030.331;;;08-Aug-2026
+119137;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01527;INF666M01477;1002.7276;;;08-Aug-2026
+115992;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment);;INF666M01022;1002.2613;;;08-Aug-2026
+115995;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01071;INF666M01055;1002.6426;;;08-Aug-2026
+115993;Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01089;INF666M01030;1002.7128;;;08-Aug-2026
+115994;Groww Liquid Fund (formerly known as Indiabulls Liquid) Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment);INF666M01063;INF666M01048;1003.9877;;;08-Aug-2026
 
 UTI Mutual Fund
 134427;UTI Liquid Fund - Direct Plan - Annual IDCW;INF789F1AE45;INF789F1AE52;203.6333;;;08-Aug-2026
@@ -302,6 +349,9 @@ UTI Mutual Fund
 
 Open Ended Schemes ( Exchange Traded Funds (ETFs) - Debt ETF )
 
+
+Groww Mutual Fund
+152891;Groww Nifty 1D Rate Liquid ETF;INF666M01IP5;;110.2491;;;08-Aug-2026
 
 UTI Mutual Fund
 154466;UTI Nifty 1D Rate Liquid ETF - Growth;INF789F1AG68;;1003.3102;;;08-Aug-2026
