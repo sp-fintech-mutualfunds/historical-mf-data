@@ -2444,12 +2444,6 @@ HDFC Mutual Fund
 119059;HDFC ELSS Tax saver - IDCW Option - Direct Plan;INF179K01YQ8;INF179K01YR6;95.453;;;05-Aug-2026
 101980;HDFC ELSS Tax saver - IDCW Plan;INF179K01AZ9;INF179K01BA0;68.2;;;05-Aug-2026
 
-HSBC Mutual Fund
-151078;HSBC ELSS Tax saver Fund - Direct Growth;INF917K01GP0;;157.3082;;;05-Aug-2026
-151079;HSBC ELSS Tax saver Fund - Direct IDCW Payout;INF917K01GO3;;40.7076;;;05-Aug-2026
-151076;HSBC ELSS Tax saver Fund - Regular Growth;INF677K01064;;143.1939;;;05-Aug-2026
-151077;HSBC ELSS Tax saver Fund - Regular IDCW Payout;INF677K01072;;27.5819;;;05-Aug-2026
-
 ICICI Prudential Mutual Fund
 120592;ICICI Prudential ELSS Tax Saver Fund - Direct Plan - Growth;INF109K01Y31;;1067.60;;;05-Aug-2026
 120593;ICICI Prudential ELSS Tax Saver Fund - Direct Plan - IDCW;INF109K01Y15;INF109K01Y23;45.85;;;05-Aug-2026
@@ -6691,14 +6685,6 @@ HDFC Mutual Fund
 119129;HDFC Equity Savings Fund - IDCW Option - Direct Plan;INF179K01XR8;INF179K01XS6;15.215;;;05-Aug-2026
 101586;HDFC Equity Savings Fund - IDCW PLAN;INF179K01AK1;INF179K01AL9;12.481;;;05-Aug-2026
 
-HSBC Mutual Fund
-151060;HSBC Equity Savings Fund - Direct Growth;INF917K01GE4;;41.272;;;05-Aug-2026
-151061;HSBC Equity Savings Fund - Direct Monthly IDCW;INF917K01E37;INF917K01GA2;17.7301;;;05-Aug-2026
-151059;HSBC Equity Savings Fund - Direct Quarterly IDCW;INF917K01GD6;INF917K01GC8;18.4426;;;05-Aug-2026
-151058;HSBC Equity Savings Fund - Regular Growth;INF917K01AA5;;36.8743;;;05-Aug-2026
-151056;HSBC Equity Savings Fund - Regular Monthly IDCW;INF917K01965;INF917K01973;15.5205;;;05-Aug-2026
-151057;HSBC Equity Savings Fund - Regular Quarterly IDCW;INF917K01981;INF917K01999;16.5439;;;05-Aug-2026
-
 ICICI Prudential Mutual Fund
 133051;ICICI Prudential Equity Savings Fund - Cumulative option;INF109KA14I5;;23.38;;;05-Aug-2026
 133054;ICICI Prudential Equity Savings Fund - Direct Plan - Cumulative option;INF109KA11J9;;25.22;;;05-Aug-2026
@@ -7476,14 +7462,6 @@ HDFC Mutual Fund
 152779;HDFC NIFTY500 Multicap 50:25:25 index Fund - Regular Plan;INF179KC1IN1;;10.2334;;;05-Aug-2026
 
 HSBC Mutual Fund
-149966;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Growth;INF336L01QH7;;13.3172;;;05-Aug-2026
-149962;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Payout of IDCW;INF336L01QI5;INF336L01QJ3;13.3172;;;05-Aug-2026
-149963;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - Growth;INF336L01QK1;;13.2131;;;05-Aug-2026
-149964;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - payout of IDCW;INF336L01QL9;INF336L01QM7;13.213;;;05-Aug-2026
-151479;HSBC CRISIL IBX Gilt June 2027 Index Fund - Direct - Growth;INF336L01QT2;;12.7374;;;05-Aug-2026
-151482;HSBC CRISIL IBX Gilt June 2027 Index Fund - Direct - IDCW;INF336L01QU0;INF336L01QV8;12.7376;;;05-Aug-2026
-151480;HSBC CRISIL IBX Gilt June 2027 Index Fund - Regular - Growth;INF336L01QW6;;12.6292;;;05-Aug-2026
-151481;HSBC CRISIL IBX Gilt June 2027 Index Fund - Regular - IDCW;INF336L01QX4;INF336L01QY2;12.6293;;;05-Aug-2026
 151157;HSBC NIFTY 50 INDEX FUND - Direct Growth;INF917K01D12;;29.1619;;;05-Aug-2026
 151156;HSBC NIFTY 50 INDEX FUND - Direct IDCW;INF917K01C96;INF917K01D04;29.1619;;;05-Aug-2026
 151158;HSBC NIFTY 50 INDEX FUND - Regular Growth;INF917K01D38;;28.6249;;;05-Aug-2026
@@ -10267,6 +10245,12 @@ Groww Mutual Fund
 141810;Groww ELSS Tax Saver Fund (formerly known as Indiabulls Tax Savings Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout);INF666M01DO9;;19.38;;;05-Aug-2026
 141862;Groww ELSS Tax Saver Fund (formerly known as Indiabulls Tax Savings Fund)-Regular Plan-Growth Option;INF666M01DN1;;19.37;;;05-Aug-2026
 
+HSBC Mutual Fund
+151078;HSBC ELSS Tax saver Fund - Direct Growth;INF917K01GP0;;157.3082;;;05-Aug-2026
+151079;HSBC ELSS Tax saver Fund - Direct IDCW Payout;INF917K01GO3;;40.7076;;;05-Aug-2026
+151076;HSBC ELSS Tax saver Fund - Regular Growth;INF677K01064;;143.1939;;;05-Aug-2026
+151077;HSBC ELSS Tax saver Fund - Regular IDCW Payout;INF677K01072;;27.5819;;;05-Aug-2026
+
 Invesco Mutual Fund
 120416;Invesco India ELSS Tax Saver Fund - Direct Plan - Growth;INF205K01NT8;;152.27;;;05-Aug-2026
 120417;Invesco India ELSS Tax Saver Fund - Direct Plan - IDCW Payout;INF205K01NR2;INF205K01NS0;33.1;;;05-Aug-2026
@@ -10429,6 +10413,14 @@ NJ Mutual Fund
 Open Ended Schemes ( Hybrid Schemes - Equity Savings Fund )
 
 
+HSBC Mutual Fund
+151060;HSBC Equity Savings Fund - Direct Growth;INF917K01GE4;;41.272;;;05-Aug-2026
+151061;HSBC Equity Savings Fund - Direct Monthly IDCW;INF917K01E37;INF917K01GA2;17.7301;;;05-Aug-2026
+151059;HSBC Equity Savings Fund - Direct Quarterly IDCW;INF917K01GD6;INF917K01GC8;18.4426;;;05-Aug-2026
+151058;HSBC Equity Savings Fund - Regular Growth;INF917K01AA5;;36.8743;;;05-Aug-2026
+151056;HSBC Equity Savings Fund - Regular Monthly IDCW;INF917K01965;INF917K01973;15.5205;;;05-Aug-2026
+151057;HSBC Equity Savings Fund - Regular Quarterly IDCW;INF917K01981;INF917K01999;16.5439;;;05-Aug-2026
+
 Invesco Mutual Fund
 146457;Invesco India Equity Savings Fund - Direct Plan - Growth;INF205KA1049;;19.001;;;05-Aug-2026
 146458;Invesco India Equity Savings Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205KA1064;INF205KA1031;18.9447;;;05-Aug-2026
@@ -10550,6 +10542,16 @@ Mirae Asset Mutual Fund
 
 Open Ended Schemes ( Index Funds - Debt Funds )
 
+
+HSBC Mutual Fund
+149966;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Growth;INF336L01QH7;;13.3172;;;05-Aug-2026
+149962;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Payout of IDCW;INF336L01QI5;INF336L01QJ3;13.3172;;;05-Aug-2026
+149963;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - Growth;INF336L01QK1;;13.2131;;;05-Aug-2026
+149964;HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - payout of IDCW;INF336L01QL9;INF336L01QM7;13.213;;;05-Aug-2026
+151479;HSBC CRISIL IBX Gilt June 2027 Index Fund - Direct - Growth;INF336L01QT2;;12.7374;;;05-Aug-2026
+151482;HSBC CRISIL IBX Gilt June 2027 Index Fund - Direct - IDCW;INF336L01QU0;INF336L01QV8;12.7376;;;05-Aug-2026
+151480;HSBC CRISIL IBX Gilt June 2027 Index Fund - Regular - Growth;INF336L01QW6;;12.6292;;;05-Aug-2026
+151481;HSBC CRISIL IBX Gilt June 2027 Index Fund - Regular - IDCW;INF336L01QX4;INF336L01QY2;12.6293;;;05-Aug-2026
 
 Invesco Mutual Fund
 151593;Invesco India Nifty G-sec Jul 2027 Index Fund - Direct Plan - Growth;INF205KA1775;;1273.4557;;;05-Aug-2026
