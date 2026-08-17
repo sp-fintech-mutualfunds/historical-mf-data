@@ -117,20 +117,6 @@ HDFC Mutual Fund
 101996;HDFC Overnight Fund - Growth Option;INF179KB1HS3;;4026.3975;;;15-Aug-2026
 119110;HDFC Overnight Fund - Growth Option - Direct Plan;INF179KB1HT1;;4069.6298;;;15-Aug-2026
 
-HSBC Mutual Fund
-147291;HSBC Overnight Fund - Direct Daily IDCW;;INF336L01OG4;1000.1484;;;15-Aug-2026
-147287;HSBC Overnight Fund - Direct Growth;INF336L01OF6;;1436.7451;;;15-Aug-2026
-147300;HSBC Overnight Fund - Direct Monthly IDCW;INF336L01OK6;INF336L01OI0;1002.6388;;;15-Aug-2026
-147296;HSBC Overnight Fund - Direct Weekly IDCW;INF336L01OJ8;INF336L01OH2;1000.5811;;;15-Aug-2026
-147289;HSBC Overnight Fund - Regular Daily IDCW;;INF336L01OM2;1000.1518;;;15-Aug-2026
-147290;HSBC Overnight Fund - Regular Growth;INF336L01OL4;;1424.3173;;;15-Aug-2026
-147301;HSBC Overnight Fund - Regular Monthly IDCW;INF336L01OQ3;INF336L01OO8;1002.5957;;;15-Aug-2026
-147288;HSBC Overnight Fund - Regular Weekly IDCW;INF336L01OP5;INF336L01ON0;1000.5854;;;15-Aug-2026
-150501;HSBC Overnight Fund - Unclaimed IDCW Above three years;;;1000;;;15-Aug-2026
-150499;HSBC Overnight Fund - Unclaimed IDCW Below three years;;;1275.0997;;;15-Aug-2026
-150500;HSBC Overnight Fund - Unclaimed Redemption above three years;;;1000;;;15-Aug-2026
-150502;HSBC Overnight Fund - Unclaimed Redemption Below three years;;;1275.1196;;;15-Aug-2026
-
 ICICI Prudential Mutual Fund
 145536;ICICI Prudential Overnight Fund - Direct Plan - Growth;INF109KC11G1;;1479.4792;;;15-Aug-2026
 145535;ICICI Prudential Overnight Fund - Growth;INF109KC17E3;;1470.0675;;;15-Aug-2026
@@ -632,6 +618,20 @@ Helios Mutual Fund
 152152;Helios Overnight Fund - Direct Plan - Growth Option;INF0R8701079;;1177.1106;;;15-Aug-2026
 152154;Helios Overnight Fund - Regular Plan - Daily IDCW Option;INF0R8701103;;1000.1358;;;15-Aug-2026
 152153;Helios Overnight Fund - Regular Plan - Growth Option;INF0R8701095;;1175.4724;;;15-Aug-2026
+
+HSBC Mutual Fund
+147291;HSBC Overnight Fund - Direct Daily IDCW;;INF336L01OG4;1000.1484;;;15-Aug-2026
+147287;HSBC Overnight Fund - Direct Growth;INF336L01OF6;;1436.7451;;;15-Aug-2026
+147300;HSBC Overnight Fund - Direct Monthly IDCW;INF336L01OK6;INF336L01OI0;1002.6388;;;15-Aug-2026
+147296;HSBC Overnight Fund - Direct Weekly IDCW;INF336L01OJ8;INF336L01OH2;1000.5811;;;15-Aug-2026
+147289;HSBC Overnight Fund - Regular Daily IDCW;;INF336L01OM2;1000.1518;;;15-Aug-2026
+147290;HSBC Overnight Fund - Regular Growth;INF336L01OL4;;1424.3173;;;15-Aug-2026
+147301;HSBC Overnight Fund - Regular Monthly IDCW;INF336L01OQ3;INF336L01OO8;1002.5957;;;15-Aug-2026
+147288;HSBC Overnight Fund - Regular Weekly IDCW;INF336L01OP5;INF336L01ON0;1000.5854;;;15-Aug-2026
+150501;HSBC Overnight Fund - Unclaimed IDCW Above three years;;;1000;;;15-Aug-2026
+150499;HSBC Overnight Fund - Unclaimed IDCW Below three years;;;1275.0997;;;15-Aug-2026
+150500;HSBC Overnight Fund - Unclaimed Redemption above three years;;;1000;;;15-Aug-2026
+150502;HSBC Overnight Fund - Unclaimed Redemption Below three years;;;1275.1196;;;15-Aug-2026
 
 Invesco Mutual Fund
 147884;Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment);;INF205KA1122;1000.5303;;;15-Aug-2026
