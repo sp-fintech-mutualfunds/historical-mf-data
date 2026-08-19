@@ -101,12 +101,6 @@ LIC Mutual Fund
 150661;LIC MF Multi Cap Fund-Regular Plan-Growth;INF767K01RH3;;18.628;;;12-Aug-2026
 150662;LIC MF Multi Cap Fund-Regular Plan-IDCW;INF767K01RI1;INF767K01RJ9;18.628;;;12-Aug-2026
 
-Mirae Asset Mutual Fund
-151810;Mirae Asset Multicap Fund - Direct Plan - Growth;INF769K01KK8;;15.595;;;12-Aug-2026
-151811;Mirae Asset Multicap Fund - Direct Plan - IDCW;INF769K01KL6;INF769K01KM4;15.593;;;12-Aug-2026
-151812;Mirae Asset Multicap Fund - Regular Plan - Growth;INF769K01KH4;;14.924;;;12-Aug-2026
-151813;Mirae Asset Multicap Fund - Regular Plan - IDCW;INF769K01KI2;INF769K01KJ0;14.913;;;12-Aug-2026
-
 Motilal Oswal Mutual Fund
 152650;Motilal Oswal Multi Cap Fund Regular Plan Growth;INF247L01CO2;;14.9476;;;12-Aug-2026
 152649;Motilal Oswal Multi Cap Fund Regular Plan IDCW;INF247L01CJ2;INF247L01CK0;14.7231;;;12-Aug-2026
@@ -166,10 +160,6 @@ Union Mutual Fund
 150857;Union Multicap Fund - Direct Plan - IDCW Option;INF582M01IP4;INF582M01IQ2;18.56;;;12-Aug-2026
 150855;Union Multicap Fund - Regular Plan - Growth Option;INF582M01IS8;;17.72;;;12-Aug-2026
 150856;Union Multicap Fund - Regular Plan - IDCW Option;INF582M01IT6;INF582M01IU4;17.72;;;12-Aug-2026
-
-UTI Mutual Fund
-153515;UTI Multi Cap Fund - Direct Plan - Growth Option;INF789F1AB89;;10.9316;;;12-Aug-2026
-153516;UTI Multi Cap Fund - Regular Plan - Growth Option;INF789F1AB71;;10.7282;;;12-Aug-2026
 
 WhiteOak Capital Mutual Fund
 152071;WhiteOak Capital Multi Cap Fund Direct Plan Growth;INF03VN01803;;17.121;;;12-Aug-2026
@@ -847,12 +837,6 @@ Mahindra Manulife Mutual Fund
 150913;Mahindra Manulife Small Cap Fund - Direct Plan - IDCW;INF174V01BL5;INF174V01BM3;22.5014;;;12-Aug-2026
 150912;Mahindra Manulife Small Cap Fund - Regular Plan - Growth;INF174V01BH3;;22.1230;;;12-Aug-2026
 150914;Mahindra Manulife Small Cap Fund - Regular Plan - IDCW;INF174V01BI1;INF174V01BJ9;21.2054;;;12-Aug-2026
-
-Mirae Asset Mutual Fund
-153196;Mirae Asset Small Cap Fund - Direct Plan - Growth;INF769K01NJ4;;12.779;;;12-Aug-2026
-153197;Mirae Asset Small Cap Fund - Direct Plan - IDCW;INF769K01NL0;INF769K01NK2;12.779;;;12-Aug-2026
-153198;Mirae Asset Small Cap Fund - Regular Plan - Growth;INF769K01NG0;;12.474;;;12-Aug-2026
-153199;Mirae Asset Small Cap Fund - Regular Plan - IDCW;INF769K01NI6;INF769K01NH8;12.477;;;12-Aug-2026
 
 Motilal Oswal Mutual Fund
 152237;Motilal Oswal Small Cap Fund - Direct - Growth;INF247L01BY3;;17.6679;;;12-Aug-2026
@@ -2268,12 +2252,6 @@ UTI Mutual Fund
 102397;UTI Transportation and Logistics Fund - Regular Plan - IDCW;INF789F01273;INF789F01281;141.6317;;;12-Aug-2026
 102398;UTI-Transportation and Logistics  Fund-Growth Option;INF789F01299;;307.1541;;;12-Aug-2026
 120731;UTI-Transportation and Logistics  Fund-Growth Option- Direct;INF789F01SH5;;356.0537;;;12-Aug-2026
-152087;UTI Innovation Fund - Direct Plan - Growth Option;INF789F1AZA4;;12.2033;;;12-Aug-2026
-152089;UTI Innovation Fund - Direct Plan - Payout of IDCW Option;INF789F1AZB2;;12.2034;;;12-Aug-2026
-152086;UTI Innovation Fund - Regular Plan - Growth Option;INF789F1AYY7;;11.7254;;;12-Aug-2026
-152088;UTI Innovation Fund - Regular Plan - Payout of IDCW Option;INF789F1AYZ4;;11.7254;;;12-Aug-2026
-153204;UTI Quant Fund - Direct Plan - Growth Option;INF789F1AA98;;10.9051;;;12-Aug-2026
-153205;UTI Quant Fund - Regular Plan - Growth Option;INF789F1AA80;;10.6272;;;12-Aug-2026
 
 WhiteOak Capital Mutual Fund
 152321;WhiteOak Capital Banking & Financial Services Fund - Direct Growth;INF03VN01860;;13.752;;;12-Aug-2026
@@ -2433,12 +2411,6 @@ LIC Mutual Fund
 134874;LIC MF ULIS (15Yrs. Regular Premium Uniform Cover Yearly)-Regular Plan-IDCW Reinvestment;;INF767K01AJ5;37.1698;;;12-Aug-2026
 120259;LIC MF ULIS (5 Yrs. Single Premium)-Direct Plan-IDCW Reinvestment;;INF767K01DO9;41.7763;;;12-Aug-2026
 100325;LIC MF ULIS (5 Yrs. Single Premium)-Regular Plan-IDCW Reinvestment;;INF767K01964;37.1698;;;12-Aug-2026
-
-Mirae Asset Mutual Fund
-135781;Mirae Asset ELSS Tax Saver Fund - Direct Plan - Growth;INF769K01DM9;;58.544;;;12-Aug-2026
-135782;Mirae Asset ELSS Tax Saver Fund - Direct Plan - IDCW;INF769K01DN7;;27.355;;;12-Aug-2026
-135784;Mirae Asset ELSS Tax Saver Fund - Regular Plan - Growth;INF769K01DK3;;51.218;;;12-Aug-2026
-135783;Mirae Asset ELSS Tax Saver Fund - Regular Plan - IDCW;INF769K01DL1;;22.988;;;12-Aug-2026
 
 Motilal Oswal Mutual Fund
 133386;Motilal Oswal ELSS Tax Saver Fund - Direct Plan - Growth Option;INF247L01569;;66.2296;;;12-Aug-2026
@@ -3992,12 +3964,6 @@ Mahindra Manulife Mutual Fund
 148727;Mahindra Manulife Short Duration Fund - Regular Plan - Growth;INF174V01AJ1;;13.5714;;;12-Aug-2026
 148728;Mahindra Manulife Short Duration Fund - Regular Plan - IDCW;INF174V01AL7;INF174V01AK9;11.5326;;;12-Aug-2026
 
-Mirae Asset Mutual Fund
-142641;Mirae Asset Short Duration Fund - Direct Plan - Growth;INF769K01DX6;;17.8289;;;12-Aug-2026
-142640;Mirae Asset Short Duration Fund - Direct Plan - IDCW;INF769K01DY4;INF769K01DZ1;17.7789;;;12-Aug-2026
-142642;Mirae Asset Short Duration Fund - Regular Plan - Growth;INF769K01DU2;;16.6501;;;12-Aug-2026
-142643;Mirae Asset Short Duration Fund - Regular Plan - IDCW;INF769K01DV0;INF769K01DW8;16.6537;;;12-Aug-2026
-
 Nippon India Mutual Fund
 101665;Nippon India Short Duration  Fund-Growth Plan;INF204K01FL4;;56.3211;;;12-Aug-2026
 125269;NIPPON INDIA SHORT DURATION FUND - Direct Plan - IDCW Option;INF204KA1ES0;INF204KA1ET8;25.0267;;;12-Aug-2026
@@ -4362,12 +4328,6 @@ Kotak Mahindra Mutual Fund
 152489;Kotak Long Duration Fund - Regular Plan - Growth;INF174KA1RC2;;11.2738;;;12-Aug-2026
 152490;Kotak Long Duration Fund - Regular Plan - IDCW;INF174KA1RD0;INF174KA1RE8;11.2741;;;12-Aug-2026
 
-Mirae Asset Mutual Fund
-153105;Mirae Asset Long Duration Fund - Direct Plan - Growth;INF769K01NC9;;10.6566;;;12-Aug-2026
-153106;Mirae Asset Long Duration Fund - Direct Plan - IDCW;INF769K01ND7;INF769K01NF2;10.6491;;;12-Aug-2026
-153107;Mirae Asset Long Duration Fund - Regular Plan - Growth;INF769K01MZ2;;10.5646;;;12-Aug-2026
-153108;Mirae Asset Long Duration Fund - Regular Plan - IDCW;INF769K01NA3;INF769K01NB1;10.5645;;;12-Aug-2026
-
 Nippon India Mutual Fund
 143709;NIPPON INDIA NIVESH LAKSHYA LONG DURATION  FUND - DIRECT Plan - QUARTERLY IDCW Option;INF204KB1YV1;INF204KB1YW9;11.8115;;;12-Aug-2026
 143703;NIPPON INDIA NIVESH LAKSHYA LONG DURATION FUND - ANNUAL IDCW Option;INF204KB1ZK1;INF204KB1ZL9;12.1609;;;12-Aug-2026
@@ -4387,18 +4347,6 @@ SBI Mutual Fund
 151215;SBI Long Duration Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA17T2;INF200KA18T0;12.8950;;;12-Aug-2026
 151212;SBI Long Duration Fund - Regular Plan - Growth;INF200KA13T1;;12.7033;;;12-Aug-2026
 151213;SBI Long Duration Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);INF200KA14T9;INF200KA15T6;12.7036;;;12-Aug-2026
-
-UTI Mutual Fund
-151525;UTI Long Duration Fund - Direct Plan - Annual IDCW Option;INF789F1AYG4;INF789F1AYH2;11.4981;;;12-Aug-2026
-151526;UTI Long Duration Fund - Direct Plan - Flexi IDCW Option;INF789F1AYI0;INF789F1AYJ8;12.3136;;;12-Aug-2026
-151523;UTI Long Duration Fund - Direct Plan - Growth Option;INF789F1AYB5;;12.4715;;;12-Aug-2026
-151530;UTI Long Duration Fund - Direct Plan - Half Yearly IDCW Option;INF789F1AYE9;INF789F1AYF6;12.4715;;;12-Aug-2026
-151524;UTI Long duration Fund - Direct Plan - Quarterly IDCW Option;INF789F1AYC3;INF789F1AYD1;12.4715;;;12-Aug-2026
-151531;UTI Long Duration Fund - Regular Plan - Annual IDCW Option;INF789F1AXX1;INF789F1AXY9;11.1271;;;12-Aug-2026
-151532;UTI Long Duration Fund - Regular Plan - Flexi IDCW Option;INF789F1AXZ6;INF789F1AYA7;12.0838;;;12-Aug-2026
-151527;UTI Long Duration Fund - Regular Plan - Growth Option;INF789F1AXS1;;12.0838;;;12-Aug-2026
-151529;UTI Long Duration Fund - Regular Plan - Half Yearly IDCW Option;INF789F1AXV5;INF789F1AXW3;12.0839;;;12-Aug-2026
-151528;UTI Long Duration Fund - Regular Plan - Quarterly IDCW Option;INF789F1AXT9;INF789F1AXU7;12.0838;;;12-Aug-2026
 
 Open Ended Schemes ( Debt Scheme - Dynamic Bond )
 
@@ -5020,12 +4968,6 @@ LIC Mutual Fund
 105823;LIC MF Banking & PSU Fund-Regular Plan-Growth;INF767K01535;;36.9436;;;12-Aug-2026
 105856;LIC MF Banking & PSU Fund-Regular Plan-Monthly IDCW;INF767K01543;INF767K01550;13.8266;;;12-Aug-2026
 105857;LIC MF Banking & PSU Fund-Regular Plan-Weekly IDCW;INF767K01568;INF767K01576;10.3874;;;12-Aug-2026
-
-Mirae Asset Mutual Fund
-148419;Mirae Asset Banking and PSU Fund - Direct Plan - Growth;INF769K01FY9;;14.0453;;;12-Aug-2026
-148417;Mirae Asset Banking and PSU Fund - Direct Plan - IDCW;INF769K01FX1;INF769K01FZ6;14.0381;;;12-Aug-2026
-148416;Mirae Asset Banking and PSU Fund - Regular Plan - Growth;INF769K01FV5;;13.6684;;;12-Aug-2026
-148418;Mirae Asset Banking and PSU Fund - Regular plan - IDCW;INF769K01FU7;INF769K01FW3;13.6696;;;12-Aug-2026
 
 Nippon India Mutual Fund
 134555;NIPPON INDIA BANKING and PSU  FUND - Direct Plan - IDCW Option;INF204KA1U79;INF204KA1U87;22.9611;;;12-Aug-2026
@@ -5676,12 +5618,6 @@ LIC Mutual Fund
 100323;LIC MF Aggressive Hybrid Fund-Regular Plan-Growth;INF767K01030;;203.9097;;;12-Aug-2026
 100321;LIC MF Aggressive Hybrid Fund-Regular Plan-IDCW;INF767K01022;INF767K01014;15.3072;;;12-Aug-2026
 
-Mirae Asset Mutual Fund
-134813;Mirae Asset Aggressive Hybrid Fund - Direct Plan - Growth;INF769K01DH9;;39.940;;;12-Aug-2026
-134814;Mirae Asset Aggressive Hybrid Fund - Direct Plan - IDCW;INF769K01DI7;INF769K01DJ5;21.367;;;12-Aug-2026
-134815;Mirae Asset Aggressive Hybrid Fund - Regular Plan - Growth;INF769K01DE6;;33.755;;;12-Aug-2026
-134816;Mirae Asset Aggressive Hybrid Fund - Regular Plan - IDCW;INF769K01DF3;INF769K01DG1;17.097;;;12-Aug-2026
-
 Navi Mutual Fund
 143163;Navi Aggressive Hybrid Fund - Direct Plan - Growth;INF959L01CX3;;26.0759;;;12-Aug-2026
 143195;Navi Aggressive Hybrid Fund - Direct Plan Annual IDCW;INF959L01DG6;INF959L01DH4;25.9598;;;12-Aug-2026
@@ -5947,10 +5883,6 @@ Union Mutual Fund
 UTI Mutual Fund
 100646;UTI - Unit Linked Insurance Plan;;;43.5389;;;12-Aug-2026
 120784;UTI - Unit Linked Insurance Plan- Direct;;;47.4029;;;12-Aug-2026
-151885;UTI Balanced Advantage Fund - Direct Plan - Growth Option;INF789F1AYV3;;13.2608;;;12-Aug-2026
-151883;UTI Balanced Advantage Fund - Direct Plan - Payout of IDCW Option;INF789F1AYW1;;13.2607;;;12-Aug-2026
-151882;UTI Balanced Advantage Fund - Regular Plan - Growth Option;INF789F1AYT7;;12.7264;;;12-Aug-2026
-151884;UTI Balanced Advantage Fund - Regular Plan - Payout of IDCW Option;INF789F1AYU5;;12.7265;;;12-Aug-2026
 
 WhiteOak Capital Mutual Fund
 151267;WhiteOak Capital Balanced Advantage Fund Direct Plan Growth;INF03VN01738;;15.798;;;12-Aug-2026
@@ -6066,12 +5998,6 @@ Mahindra Manulife Mutual Fund
 152444;Mahindra Manulife Multi Asset allocation Fund - Regular Plan - IDCW;INF174V01BU6;INF174V01BV4;13.1773;;;12-Aug-2026
 152443;Mahindra Manulife Multi Asset Allocation Fund- Direct Plan - Growth;INF174V01BW2;;14.5836;;;12-Aug-2026
 152441;Mahindra Manulife Multi Asset Allocation Fund- Regular Plan - Growth;INF174V01BT8;;14.0274;;;12-Aug-2026
-
-Mirae Asset Mutual Fund
-152344;Mirae Asset Multi Asset Allocation Fund - Direct Plan - Growth;INF769K01KZ6;;14.277;;;12-Aug-2026
-152345;Mirae Asset Multi Asset Allocation Fund - Direct Plan - IDCW;INF769K01LA7;INF769K01LB5;14.275;;;12-Aug-2026
-152347;Mirae Asset Multi Asset Allocation Fund - Regular Plan - Growth;INF769K01KW3;;13.717;;;12-Aug-2026
-152346;Mirae Asset Multi Asset Allocation Fund - Regular Plan - IDCW;INF769K01KX1;INF769K01KY9;13.711;;;12-Aug-2026
 
 Nippon India Mutual Fund
 148457;Nippon India Multi Asset Allocation Fund - Direct Plan - Growth Option;INF204KB19V4;;27.5264;;;12-Aug-2026
@@ -7460,28 +7386,6 @@ LIC Mutual Fund
 151935;LIC MF Nifty Next 50 Index Fund-Regular Plan-Growth;INF397L01174;;55.6527;;;12-Aug-2026
 151936;LIC MF Nifty Next 50 Index Fund-Regular Plan-IDCW;INF397L01166;INF397L01182;55.6527;;;12-Aug-2026
 
-Mirae Asset Mutual Fund
-150792;Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund - Direct Plan - Growth;INF769K01IX5;;13.5897;;;12-Aug-2026
-150789;Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund - Direct Plan - IDCW;INF769K01IW7;INF769K01IY3;13.5855;;;12-Aug-2026
-150790;Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund - Regular Plan - Growth;INF769K01IU1;;13.4413;;;12-Aug-2026
-150791;Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund - Regular Plan - IDCW;INF769K01IT3;INF769K01IV9;13.4423;;;12-Aug-2026
-153634;Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Direct Plan - Growth;INF769K01OS3;;10.7270;;;12-Aug-2026
-153635;Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Direct Plan - IDCW;INF769K01OU9;INF769K01OT1;10.7259;;;12-Aug-2026
-153636;Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Regular Plan - Growth;INF769K01OP9;;10.7037;;;12-Aug-2026
-153637;Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Regular Plan - IDCW;INF769K01OR5;INF769K01OQ7;10.7039;;;12-Aug-2026
-152972;Mirae Asset Nifty 50 Index Fund - Direct Plan - Growth;INF769K01MQ1;;10.1994;;;12-Aug-2026
-152973;Mirae Asset Nifty 50 Index Fund - Direct Plan - IDCW;INF769K01MN8;INF769K01MM0;10.1996;;;12-Aug-2026
-152974;Mirae Asset Nifty 50 Index Fund - Regular Plan - Growth;INF769K01MO6;;10.0839;;;12-Aug-2026
-152975;Mirae Asset Nifty 50 Index Fund - Regular Plan - IDCW;INF769K01MP3;INF769K01MR9;10.0858;;;12-Aug-2026
-152976;Mirae Asset Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth;INF769K01MJ6;;10.7924;;;12-Aug-2026
-152977;Mirae Asset Nifty LargeMidcap 250 Index Fund - Direct Plan - IDCW;INF769K01ML2;INF769K01MK4;10.7933;;;12-Aug-2026
-152978;Mirae Asset Nifty LargeMidcap 250 Index Fund - Regular Plan - Growth;INF769K01MG2;;10.6688;;;12-Aug-2026
-152979;Mirae Asset Nifty LargeMidcap 250 Index Fund - Regular Plan - IDCW;INF769K01MI8;INF769K01MH0;10.6682;;;12-Aug-2026
-152968;Mirae Asset Nifty Total Market Index Fund - Direct Plan - Growth;INF769K01MD9;;10.6223;;;12-Aug-2026
-152969;Mirae Asset Nifty Total Market Index Fund - Direct Plan - IDCW;INF769K01ME7;INF769K01MF4;10.6220;;;12-Aug-2026
-152970;Mirae Asset Nifty Total Market Index Fund - Regular Plan - Growth;INF769K01MA5;;10.4924;;;12-Aug-2026
-152971;Mirae Asset Nifty Total Market Index Fund - Regular Plan - IDCW;INF769K01MB3;INF769K01MC1;10.4920;;;12-Aug-2026
-
 Motilal Oswal Mutual Fund
 153596;Motilal Oswal BSE 1000 Index Fund - Direct Plan - Growth;INF247L01FM9;;10.2528;;;12-Aug-2026
 153597;Motilal Oswal BSE 1000 Index Fund - Regular Plan - Growth;INF247L01FN7;;10.1704;;;12-Aug-2026
@@ -7899,44 +7803,18 @@ Taurus Mutual Fund
 UTI Mutual Fund
 143341;UTI Nifty Next 50 Index Fund - Direct Plan - Growth Option;INF789FC12T1;;27.7738;;;12-Aug-2026
 143340;UTI Nifty Next 50 Index Fund - Regular Plan - Growth Option;INF789FC11T3;;26.6684;;;12-Aug-2026
-151764;UTI BSE Housing Index Fund - Direct Plan - Growth Option;INF789F1AYR1;;14.3804;;;12-Aug-2026
-151763;UTI BSE Housing Index Fund - Regular Plan - Growth Option;INF789F1AYS9;;14.1791;;;12-Aug-2026
 149881;UTI BSE Low Volatility Index Fund - Direct Plan  - Growth Option;INF789F1AVF2;;16.6087;;;12-Aug-2026
 149880;UTI BSE Low Volatility Index Fund - Regular Plan - Growth Option;INF789F1AVE5;;16.2687;;;12-Aug-2026
 149803;UTI BSE Sensex Index Fund - Direct Plan - Growth Option;INF789F1AVD7;;14.1059;;;12-Aug-2026
 149802;UTI BSE Sensex Index Fund - Regular Plan  -Growth Option;INF789F1AVC9;;14.0436;;;12-Aug-2026
-151185;UTI CRISIL SDL Maturity April 2033 Index Fund - Direct Plan - Growth Option;INF789F1AWX3;;13.1717;;;12-Aug-2026
-151184;UTI CRISIL SDL Maturity April 2033 Index Fund - Regular Plan - Growth Option;INF789F1AWW5;;13.0508;;;12-Aug-2026
-151239;UTI CRISIL SDL Maturity June 2027 Index Fund - Direct Plan - Growth Option;INF789F1AWZ8;;12.9542;;;12-Aug-2026
-151238;UTI CRISIL SDL Maturity June 2027 Index Fund - Regular Plan - Growth Option;INF789F1AWY1;;12.8404;;;12-Aug-2026
 148703;UTI Nifty 200 Momentum 30 Index Fund - Direct Plan - Growth Option;INF789F1AUT5;;21.7922;;;12-Aug-2026
 148704;UTI Nifty 200 Momentum 30 Index Fund - Regular Plan - Growth Option;INF789F1AUS7;;21.2212;;;12-Aug-2026
-152859;UTI Nifty 200 Quality 30 Index Fund - Direct Plan - Growth Option;INF789F1AZH9;;9.1972;;;12-Aug-2026
-152858;UTI Nifty 200 Quality 30 Index Fund - Regular Plan - Growth Option;INF789F1AZG1;;9.1091;;;12-Aug-2026
 120717;UTI Nifty 50 Index Fund - Direct Plan - IDCW;INF789F01WY2;INF789F01WZ9;86.6883;;;12-Aug-2026
 120716;UTI Nifty 50 Index Fund - Growth Option- Direct;INF789F01XA0;;172.0641;;;12-Aug-2026
 100822;UTI Nifty 50 Index Fund - Regular Plan - Growth Option;INF789F01JN2;;169.4626;;;12-Aug-2026
 100823;UTI Nifty 50 Index Fund - Regular Plan - IDCW;INF789F01JL6;INF789F01JM4;85.375;;;12-Aug-2026
-151739;UTI Nifty 500 Value 50 Index Fund - Direct Plan - Growth Option;INF789F1AYN0;;22.6578;;;12-Aug-2026
-151738;UTI Nifty 500 Value 50 Index Fund - Regular Plan - Growth Option;INF789F1AYO8;;22.3108;;;12-Aug-2026
-153086;UTI Nifty Alpha Low-Volatility 30 Index Fund - Direct Plan - Growth Option;INF789F1AZM9;;10.0726;;;12-Aug-2026
-153087;UTI Nifty Alpha Low-Volatility 30 Index Fund - Regular Plan - Growth Option;INF789F1AZL1;;9.9895;;;12-Aug-2026
-153270;UTI Nifty India Manufacturing Index Fund - Direct Plan - Growth Option;INF789F1AB48;;12.9491;;;12-Aug-2026
-153271;UTI Nifty India Manufacturing Index Fund - Regular Plan - Growth Option;INF789F1AB30;;12.8608;;;12-Aug-2026
-153089;UTI Nifty Midcap 150 Index Fund - Direct Plan - Growth Option;INF789F1AZO5;;11.2886;;;12-Aug-2026
-153088;UTI Nifty Midcap 150 Index Fund - Regular Plan - Growth Option;INF789F1AZN7;;11.1948;;;12-Aug-2026
 150313;UTI Nifty Midcap 150 Quality 50 Index Fund - Direct Plan - Growth Option;INF789F1AVH8;;14.8167;;;12-Aug-2026
 150312;UTI Nifty Midcap 150 Quality 50 Index Fund - Regular Plan - Growth Option;INF789F1AVG0;;14.5267;;;12-Aug-2026
-153272;UTI Nifty Midsmallcap 400 Momentum Quality 100 Index Fund - Direct Plan - Growth Option;INF789F1AB22;;12.0104;;;12-Aug-2026
-153273;UTI Nifty Midsmallcap 400 Momentum Quality 100 Index Fund - Regular Plan - Growth Option;INF789F1AB06;;11.9214;;;12-Aug-2026
-152864;UTI Nifty Private Bank Index Fund - Direct Plan - Growth Option;INF789F1AZJ5;;10.1841;;;12-Aug-2026
-152865;UTI Nifty Private Bank Index Fund - Regular Plan - Growth Option;INF789F1AZI7;;10.087;;;12-Aug-2026
-151487;UTI NIFTY SDL Plus AAA PSU Bond Apr 2028- 75:25 Index Fund - Direct Plan - Growth Option;INF789F1AXR3;;12.9474;;;12-Aug-2026
-151488;UTI NIFTY SDL Plus AAA PSU Bond Apr 2028- 75:25 Index Fund - Regular Plan - Growth Option;INF789F1AXQ5;;12.8505;;;12-Aug-2026
-151762;UTI Nifty50 Equal Weight Index Fund - Direct Plan - Growth Option;INF789F1AYP5;;15.5131;;;12-Aug-2026
-151761;UTI Nifty50 Equal Weight Index Fund - Regular Plan - Growth Option;INF789F1AYQ3;;15.2926;;;12-Aug-2026
-154197;UTI Nifty500 Shariah Index Fund - Direct Plan Growth Option;INF789F1AD04;;10.4147;;;12-Aug-2026
-154198;UTI Nifty500 Shariah Index Fund - Regular Plan Growth Option;INF789F1AC96;;10.3931;;;12-Aug-2026
 
 Zerodha Mutual Fund
 153932;Zerodha BSE SENSEX Index Fund;INF0R8F01174;;9.4118;;;12-Aug-2026
@@ -7988,9 +7866,6 @@ Kotak Mahindra Mutual Fund
 
 LIC Mutual Fund
 151961;LIC MF Gold Exchange Traded Fund;INF767K01SM1;;137.1377;;;12-Aug-2026
-
-Mirae Asset Mutual Fund
-151416;Mirae Asset Gold ETF;INF769K01JP9;;147.9370;;;12-Aug-2026
 
 Motilal Oswal Mutual Fund
 153780;Motilal Oswal Gold ETF;INF247L01FY4;;150.4956;;;12-Aug-2026
@@ -8184,41 +8059,6 @@ LIC Mutual Fund
 133307;LIC MF Nifty 8-13 yr G-Sec ETF;INF767K01MV5;;29.5901;;;12-Aug-2026
 152404;LIC MF Nifty Midcap 100 ETF;INF767K01RN1;;64.4566;;;12-Aug-2026
 
-Mirae Asset Mutual Fund
-153379;Mirae Asset BSE 200 Equal Weight ETF;INF769K01OA1;;14.0369;;;12-Aug-2026
-154061;Mirae Asset BSE 500 Dividend Leaders 50 ETF;INF769K01PY8;;36.1737;;;12-Aug-2026
-154182;Mirae Asset BSE India Defence ETF;INF769K01QC2;;80.7901;;;12-Aug-2026
-153384;Mirae Asset BSE Select IPO ETF;INF769K01ON4;;48.5597;;;12-Aug-2026
-152097;Mirae Asset BSE Sensex ETF;INF769K01KT9;;80.5187;;;12-Aug-2026
-149379;Mirae Asset Hang Seng TECH ETF;INF769K01HS7;;19.5086;;;12-Aug-2026
-148572;Mirae Asset Nifty 100 ESG Sector Leaders ETF;INF769K01GS9;;42.1628;;;12-Aug-2026
-151604;Mirae Asset Nifty 100 Low Volatility 30 ETF;INF769K01JU9;;211.7682;;;12-Aug-2026
-152134;Mirae Asset Nifty 200 Alpha 30 ETF;INF769K01KU7;;27.0708;;;12-Aug-2026
-145633;Mirae Asset Nifty 50 ETF;INF769K01EG9;;266.0085;;;12-Aug-2026
-154169;Mirae Asset Nifty 500 Healthcare ETF;INF769K01QA6;;21.6845;;;12-Aug-2026
-154299;Mirae Asset Nifty 500 Value 50 ETF;INF769K01QV2;;16.4062;;;12-Aug-2026
-151857;Mirae Asset Nifty Bank ETF;INF769K01KR3;;590.5445;;;12-Aug-2026
-153945;Mirae Asset Nifty Energy ETF;INF769K01PR2;;38.9928;;;12-Aug-2026
-152715;Mirae Asset Nifty EV and New Age Automotive ETF;INF769K01LQ3;;34.1894;;;12-Aug-2026
-149105;Mirae Asset Nifty Financial Services ETF;INF769K01HI8;;27.4966;;;12-Aug-2026
-154181;Mirae Asset Nifty India Infrastructure & Logistics ETF;INF769K01QB4;;12.2414;;;12-Aug-2026
-153642;Mirae Asset Nifty India Internet ETF;INF769K01PB6;;14.2688;;;12-Aug-2026
-149786;Mirae Asset Nifty India Manufacturing ETF;INF769K01IB1;;169.3017;;;12-Aug-2026
-153191;Mirae Asset Nifty India New Age Consumption ETF;INF769K01NS5;;12.2464;;;12-Aug-2026
-152155;Mirae Asset Nifty IT ETF;INF769K01KV5;;33.2350;;;12-Aug-2026
-152924;Mirae Asset Nifty Metal ETF;INF769K01LY7;;13.3012;;;12-Aug-2026
-149918;Mirae Asset Nifty Midcap 150 ETF;INF769K01IC9;;24.0553;;;12-Aug-2026
-152634;Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF;INF769K01LJ8;;52.5947;;;12-Aug-2026
-147906;Mirae Asset Nifty Next 50 ETF;INF769K01FN2;;771.9301;;;12-Aug-2026
-152929;Mirae Asset Nifty PSU Bank ETF;INF769K01LZ4;;88.9723;;;12-Aug-2026
-153946;Mirae Asset Nifty Smallcap 250 ETF;INF769K01PQ4;;18.3912;;;12-Aug-2026
-152455;Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF;INF769K01LC3;;48.5422;;;12-Aug-2026
-154060;Mirae Asset Nifty Top 20 Equal Weight ETF;INF769K01PZ5;;9.0711;;;12-Aug-2026
-153519;Mirae Asset Nifty 50 Equal Weight ETF;INF769K01OO2;;338.0677;;;12-Aug-2026
-152811;Mirae Asset Nifty500 Multicap 50:25:25 ETF;INF769K01LX9;;16.9749;;;12-Aug-2026
-149169;Mirae Asset S&P 500 Top 50 ETF;INF769K01HP3;;67.2735;;;12-Aug-2026
-151779;Mirae Asset Silver ETF;INF769K01KG6;;229.5439;;;12-Aug-2026
-
 Motilal Oswal Mutual Fund
 150517;Motilal Oswal BSE Enhanced Value ETF;INF247L01BE5;;115.5397;;;12-Aug-2026
 150445;Motilal Oswal BSE Healthcare ETF;INF247L01BB1;;51.7314;;;12-Aug-2026
@@ -8317,13 +8157,8 @@ UTI Mutual Fund
 146388;UTI - BSE Sensex Next 50 Exchange Traded Fund;INF789F1AUU3;;96.4467;;;12-Aug-2026
 141665;UTI Nifty Next 50 Exchange Traded Fund;INF789F1AUW9;;80.7491;;;12-Aug-2026
 135321;UTI BSE Sensex ETF;INF789FB1X58;;864.5387;;;12-Aug-2026
-152369;UTI Nifty 10 yr Benchmark G-Sec ETF;INF789F1AZF3;;26.7293;;;12-Aug-2026
-152368;UTI Nifty 5 yr Benchmark G-Sec ETF;INF789F1AZE6;;66.5682;;;12-Aug-2026
 135320;UTI Nifty 50 ETF;INF789F1AZC0;;271.1347;;;12-Aug-2026
 148173;UTI Nifty Bank ETF;INF789F1AUV1;;59.9531;;;12-Aug-2026
-152355;UTI Nifty IT ETF;INF789F1AZD8;;329.7095;;;12-Aug-2026
-152050;UTI Nifty Midcap 150 Exchange Traded Fund;INF789F1AYX9;;237.7555;;;12-Aug-2026
-151730;UTI Silver Exchange Traded Fund;INF789F1AYK6;;227.7029;;;12-Aug-2026
 
 Zerodha Mutual Fund
 152667;Zerodha Nifty 100 ETF;INF0R8F01067;;10.7619;;;12-Aug-2026
@@ -8478,12 +8313,6 @@ Mahindra Manulife Mutual Fund
 149231;Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW;INF174V01BA8;INF174V01AZ7;11.4084;;;12-Aug-2026
 149228;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth;INF174V01AV6;;10.8977;;;12-Aug-2026
 149229;Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW;INF174V01AX2;INF174V01AW4;10.8977;;;12-Aug-2026
-
-Mirae Asset Mutual Fund
-150595;Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF - Direct Plan - Growth;INF769K01IQ9;;17.032;;;12-Aug-2026
-150594;Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF - Regular Plan - Growth;INF769K01IP1;;16.767;;;12-Aug-2026
-150597;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;INF769K01IS5;;35.735;;;12-Aug-2026
-150596;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;INF769K01IR7;;35.511;;;12-Aug-2026
 
 Motilal Oswal Mutual Fund
 152090;Motilal Oswal Developed Market Ex US ETFs Fund of Funds Direct Plan Growth;INF247L01BT3;;19.1645;;;12-Aug-2026
@@ -8797,64 +8626,6 @@ Mahindra Manulife Mutual Fund
 154006;Mahindra Manulife Income Plus Arbitrage Active FOF - Regular - Growth;INF174V01CR0;;10.4237;;;12-Aug-2026
 154005;Mahindra Manulife Income Plus Arbitrage Active FOF - Regular - IDCW;INF174V01CS8;INF174V01CT6;10.4237;;;12-Aug-2026
 
-Mirae Asset Mutual Fund
-153380;Mirae Asset BSE 200 Equal Weight ETF Fund of Fund - Direct Plan - Growth;INF769K01OE3;;11.986;;;12-Aug-2026
-153381;Mirae Asset BSE 200 Equal Weight ETF Fund of Fund - Direct Plan - IDCW;INF769K01OG8;INF769K01OF0;11.984;;;12-Aug-2026
-153382;Mirae Asset BSE 200 Equal Weight ETF Fund of Fund - Regular Plan - Growth;INF769K01OB9;;11.901;;;12-Aug-2026
-153383;Mirae Asset BSE 200 Equal Weight ETF Fund of Fund - Regular Plan - IDCW;INF769K01OD5;INF769K01OC7;11.898;;;12-Aug-2026
-154187;Mirae Asset BSE India Defence ETF FOF - Direct Plan - Growth;INF769K01QG3;;11.936;;;12-Aug-2026
-154188;Mirae Asset BSE India Defence ETF FOF - Direct Plan - IDCW;INF769K01QI9;INF769K01QH1;11.934;;;12-Aug-2026
-154189;Mirae Asset BSE India Defence ETF FOF - Regular Plan - Growth;INF769K01QD0;;11.903;;;12-Aug-2026
-154190;Mirae Asset BSE India Defence ETF FOF - Regular Plan - IDCW;INF769K01QF5;INF769K01QE8;11.903;;;12-Aug-2026
-153385;Mirae Asset BSE Select IPO ETF Fund of Fund - Direct Plan - Growth;INF769K01OK0;;11.927;;;12-Aug-2026
-153386;Mirae Asset BSE Select IPO ETF Fund of Fund - Direct Plan - IDCW;INF769K01OM6;INF769K01OL8;11.925;;;12-Aug-2026
-153387;Mirae Asset BSE Select IPO ETF Fund of Fund - Regular Plan - Growth;INF769K01OH6;;11.858;;;12-Aug-2026
-153388;Mirae Asset BSE Select IPO ETF Fund of Fund - Regular Plan - IDCW;INF769K01OJ2;INF769K01OI4;11.839;;;12-Aug-2026
-148500;Mirae Asset Diversified Equity Allocator Passive FOF - Direct Plan - Growth;INF769K01GE9;;25.653;;;12-Aug-2026
-148501;Mirae Asset Diversified Equity Allocator Passive FOF - Direct Plan - IDCW;INF769K01GD1;INF769K01GF6;25.673;;;12-Aug-2026
-148502;Mirae Asset Diversified Equity Allocator Passive FOF - Regular Plan - Growth;INF769K01GB5;;25.541;;;12-Aug-2026
-148503;Mirae Asset Diversified Equity Allocator Passive FOF - Regular Plan - IDCW;INF769K01GA7;INF769K01GC3;25.544;;;12-Aug-2026
-153007;Mirae Asset Gold ETF Fund of Fund - Direct Plan - Growth;INF769K01MV1;;19.261;;;12-Aug-2026
-153008;Mirae Asset Gold ETF Fund of Fund - Direct Plan - IDCW;INF769K01MW9;INF769K01MX7;19.260;;;12-Aug-2026
-153009;Mirae Asset Gold ETF Fund of Fund - Regular Plan - Growth;INF769K01MS7;;19.083;;;12-Aug-2026
-153010;Mirae Asset Gold ETF Fund of Fund - Regular Plan - IDCW;INF769K01MT5;INF769K01MU3;19.072;;;12-Aug-2026
-153812;Mirae Asset Gold Silver Passive FoF - Direct Plan - Growth;INF769K01PM3;;17.173;;;12-Aug-2026
-153813;Mirae Asset Gold Silver Passive FoF - Direct Plan - IDCW;INF769K01PO9;INF769K01PN1;17.171;;;12-Aug-2026
-153814;Mirae Asset Gold Silver Passive FoF - Regular Plan - Growth;INF769K01PP6;;17.075;;;12-Aug-2026
-153815;Mirae Asset Gold Silver Passive FoF - Regular Plan - IDCW;INF769K01PL5;INF769K01PK7;17.071;;;12-Aug-2026
-153638;Mirae Asset Income plus Arbitrage Active FOF - Direct Plan - Growth;INF769K01OY1;;10.670;;;12-Aug-2026
-153639;Mirae Asset Income plus Arbitrage Active FOF - Direct Plan - IDCW;INF769K01PA8;INF769K01OZ8;10.670;;;12-Aug-2026
-153640;Mirae Asset Income plus Arbitrage Active FOF - Regular Plan - Growth;INF769K01OV7;;10.642;;;12-Aug-2026
-153641;Mirae Asset Income plus Arbitrage Active FOF - Regular Plan - IDCW;INF769K01OX3;INF769K01OW5;10.642;;;12-Aug-2026
-153816;Mirae Asset Multi Factor Passive FOF - Direct Plan - Growth;INF769K01PH3;;11.008;;;12-Aug-2026
-153817;Mirae Asset Multi Factor Passive FOF - Direct Plan - IDCW;INF769K01PJ9;INF769K01PI1;11.005;;;12-Aug-2026
-153818;Mirae Asset Multi Factor Passive FOF - Regular Plan - Growth;INF769K01PE0;;10.952;;;12-Aug-2026
-153819;Mirae Asset Multi Factor Passive FOF - Regular Plan - IDCW;INF769K01PG5;INF769K01PF7;10.935;;;12-Aug-2026
-153192;Mirae Asset Nifty India New Age Consumption ETF Fund of Fund - Direct Plan - Growth;INF769K01NP1;;10.048;;;12-Aug-2026
-153193;Mirae Asset Nifty India New Age Consumption ETF Fund of Fund - Direct Plan - IDCW;INF769K01NR7;INF769K01NQ9;10.047;;;12-Aug-2026
-153194;Mirae Asset Nifty India New Age Consumption ETF Fund of Fund - Regular Plan - Growth;INF769K01NM8;;9.985;;;12-Aug-2026
-153195;Mirae Asset Nifty India New Age Consumption ETF Fund of Fund - Regular Plan - IDCW;INF769K01NO4;INF769K01NN6;9.986;;;12-Aug-2026
-154216;Mirae Asset Nifty Metal ETF FOF - Direct Plan - Growth;INF769K01QM1;;10.592;;;12-Aug-2026
-154217;Mirae Asset Nifty Metal ETF FOF - Direct Plan - IDCW;INF769K01QO7;INF769K01QN9;10.653;;;12-Aug-2026
-154218;Mirae Asset Nifty Metal ETF FOF - Regular Plan - Growth;INF769K01QJ7;;10.563;;;12-Aug-2026
-154219;Mirae Asset Nifty Metal ETF FOF - Regular Plan - IDCW;INF769K01QL3;INF769K01QK5;10.563;;;12-Aug-2026
-152645;Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF Fund of Fund - Direct Plan - Growth;INF769K01LN0;;10.591;;;12-Aug-2026
-152646;Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF Fund of Fund - Direct Plan - IDCW;INF769K01LO8;INF769K01LP5;10.591;;;12-Aug-2026
-152647;Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF Fund of Fund - Regular Plan - Growth;INF769K01LK6;;10.465;;;12-Aug-2026
-152648;Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF Fund of Fund - Regular Plan - IDCW;INF769K01LL4;INF769K01LM2;10.471;;;12-Aug-2026
-152459;Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Direct Plan - Growth;INF769K01LG4;;10.772;;;12-Aug-2026
-152456;Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Direct Plan - IDCW;INF769K01LH2;INF769K01LI0;10.770;;;12-Aug-2026
-152457;Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Regular Plan - Growth;INF769K01LD1;;10.642;;;12-Aug-2026
-152458;Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Regular Plan - IDCW;INF769K01LE9;INF769K01LF6;10.644;;;12-Aug-2026
-152718;Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund - Direct Plan - Growth;INF769K01LU5;;9.420;;;12-Aug-2026
-152719;Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund - Direct Plan - IDCW;INF769K01LV3;INF769K01LW1;9.427;;;12-Aug-2026
-152720;Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund - Regular Plan - Growth;INF769K01LR1;;9.332;;;12-Aug-2026
-152721;Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund - Regular Plan - IDCW;INF769K01LS9;INF769K01LT7;9.325;;;12-Aug-2026
-154279;Mirae Asset Silver ETF FOF - Direct Plan - Growth;INF769K01QS8;;10.524;;;12-Aug-2026
-154280;Mirae Asset Silver ETF FOF - Direct Plan - IDCW;INF769K01QT6;INF769K01QU4;10.524;;;12-Aug-2026
-154281;Mirae Asset Silver ETF FOF - Regular Plan - Growth;INF769K01QP4;;10.500;;;12-Aug-2026
-154282;Mirae Asset Silver ETF FOF - Regular Plan - IDCW;INF769K01QQ2;INF769K01QR0;10.499;;;12-Aug-2026
-
 Motilal Oswal Mutual Fund
 149240;Motilal Oswal 5 Year G-Sec Fund Of Fund Direct -Growth;INF247L01AQ1;;13.3135;;;12-Aug-2026
 149241;Motilal Oswal 5 Year G-Sec Fund Of Fund Regular -Growth;INF247L01AR9;;13.2649;;;12-Aug-2026
@@ -8979,14 +8750,6 @@ Union Mutual Fund
 153573;Union Income Plus Arbitrage Active FOF - Regular Plan - Growth Option;INF582M01LB8;;10.4751;;;12-Aug-2026
 153574;Union Income Plus Arbitrage Active FOF - Regular Plan - IDCW Option;INF582M01LC6;INF582M01LD4;10.4751;;;12-Aug-2026
 
-UTI Mutual Fund
-150714;UTI Gold ETF Fund of Fund - Direct Plan - Growth Option;INF789F1AWB9;;29.4264;;;12-Aug-2026
-150715;UTI Gold ETF Fund of Fund - Regular Plan - Growth Opton;INF789F1AWA1;;28.9568;;;12-Aug-2026
-153442;UTI Income Plus Arbitrage Active Fund of Fund - Direct Plan - Growth Option;INF789F1AB55;;10.8814;;;12-Aug-2026
-153441;UTI Income Plus Arbitrage Active Fund of Fund - Regular Plan - Growth Option;INF789F1AB63;;10.8299;;;12-Aug-2026
-151731;UTI Silver ETF Fund of Fund - Direct Plan - Growth Option;INF789F1AYL4;;30.195;;;12-Aug-2026
-151732;UTI Silver ETF Fund of Fund - Regular Plan - Growth Option;INF789F1AYM2;;29.835;;;12-Aug-2026
-
 Zerodha Mutual Fund
 153011;Zerodha Gold ETF FoF-Direct Plan - Growth Option;INF0R8F01083;;19.9918;;;12-Aug-2026
 153757;Zerodha Multi Asset Passive FoF - Direct - Growth;INF0R8F01117;;11.7097;;;12-Aug-2026
@@ -9106,12 +8869,6 @@ LIC Mutual Fund
 120263;LIC MF Flexi Cap Fund-Direct Plan-IDCW;INF767K01EF5;INF767K01EH1;40.9364;;;12-Aug-2026
 100313;LIC MF Flexi Cap Fund-Regular Plan-Growth;INF767K01071;;109.3165;;;12-Aug-2026
 100312;LIC MF Flexi Cap Fund-Regular Plan-IDCW;INF767K01063;INF767K01055;34.4961;;;12-Aug-2026
-
-Mirae Asset Mutual Fund
-151413;Mirae Asset Flexi Cap Fund - Direct Plan -  IDCW;INF769K01JI4;INF769K01JK0;17.145;;;12-Aug-2026
-151412;Mirae Asset Flexi Cap Fund - Direct Plan - Growth;INF769K01JJ2;;17.196;;;12-Aug-2026
-151414;Mirae Asset Flexi Cap Fund - Regular Plan - Growth;INF769K01JG8;;16.341;;;12-Aug-2026
-151415;Mirae Asset Flexi Cap Fund - Regular Plan - IDCW;INF769K01JF0;INF769K01JH6;16.347;;;12-Aug-2026
 
 Motilal Oswal Mutual Fund
 129047;Motilal Oswal Flexi Cap Fund Direct - IDCW Payout/Reinvestment;INF247L01528;INF247L01510;35.2935;;;12-Aug-2026
@@ -9623,6 +9380,12 @@ Kotak Mahindra Mutual Fund
 101373;Kotak Bond Short Term Plan-(Growth);INF174K01ES7;;55.2895;;;12-Aug-2026
 119739;Kotak Bond Short Term Plan-(Growth) - Direct;INF174K01JI7;;61.3569;;;12-Aug-2026
 
+Mirae Asset Mutual Fund
+142641;Mirae Asset Short Duration Fund - Direct Plan - Growth;INF769K01DX6;;17.8289;;;12-Aug-2026
+142640;Mirae Asset Short Duration Fund - Direct Plan - IDCW;INF769K01DY4;INF769K01DZ1;17.7789;;;12-Aug-2026
+142642;Mirae Asset Short Duration Fund - Regular Plan - Growth;INF769K01DU2;;16.6501;;;12-Aug-2026
+142643;Mirae Asset Short Duration Fund - Regular Plan - IDCW;INF769K01DV0;INF769K01DW8;16.6537;;;12-Aug-2026
+
 Open Ended Schemes ( Income/Debt Oriented Schemes - Medium Term Fund )
 
 
@@ -9650,6 +9413,27 @@ HSBC Mutual Fund
 120101;HSBC Medium to Long Duration Fund - Direct Quarterly IDCW;INF336L01EO9;INF336L01EP6;10.5612;;;12-Aug-2026
 101685;HSBC Medium to Long Duration Fund - Regular Growth;INF336L01776;;43.9601;;;12-Aug-2026
 101686;HSBC Medium to Long Duration Fund - Regular Quarterly IDCW;INF336L01784;INF336L01792;10.7146;;;12-Aug-2026
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - Long Term Fund )
+
+
+Mirae Asset Mutual Fund
+153105;Mirae Asset Long Duration Fund - Direct Plan - Growth;INF769K01NC9;;10.6566;;;12-Aug-2026
+153106;Mirae Asset Long Duration Fund - Direct Plan - IDCW;INF769K01ND7;INF769K01NF2;10.6491;;;12-Aug-2026
+153107;Mirae Asset Long Duration Fund - Regular Plan - Growth;INF769K01MZ2;;10.5646;;;12-Aug-2026
+153108;Mirae Asset Long Duration Fund - Regular Plan - IDCW;INF769K01NA3;INF769K01NB1;10.5645;;;12-Aug-2026
+
+UTI Mutual Fund
+151525;UTI Long Duration Fund - Direct Plan - Annual IDCW Option;INF789F1AYG4;INF789F1AYH2;11.4981;;;12-Aug-2026
+151526;UTI Long Duration Fund - Direct Plan - Flexi IDCW Option;INF789F1AYI0;INF789F1AYJ8;12.3136;;;12-Aug-2026
+151523;UTI Long Duration Fund - Direct Plan - Growth Option;INF789F1AYB5;;12.4715;;;12-Aug-2026
+151530;UTI Long Duration Fund - Direct Plan - Half Yearly IDCW Option;INF789F1AYE9;INF789F1AYF6;12.4715;;;12-Aug-2026
+151524;UTI Long duration Fund - Direct Plan - Quarterly IDCW Option;INF789F1AYC3;INF789F1AYD1;12.4715;;;12-Aug-2026
+151531;UTI Long Duration Fund - Regular Plan - Annual IDCW Option;INF789F1AXX1;INF789F1AXY9;11.1271;;;12-Aug-2026
+151532;UTI Long Duration Fund - Regular Plan - Flexi IDCW Option;INF789F1AXZ6;INF789F1AYA7;12.0838;;;12-Aug-2026
+151527;UTI Long Duration Fund - Regular Plan - Growth Option;INF789F1AXS1;;12.0838;;;12-Aug-2026
+151529;UTI Long Duration Fund - Regular Plan - Half Yearly IDCW Option;INF789F1AXV5;INF789F1AXW3;12.0839;;;12-Aug-2026
+151528;UTI Long Duration Fund - Regular Plan - Quarterly IDCW Option;INF789F1AXT9;INF789F1AXU7;12.0838;;;12-Aug-2026
 
 Open Ended Schemes ( Income/Debt Oriented Schemes - Dynamic Term Fund )
 
@@ -9773,6 +9557,12 @@ Invesco Mutual Fund
 118232;Invesco India Banking and PSU Fund - Regular Plan - Growth Option;INF205K01JV2;;2405.0433;;;12-Aug-2026
 118233;Invesco India Banking and PSU Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);INF205K01JW0;INF205K01JY6;1065.0526;;;12-Aug-2026
 
+Mirae Asset Mutual Fund
+148419;Mirae Asset Banking and PSU Fund - Direct Plan - Growth;INF769K01FY9;;14.0453;;;12-Aug-2026
+148417;Mirae Asset Banking and PSU Fund - Direct Plan - IDCW;INF769K01FX1;INF769K01FZ6;14.0381;;;12-Aug-2026
+148416;Mirae Asset Banking and PSU Fund - Regular Plan - Growth;INF769K01FV5;;13.6684;;;12-Aug-2026
+148418;Mirae Asset Banking and PSU Fund - Regular plan - IDCW;INF769K01FU7;INF769K01FW3;13.6696;;;12-Aug-2026
+
 Open Ended Schemes ( Income/Debt Oriented Schemes - Gilt Fund )
 
 
@@ -9824,6 +9614,16 @@ Mahindra Manulife Mutual Fund
 141226;Mahindra Manulife Multi Cap Fund - Direct Plan -Growth;INF174V01341;;46.4985;;;12-Aug-2026
 141224;Mahindra Manulife Multi Cap Fund - Regular Plan - Growth;INF174V01317;;39.5014;;;12-Aug-2026
 141225;Mahindra Manulife Multi Cap Fund - Regular Plan - IDCW;INF174V01333;INF174V01325;26.9436;;;12-Aug-2026
+
+Mirae Asset Mutual Fund
+151810;Mirae Asset Multicap Fund - Direct Plan - Growth;INF769K01KK8;;15.595;;;12-Aug-2026
+151811;Mirae Asset Multicap Fund - Direct Plan - IDCW;INF769K01KL6;INF769K01KM4;15.593;;;12-Aug-2026
+151812;Mirae Asset Multicap Fund - Regular Plan - Growth;INF769K01KH4;;14.924;;;12-Aug-2026
+151813;Mirae Asset Multicap Fund - Regular Plan - IDCW;INF769K01KI2;INF769K01KJ0;14.913;;;12-Aug-2026
+
+UTI Mutual Fund
+153515;UTI Multi Cap Fund - Direct Plan - Growth Option;INF789F1AB89;;10.9316;;;12-Aug-2026
+153516;UTI Multi Cap Fund - Regular Plan - Growth Option;INF789F1AB71;;10.7282;;;12-Aug-2026
 
 Open Ended Schemes ( Equity Schemes - Large Cap Fund )
 
@@ -9958,6 +9758,12 @@ Invesco Mutual Fund
 145139;Invesco India Smallcap Fund - Regular Plan - Growth;INF205K011T7;;48.31;;;12-Aug-2026
 145140;Invesco India Smallcap Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K010T9;INF205K014T1;34.55;;;12-Aug-2026
 
+Mirae Asset Mutual Fund
+153196;Mirae Asset Small Cap Fund - Direct Plan - Growth;INF769K01NJ4;;12.779;;;12-Aug-2026
+153197;Mirae Asset Small Cap Fund - Direct Plan - IDCW;INF769K01NL0;INF769K01NK2;12.779;;;12-Aug-2026
+153198;Mirae Asset Small Cap Fund - Regular Plan - Growth;INF769K01NG0;;12.474;;;12-Aug-2026
+153199;Mirae Asset Small Cap Fund - Regular Plan - IDCW;INF769K01NI6;INF769K01NH8;12.477;;;12-Aug-2026
+
 Open Ended Schemes ( Equity Schemes - Flexi Cap Fund )
 
 
@@ -9987,6 +9793,12 @@ Mahindra Manulife Mutual Fund
 149103;Mahindra Manulife Flexi Cap Fund - Direct Plan -IDCW;INF174V01AU8;INF174V01AT0;14.2339;;;12-Aug-2026
 149101;Mahindra Manulife Flexi Cap Fund - Regular Plan -Growth;INF174V01AP8;;16.1782;;;12-Aug-2026
 149102;Mahindra Manulife Flexi Cap Fund - Regular Plan -IDCW;INF174V01AR4;INF174V01AQ6;12.8071;;;12-Aug-2026
+
+Mirae Asset Mutual Fund
+151413;Mirae Asset Flexi Cap Fund - Direct Plan -  IDCW;INF769K01JI4;INF769K01JK0;17.145;;;12-Aug-2026
+151412;Mirae Asset Flexi Cap Fund - Direct Plan - Growth;INF769K01JJ2;;17.196;;;12-Aug-2026
+151414;Mirae Asset Flexi Cap Fund - Regular Plan - Growth;INF769K01JG8;;16.341;;;12-Aug-2026
+151415;Mirae Asset Flexi Cap Fund - Regular Plan - IDCW;INF769K01JF0;INF769K01JH6;16.347;;;12-Aug-2026
 
 NJ Mutual Fund
 151917;NJ Flexi Cap Fund - Direct Plan - Growth Option;INF0J8L01156;;14.03;;;12-Aug-2026
@@ -10174,6 +9986,14 @@ NJ Mutual Fund
 154452;NJ Momentum Fund - Regular Growth;INF0J8L01198;;10.13;;;12-Aug-2026
 154453;NJ Momentum Fund - Regular IDCW;INF0J8L01206;;10.13;;;12-Aug-2026
 
+UTI Mutual Fund
+152087;UTI Innovation Fund - Direct Plan - Growth Option;INF789F1AZA4;;12.2033;;;12-Aug-2026
+152089;UTI Innovation Fund - Direct Plan - Payout of IDCW Option;INF789F1AZB2;;12.2034;;;12-Aug-2026
+152086;UTI Innovation Fund - Regular Plan - Growth Option;INF789F1AYY7;;11.7254;;;12-Aug-2026
+152088;UTI Innovation Fund - Regular Plan - Payout of IDCW Optioni;INF789F1AYZ4;;11.7254;;;12-Aug-2026
+153204;UTI Quant Fund - Direct Plan - Growth Option;INF789F1AA98;;10.9051;;;12-Aug-2026
+153205;UTI Quant Fund - Regular Plan - Growth Option;INF789F1AA80;;10.6272;;;12-Aug-2026
+
 Open Ended Schemes ( Equity Schemes - ELSS- Tax Saver Fund )
 
 
@@ -10200,6 +10020,12 @@ Mahindra Manulife Mutual Fund
 139780;Mahindra Manulife ELSS Tax Saver Fund - Regular Plan - IDCW;INF174V01085;;16.6000;;;12-Aug-2026
 139782;Mahindra Manulife ELSS Tax Saver Fund- Direct Plan - IDCW;INF174V01101;;21.0403;;;12-Aug-2026
 139783;Mahindra Manulife ELSS Tax Saver Fund- Regular Plan - Growth;INF174V01077;;28.0342;;;12-Aug-2026
+
+Mirae Asset Mutual Fund
+135781;Mirae Asset ELSS Tax Saver Fund - Direct Plan - Growth;INF769K01DM9;;58.544;;;12-Aug-2026
+135782;Mirae Asset ELSS Tax Saver Fund - Direct Plan - IDCW;INF769K01DN7;;27.355;;;12-Aug-2026
+135784;Mirae Asset ELSS Tax Saver Fund - Regular Plan - Growth;INF769K01DK3;;51.218;;;12-Aug-2026
+135783;Mirae Asset ELSS Tax Saver Fund - Regular Plan - IDCW;INF769K01DL1;;22.988;;;12-Aug-2026
 
 NJ Mutual Fund
 151611;NJ ELSS Tax Saver Scheme Direct Growth;INF0J8L01115;;15.30;;;12-Aug-2026
@@ -10253,6 +10079,12 @@ Mahindra Manulife Mutual Fund
 147447;Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - Growth;INF174V01754;;27.2639;;;12-Aug-2026
 147449;Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - Monthly IDCW;INF174V01770;INF174V01762;18.0297;;;12-Aug-2026
 
+Mirae Asset Mutual Fund
+134813;Mirae Asset Aggressive Hybrid Fund - Direct Plan - Growth;INF769K01DH9;;39.940;;;12-Aug-2026
+134814;Mirae Asset Aggressive Hybrid Fund - Direct Plan - IDCW;INF769K01DI7;INF769K01DJ5;21.367;;;12-Aug-2026
+134815;Mirae Asset Aggressive Hybrid Fund - Regular Plan - Growth;INF769K01DE6;;33.755;;;12-Aug-2026
+134816;Mirae Asset Aggressive Hybrid Fund - Regular Plan - IDCW;INF769K01DF3;INF769K01DG1;17.097;;;12-Aug-2026
+
 WhiteOak Capital Mutual Fund
 154392;WhiteOak Capital Aggressive Hybrid Fund Direct Plan Growth;INF03VN01AF8;;10.468;;;12-Aug-2026
 154393;WhiteOak Capital Aggressive Hybrid Fund Regular Plan Growth;INF03VN01AG6;;10.444;;;12-Aug-2026
@@ -10296,6 +10128,12 @@ NJ Mutual Fund
 149266;NJ Balanced Advantage Fund - Regular Plan - Growth Option;INF0J8L01024;;13.92;;;12-Aug-2026
 149263;NJ Balanced Advantage Fund - Regular Plan - IDCW Payout Option;INF0J8L01016;;13.92;;;12-Aug-2026
 
+UTI Mutual Fund
+151885;UTI Balanced Advantage Fund - Direct Plan - Growth Option;INF789F1AYV3;;13.2608;;;12-Aug-2026
+151883;UTI Balanced Advantage Fund - Direct Plan - Payout of IDCW Option;INF789F1AYW1;;13.2607;;;12-Aug-2026
+151882;UTI Balanced Advantage Fund - Regular Plan - Growth Option;INF789F1AYT7;;12.7264;;;12-Aug-2026
+151884;UTI Balanced Advantage Fund - Regular Plan - Payout of IDCW Option;INF789F1AYU5;;12.7265;;;12-Aug-2026
+
 Open Ended Schemes ( Hybrid Schemes - Multi Asset Allocation Fund )
 
 
@@ -10322,6 +10160,12 @@ Invesco Mutual Fund
 153049;Invesco India Multi Asset Allocation Fund - Direct Plan - IDCW;INF205KA1AD9;INF205KA1AE7;12.91;;;12-Aug-2026
 153046;Invesco India Multi Asset Allocation Fund - Regular Plan - Growth;INF205KA1999;;12.65;;;12-Aug-2026
 153048;Invesco India Multi Asset Allocation Fund - Regular Plan - IDCW;INF205KA1AA5;INF205KA1AB3;12.66;;;12-Aug-2026
+
+Mirae Asset Mutual Fund
+152344;Mirae Asset Multi Asset Allocation Fund - Direct Plan - Growth;INF769K01KZ6;;14.277;;;12-Aug-2026
+152345;Mirae Asset Multi Asset Allocation Fund - Direct Plan - IDCW;INF769K01LA7;INF769K01LB5;14.275;;;12-Aug-2026
+152347;Mirae Asset Multi Asset Allocation Fund - Regular Plan - Growth;INF769K01KW3;;13.717;;;12-Aug-2026
+152346;Mirae Asset Multi Asset Allocation Fund - Regular Plan - IDCW;INF769K01KX1;INF769K01KY9;13.711;;;12-Aug-2026
 
 Open Ended Schemes ( Hybrid Schemes - Arbitrage Fund )
 
@@ -10513,10 +10357,40 @@ Jio BlackRock Mutual Fund
 153790;JioBlackRock Nifty Smallcap 250 Index Fund - Direct Plan - Growth Option;INF22M001051;;10.8781;;;12-Aug-2026
 
 Mirae Asset Mutual Fund
-154493;Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Direct Plan - Growth;INF769K01RG1;;10.357;;;12-Aug-2026
-154494;Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Direct Plan - IDCW;INF769K01RI7;INF769K01RH9;10.357;;;12-Aug-2026
-154495;Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - Growth;INF769K01RD8;;10.354;;;12-Aug-2026
-154496;Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - IDCW;INF769K01RF3;INF769K01RE6;10.354;;;12-Aug-2026
+152972;Mirae Asset Nifty 50 Index Fund - Direct Plan - Growth;INF769K01MQ1;;10.1994;;;12-Aug-2026
+152973;Mirae Asset Nifty 50 Index Fund - Direct Plan - IDCW;INF769K01MN8;INF769K01MM0;10.1996;;;12-Aug-2026
+152974;Mirae Asset Nifty 50 Index Fund - Regular Plan - Growth;INF769K01MO6;;10.0839;;;12-Aug-2026
+152975;Mirae Asset Nifty 50 Index Fund - Regular Plan - IDCW;INF769K01MP3;INF769K01MR9;10.0858;;;12-Aug-2026
+152976;Mirae Asset Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth;INF769K01MJ6;;10.7924;;;12-Aug-2026
+152977;Mirae Asset Nifty LargeMidcap 250 Index Fund - Direct Plan - IDCW;INF769K01ML2;INF769K01MK4;10.7933;;;12-Aug-2026
+152978;Mirae Asset Nifty LargeMidcap 250 Index Fund - Regular Plan - Growth;INF769K01MG2;;10.6688;;;12-Aug-2026
+152979;Mirae Asset Nifty LargeMidcap 250 Index Fund - Regular Plan - IDCW;INF769K01MI8;INF769K01MH0;10.6682;;;12-Aug-2026
+152968;Mirae Asset Nifty Total Market Index Fund - Direct Plan - Growth;INF769K01MD9;;10.6223;;;12-Aug-2026
+152969;Mirae Asset Nifty Total Market Index Fund - Direct Plan - IDCW;INF769K01ME7;INF769K01MF4;10.6220;;;12-Aug-2026
+152970;Mirae Asset Nifty Total Market Index Fund - Regular Plan - Growth;INF769K01MA5;;10.4924;;;12-Aug-2026
+152971;Mirae Asset Nifty Total Market Index Fund - Regular Plan - IDCW;INF769K01MB3;INF769K01MC1;10.4920;;;12-Aug-2026
+
+UTI Mutual Fund
+151764;UTI BSE Housing Index Fund - Direct Plan - Growth Option;INF789F1AYR1;;14.3804;;;12-Aug-2026
+151763;UTI BSE Housing Index Fund - Regular Plan - Growth Option;INF789F1AYS9;;14.1791;;;12-Aug-2026
+152859;UTI Nifty 200 Quality 30 Index Fund - Direct Plan - Growth Option;INF789F1AZH9;;9.1972;;;12-Aug-2026
+152858;UTI Nifty 200 Quality 30 Index Fund - Regular Plan - Growth Option;INF789F1AZG1;;9.1091;;;12-Aug-2026
+151739;UTI Nifty 500 Value 50 Index Fund - Direct Plan - Growth Option;INF789F1AYN0;;22.6578;;;12-Aug-2026
+151738;UTI Nifty 500 Value 50 Index Fund - Regular Plan - Growth Option;INF789F1AYO8;;22.3108;;;12-Aug-2026
+153086;UTI Nifty Alpha Low-Volatility 30 Index Fund - Direct Plan - Growth Option;INF789F1AZM9;;10.0726;;;12-Aug-2026
+153087;UTI Nifty Alpha Low-Volatility 30 Index Fund - Regular Plan - Growth Option;INF789F1AZL1;;9.9895;;;12-Aug-2026
+153270;UTI Nifty India Manufacturing Index Fund - Direct Plan - Growth Option;INF789F1AB48;;12.9491;;;12-Aug-2026
+153271;UTI Nifty India Manufacturing Index Fund - Regular Plan - Growth Option;INF789F1AB30;;12.8608;;;12-Aug-2026
+153089;UTI Nifty Midcap 150 Index Fund - Direct Plan - Growth Option;INF789F1AZO5;;11.2886;;;12-Aug-2026
+153088;UTI Nifty Midcap 150 Index Fund - Regular Plan - Growth Option;INF789F1AZN7;;11.1948;;;12-Aug-2026
+153272;UTI Nifty Midsmallcap 400 Momentum Quality 100 Index Fund - Direct Plan - Growth Option;INF789F1AB22;;12.0104;;;12-Aug-2026
+153273;UTI Nifty Midsmallcap 400 Momentum Quality 100 Index Fund - Regular Plan - Growth Option;INF789F1AB06;;11.9214;;;12-Aug-2026
+152864;UTI Nifty Private Bank Index Fund - Direct Plan - Growth Option;INF789F1AZJ5;;10.1841;;;12-Aug-2026
+152865;UTI Nifty Private Bank Index Fund - Regular Plan - Growth Option;INF789F1AZI7;;10.087;;;12-Aug-2026
+151762;UTI Nifty50 Equal Weight Index Fund - Direct Plan - Growth Option;INF789F1AYP5;;15.5131;;;12-Aug-2026
+151761;UTI Nifty50 Equal Weight Index Fund - Regular Plan - Growth Option;INF789F1AYQ3;;15.2926;;;12-Aug-2026
+154197;UTI Nifty500 Shariah Index Fund - Direct Plan Growth Option;INF789F1AD04;;10.4147;;;12-Aug-2026
+154198;UTI Nifty500 Shariah Index Fund - Regular Plan Growth Option;INF789F1AC96;;10.3931;;;12-Aug-2026
 
 Open Ended Schemes ( Index Funds - Debt Funds )
 
@@ -10545,6 +10419,14 @@ Jio BlackRock Mutual Fund
 153791;JioBlackRock Nifty 8-13 yr G-Sec Index Fund - Direct Plan - Growth Option;INF22M001069;;10.4758;;;12-Aug-2026
 
 Mirae Asset Mutual Fund
+150792;Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund - Direct Plan - Growth;INF769K01IX5;;13.5897;;;12-Aug-2026
+150789;Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund - Direct Plan - IDCW;INF769K01IW7;INF769K01IY3;13.5855;;;12-Aug-2026
+150790;Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund - Regular Plan - Growth;INF769K01IU1;;13.4413;;;12-Aug-2026
+150791;Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund - Regular Plan - IDCW;INF769K01IT3;INF769K01IV9;13.4423;;;12-Aug-2026
+153634;Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Direct Plan - Growth;INF769K01OS3;;10.7270;;;12-Aug-2026
+153635;Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Direct Plan - IDCW;INF769K01OU9;INF769K01OT1;10.7259;;;12-Aug-2026
+153636;Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Regular Plan - Growth;INF769K01OP9;;10.7037;;;12-Aug-2026
+153637;Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Regular Plan - IDCW;INF769K01OR5;INF769K01OQ7;10.7039;;;12-Aug-2026
 150358;Mirae Asset Nifty SDL Jun 2027 Index Fund - Direct Plan - Growth;INF769K01IH8;;13.2180;;;12-Aug-2026
 150359;Mirae Asset Nifty SDL Jun 2027 Index Fund - Direct Plan - IDCW;INF769K01IG0;INF769K01II6;13.2185;;;12-Aug-2026
 150360;Mirae Asset Nifty SDL Jun 2027 Index Fund - Regular Plan - Growth;INF769K01IE5;;13.1250;;;12-Aug-2026
@@ -10559,6 +10441,23 @@ SBI Mutual Fund
 154470;SBI Crisil - IBX SDL Index - June 2034 Index Fund - Direct Plan - IDCW;INF200KB1BP5;INF200KB1BQ3;10.0630;;;12-Aug-2026
 154468;SBI Crisil - IBX SDL Index - June 2034 Index Fund - Regular Plan - Growth;INF200KB1BL4;;10.0614;;;12-Aug-2026
 154469;SBI Crisil - IBX SDL Index - June 2034 Index Fund - Regular Plan - IDCW;INF200KB1BM2;INF200KB1BN0;10.0614;;;12-Aug-2026
+
+UTI Mutual Fund
+151185;UTI CRISIL SDL Maturity April 2033 Index Fund - Direct Plan - Growth Option;INF789F1AWX3;;13.1717;;;12-Aug-2026
+151184;UTI CRISIL SDL Maturity April 2033 Index Fund - Regular Plan - Growth Option;INF789F1AWW5;;13.0508;;;12-Aug-2026
+151239;UTI CRISIL SDL Maturity June 2027 Index Fund - Direct Plan - Growth Option;INF789F1AWZ8;;12.9542;;;12-Aug-2026
+151238;UTI CRISIL SDL Maturity June 2027 Index Fund - Regular Plan - Growth Option;INF789F1AWY1;;12.8404;;;12-Aug-2026
+151487;UTI NIFTY SDL Plus AAA PSU Bond Apr 2028- 75:25 Index Fund - Direct Plan - Growth Option;INF789F1AXR3;;12.9474;;;12-Aug-2026
+151488;UTI NIFTY SDL Plus AAA PSU Bond Apr 2028- 75:25 Index Fund - Regular Plan - Growth Option;INF789F1AXQ5;;12.8505;;;12-Aug-2026
+
+Open Ended Schemes ( Index Funds - Hybrid Fund )
+
+
+Mirae Asset Mutual Fund
+154493;Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Direct Plan - Growth;INF769K01RG1;;10.357;;;12-Aug-2026
+154494;Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Direct Plan - IDCW;INF769K01RI7;INF769K01RH9;10.357;;;12-Aug-2026
+154495;Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - Growth;INF769K01RD8;;10.354;;;12-Aug-2026
+154496;Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - IDCW;INF769K01RF3;INF769K01RE6;10.354;;;12-Aug-2026
 
 Open Ended Schemes ( Exchange Traded Funds (ETFs) - Equity ETF )
 
@@ -10599,12 +10498,46 @@ Kotak Mahindra Mutual Fund
 106929;Kotak Nifty PSU Bank ETF;INF174KA1A86;;88.3183;;;12-Aug-2026
 
 Mirae Asset Mutual Fund
+153379;Mirae Asset BSE 200 Equal Weight ETF;INF769K01OA1;;14.0369;;;12-Aug-2026
+154061;Mirae Asset BSE 500 Dividend Leaders 50 ETF;INF769K01PY8;;36.1737;;;12-Aug-2026
+154182;Mirae Asset BSE India Defence ETF;INF769K01QC2;;80.7901;;;12-Aug-2026
 154471;Mirae Asset BSE Midcap 150 Momentum 30 ETF;INF769K01RC0;;13.1063;;;12-Aug-2026
-154497;Mirae Asset Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50:50 ETF;INF769K01RJ5;;10.1847;;;12-Aug-2026
+153384;Mirae Asset BSE Select IPO ETF;INF769K01ON4;;48.5597;;;12-Aug-2026
+152097;Mirae Asset BSE Sensex ETF;INF769K01KT9;;80.5187;;;12-Aug-2026
+148572;Mirae Asset Nifty 100 ESG Sector Leaders ETF;INF769K01GS9;;42.1628;;;12-Aug-2026
+151604;Mirae Asset Nifty 100 Low Volatility 30 ETF;INF769K01JU9;;211.7682;;;12-Aug-2026
+152134;Mirae Asset Nifty 200 Alpha 30 ETF;INF769K01KU7;;27.0708;;;12-Aug-2026
+145633;Mirae Asset Nifty 50 ETF;INF769K01EG9;;266.0085;;;12-Aug-2026
+154169;Mirae Asset Nifty 500 Healthcare ETF;INF769K01QA6;;21.6845;;;12-Aug-2026
+154299;Mirae Asset Nifty 500 Value 50 ETF;INF769K01QV2;;16.4062;;;12-Aug-2026
+151857;Mirae Asset Nifty Bank ETF;INF769K01KR3;;590.5445;;;12-Aug-2026
+153945;Mirae Asset Nifty Energy ETF;INF769K01PR2;;38.9928;;;12-Aug-2026
+152715;Mirae Asset Nifty EV and New Age Automotive ETF;INF769K01LQ3;;34.1894;;;12-Aug-2026
+149105;Mirae Asset Nifty Financial Services ETF;INF769K01HI8;;27.4966;;;12-Aug-2026
+154181;Mirae Asset Nifty India Infrastructure & Logistics ETF;INF769K01QB4;;12.2414;;;12-Aug-2026
+153642;Mirae Asset Nifty India Internet ETF;INF769K01PB6;;14.2688;;;12-Aug-2026
+149786;Mirae Asset Nifty India Manufacturing ETF;INF769K01IB1;;169.3017;;;12-Aug-2026
+153191;Mirae Asset Nifty India New Age Consumption ETF;INF769K01NS5;;12.2464;;;12-Aug-2026
+152155;Mirae Asset Nifty IT ETF;INF769K01KV5;;33.2350;;;12-Aug-2026
+152924;Mirae Asset Nifty Metal ETF;INF769K01LY7;;13.3012;;;12-Aug-2026
+149918;Mirae Asset Nifty Midcap 150 ETF;INF769K01IC9;;24.0553;;;12-Aug-2026
+152634;Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF;INF769K01LJ8;;52.5947;;;12-Aug-2026
+147906;Mirae Asset Nifty Next 50 ETF;INF769K01FN2;;771.9301;;;12-Aug-2026
+152929;Mirae Asset Nifty PSU Bank ETF;INF769K01LZ4;;88.9723;;;12-Aug-2026
+153946;Mirae Asset Nifty Smallcap 250 ETF;INF769K01PQ4;;18.3912;;;12-Aug-2026
+152455;Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF;INF769K01LC3;;48.5422;;;12-Aug-2026
+154060;Mirae Asset Nifty Top 20 Equal Weight ETF;INF769K01PZ5;;9.0711;;;12-Aug-2026
+153519;Mirae Asset Nifty 50 Equal Weight ETF;INF769K01OO2;;338.0677;;;12-Aug-2026
+152811;Mirae Asset Nifty500 Multicap 50:25:25 ETF;INF769K01LX9;;16.9749;;;12-Aug-2026
+149169;Mirae Asset S&P 500 Top 50 ETF;INF769K01HP3;;67.2735;;;12-Aug-2026
 
 Motilal Oswal Mutual Fund
 154551;Motilal Oswal Nifty Metal ETF;;;13.1700;;;12-Aug-2026
 154552;Motilal Oswal Nifty Oil & Gas ETF;;;11.2922;;;12-Aug-2026
+
+UTI Mutual Fund
+152355;UTI Nifty IT ETF;INF789F1AZD8;;329.7095;;;12-Aug-2026
+152050;UTI Nifty Midcap 150 Exchange Traded Fund;INF789F1AYX9;;237.7555;;;12-Aug-2026
 
 Open Ended Schemes ( Exchange Traded Funds (ETFs) - Debt ETF )
 
@@ -10621,7 +10554,15 @@ Mirae Asset Mutual Fund
 151695;Mirae Asset Nifty 8-13 yr G-Sec ETF;INF769K01KF8;;30.5763;;;12-Aug-2026
 
 UTI Mutual Fund
+152369;UTI Nifty 10 yr Benchmark G-Sec ETF;INF789F1AZF3;;26.7293;;;12-Aug-2026
 154466;UTI Nifty 1D Rate Liquid ETF - Growth;INF789F1AG68;;1003.8353;;;12-Aug-2026
+152368;UTI Nifty 5 yr Benchmark G-Sec ETF;INF789F1AZE6;;66.5682;;;12-Aug-2026
+
+Open Ended Schemes ( Exchange Traded Funds (ETFs) - Hybrid ETF )
+
+
+Mirae Asset Mutual Fund
+154497;Mirae Asset Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50:50 ETF;INF769K01RJ5;;10.1847;;;12-Aug-2026
 
 Open Ended Schemes ( Exchange Traded Funds (ETFs) - Gold ETF )
 
@@ -10632,11 +10573,20 @@ Groww Mutual Fund
 Invesco Mutual Fund
 112368;Invesco India Gold Exchange Traded Fund;INF205KA1BP1;;132.3363;;;12-Aug-2026
 
+Mirae Asset Mutual Fund
+151416;Mirae Asset Gold ETF;INF769K01JP9;;147.9370;;;12-Aug-2026
+
 Open Ended Schemes ( Exchange Traded Funds (ETFs) - Silver ETF )
 
 
 Groww Mutual Fund
 153524;Groww Silver ETF;INF666M01OF4;;23.1149;;;12-Aug-2026
+
+Mirae Asset Mutual Fund
+151779;Mirae Asset Silver ETF;INF769K01KG6;;229.5439;;;12-Aug-2026
+
+UTI Mutual Fund
+151730;UTI Silver Exchange Traded Fund;INF789F1AYK6;;227.7029;;;12-Aug-2026
 
 Open Ended Schemes ( Exchange Traded Funds (ETFs) - Other ETF )
 
@@ -10672,6 +10622,7 @@ Open Ended Schemes ( Exchange Traded Funds (ETFs) - ETFs investing overseas )
 
 
 Mirae Asset Mutual Fund
+149379;Mirae Asset Hang Seng TECH ETF;INF769K01HS7;;19.5086;;;12-Aug-2026
 148927;Mirae Asset NYSE FANG + ETF;INF769K01HF4;;172.8344;;;12-Aug-2026
 
 Open Ended Schemes ( Overseas Fund of Funds - Fund of Funds investing overseas )
@@ -10712,6 +10663,12 @@ Invesco Mutual Fund
 126352;Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment);INF205K01A32;INF205K01A40;30.3584;;;12-Aug-2026
 126351;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - Growth Option;INF205K01ZZ9;;27.8595;;;12-Aug-2026
 126350;Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment);INF205K01A08;INF205K01A16;27.8592;;;12-Aug-2026
+
+Mirae Asset Mutual Fund
+150595;Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF - Direct Plan - Growth;INF769K01IQ9;;17.032;;;12-Aug-2026
+150594;Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF - Regular Plan - Growth;INF769K01IP1;;16.767;;;12-Aug-2026
+150597;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth;INF769K01IS5;;35.735;;;12-Aug-2026
+150596;Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth;INF769K01IR7;;35.511;;;12-Aug-2026
 
 Open Ended Schemes ( Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic) )
 
@@ -10835,10 +10792,42 @@ Kotak Mahindra Mutual Fund
 154318;Kotak Multi Asset Active FOF - Regular- IDCW;INF174KA1ZS1;INF174KA1ZT9;10.366;;;12-Aug-2026
 
 Mirae Asset Mutual Fund
+153380;Mirae Asset BSE 200 Equal Weight ETF Fund of Fund - Direct Plan - Growth;INF769K01OE3;;11.986;;;12-Aug-2026
+153381;Mirae Asset BSE 200 Equal Weight ETF Fund of Fund - Direct Plan - IDCW;INF769K01OG8;INF769K01OF0;11.984;;;12-Aug-2026
+153382;Mirae Asset BSE 200 Equal Weight ETF Fund of Fund - Regular Plan - Growth;INF769K01OB9;;11.901;;;12-Aug-2026
+153383;Mirae Asset BSE 200 Equal Weight ETF Fund of Fund - Regular Plan - IDCW;INF769K01OD5;INF769K01OC7;11.898;;;12-Aug-2026
+154187;Mirae Asset BSE India Defence ETF FOF - Direct Plan - Growth;INF769K01QG3;;11.936;;;12-Aug-2026
+154188;Mirae Asset BSE India Defence ETF FOF - Direct Plan - IDCW;INF769K01QI9;INF769K01QH1;11.934;;;12-Aug-2026
+154189;Mirae Asset BSE India Defence ETF FOF - Regular Plan - Growth;INF769K01QD0;;11.903;;;12-Aug-2026
+154190;Mirae Asset BSE India Defence ETF FOF - Regular Plan - IDCW;INF769K01QF5;INF769K01QE8;11.903;;;12-Aug-2026
 154474;Mirae Asset BSE Midcap 150 Momentum 30 ETF FOF - Direct Plan - Growth;INF769K01QX8;;10.580;;;12-Aug-2026
 154473;Mirae Asset BSE Midcap 150 Momentum 30 ETF FOF - Regular Plan - Growth;INF769K01QW0;;10.577;;;12-Aug-2026
+153385;Mirae Asset BSE Select IPO ETF Fund of Fund - Direct Plan - Growth;INF769K01OK0;;11.927;;;12-Aug-2026
+153386;Mirae Asset BSE Select IPO ETF Fund of Fund - Direct Plan - IDCW;INF769K01OM6;INF769K01OL8;11.925;;;12-Aug-2026
+153387;Mirae Asset BSE Select IPO ETF Fund of Fund - Regular Plan - Growth;INF769K01OH6;;11.858;;;12-Aug-2026
+153388;Mirae Asset BSE Select IPO ETF Fund of Fund - Regular Plan - IDCW;INF769K01OJ2;INF769K01OI4;11.839;;;12-Aug-2026
+148500;Mirae Asset Diversified Equity Allocator Passive FOF - Direct Plan - Growth;INF769K01GE9;;25.653;;;12-Aug-2026
+148501;Mirae Asset Diversified Equity Allocator Passive FOF - Direct Plan - IDCW;INF769K01GD1;INF769K01GF6;25.673;;;12-Aug-2026
+148502;Mirae Asset Diversified Equity Allocator Passive FOF - Regular Plan - Growth;INF769K01GB5;;25.541;;;12-Aug-2026
+148503;Mirae Asset Diversified Equity Allocator Passive FOF - Regular Plan - IDCW;INF769K01GA7;INF769K01GC3;25.544;;;12-Aug-2026
+153007;Mirae Asset Gold ETF Fund of Fund - Direct Plan - Growth;INF769K01MV1;;19.261;;;12-Aug-2026
+153008;Mirae Asset Gold ETF Fund of Fund - Direct Plan - IDCW;INF769K01MW9;INF769K01MX7;19.260;;;12-Aug-2026
+153009;Mirae Asset Gold ETF Fund of Fund - Regular Plan - Growth;INF769K01MS7;;19.083;;;12-Aug-2026
+153010;Mirae Asset Gold ETF Fund of Fund - Regular Plan - IDCW;INF769K01MT5;INF769K01MU3;19.072;;;12-Aug-2026
+153812;Mirae Asset Gold Silver Passive FoF - Direct Plan - Growth;INF769K01PM3;;17.173;;;12-Aug-2026
+153813;Mirae Asset Gold Silver Passive FoF - Direct Plan - IDCW;INF769K01PO9;INF769K01PN1;17.171;;;12-Aug-2026
+153814;Mirae Asset Gold Silver Passive FoF - Regular Plan - Growth;INF769K01PP6;;17.075;;;12-Aug-2026
+153815;Mirae Asset Gold Silver Passive FoF - Regular Plan - IDCW;INF769K01PL5;INF769K01PK7;17.071;;;12-Aug-2026
 149381;Mirae Asset Hang Seng TECH ETF Fund of Fund - Direct Plan - Growth;INF769K01HU3;;12.287;;;12-Aug-2026
 149380;Mirae Asset Hang Seng TECH ETF Fund of Fund - Regular Plan - Growth;INF769K01HT5;;12.028;;;12-Aug-2026
+153638;Mirae Asset Income plus Arbitrage Active FOF - Direct Plan - Growth;INF769K01OY1;;10.670;;;12-Aug-2026
+153639;Mirae Asset Income plus Arbitrage Active FOF - Direct Plan - IDCW;INF769K01PA8;INF769K01OZ8;10.670;;;12-Aug-2026
+153640;Mirae Asset Income plus Arbitrage Active FOF - Regular Plan - Growth;INF769K01OV7;;10.642;;;12-Aug-2026
+153641;Mirae Asset Income plus Arbitrage Active FOF - Regular Plan - IDCW;INF769K01OX3;INF769K01OW5;10.642;;;12-Aug-2026
+153816;Mirae Asset Multi Factor Passive FOF - Direct Plan - Growth;INF769K01PH3;;11.008;;;12-Aug-2026
+153817;Mirae Asset Multi Factor Passive FOF - Direct Plan - IDCW;INF769K01PJ9;INF769K01PI1;11.005;;;12-Aug-2026
+153818;Mirae Asset Multi Factor Passive FOF - Regular Plan - Growth;INF769K01PE0;;10.952;;;12-Aug-2026
+153819;Mirae Asset Multi Factor Passive FOF - Regular Plan - IDCW;INF769K01PG5;INF769K01PF7;10.935;;;12-Aug-2026
 148574;Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund - Direct Plan - Growth;INF769K01GQ3;;18.609;;;12-Aug-2026
 148575;Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund - Direct Plan - IDCW;INF769K01GP5;INF769K01GR1;18.604;;;12-Aug-2026
 148576;Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund - Regular Plan - Growth;INF769K01GN0;;18.232;;;12-Aug-2026
@@ -10847,10 +10836,34 @@ Mirae Asset Mutual Fund
 149787;Mirae Asset Nifty India Manufacturing ETF FOF - Direct Plan - IDCW;INF769K01HY5;INF769K01IA3;21.189;;;12-Aug-2026
 149788;Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - Growth;INF769K01HW9;;20.821;;;12-Aug-2026
 149789;Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - IDCW;INF769K01HV1;INF769K01HX7;20.899;;;12-Aug-2026
+153192;Mirae Asset Nifty India New Age Consumption ETF Fund of Fund - Direct Plan - Growth;INF769K01NP1;;10.048;;;12-Aug-2026
+153193;Mirae Asset Nifty India New Age Consumption ETF Fund of Fund - Direct Plan - IDCW;INF769K01NR7;INF769K01NQ9;10.047;;;12-Aug-2026
+153194;Mirae Asset Nifty India New Age Consumption ETF Fund of Fund - Regular Plan - Growth;INF769K01NM8;;9.985;;;12-Aug-2026
+153195;Mirae Asset Nifty India New Age Consumption ETF Fund of Fund - Regular Plan - IDCW;INF769K01NO4;INF769K01NN6;9.986;;;12-Aug-2026
+154216;Mirae Asset Nifty Metal ETF FOF - Direct Plan - Growth;INF769K01QM1;;10.592;;;12-Aug-2026
+154217;Mirae Asset Nifty Metal ETF FOF - Direct Plan - IDCW;INF769K01QO7;INF769K01QN9;10.653;;;12-Aug-2026
+154218;Mirae Asset Nifty Metal ETF FOF - Regular Plan - Growth;INF769K01QJ7;;10.563;;;12-Aug-2026
+154219;Mirae Asset Nifty Metal ETF FOF - Regular Plan - IDCW;INF769K01QL3;INF769K01QK5;10.563;;;12-Aug-2026
+152645;Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF Fund of Fund - Direct Plan - Growth;INF769K01LN0;;10.591;;;12-Aug-2026
+152646;Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF Fund of Fund - Direct Plan - IDCW;INF769K01LO8;INF769K01LP5;10.591;;;12-Aug-2026
+152647;Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF Fund of Fund - Regular Plan - Growth;INF769K01LK6;;10.465;;;12-Aug-2026
+152648;Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF Fund of Fund - Regular Plan - IDCW;INF769K01LL4;INF769K01LM2;10.471;;;12-Aug-2026
+152459;Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Direct Plan - Growth;INF769K01LG4;;10.772;;;12-Aug-2026
+152456;Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Direct Plan - IDCW;INF769K01LH2;INF769K01LI0;10.770;;;12-Aug-2026
+152457;Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Regular Plan - Growth;INF769K01LD1;;10.642;;;12-Aug-2026
+152458;Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Regular Plan - IDCW;INF769K01LE9;INF769K01LF6;10.644;;;12-Aug-2026
+152718;Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund - Direct Plan - Growth;INF769K01LU5;;9.420;;;12-Aug-2026
+152719;Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund - Direct Plan - IDCW;INF769K01LV3;INF769K01LW1;9.427;;;12-Aug-2026
+152720;Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund - Regular Plan - Growth;INF769K01LR1;;9.332;;;12-Aug-2026
+152721;Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund - Regular Plan - IDCW;INF769K01LS9;INF769K01LT7;9.325;;;12-Aug-2026
 148928;Mirae Asset NYSE FANG + ETF Fund of Fund - Direct Plan - Growth;INF769K01HH0;;44.349;;;12-Aug-2026
 148929;Mirae Asset NYSE FANG + ETF Fund of Fund - Regular Plan - Growth;INF769K01HG2;;43.451;;;12-Aug-2026
 149170;Mirae Asset S&P 500 Top 50 ETF Fund of Fund - Direct Plan - Growth;INF769K01HR9;;28.857;;;12-Aug-2026
 149171;Mirae Asset S&P 500 Top 50 ETF Fund of Fund - Regular Plan - Growth;INF769K01HQ1;;28.289;;;12-Aug-2026
+154279;Mirae Asset Silver ETF FOF - Direct Plan - Growth;INF769K01QS8;;10.524;;;12-Aug-2026
+154280;Mirae Asset Silver ETF FOF - Direct Plan - IDCW;INF769K01QT6;INF769K01QU4;10.524;;;12-Aug-2026
+154281;Mirae Asset Silver ETF FOF - Regular Plan - Growth;INF769K01QP4;;10.500;;;12-Aug-2026
+154282;Mirae Asset Silver ETF FOF - Regular Plan - IDCW;INF769K01QQ2;INF769K01QR0;10.499;;;12-Aug-2026
 
 SBI Mutual Fund
 154526;SBI Nifty Midcap 150 Momentum 50 ETF FOF - Direct - Growth;INF200KB1BU5;;10.1166;;;12-Aug-2026
@@ -10865,6 +10878,14 @@ Tata Mutual Fund
 154405;Tata Multi Sector Passive FOF Regular Plan Growth Option;INF277KA1ES2;;10.0029;;;12-Aug-2026
 154406;Tata Multi Sector Passive FOF Regular Plan IDCW Payout Option;INF277KA1EU8;;10.0029;;;12-Aug-2026
 154407;Tata Multi Sector Passive FOF Regular Plan IDCW Reinvestment Option;;INF277KA1ET0;10.0029;;;12-Aug-2026
+
+UTI Mutual Fund
+150714;UTI Gold ETF Fund of Fund - Direct Plan - Growth Option;INF789F1AWB9;;29.4264;;;12-Aug-2026
+150715;UTI Gold ETF Fund of Fund - Regular Plan - Growth Opton;INF789F1AWA1;;28.9568;;;12-Aug-2026
+153442;UTI Income Plus Arbitrage Active Fund of Fund - Direct Plan - Growth Option;INF789F1AB55;;10.8814;;;12-Aug-2026
+153441;UTI Income Plus Arbitrage Active Fund of Fund - Regular Plan - Growth Option;INF789F1AB63;;10.8299;;;12-Aug-2026
+151731;UTI Silver ETF Fund of Fund - Direct Plan - Growth Option;INF789F1AYL4;;30.195;;;12-Aug-2026
+151732;UTI Silver ETF Fund of Fund - Regular Plan - Growth Option;INF789F1AYM2;;29.835;;;12-Aug-2026
 
 Close Ended Schemes ( Income )
 
@@ -11015,10 +11036,6 @@ UTI Mutual Fund
 123646;UTI Annual Interval Fund - I - Direct Plan - Growth Option;INF789F01VW8;;36.8337;;;12-Aug-2026
 106183;UTI Annual Interval Fund - I - Regular Plan - Growth Option;INF789F01FG4;;36.3692;;;12-Aug-2026
 106186;UTI Annual Interval Fund - I - Regular Plan - IDCW;INF789F01FE9;INF789F01FF6;11.0657;;;12-Aug-2026
-151485;UTI Fixed Term Income Fund Series XXXVI - I (1574 Days) - Direct Plan - Growth Option;INF789F1AXP7;;13.0191;;;12-Aug-2026
-151484;UTI Fixed Term Income Fund Series XXXVI - I (1574 Days) - Direct Plan - Payout of IDCW Option;INF789F1AXO0;;12.451;;;12-Aug-2026
-151483;UTI Fixed Term Income Fund Series XXXVI - I (1574 Days) - Regular Plan - Growth Option;INF789F1AXN2;;12.8419;;;12-Aug-2026
-151486;UTI Fixed Term Income Fund Series XXXVI - I (1574 Days) - Regular Plan - Payout of IDCW Option;INF789F1AXM4;;12.2792;;;12-Aug-2026
 
 Close Ended Schemes ( ELSS )
 
@@ -11081,6 +11098,15 @@ Sundaram Mutual Fund
 
 UTI Mutual Fund
 101834;UTI - Master Equity Plan Unit Scheme;;;226.3505;;;12-Aug-2026
+
+Close Ended Schemes ( Income/Debt Oriented Schemes - Fixed Term Plan )
+
+
+UTI Mutual Fund
+151485;UTI Fixed Term Income Fund Series XXXVI - I (1574 Days) - Direct Plan - Growth Option;INF789F1AXP7;;13.0191;;;12-Aug-2026
+151484;UTI Fixed Term Income Fund Series XXXVI - I (1574 Days) - Direct Plan - Payout of IDCW Option;INF789F1AXO0;;12.451;;;12-Aug-2026
+151483;UTI Fixed Term Income Fund Series XXXVI - I (1574 Days) - Regular Plan - Growth Option;INF789F1AXN2;;12.8419;;;12-Aug-2026
+151486;UTI Fixed Term Income Fund Series XXXVI - I (1574 Days) - Regular Plan - Payout of IDCW Option;INF789F1AXM4;;12.2792;;;12-Aug-2026
 
 Interval Fund Schemes ( Income )
 
