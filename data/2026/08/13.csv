@@ -345,10 +345,10 @@ Union Mutual Fund
 141250;Union Largecap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF582M01CR3;INF582M01CS1;23.51;13-Aug-2026
 
 UTI Mutual Fund
-120656;UTI Large Cap Fund - Direct Plan - Growth Option;;;INF789F01US8;;297.3392;13-Aug-2026
-120657;UTI Large Cap Fund - Direct Plan - IDCW;;;INF789F01UQ2;INF789F01UR0;63.1972;13-Aug-2026
-100651;UTI Large Cap Fund - Regular Plan - Growth Option;;;INF789F01976;;268.9115;13-Aug-2026
-100650;UTI Large Cap Fund - Regular Plan - IDCW;;;INF189A01038;INF789F01950;52.99;13-Aug-2026
+120656;UTI Large Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF789F01US8;;297.3392;13-Aug-2026
+120657;UTI Large Cap Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF789F01UQ2;INF789F01UR0;63.1972;13-Aug-2026
+100651;UTI Large Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF789F01976;;268.9115;13-Aug-2026
+100650;UTI Large Cap Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF189A01038;INF789F01950;52.99;13-Aug-2026
 
 WhiteOak Capital Mutual Fund
 150797;WhiteOak Capital Large Cap Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01696;;16.142;13-Aug-2026
@@ -718,10 +718,10 @@ Union Mutual Fund
 148072;Union Midcap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF582M01GO1;INF582M01GN3;53.31;13-Aug-2026
 
 UTI Mutual Fund
-120727;UTI Mid Cap Fund - Direct Plan - IDCW;;;INF789F01TY8;INF789F01TZ5;178.1037;13-Aug-2026
-102393;UTI Mid Cap Fund - Regular Plan - IDCW;;;INF789F01794;INF789F01802;152.3672;13-Aug-2026
-102394;UTI Mid Cap Fund-Growth Option;;;INF789F01810;;321.9872;13-Aug-2026
-120726;UTI Mid Cap Fund-Growth Option- Direct;;;INF789F01UA6;;361.9236;13-Aug-2026
+120727;UTI Mid Cap Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF789F01TY8;INF789F01TZ5;178.1037;13-Aug-2026
+102393;UTI Mid Cap Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF789F01794;INF789F01802;152.3672;13-Aug-2026
+102394;UTI Mid Cap Fund-Growth Option;Regular Plan;Growth;INF789F01810;;321.9872;13-Aug-2026
+120726;UTI Mid Cap Fund-Growth Option- Direct;Direct Plan;Growth;INF789F01UA6;;361.9236;13-Aug-2026
 
 WhiteOak Capital Mutual Fund
 150584;WhiteOak Capital Mid Cap Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01597;;23.658;13-Aug-2026
@@ -2208,18 +2208,18 @@ UTI Mutual Fund
 120732;UTI Banking and Financial Services Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF789F01SL7;INF789F01SM5;89.2069;13-Aug-2026
 102401;UTI Banking and Financial Services Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF789F01372;;197.8063;13-Aug-2026
 102402;UTI Banking and Financial Services Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF789F01356;INF789F01364;76.9852;13-Aug-2026
-120782;UTI Healthcare Fund - Direct Plan - Growth Option;;;INF789F01TO9;;388.909;13-Aug-2026
-120783;UTI Healthcare Fund - Direct Plan - IDCW;;;INF789F01TM3;INF789F01TN1;300.5982;13-Aug-2026
-100807;UTI Healthcare Fund - Regular Plan - Growth Option;;;INF789F01695;;341.3732;13-Aug-2026
-100806;UTI Healthcare Fund - Regular Plan - IDCW;;;INF789F01679;INF789F01687;263.8338;13-Aug-2026
-120729;UTI Infrastructure Fund - Direct Plan - IDCW;;;INF789F01TS0;INF789F01TT8;80.7446;13-Aug-2026
-102396;UTI Infrastructure Fund - Regular Plan - IDCW;;;INF789F01737;INF789F01745;76.5392;13-Aug-2026
-102395;UTI Infrastructure Fund-Growth Option;;;INF789F01752;;146.4461;13-Aug-2026
-120728;UTI Infrastructure Fund-Growth Option- Direct;;;INF789F01TU6;;154.2979;13-Aug-2026
-120682;UTI - MNC Fund - Growth Option - Direct;;;INF789F01UD0;;463.6925;13-Aug-2026
-100740;UTI - MNC Fund - Regular Plan - Growth Option;;;INF789F01844;;412.8427;13-Aug-2026
-120681;UTI MNC Fund - Direct Plan - IDCW;;;INF789F01UB4;INF789F01UC2;240.5325;13-Aug-2026
-100739;UTI MNC Fund - Regular Plan - IDCW;;;INF789F01828;INF789F01836;212.8554;13-Aug-2026
+120782;UTI Healthcare Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF789F01TO9;;388.909;13-Aug-2026
+120783;UTI Healthcare Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF789F01TM3;INF789F01TN1;300.5982;13-Aug-2026
+100807;UTI Healthcare Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF789F01695;;341.3732;13-Aug-2026
+100806;UTI Healthcare Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF789F01679;INF789F01687;263.8338;13-Aug-2026
+120729;UTI Infrastructure Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF789F01TS0;INF789F01TT8;80.7446;13-Aug-2026
+102396;UTI Infrastructure Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF789F01737;INF789F01745;76.5392;13-Aug-2026
+102395;UTI Infrastructure Fund-Growth Option;Regular Plan;Growth;INF789F01752;;146.4461;13-Aug-2026
+120728;UTI Infrastructure Fund-Growth Option- Direct;Direct Plan;Growth;INF789F01TU6;;154.2979;13-Aug-2026
+120682;UTI - MNC Fund - Growth Option - Direct;Direct Plan;Growth;INF789F01UD0;;463.6925;13-Aug-2026
+100740;UTI - MNC Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF789F01844;;412.8427;13-Aug-2026
+120681;UTI MNC Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF789F01UB4;INF789F01UC2;240.5325;13-Aug-2026
+100739;UTI MNC Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF789F01828;INF789F01836;212.8554;13-Aug-2026
 
 WhiteOak Capital Mutual Fund
 152321;WhiteOak Capital Banking & Financial Services Fund - Direct Growth;Direct Plan;Growth Option;INF03VN01860;;13.721;13-Aug-2026
@@ -2753,12 +2753,12 @@ Union Mutual Fund
 149454;Union Overnight Fund - Unclaimed Amounts Plan - Redemption Upto 3 years;;Unclaimed Amounts Plan - Redemption Upto 3 years;;;1301.3857;13-Aug-2026
 
 UTI Mutual Fund
-100814;UTI - Overnight  Fund - Regular Plan - Growth Option;;;INF789F01604;;3714.6323;13-Aug-2026
-120785;UTI - Overnight Fund - Direct Plan - Growth Option;;;INF789FB1S71;;3757.1243;13-Aug-2026
-124266;UTI Overnight Fund - Direct Plan - Daily IDCW;;;;INF789FB1S89;1371.6621;13-Aug-2026
-120786;UTI Overnight Fund - Direct Plan - Periodic IDCW;;;INF789FB1T05;INF789FB1S97;1971.7911;13-Aug-2026
-124265;UTI Overnight Fund - Regular Plan - Daily IDCW;;;;INF789FB1T13;1370.8617;13-Aug-2026
-100813;UTI Overnight Fund - Regular Plan - Periodic IDCW;;;INF789F01588;INF789F01596;1913.6493;13-Aug-2026
+100814;UTI - Overnight  Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF789F01604;;3714.6323;13-Aug-2026
+120785;UTI - Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF789FB1S71;;3757.1243;13-Aug-2026
+124266;UTI Overnight Fund - Direct Plan - Daily IDCW;Direct Plan;Daily IDCW;;INF789FB1S89;1371.6621;13-Aug-2026
+120786;UTI Overnight Fund - Direct Plan - Periodic IDCW;Direct Plan;Periodic IDCW;INF789FB1T05;INF789FB1S97;1971.7911;13-Aug-2026
+124265;UTI Overnight Fund - Regular Plan - Daily IDCW;Regular Plan;Daily IDCW;;INF789FB1T13;1370.8617;13-Aug-2026
+100813;UTI Overnight Fund - Regular Plan - Periodic IDCW;Regular Plan;Periodic IDCW;INF789F01588;INF789F01596;1913.6493;13-Aug-2026
 
 Zerodha Mutual Fund
 153436;Zerodha Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF0R8F01075;;10.7379;13-Aug-2026
@@ -3745,27 +3745,27 @@ Union Mutual Fund
 149118;Union Money Market Fund - Regular Plan - Daily IDCW Option;Regular Plan;Daily IDCW Option;;INF582M01HP6;1003.2031;13-Aug-2026
 
 UTI Mutual Fund
-120299;UTI MMF - Direct Plan - Growth Option;;;INF789F01XV6;;3356.8413;13-Aug-2026
-139236;UTI MMF - Regular Plan - Flexi Dividend Option;;;INF789FA1M04;INF789FA1M12;1282.0925;13-Aug-2026
-112077;UTI MMF - Regular Plan - Growth Option;;;INF789F01PX8;;3313.5045;13-Aug-2026
-100724;UTI MMF- Discontinued - Regular Plan - Flexi Dividend Option;;;;INF789F01BD0;4131.4117;13-Aug-2026
-100725;UTI MMF- Discontinued - Regular Plan - Periodic Dividend Option;;;INF789F01BE8;;2639.2868;13-Aug-2026
-100723;UTI MMF-Discontinued - Regular Plan -Growth;;;INF789F01BF5;;7656.6525;13-Aug-2026
-134973;UTI Money Market Fund - Direct Plan - Annual IDCW;;;INF789FA1N03;INF789FA1N11;1992.4454;13-Aug-2026
-120772;UTI Money Market Fund - Direct Plan - Daily IDCW (Reinvestment);;;;INF789F01XU8;1030.8659;13-Aug-2026
-143125;UTI Money Market Fund - Direct Plan - Flexi IDCW;;;INF789FA1N29;INF789FA1N37;1720.6968;13-Aug-2026
-135606;UTI Money Market Fund - Direct Plan - Fortnightly IDCW;;;INF789FA1M20;INF789FA1M38;1250.9409;13-Aug-2026
-140023;UTI Money Market Fund - Direct Plan - Half-Yearly IDCW;;;INF789FA1M87;INF789FA1M95;1875.6793;13-Aug-2026
-133387;UTI Money Market Fund - Direct Plan - Monthly IDCW;;;INF789FA1M46;INF789FA1M53;1643.1777;13-Aug-2026
-142249;UTI Money Market Fund - Direct Plan - Quarterly IDCW;;;INF789FA1M61;INF789FA1M79;1781.1818;13-Aug-2026
-120793;UTI Money Market Fund - Direct Plan - Weekly IDCW;;;INF789F01XW4;INF789F01XX2;1132.4269;13-Aug-2026
-134972;UTI Money Market Fund - Regular Plan - Annual IDCW;;;INF789FA1L88;INF789FA1L96;1973.6021;13-Aug-2026
-112076;UTI Money Market Fund - Regular Plan - Daily IDCW (Reinvestment);;;;INF789F01PW0;1066.5002;13-Aug-2026
-135371;UTI Money Market Fund - Regular Plan - Fortnightly IDCW;;;INF789FA1L05;INF789FA1L13;1159.0736;13-Aug-2026
-134763;UTI Money Market Fund - Regular Plan - Half-Yearly IDCW;;;INF789FA1L62;INF789FA1L70;1861.9663;13-Aug-2026
-133484;UTI Money Market Fund - Regular Plan - Monthly IDCW;;;INF789FA1L21;INF789FA1L39;1039.491;13-Aug-2026
-139646;UTI Money Market Fund - Regular Plan - Quarterly IDCW;;;INF789FA1L47;INF789FA1L54;1020.0408;13-Aug-2026
-112635;UTI Money Market Fund - Regular Plan - Weekly IDCW;;;INF789F01PY6;INF789F01PZ3;1102.8518;13-Aug-2026
+120299;UTI MMF - Direct Plan - Growth Option;Direct Plan;Growth;INF789F01XV6;;3356.8413;13-Aug-2026
+139236;UTI MMF - Regular Plan - Flexi Dividend Option;Regular Plan;Flexi IDCW;INF789FA1M04;INF789FA1M12;1282.0925;13-Aug-2026
+112077;UTI MMF - Regular Plan - Growth Option;Regular Plan;Growth;INF789F01PX8;;3313.5045;13-Aug-2026
+100724;UTI MMF- Discontinued - Regular Plan - Flexi Dividend Option;Regular Plan;Discontinued Flexi Dividend;;INF789F01BD0;4131.4117;13-Aug-2026
+100725;UTI MMF- Discontinued - Regular Plan - Periodic Dividend Option;Regular Plan;Discontinued Periodic Dividend;INF789F01BE8;;2639.2868;13-Aug-2026
+100723;UTI MMF-Discontinued - Regular Plan -Growth;Regular Plan;Discontinued Growth;INF789F01BF5;;7656.6525;13-Aug-2026
+134973;UTI Money Market Fund - Direct Plan - Annual IDCW;Direct Plan;Annual IDCW;INF789FA1N03;INF789FA1N11;1992.4454;13-Aug-2026
+120772;UTI Money Market Fund - Direct Plan - Daily IDCW (Reinvestment);Direct Plan;Daily IDCW (Reinvestment);;INF789F01XU8;1030.8659;13-Aug-2026
+143125;UTI Money Market Fund - Direct Plan - Flexi IDCW;Direct Plan;Flexi IDCW;INF789FA1N29;INF789FA1N37;1720.6968;13-Aug-2026
+135606;UTI Money Market Fund - Direct Plan - Fortnightly IDCW;Direct Plan;Fortnightly IDCW;INF789FA1M20;INF789FA1M38;1250.9409;13-Aug-2026
+140023;UTI Money Market Fund - Direct Plan - Half-Yearly IDCW;Direct Plan;Half-Yearly IDCW;INF789FA1M87;INF789FA1M95;1875.6793;13-Aug-2026
+133387;UTI Money Market Fund - Direct Plan - Monthly IDCW;Direct Plan;Monthly IDCW;INF789FA1M46;INF789FA1M53;1643.1777;13-Aug-2026
+142249;UTI Money Market Fund - Direct Plan - Quarterly IDCW;Direct Plan;Quarterly IDCW;INF789FA1M61;INF789FA1M79;1781.1818;13-Aug-2026
+120793;UTI Money Market Fund - Direct Plan - Weekly IDCW;Direct Plan;Weekly IDCW;INF789F01XW4;INF789F01XX2;1132.4269;13-Aug-2026
+134972;UTI Money Market Fund - Regular Plan - Annual IDCW;Regular Plan;Annual IDCW;INF789FA1L88;INF789FA1L96;1973.6021;13-Aug-2026
+112076;UTI Money Market Fund - Regular Plan - Daily IDCW (Reinvestment);Regular Plan;Daily IDCW (Reinvestment);;INF789F01PW0;1066.5002;13-Aug-2026
+135371;UTI Money Market Fund - Regular Plan - Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF789FA1L05;INF789FA1L13;1159.0736;13-Aug-2026
+134763;UTI Money Market Fund - Regular Plan - Half-Yearly IDCW;Regular Plan;Half-Yearly IDCW;INF789FA1L62;INF789FA1L70;1861.9663;13-Aug-2026
+133484;UTI Money Market Fund - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW;INF789FA1L21;INF789FA1L39;1039.491;13-Aug-2026
+139646;UTI Money Market Fund - Regular Plan - Quarterly IDCW;Regular Plan;Quarterly IDCW;INF789FA1L47;INF789FA1L54;1020.0408;13-Aug-2026
+112635;UTI Money Market Fund - Regular Plan - Weekly IDCW;Regular Plan;Weekly IDCW;INF789F01PY6;INF789F01PZ3;1102.8518;13-Aug-2026
 
 Open Ended Schemes ( Debt Scheme - Short Duration Fund )
 
@@ -5514,10 +5514,10 @@ Union Mutual Fund
 148590;Union Aggressive Hybrid Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF582M01HE0;INF582M01HD2;17.18;13-Aug-2026
 
 UTI Mutual Fund
-120673;UTI Aggressive Hybrid Fund - Direct Plan - IDCW;;;INF789F01SI3;INF789F01SJ1;46.0762;13-Aug-2026
-100684;UTI Aggressive Hybrid Fund - Regular Plan - Growth;;;INF789F01323;;413.631;13-Aug-2026
-100685;UTI Aggressive Hybrid Fund - Regular Plan - IDCW;;;INF789F01307;INF789F01315;40.5532;13-Aug-2026
-120674;UTI Aggressive Hybrid Fund -Direct Plan - Growth;;;INF789F01SK9;;447.9247;13-Aug-2026
+120673;UTI Aggressive Hybrid Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF789F01SI3;INF789F01SJ1;46.0762;13-Aug-2026
+100684;UTI Aggressive Hybrid Fund - Regular Plan - Growth;Regular Plan;Growth;INF789F01323;;413.631;13-Aug-2026
+100685;UTI Aggressive Hybrid Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF789F01307;INF789F01315;40.5532;13-Aug-2026
+120674;UTI Aggressive Hybrid Fund -Direct Plan - Growth;Direct Plan;Growth;INF789F01SK9;;447.9247;13-Aug-2026
 
 Open Ended Schemes ( Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage )
 
@@ -5698,8 +5698,8 @@ Union Mutual Fund
 142036;Union Balanced Advantage Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF582M01DK6;INF582M01DJ8;18.93;13-Aug-2026
 
 UTI Mutual Fund
-100646;UTI - Unit Linked Insurance Plan;;;;;43.6309;13-Aug-2026
-120784;UTI - Unit Linked Insurance Plan- Direct;;;;;47.5038;13-Aug-2026
+100646;UTI - Unit Linked Insurance Plan;Regular Plan;Growth;;;43.6309;13-Aug-2026
+120784;UTI - Unit Linked Insurance Plan- Direct;Direct Plan;Growth;;;47.5038;13-Aug-2026
 
 WhiteOak Capital Mutual Fund
 151267;WhiteOak Capital Balanced Advantage Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01738;;15.800;13-Aug-2026
@@ -8927,27 +8927,27 @@ Mirae Asset Mutual Fund
 111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;Regular Plan;Weekly IDCW;INF769K01PC4;INF769K01812;1152.7949;13-Aug-2026
 
 UTI Mutual Fund
-134427;UTI Liquid Fund - Direct Plan - Annual IDCW;;;INF789F1AE45;INF789F1AE52;203.8188;13-Aug-2026
-120558;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);;;;INF789F1AD38;106.5304;13-Aug-2026
-141768;UTI Liquid Fund - Direct Plan - Flexi IDCW;;;INF789F1AE60;INF789F1AE78;167.8744;13-Aug-2026
-140913;UTI Liquid Fund - Direct Plan - Fortnightly IDCW;;;INF789F1AD87;INF789F1AD95;115.5439;13-Aug-2026
-120304;UTI Liquid Fund - Direct Plan - Growth Option;;;INF789F1AD46;;463.4488;13-Aug-2026
-140504;UTI Liquid Fund - Direct Plan - Half-Yearly IDCW;;;INF789F1AE29;INF789F1AE37;159.2091;13-Aug-2026
-120794;UTI Liquid Fund - Direct Plan - Monthly IDCW;;;INF789F1AD53;INF789F1AD61;104.5606;13-Aug-2026
-140024;UTI Liquid Fund - Direct Plan - Quarterly IDCW;;;INF789F1AE03;INF789F1AE11;192.493;13-Aug-2026
-120777;UTI Liquid Fund - Direct Plan - Weekly IDCW;;;;INF789F1AD79;105.8647;13-Aug-2026
-102008;UTI Liquid Fund - Discontinued - Regular Plan - Monthly Dividend Option;;;INF789F1AG27;INF789F1AG35;106.5623;13-Aug-2026
-102009;UTI Liquid Fund - Discontinued - Regular Plan -Growth;;;INF789F1AF44;;416.3208;13-Aug-2026
-102007;UTI Liquid Fund - Discontinued -Regular Plan Periodic Dividend Option;;;INF789F1AE86;INF789F1AE94;113.3712;13-Aug-2026
-133973;UTI Liquid Fund - Regular Plan - Annual IDCW;;;INF789F1AD12;INF789F1AD20;202.2975;13-Aug-2026
-102010;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);;;;INF789F1AF77;120.7679;13-Aug-2026
-140517;UTI Liquid Fund - Regular Plan - Flexi IDCW;;;INF789F1AF02;INF789F1AF10;166.7291;13-Aug-2026
-139838;UTI Liquid Fund - Regular Plan - Fortnightly IDCW;;;INF789F1AF28;INF789F1AF36;115.4611;13-Aug-2026
-102012;UTI Liquid Fund - Regular Plan - Growth Option;;;INF789F1AF85;;458.786;13-Aug-2026
-144475;UTI Liquid Fund - Regular Plan - Half-Yearly IDCW;;;INF789F1AF51;INF789F1AF69;140.9107;13-Aug-2026
-102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;;;INF789F1AF93;INF789F1AG01;112.6563;13-Aug-2026
-135721;UTI Liquid Fund - Regular Plan - Quarterly IDCW;;;INF789F1AG43;INF789F1AG50;191.0138;13-Aug-2026
-102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;;;;INF789F1AG19;105.3095;13-Aug-2026
+134427;UTI Liquid Fund - Direct Plan - Annual IDCW;Direct Plan;Annual IDCW;INF789F1AE45;INF789F1AE52;203.8188;13-Aug-2026
+120558;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);Direct Plan;Daily IDCW (Reinvestment);;INF789F1AD38;106.5304;13-Aug-2026
+141768;UTI Liquid Fund - Direct Plan - Flexi IDCW;Direct Plan;Flexi IDCW;INF789F1AE60;INF789F1AE78;167.8744;13-Aug-2026
+140913;UTI Liquid Fund - Direct Plan - Fortnightly IDCW;Direct Plan;Fortnightly IDCW;INF789F1AD87;INF789F1AD95;115.5439;13-Aug-2026
+120304;UTI Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF789F1AD46;;463.4488;13-Aug-2026
+140504;UTI Liquid Fund - Direct Plan - Half-Yearly IDCW;Direct Plan;Half-Yearly IDCW;INF789F1AE29;INF789F1AE37;159.2091;13-Aug-2026
+120794;UTI Liquid Fund - Direct Plan - Monthly IDCW;Direct Plan;Monthly IDCW;INF789F1AD53;INF789F1AD61;104.5606;13-Aug-2026
+140024;UTI Liquid Fund - Direct Plan - Quarterly IDCW;Direct Plan;Quarterly IDCW;INF789F1AE03;INF789F1AE11;192.493;13-Aug-2026
+120777;UTI Liquid Fund - Direct Plan - Weekly IDCW;Direct Plan;Weekly IDCW;;INF789F1AD79;105.8647;13-Aug-2026
+102008;UTI Liquid Fund - Discontinued - Regular Plan - Monthly Dividend Option;Regular Plan;Discontinued Monthly Dividend;INF789F1AG27;INF789F1AG35;106.5623;13-Aug-2026
+102009;UTI Liquid Fund - Discontinued - Regular Plan -Growth;Regular Plan;Discontinued Growth;INF789F1AF44;;416.3208;13-Aug-2026
+102007;UTI Liquid Fund - Discontinued -Regular Plan Periodic Dividend Option;Direct Plan;Discontinued Periodic Dividend;INF789F1AE86;INF789F1AE94;113.3712;13-Aug-2026
+133973;UTI Liquid Fund - Regular Plan - Annual IDCW;Regular Plan;Annual IDCW;INF789F1AD12;INF789F1AD20;202.2975;13-Aug-2026
+102010;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);Regular Plan;Daily IDCW (Reinvestment);;INF789F1AF77;120.7679;13-Aug-2026
+140517;UTI Liquid Fund - Regular Plan - Flexi IDCW;Regular Plan;Flexi IDCW;INF789F1AF02;INF789F1AF10;166.7291;13-Aug-2026
+139838;UTI Liquid Fund - Regular Plan - Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF789F1AF28;INF789F1AF36;115.4611;13-Aug-2026
+102012;UTI Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF789F1AF85;;458.786;13-Aug-2026
+144475;UTI Liquid Fund - Regular Plan - Half-Yearly IDCW;Regular Plan;Half-Yearly IDCW;INF789F1AF51;INF789F1AF69;140.9107;13-Aug-2026
+102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW;INF789F1AF93;INF789F1AG01;112.6563;13-Aug-2026
+135721;UTI Liquid Fund - Regular Plan - Quarterly IDCW;Regular Plan;Quarterly IDCW;INF789F1AG43;INF789F1AG50;191.0138;13-Aug-2026
+102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;Regular Plan;Weekly IDCW;;INF789F1AG19;105.3095;13-Aug-2026
 
 Open Ended Schemes ( Income/Debt Oriented Schemes - Ultra Short Term Fund )
 
@@ -11108,7 +11108,7 @@ Sundaram Mutual Fund
 143078;Sundaram Long Term Tax Advantage Fund Series IV Regular Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW);;;INF903JA1CY9;;34.5997;13-Aug-2026
 
 UTI Mutual Fund
-101834;UTI - Master Equity Plan Unit Scheme;;;;;226.2087;13-Aug-2026
+101834;UTI - Master Equity Plan Unit Scheme;Regular Plan;Growth;;;226.2087;13-Aug-2026
 
 Close Ended Schemes ( Income/Debt Oriented Schemes - Other Debt Scheme )
 
