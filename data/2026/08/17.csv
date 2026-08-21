@@ -873,10 +873,10 @@ Samco Mutual Fund
 153869;Samco Small Cap Fund - Regular Plan;Regular Plan;Growth;INF0K1H01305;;11.48;17-Aug-2026
 
 SBI Mutual Fund
-125497;SBI Small Cap Fund - Direct Plan - Growth;;;INF200K01T51;;214.4854;17-Aug-2026
-125496;SBI Small Cap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01T69;INF200K01T77;146.3953;17-Aug-2026
-125494;SBI Small Cap Fund - Regular Plan - Growth;;;INF200K01T28;;185.7856;17-Aug-2026
-125495;SBI Small Cap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01T36;INF200K01T44;109.7591;17-Aug-2026
+125497;SBI Small Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF200K01T51;;214.4854;17-Aug-2026
+125496;SBI Small Cap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01T69;INF200K01T77;146.3953;17-Aug-2026
+125494;SBI Small Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF200K01T28;;185.7856;17-Aug-2026
+125495;SBI Small Cap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01T36;INF200K01T44;109.7591;17-Aug-2026
 
 Sundaram Mutual Fund
 119589;Sundaram Small Cap Fund Direct Plan - Growth;Direct Plan;GROWTH;INF903J01NK9;;335.0793;17-Aug-2026
@@ -2052,22 +2052,22 @@ SBI Mutual Fund
 119711;SBI MNC FUND - DIRECT PLAN -GROWTH;Direct Plan;Growth;INF200K01SN1;;460.0656;17-Aug-2026
 103114;SBI MNC Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01255;INF200K01263;126.6584;17-Aug-2026
 103034;SBI MNC FUND - REGULAR PLAN -GROWTH;Regular Plan;Growth;INF200K01271;;414.6045;17-Aug-2026
-119732;SBI PSU Fund - DIRECT PLAN - GROWTH;;;INF200K01UY4;;38.4432;17-Aug-2026
-119733;SBI PSU Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01UW8;INF200K01UX6;38.3869;17-Aug-2026
-112923;SBI PSU Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01BD8;INF200K01BE6;34.5340;17-Aug-2026
-113099;SBI PSU Fund - REGULAR PLAN -Growth;;;INF200K01BC0;;34.5380;17-Aug-2026
-154177;SBI Quality Fund - Direct Plan - Growth;;;INF200KB1AG6;;11.0013;17-Aug-2026
-154178;SBI Quality Fund - Direct Plan - Income Distribution Cum Capital Withdrawal;;;INF200KB1AH4;INF200KB1AI2;11.0013;17-Aug-2026
-154175;SBI Quality Fund - Regular Plan - Growth;;;INF200KB1AD3;;10.9383;17-Aug-2026
-154176;SBI Quality Fund - Regular Plan - Income Distribution Cum Capital Withdrawal;;;INF200KB1AE1;INF200KB1AF8;10.9383;17-Aug-2026
-153154;SBI Quant Fund- Direct Plan- Growth;;;INF200KB1506;;10.0513;17-Aug-2026
-153151;SBI Quant Fund- Direct Plan- Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KB1514;INF200KB1522;10.0511;17-Aug-2026
-153153;SBI Quant Fund- Regular Plan- Growth;;;INF200KB1472;;9.8659;17-Aug-2026
-153152;SBI Quant Fund- Regular Plan- Income Distribution Cum Capital Withdrawal Option (IDCW);;;INF200KB1480;INF200KB1498;9.8659;17-Aug-2026
-120578;SBI TECHNOLOGY OPPORTUNITIES FUND - DIRECT PLAN - GROWTH;;;INF200K01RV6;;234.7730;17-Aug-2026
-119731;SBI Technology Opportunities Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01RT0;INF200K01RU8;166.7513;17-Aug-2026
-120577;SBI TECHNOLOGY OPPORTUNITIES FUND - REGULAR PLAN - GROWTH;;;INF200K01VS4;;203.9423;17-Aug-2026
-100643;SBI Technology Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01420;INF200K01438;122.8111;17-Aug-2026
+119732;SBI PSU Fund - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01UY4;;38.4432;17-Aug-2026
+119733;SBI PSU Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01UW8;INF200K01UX6;38.3869;17-Aug-2026
+112923;SBI PSU Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01BD8;INF200K01BE6;34.5340;17-Aug-2026
+113099;SBI PSU Fund - REGULAR PLAN -Growth;Regular Plan;Growth;INF200K01BC0;;34.5380;17-Aug-2026
+154177;SBI Quality Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KB1AG6;;11.0013;17-Aug-2026
+154178;SBI Quality Fund - Direct Plan - Income Distribution Cum Capital Withdrawal;Direct Plan;IDCW;INF200KB1AH4;INF200KB1AI2;11.0013;17-Aug-2026
+154175;SBI Quality Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KB1AD3;;10.9383;17-Aug-2026
+154176;SBI Quality Fund - Regular Plan - Income Distribution Cum Capital Withdrawal;Regular Plan;IDCW;INF200KB1AE1;INF200KB1AF8;10.9383;17-Aug-2026
+153154;SBI Quant Fund- Direct Plan- Growth;Direct Plan;Growth;INF200KB1506;;10.0513;17-Aug-2026
+153151;SBI Quant Fund- Direct Plan- Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KB1514;INF200KB1522;10.0511;17-Aug-2026
+153153;SBI Quant Fund- Regular Plan- Growth;Regular Plan;Growth;INF200KB1472;;9.8659;17-Aug-2026
+153152;SBI Quant Fund- Regular Plan- Income Distribution Cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KB1480;INF200KB1498;9.8659;17-Aug-2026
+120578;SBI TECHNOLOGY OPPORTUNITIES FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01RV6;;234.7730;17-Aug-2026
+119731;SBI Technology Opportunities Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01RT0;INF200K01RU8;166.7513;17-Aug-2026
+120577;SBI TECHNOLOGY OPPORTUNITIES FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01VS4;;203.9423;17-Aug-2026
+100643;SBI Technology Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01420;INF200K01438;122.8111;17-Aug-2026
 
 Shriram Mutual Fund
 153076;Shriram Multi Sector Rotation Fund - Direct Plan Growth Option;Direct Plan;Growth;INF680P01455;;8.4422;17-Aug-2026
@@ -2704,12 +2704,12 @@ Samco Mutual Fund
 153021;Samco Overnight Fund - Unclaimed Redemption Upto 3 years;;;;;1096.3340;17-Aug-2026
 
 SBI Mutual Fund
-119831;SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;;;INF200K01TJ7;1385.8895;17-Aug-2026
-119833;SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH;;;INF200K01TK5;;4465.0195;17-Aug-2026
-119832;SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01TL3;INF200K01TM1;1415.1890;17-Aug-2026
-114297;SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;;;INF200K01LN6;1379.4187;17-Aug-2026
-101206;SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH;;;INF200K01LQ9;;4404.3028;17-Aug-2026
-103140;SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01LO4;INF200K01LP1;1408.4798;17-Aug-2026
+119831;SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;;INF200K01TJ7;1385.8895;17-Aug-2026
+119833;SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01TK5;;4465.0195;17-Aug-2026
+119832;SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01TL3;INF200K01TM1;1415.1890;17-Aug-2026
+114297;SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;;INF200K01LN6;1379.4187;17-Aug-2026
+101206;SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01LQ9;;4404.3028;17-Aug-2026
+103140;SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01LO4;INF200K01LP1;1408.4798;17-Aug-2026
 
 Shriram Mutual Fund
 154395;Shriram Overnight Fund- Direct Daily IDCW;Direct Plan;Daily IDCW;;INF680P01513;1000.0192;17-Aug-2026
@@ -3304,12 +3304,12 @@ PGIM India Mutual Fund
 138341;PGIM India Ultra Short Duration Fund - Weekly Dividend;Regular Plan;Regular IDCW;INF223J01FO0;INF223J01FP7;10.0799;17-Aug-2026
 
 SBI Mutual Fund
-119784;SBI Ultra Short Duration Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;;;INF200K01TG3;2441.2412;17-Aug-2026
-119828;SBI ULTRA SHORT DURATION FUND - DIRECT PLAN - GROWTH;;;INF200K01TF5;;6528.6520;17-Aug-2026
-119829;SBI Ultra Short Duration Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01TH1;INF200K01TI9;1272.9913;17-Aug-2026
-105080;SBI Ultra Short Duration Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);;;;INF200K01LK2;2410.8583;17-Aug-2026
-100641;SBI ULTRA SHORT DURATION FUND - REGULAR PLAN - GROWTH;;;INF200K01LJ4;;6400.6943;17-Aug-2026
-103884;SBI Ultra Short Duration Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01LM8;INF200K01LL0;1265.0129;17-Aug-2026
+119784;SBI Ultra Short Duration Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;;INF200K01TG3;2441.2412;17-Aug-2026
+119828;SBI ULTRA SHORT DURATION FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01TF5;;6528.6520;17-Aug-2026
+119829;SBI Ultra Short Duration Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01TH1;INF200K01TI9;1272.9913;17-Aug-2026
+105080;SBI Ultra Short Duration Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;;INF200K01LK2;2410.8583;17-Aug-2026
+100641;SBI ULTRA SHORT DURATION FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01LJ4;;6400.6943;17-Aug-2026
+103884;SBI Ultra Short Duration Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01LM8;INF200K01LL0;1265.0129;17-Aug-2026
 
 Sundaram Mutual Fund
 149537;Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund) - Income Distribution CUM Capital Withdrawal Option (IDCW);Regular Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF173K01CX3;INF173K01CY1;1068.9893;17-Aug-2026
@@ -3705,14 +3705,14 @@ PGIM India Mutual Fund
 152121;PGIM India Money Market Fund - Segregated Portfolio 1 - Regular Plan - Quarterly IDCW Option;Regular Plan;Regular IDCW;;;0;17-Aug-2026
 
 SBI Mutual Fund
-119821;SBI  SAVINGS FUND - DIRECT PLAN - GROWTH;;;INF200K01SZ5;;47.8029;17-Aug-2026
-102503;SBI  SAVINGS FUND - REGULAR PLAN - GROWTH;;;INF200K01636;;44.3538;17-Aug-2026
-119820;SBI Savings Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01SX0;INF200K01SY8;18.9476;17-Aug-2026
-119822;SBI Savings Fund - Direct Plan Daily Income Distribution cum Capital Withdrawal Option (IDCW);;;;INF200K01SW2;14.9267;17-Aug-2026
-119823;SBI Savings Fund - Direct Plan Weekly Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01TA6;INF200K01TB4;16.9186;17-Aug-2026
-102504;SBI Savings Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01644;INF200K01651;17.4888;17-Aug-2026
-114348;SBI Savings Fund - Regular Plan Daily Income Distribution cum Capital Withdrawal Option (IDCW);;;;INF200KA1K20;14.4580;17-Aug-2026
-102860;SBI Savings Fund - Regular Plan Weekly Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01669;INF200K01677;16.1989;17-Aug-2026
+119821;SBI  SAVINGS FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01SZ5;;47.8029;17-Aug-2026
+102503;SBI  SAVINGS FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01636;;44.3538;17-Aug-2026
+119820;SBI Savings Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01SX0;INF200K01SY8;18.9476;17-Aug-2026
+119822;SBI Savings Fund - Direct Plan Daily Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;;INF200K01SW2;14.9267;17-Aug-2026
+119823;SBI Savings Fund - Direct Plan Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01TA6;INF200K01TB4;16.9186;17-Aug-2026
+102504;SBI Savings Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01644;INF200K01651;17.4888;17-Aug-2026
+114348;SBI Savings Fund - Regular Plan Daily Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;;INF200KA1K20;14.4580;17-Aug-2026
+102860;SBI Savings Fund - Regular Plan Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01669;INF200K01677;16.1989;17-Aug-2026
 
 Shriram Mutual Fund
 154144;Shriram Money Market Fund - Direct Plan Growth Option;Direct Plan;Growth;INF680P01471;;1037.6396;17-Aug-2026
@@ -3811,14 +3811,6 @@ Bank of India Mutual Fund
 111589;BANK OF INDIA Short Term Income Fund-Regular Plan- Monthly IDCW;Regular Plan;Monthly IDCW;INF761K01595;INF761K01587;14.5641;17-Aug-2026
 111590;BANK OF INDIA Short Term Income Fund-Regular Plan- Quarterly IDCW;Regular Plan;Quarterly IDCW;INF761K01611;INF761K01603;14.3523;17-Aug-2026
 
-Baroda BNP Paribas Mutual Fund
-119400;Baroda BNP Paribas Short Duration Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF955L01BD5;;33.8876;17-Aug-2026
-119399;Baroda BNP Paribas Short Duration Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF955L01BB9;;10.4872;17-Aug-2026
-140463;Baroda BNP Paribas Short Duration Fund - Direct Plan - Quarterly IDCW;Direct Plan;Quarterly IDCW Option;INF955L01GU8;;11.2354;17-Aug-2026
-113036;Baroda BNP Paribas Short Duration Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF955L01153;;31.0027;17-Aug-2026
-113037;Baroda BNP Paribas Short Duration Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF955L01138;INF955L01146;10.1911;17-Aug-2026
-140465;Baroda BNP Paribas Short Duration Fund - Regular Plan - Quarterly IDCW;Regular Plan;Quarterly IDCW Option;INF955L01GS2;;10.6166;17-Aug-2026
-
 Canara Robeco Mutual Fund
 118320;CANARA ROBECO SHORT DURATION FUND - DIRECT PLAN - GROWTH OPTION;Direct Plan;GROWTH OPTION;INF760K01DX5;;29.5564;17-Aug-2026
 118321;CANARA ROBECO SHORT DURATION FUND - DIRECT PLAN - MONTHLY IDCW (Payout/Reinvestment);Direct Plan;MONTHLY IDCW (Payout/Reinvestment);INF760K01DV9;INF760K01DW7;18.5235;17-Aug-2026
@@ -3895,18 +3887,18 @@ Nippon India Mutual Fund
 101669;NIPPON INDIA SHORT DURATION FUND - QUARTERLY IDCW OPTION;Regular Plan;QUARTERLY IDCW OPTION;INF204K01FO8;INF204K01FP5;15.0294;17-Aug-2026
 
 SBI Mutual Fund
-106230;SBI Short Horizon Debt Fund - Short Term Fund - Retail Dividend - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01IA9;INF200K01IB7;16.0634;17-Aug-2026
-106229;SBI Short Horizon Debt Fund - Short Term Fund - Retail Dividend - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01IC5;INF200K01ID3;17.7099;17-Aug-2026
-106228;SBI Short Horizon Debt Fund - Short Term Fund - Retail Dividend - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01IE1;INF200K01IF8;16.0391;17-Aug-2026
-106227;SBI SHORT HORIZON DEBT FUND-SHORT TERM FUND - RETAIL - GROWTH;;;INF200K01IG6;;38.6655;17-Aug-2026
-119813;SBI Short Term Debt Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01VF1;INF200K01VG9;20.3443;17-Aug-2026
-119816;SBI SHORT TERM DEBT FUND - DIRECT PLAN -GROWTH;;;INF200K01VE4;;36.4843;17-Aug-2026
-119815;SBI Short Term Debt Fund - Direct Plan Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01VC8;INF200K01VD6;24.5737;17-Aug-2026
-119817;SBI Short Term Debt Fund - Direct Plan Weekly Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01VH7;INF200K01VI5;15.9812;17-Aug-2026
-106233;SBI Short Term Debt Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01HV7;INF200K01HW5;18.8936;17-Aug-2026
-106231;SBI SHORT TERM DEBT FUND - REGULAR PLAN -GROWTH;;;INF200K01HZ8;;34.1744;17-Aug-2026
-106234;SBI Short Term Debt Fund - Regular Plan Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01HT1;INF200K01HU9;15.4796;17-Aug-2026
-106232;SBI Short Term Debt Fund - Regular Plan Weekly Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01HX3;INF200K01HY1;15.4950;17-Aug-2026
+106230;SBI Short Horizon Debt Fund - Short Term Fund - Retail Dividend - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01IA9;INF200K01IB7;16.0634;17-Aug-2026
+106229;SBI Short Horizon Debt Fund - Short Term Fund - Retail Dividend - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01IC5;INF200K01ID3;17.7099;17-Aug-2026
+106228;SBI Short Horizon Debt Fund - Short Term Fund - Retail Dividend - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01IE1;INF200K01IF8;16.0391;17-Aug-2026
+106227;SBI SHORT HORIZON DEBT FUND-SHORT TERM FUND - RETAIL - GROWTH;Regular Plan;Growth;INF200K01IG6;;38.6655;17-Aug-2026
+119813;SBI Short Term Debt Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01VF1;INF200K01VG9;20.3443;17-Aug-2026
+119816;SBI SHORT TERM DEBT FUND - DIRECT PLAN -GROWTH;Direct Plan;Growth;INF200K01VE4;;36.4843;17-Aug-2026
+119815;SBI Short Term Debt Fund - Direct Plan Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01VC8;INF200K01VD6;24.5737;17-Aug-2026
+119817;SBI Short Term Debt Fund - Direct Plan Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01VH7;INF200K01VI5;15.9812;17-Aug-2026
+106233;SBI Short Term Debt Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01HV7;INF200K01HW5;18.8936;17-Aug-2026
+106231;SBI SHORT TERM DEBT FUND - REGULAR PLAN -GROWTH;Regular Plan;Growth;INF200K01HZ8;;34.1744;17-Aug-2026
+106234;SBI Short Term Debt Fund - Regular Plan Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01HT1;INF200K01HU9;15.4796;17-Aug-2026
+106232;SBI Short Term Debt Fund - Regular Plan Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01HX3;INF200K01HY1;15.4950;17-Aug-2026
 
 Sundaram Mutual Fund
 149588;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) - Direct Plan - Income Distribution CUM Capital Withdrawal Plan (IDCW);Direct Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF173K01GQ8;INF173K01GR6;13.1812;17-Aug-2026
@@ -4617,34 +4609,6 @@ Bandhan Mutual Fund
 Bank of India Mutual Fund
 133868;BANK OF INDIA Credit Risk  Fund - Direct Plan;Direct Plan;Growth;INF761K01DG8;;14.8203;17-Aug-2026
 133867;BANK OF INDIA Credit Risk Fund - Regular Plan;Regular Plan;Growth;INF761K01DH6;;14.3916;17-Aug-2026
-
-Baroda BNP Paribas Mutual Fund
-152903;Baroda BNP Paribas Credit Risk fund - Regular-Quarterly- IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Regular-Quarterly IDCW option Seg. Portfolio 1);Regular Plan;Quarterly IDCW Option;INF955L01IZ3;INF955L01JA4;0.0000;17-Aug-2026
-152905;Baroda BNP Paribas Credit Risk fund - Regular-Weekly-IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Regular-Weekly IDCW option Seg. Portfolio 1);Regular Plan;Weekly IDCW Option;;INF955L01JE6;0.0000;17-Aug-2026
-152892;Baroda BNP Paribas Credit risk fund -Defunct -Growth option -Seg-Portfolio 2 (erstwhile BBNPP Medium Duration Fund-Defunct Growth Option Seg.Portfolio1);;Growth Option;INF955L01JM9;;0.0000;17-Aug-2026
-152899;Baroda BNP Paribas Credit Risk fund -Defunct -Monthly IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Defunct-Monthly IDCW option Seg. Portfolio 1);;Monthly IDCW Option;INF955L01JP2;INF955L01JQ0;0.0000;17-Aug-2026
-152894;Baroda BNP Paribas Credit Risk fund -Defunct -Weekly IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Defunct-Weekly IDCW option Seg. Portfolio 1);;Weekly IDCW Option;;INF955L01JO5;0.0000;17-Aug-2026
-152898;Baroda BNP Paribas Credit Risk fund -Direct - Growth option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Direct-Growth option Seg. Portfolio 1);Direct Plan;Growth Option;INF955L01JF3;;0.0000;17-Aug-2026
-152897;Baroda BNP Paribas Credit Risk fund -Direct -Monthly IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Direct-Monthly IDCW option Seg. Portfolio 1);Direct Plan;Monthly IDCW Option;;INF955L01JJ5;0.0000;17-Aug-2026
-152896;Baroda BNP Paribas Credit Risk fund -Direct -Quarterly IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Direct-Quarterly IDCW option Seg. Portfolio 1);Direct Plan;Quarterly IDCW Option;INF955L01JG1;INF955L01JH9;0.0000;17-Aug-2026
-152895;Baroda BNP Paribas Credit Risk fund -Direct -Weekly IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Direct-weekly IDCW option Seg. Portfolio 1);Direct Plan;Weekly IDCW Option;;INF955L01JL1;0.0000;17-Aug-2026
-133520;Baroda BNP Paribas Credit Risk Fund -Direct- Monthly IDCW;Direct Plan;Monthly IDCW Option;INF955L01FZ9;;14.3303;17-Aug-2026
-133524;Baroda BNP Paribas Credit Risk Fund -Direct- Quarterly IDCW;Direct Plan;Quarterly IDCW Option;INF955L01GA0;;12.7375;17-Aug-2026
-152900;Baroda BNP Paribas Credit Risk fund -Direct-Daily IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Direct-daily-IDCW option Seg. Portfolio 1);Direct Plan;Daily IDCW Option;INF955L01JI7;INF955L01JK3;0.0000;17-Aug-2026
-133488;Baroda BNP Paribas Credit Risk Fund -Direct-Growth Option;Direct Plan;Growth Option;INF955L01FR6;;26.4213;17-Aug-2026
-152901;Baroda BNP Paribas Credit Risk fund -Regular -Daily-IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Regular-Daily-IDCW option Seg. Portfolio 1);Regular Plan;Daily IDCW Option;;INF955L01JD8;0.0000;17-Aug-2026
-152902;Baroda BNP Paribas Credit Risk fund -Regular -Monthly IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Regular-Monthly IDCW option Seg. Portfolio 1);Regular Plan;Monthly IDCW Option;INF955L01JB2;INF955L01JC0;0.0000;17-Aug-2026
-152904;Baroda BNP Paribas Credit Risk fund -Regular-Growth -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Regular Growth Seg. Portfolio 1);Regular Plan;Growth Option;INF955L01IY6;;0.0000;17-Aug-2026
-133486;Baroda BNP Paribas Credit Risk Fund -Regular-Growth Option;Regular Plan;Growth Option;INF955L01FP0;;23.7958;17-Aug-2026
-133517;Baroda BNP Paribas Credit Risk Fund -Regular-Monthly IDCW;Regular Plan;Monthly IDCW Option;INF955L01FU0;;11.2141;17-Aug-2026
-133518;Baroda BNP Paribas Credit Risk Fund -Regular-Quarterly IDCW;Regular Plan;Quarterly IDCW Option;INF955L01FV8;;11.6424;17-Aug-2026
-148333;Baroda BNP Paribas Credit Risk Fund- Direct- Growth Option- Segregated Portfolio- 1;Direct Plan;Growth Option;INF955L01IT6;;0.0000;17-Aug-2026
-148334;Baroda BNP Paribas Credit Risk Fund- Direct- Monthly IDCW Option- Segregated Portfolio- 1;Direct Plan;Monthly IDCW Option;INF955L01IW0;INF955L01IX8;0.0000;17-Aug-2026
-148330;Baroda BNP Paribas Credit Risk Fund- Regular- Growth Option- Segregated Portfolio- 1;Regular Plan;Growth Option;INF955L01IO7;;0.0000;17-Aug-2026
-148331;Baroda BNP Paribas Credit Risk Fund- Regular- Monthly IDCW Option- Segregated Portfolio- 1;Regular Plan;Monthly IDCW Option;INF955L01IR0;INF955L01IS8;0.0000;17-Aug-2026
-148332;Baroda BNP Paribas Credit Risk Fund- Regular- Quarterly IDCW Option- Segregated Portfolio- 1;Regular Plan;Quarterly IDCW Option;INF955L01IP4;INF955L01IQ2;0.0000;17-Aug-2026
-152893;Baroda BNP Paribas Credit Risk Fund-Defunct -Daily IDCW option - seg Portfolio 2 (erstwhile BBNPP Medium Duration fund Defunct Daily IDCW daily option Seg Portfolio 1);;Daily IDCW Option;;INF955L01JN7;0.0000;17-Aug-2026
-148335;Baroda BNP Paribas Credit Risk Fund-Direct- Quarterly IDCW Option- Segregated Portfolio- 1;Direct Plan;Quarterly IDCW Option;INF955L01IU4;INF955L01IV2;0.0000;17-Aug-2026
 
 DSP Mutual Fund
 119084;DSP Credit Risk Fund - Direct Plan -  IDCW - Monthly;Direct Plan;Monthly IDCW;INF740K01OV8;INF740K01OW6;11.2266;17-Aug-2026
@@ -6067,7 +6031,7 @@ SBI Mutual Fund
 119574;SBI Arbitrage Opportunities Fund - Direct Plan - Gr;Direct Plan;Growth;INF200K01QU0;;38.5294;17-Aug-2026
 119567;SBI Arbitrage Opportunities Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01QS4;INF200K01QT2;20.8179;17-Aug-2026
 104457;SBI Arbitrage Opportunities Fund - Regular Plan - Gr;Regular Plan;Growth;INF200K01156;;36.0353;17-Aug-2026
-104458;SBI Arbitrage Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01131;INF200K01149;18.9506;17-Aug-2026
+104458;SBI Arbitrage Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01131;INF200K01149;18.9506;17-Aug-2026
 
 Sundaram Mutual Fund
 149552;Sundaram Arbitrage Fund (Formerly Know as Principal Arbitrage Fund) - Regular Plan - Growth;Regular Plan;GROWTH;INF173K01NB6;;15.3763;17-Aug-2026
@@ -6365,22 +6329,22 @@ PGIM India Mutual Fund
 152540;PGIM India Retirement Fund - Regular Plan - IDCW Payout Option;Regular Plan;Regular IDCW;INF663L01Y53;;12.54;17-Aug-2026
 
 SBI Mutual Fund
-148685;SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Direct Plan - Growth;;;INF200KA1S97;;21.1495;17-Aug-2026
-148686;SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KA1T05;;21.1517;17-Aug-2026
-148695;SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Regular Plan - Growth;;;INF200KA1S71;;19.8598;17-Aug-2026
-148684;SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KA1S89;;19.8593;17-Aug-2026
-148683;SBI Retirement Benefit Fund - Aggressive Plan - Direct Plan - Growth;;;INF200KA1S55;;22.0461;17-Aug-2026
-148694;SBI Retirement Benefit Fund - Aggressive Plan - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KA1S63;;22.0343;17-Aug-2026
-148698;SBI Retirement Benefit Fund - Aggressive Plan - Regular Plan - Growth;;;INF200KA1S30;;20.5882;17-Aug-2026
-148691;SBI Retirement Benefit Fund - Aggressive Plan - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KA1S48;;20.5887;17-Aug-2026
-148690;SBI Retirement Benefit Fund - Conservative Hybrid Plan - Direct Plan - Growth;;;INF200KA1T70;;16.5264;17-Aug-2026
-148693;SBI Retirement Benefit Fund - Conservative Hybrid Plan - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KA1T88;;16.5242;17-Aug-2026
-148692;SBI Retirement Benefit Fund - Conservative Hybrid Plan - Regular Plan - Growth;;;INF200KA1T54;;15.9949;17-Aug-2026
-148697;SBI Retirement Benefit Fund - Conservative Hybrid Plan - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KA1T62;;15.9967;17-Aug-2026
-148688;SBI Retirement Benefit Fund - Conservative Plan - Direct Plan - Growth;;;INF200KA1T39;;15.1095;17-Aug-2026
-148689;SBI Retirement Benefit Fund - Conservative Plan - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KA1T47;;15.1073;17-Aug-2026
-148696;SBI Retirement Benefit Fund - Conservative Plan - Regular Plan - Growth;;;INF200KA1T13;;14.7057;17-Aug-2026
-148687;SBI Retirement Benefit Fund - Conservative Plan - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KA1T21;;14.7056;17-Aug-2026
+148685;SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Direct Plan - Growth;Direct Plan;Growth;INF200KA1S97;;21.1495;17-Aug-2026
+148686;SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1T05;;21.1517;17-Aug-2026
+148695;SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Regular Plan - Growth;Regular Plan;Growth;INF200KA1S71;;19.8598;17-Aug-2026
+148684;SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1S89;;19.8593;17-Aug-2026
+148683;SBI Retirement Benefit Fund - Aggressive Plan - Direct Plan - Growth;Direct Plan;Growth;INF200KA1S55;;22.0461;17-Aug-2026
+148694;SBI Retirement Benefit Fund - Aggressive Plan - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1S63;;22.0343;17-Aug-2026
+148698;SBI Retirement Benefit Fund - Aggressive Plan - Regular Plan - Growth;Regular Plan;Growth;INF200KA1S30;;20.5882;17-Aug-2026
+148691;SBI Retirement Benefit Fund - Aggressive Plan - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1S48;;20.5887;17-Aug-2026
+148690;SBI Retirement Benefit Fund - Conservative Hybrid Plan - Direct Plan - Growth;Direct Plan;Growth;INF200KA1T70;;16.5264;17-Aug-2026
+148693;SBI Retirement Benefit Fund - Conservative Hybrid Plan - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1T88;;16.5242;17-Aug-2026
+148692;SBI Retirement Benefit Fund - Conservative Hybrid Plan - Regular Plan - Growth;Regular Plan;Growth;INF200KA1T54;;15.9949;17-Aug-2026
+148697;SBI Retirement Benefit Fund - Conservative Hybrid Plan - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1T62;;15.9967;17-Aug-2026
+148688;SBI Retirement Benefit Fund - Conservative Plan - Direct Plan - Growth;Direct Plan;Growth;INF200KA1T39;;15.1095;17-Aug-2026
+148689;SBI Retirement Benefit Fund - Conservative Plan - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1T47;;15.1073;17-Aug-2026
+148696;SBI Retirement Benefit Fund - Conservative Plan - Regular Plan - Growth;Regular Plan;Growth;INF200KA1T13;;14.7057;17-Aug-2026
+148687;SBI Retirement Benefit Fund - Conservative Plan - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1T21;;14.7056;17-Aug-2026
 
 Tata Mutual Fund
 119256;Tata Retirement Savings Fund- Conservative Plan-Direct Plan-Growth Option;Direct Plan;Growth Option;INF277K01QM5;;39.3333;17-Aug-2026
@@ -7411,7 +7375,7 @@ SBI Mutual Fund
 150712;SBI CRISIL IBX SDL Index - September 2027 Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA11R9;;13.1735;17-Aug-2026
 150710;SBI CRISIL IBX SDL Index - September 2027 Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA12R7;INF200KA13R5;13.1740;17-Aug-2026
 154363;SBI CRISIL-IBX 10:90 Gilt + SDL Index - Dec 2029 Index Fund - Regular - Growth;Regular Plan;Growth;INF200KB1BF6;;10.3042;17-Aug-2026
-154370;SBI CRISIL-IBX 10:90 GILT + SDL INDEX DEC 2029 INDEX FUND - DIRECT - GROWTH;Direct Plan;IDCW;INF200KB1BI0;;10.3089;17-Aug-2026
+154370;SBI CRISIL-IBX 10:90 GILT + SDL INDEX DEC 2029 INDEX FUND - DIRECT - GROWTH;Direct Plan;Growth;INF200KB1BI0;;10.3089;17-Aug-2026
 154369;SBI CRISIL-IBX 10:90 GLIT + SDL INDEX DEC 2029 INDEX FUND - DIRECT IDCW;Direct Plan;IDCW;INF200KB1BJ8;INF200KB1BK6;10.3090;17-Aug-2026
 154367;SBI CRISIL-IBX 10:90 GLIT + SDL INDEX DEC 2029 INDEX FUND - REGULAR - IDCW;Regular Plan;IDCW;INF200KB1BG4;INF200KB1BH2;10.3042;17-Aug-2026
 154331;SBI CRISIL - IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KB1AO0;;10.2312;17-Aug-2026
@@ -7422,58 +7386,58 @@ SBI Mutual Fund
 154335;SBI CRISIL - IBX Financial Services 9-12 Months Debt Index Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF200KB1AV5;INF200KB1AW3;10.2233;17-Aug-2026
 154328;SBI CRISIL - IBX Financial Services 9-12 Months Debt Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KB1AR3;;10.2165;17-Aug-2026
 154333;SBI CRISIL - IBX Financial Services 9-12 Months Debt Index Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF200KB1AS1;INF200KB1AT9;10.2166;17-Aug-2026
-152908;SBI Nifty 500 Index Fund- Direct Plan- Growth;;;INF200KB1381;;9.8339;17-Aug-2026
-152909;SBI Nifty 500 Index Fund- Direct Plan- Income Distribution Cum Capital Withdrawal (IDCW);;;INF200KB1399;INF200KB1407;9.8339;17-Aug-2026
-152906;SBI Nifty 500 Index Fund- Regular Plan- Growth;;;INF200KB1357;;9.7445;17-Aug-2026
-152907;SBI Nifty 500 Index Fund- Regular Plan- Income Distribution Cum Capital Withdrawal (IDCW);;;INF200KB1365;INF200KB1373;9.7442;17-Aug-2026
-153251;SBI Nifty Bank Index Fund- Regular Plan- Income Distribution Cum Capital Withdrawal Option;;;INF200KB1548;INF200KB1555;11.4644;17-Aug-2026
-153250;SBI Nifty Bank Index Fund-Direct Plan- Growth;;;INF200KB1563;;11.5477;17-Aug-2026
-153252;SBI Nifty Bank Index Fund-Direct Plan- Income Distribution Cum Capital Withdrawal Option;;;INF200KB1571;INF200KB1589;11.5476;17-Aug-2026
-153253;SBI Nifty Bank Index Fund-Regular Plan- Growth;;;INF200KB1530;;11.4644;17-Aug-2026
-154372;SBI NIFTY G-SEC JUL 2031 INDEX FUND - DIRECT - GROWTH;;;INF200KB1BC3;;10.3360;17-Aug-2026
-154375;SBI NIFTY G-SEC JUL 2031 INDEX FUND - DIRECT - IDCW;;;INF200KB1BD1;INF200KB1BE9;10.3361;17-Aug-2026
-154362;SBI Nifty G-sec Jul 2031 Index Fund - REGULAR - GROWTH;;;INF200KB1AZ6;;10.3313;17-Aug-2026
-154373;SBI NIFTY G-SEC JUL 2031 INDEX FUND - REGULAR - IDCW;;;INF200KB1BA7;INF200KB1BB5;10.3313;17-Aug-2026
-119827;SBI NIFTY INDEX FUND - DIRECT PLAN - GROWTH;;;INF200K01TE8;;227.2578;17-Aug-2026
-119826;SBI Nifty Index Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01TC2;INF200K01TD0;116.7278;17-Aug-2026
-102272;SBI NIFTY INDEX FUND - REGULAR PLAN - GROWTH;;;INF200K01537;;216.1616;17-Aug-2026
-102273;SBI Nifty Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200K01545;INF200K01552;110.9036;17-Aug-2026
-153015;SBI Nifty India Consumption Index Fund- Direct Plan- Growth;;;INF200KB1449;;10.5449;17-Aug-2026
-153014;SBI Nifty India Consumption Index Fund- Direct Plan- IDCW Payout;;;INF200KB1456;INF200KB1464;10.5449;17-Aug-2026
-153012;SBI Nifty India Consumption Index Fund- Regular Plan- Growth;;;INF200KB1415;;10.4540;17-Aug-2026
-153013;SBI Nifty India Consumption Index Fund- Regular Plan- IDCW Payout;;;INF200KB1423;INF200KB1431;10.4540;17-Aug-2026
-153320;SBI Nifty IT Index Fund - Direct Plan - Growth;;;INF200KB1621;;7.8049;17-Aug-2026
-153321;SBI Nifty IT Index Fund - Direct Plan - Income Distribution Cum Withdrawal Option (IDCW);;;INF200KB1639;INF200KB1647;7.8051;17-Aug-2026
-153323;SBI Nifty IT Index Fund - Regular Plan - Growth;;;INF200KB1597;;7.7506;17-Aug-2026
-153322;SBI Nifty IT Index Fund - Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);;;INF200KB1605;INF200KB1613;7.7506;17-Aug-2026
-150673;SBI Nifty Midcap 150 Index Fund - Direct Plan - Growth;;;INF200KA10P5;;20.4517;17-Aug-2026
-150675;SBI Nifty Midcap 150 Index Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KA11P3;INF200KA12P1;20.4511;17-Aug-2026
-150672;SBI Nifty Midcap 150 Index Fund - Regular Plan - Growth;;;INF200KA17O3;;20.0548;17-Aug-2026
-150674;SBI Nifty Midcap 150 Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KA18O1;INF200KA19O9;20.0551;17-Aug-2026
-148945;SBI Nifty Next 50 Index Fund - Direct Plan - Growth;;;INF200KA1W00;;20.6858;17-Aug-2026
-148946;SBI Nifty Next 50 Index Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KA1W18;INF200KA1W26;20.6846;17-Aug-2026
-148943;SBI Nifty Next 50 Index Fund - Regular Plan - Growth;;;INF200KA1V76;;20.1904;17-Aug-2026
-148944;SBI Nifty Next 50 Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KA1V84;INF200KA1V92;20.1907;17-Aug-2026
-150677;SBI Nifty Smallcap 250 Index Fund - Direct Plan - Growth;;;INF200KA16P2;;19.9829;17-Aug-2026
-150678;SBI Nifty Smallcap 250 Index Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KA17P0;INF200KA18P8;19.9824;17-Aug-2026
-150676;SBI Nifty Smallcap 250 Index Fund - Regular Plan - Growth;;;INF200KA13P9;;19.5872;17-Aug-2026
-150679;SBI Nifty Smallcap 250 Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KA14P7;INF200KA15P4;19.5878;17-Aug-2026
-153718;SBI Nifty100 Low Volatility 30 Index Fund- Direct Plan- Growth;;;INF200KB1936;;10.3319;17-Aug-2026
-153716;SBI Nifty100 Low Volatility 30 Index Fund- Regular Plan- Growth;;;INF200KB1902;;10.2894;17-Aug-2026
-153717;SBI Nifty100 Low Volatility 30 Index Fund- Regular Plan- Income Cum Distribution Capital Withdrawal Option (IDCW);;;INF200KB1910;INF200KB1928;10.2894;17-Aug-2026
-153719;SBI Nifty100 Low Volatility 30 Index Fund-Direct  Plan- Income Cum Distribution Capital Withdrawal Option (IDCW);;;INF200KB1944;INF200KB1951;10.3319;17-Aug-2026
-153662;SBI Nifty200 Momentum 30 Index Fund- Direct Plan- Growth;;;INF200KB1878;;9.8939;17-Aug-2026
-153665;SBI Nifty200 Momentum 30 Index Fund- Direct Plan- Income Cum Distribution Capital Withdrawal Option (IDCW);;;INF200KB1886;INF200KB1894;9.8939;17-Aug-2026
-153663;SBI Nifty200 Momentum 30 Index Fund- Regular Plan- Growth;;;INF200KB1845;;9.8521;17-Aug-2026
-153664;SBI Nifty200 Momentum 30 Index Fund- Regular Plan- Income Distribution Cum Capital Withdrawal Option (IDCW);;;INF200KB1852;INF200KB1860;9.8521;17-Aug-2026
-153557;SBI Nifty200 Quality 30 Index Fund- Direct Plan- Income Distribution Cum Capital Withdrawal Option;;;INF200KB1829;INF200KB1837;10.2646;17-Aug-2026
-153556;SBI Nifty200 Quality 30 Index Fund- Regular Plan- Income Cum Distribution Withdrawal Option;;;INF200KB1795;INF200KB1803;10.2173;17-Aug-2026
-153555;SBI Nifty200 Quality 30 Index Fund-Direct Plan- Growth;;;INF200KB1811;;10.2645;17-Aug-2026
-153554;SBI Nifty200 Quality 30 Index Fund-Regular Plan- Growth;;;INF200KB1787;;10.2173;17-Aug-2026
-152370;SBI Nifty50 Equal Weight Index Fund - Direct Plan - Growth;;;INF200KB1027;;12.4176;17-Aug-2026
-152371;SBI Nifty50 Equal Weight Index Fund - Direct Plan - Income Distribution Cum Capital Withdrawal Option;;;INF200KB1035;INF200KB1043;12.4168;17-Aug-2026
-152372;SBI Nifty50 Equal Weight Index Fund - Regular Plan - Growth;;;INF200KA18Z7;;12.2634;17-Aug-2026
-152373;SBI Nifty50 Equal Weight Index Fund - Regular Plan - Income Distribution Cum Capital Withdrawal Option;;;INF200KA19Z5;INF200KB1019;12.2633;17-Aug-2026
+152908;SBI Nifty 500 Index Fund- Direct Plan- Growth;Direct Plan;Growth;INF200KB1381;;9.8339;17-Aug-2026
+152909;SBI Nifty 500 Index Fund- Direct Plan- Income Distribution Cum Capital Withdrawal (IDCW);Direct Plan;IDCW;INF200KB1399;INF200KB1407;9.8339;17-Aug-2026
+152906;SBI Nifty 500 Index Fund- Regular Plan- Growth;Regular Plan;Growth;INF200KB1357;;9.7445;17-Aug-2026
+152907;SBI Nifty 500 Index Fund- Regular Plan- Income Distribution Cum Capital Withdrawal (IDCW);Regular Plan;IDCW;INF200KB1365;INF200KB1373;9.7442;17-Aug-2026
+153251;SBI Nifty Bank Index Fund- Regular Plan- Income Distribution Cum Capital Withdrawal Option;Regular Plan;IDCW;INF200KB1548;INF200KB1555;11.4644;17-Aug-2026
+153250;SBI Nifty Bank Index Fund-Direct Plan- Growth;Direct Plan;Growth;INF200KB1563;;11.5477;17-Aug-2026
+153252;SBI Nifty Bank Index Fund-Direct Plan- Income Distribution Cum Capital Withdrawal Option;Direct Plan;IDCW;INF200KB1571;INF200KB1589;11.5476;17-Aug-2026
+153253;SBI Nifty Bank Index Fund-Regular Plan- Growth;Regular Plan;Growth;INF200KB1530;;11.4644;17-Aug-2026
+154372;SBI NIFTY G-SEC JUL 2031 INDEX FUND - DIRECT - GROWTH;Direct Plan;Growth;INF200KB1BC3;;10.3360;17-Aug-2026
+154375;SBI NIFTY G-SEC JUL 2031 INDEX FUND - DIRECT - IDCW;Direct Plan;IDCW;INF200KB1BD1;INF200KB1BE9;10.3361;17-Aug-2026
+154362;SBI Nifty G-sec Jul 2031 Index Fund - REGULAR - GROWTH;Regular Plan;Growth;INF200KB1AZ6;;10.3313;17-Aug-2026
+154373;SBI NIFTY G-SEC JUL 2031 INDEX FUND - REGULAR - IDCW;Regular Plan;IDCW;INF200KB1BA7;INF200KB1BB5;10.3313;17-Aug-2026
+119827;SBI NIFTY INDEX FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01TE8;;227.2578;17-Aug-2026
+119826;SBI Nifty Index Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01TC2;INF200K01TD0;116.7278;17-Aug-2026
+102272;SBI NIFTY INDEX FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01537;;216.1616;17-Aug-2026
+102273;SBI Nifty Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01545;INF200K01552;110.9036;17-Aug-2026
+153015;SBI Nifty India Consumption Index Fund- Direct Plan- Growth;Direct Plan;Growth;INF200KB1449;;10.5449;17-Aug-2026
+153014;SBI Nifty India Consumption Index Fund- Direct Plan- IDCW Payout;Direct Plan;IDCW;INF200KB1456;INF200KB1464;10.5449;17-Aug-2026
+153012;SBI Nifty India Consumption Index Fund- Regular Plan- Growth;Regular Plan;Growth;INF200KB1415;;10.4540;17-Aug-2026
+153013;SBI Nifty India Consumption Index Fund- Regular Plan- IDCW Payout;Regular Plan;IDCW;INF200KB1423;INF200KB1431;10.4540;17-Aug-2026
+153320;SBI Nifty IT Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KB1621;;7.8049;17-Aug-2026
+153321;SBI Nifty IT Index Fund - Direct Plan - Income Distribution Cum Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KB1639;INF200KB1647;7.8051;17-Aug-2026
+153323;SBI Nifty IT Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KB1597;;7.7506;17-Aug-2026
+153322;SBI Nifty IT Index Fund - Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KB1605;INF200KB1613;7.7506;17-Aug-2026
+150673;SBI Nifty Midcap 150 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA10P5;;20.4517;17-Aug-2026
+150675;SBI Nifty Midcap 150 Index Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA11P3;INF200KA12P1;20.4511;17-Aug-2026
+150672;SBI Nifty Midcap 150 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA17O3;;20.0548;17-Aug-2026
+150674;SBI Nifty Midcap 150 Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA18O1;INF200KA19O9;20.0551;17-Aug-2026
+148945;SBI Nifty Next 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA1W00;;20.6858;17-Aug-2026
+148946;SBI Nifty Next 50 Index Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1W18;INF200KA1W26;20.6846;17-Aug-2026
+148943;SBI Nifty Next 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA1V76;;20.1904;17-Aug-2026
+148944;SBI Nifty Next 50 Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1V84;INF200KA1V92;20.1907;17-Aug-2026
+150677;SBI Nifty Smallcap 250 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA16P2;;19.9829;17-Aug-2026
+150678;SBI Nifty Smallcap 250 Index Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA17P0;INF200KA18P8;19.9824;17-Aug-2026
+150676;SBI Nifty Smallcap 250 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA13P9;;19.5872;17-Aug-2026
+150679;SBI Nifty Smallcap 250 Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA14P7;INF200KA15P4;19.5878;17-Aug-2026
+153718;SBI Nifty100 Low Volatility 30 Index Fund- Direct Plan- Growth;Direct Plan;Growth;INF200KB1936;;10.3319;17-Aug-2026
+153716;SBI Nifty100 Low Volatility 30 Index Fund- Regular Plan- Growth;Regular Plan;Growth;INF200KB1902;;10.2894;17-Aug-2026
+153717;SBI Nifty100 Low Volatility 30 Index Fund- Regular Plan- Income Cum Distribution Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KB1910;INF200KB1928;10.2894;17-Aug-2026
+153719;SBI Nifty100 Low Volatility 30 Index Fund-Direct  Plan- Income Cum Distribution Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KB1944;INF200KB1951;10.3319;17-Aug-2026
+153662;SBI Nifty200 Momentum 30 Index Fund- Direct Plan- Growth;Direct Plan;Growth;INF200KB1878;;9.8939;17-Aug-2026
+153665;SBI Nifty200 Momentum 30 Index Fund- Direct Plan- Income Cum Distribution Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KB1886;INF200KB1894;9.8939;17-Aug-2026
+153663;SBI Nifty200 Momentum 30 Index Fund- Regular Plan- Growth;Regular Plan;Growth;INF200KB1845;;9.8521;17-Aug-2026
+153664;SBI Nifty200 Momentum 30 Index Fund- Regular Plan- Income Distribution Cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KB1852;INF200KB1860;9.8521;17-Aug-2026
+153557;SBI Nifty200 Quality 30 Index Fund- Direct Plan- Income Distribution Cum Capital Withdrawal Option;Direct Plan;IDCW;INF200KB1829;INF200KB1837;10.2646;17-Aug-2026
+153556;SBI Nifty200 Quality 30 Index Fund- Regular Plan- Income Cum Distribution Withdrawal Option;Regular Plan;IDCW;INF200KB1795;INF200KB1803;10.2173;17-Aug-2026
+153555;SBI Nifty200 Quality 30 Index Fund-Direct Plan- Growth;Direct Plan;Growth;INF200KB1811;;10.2645;17-Aug-2026
+153554;SBI Nifty200 Quality 30 Index Fund-Regular Plan- Growth;Regular Plan;Growth;INF200KB1787;;10.2173;17-Aug-2026
+152370;SBI Nifty50 Equal Weight Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KB1027;;12.4176;17-Aug-2026
+152371;SBI Nifty50 Equal Weight Index Fund - Direct Plan - Income Distribution Cum Capital Withdrawal Option;Direct Plan;IDCW;INF200KB1035;INF200KB1043;12.4168;17-Aug-2026
+152372;SBI Nifty50 Equal Weight Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA18Z7;;12.2634;17-Aug-2026
+152373;SBI Nifty50 Equal Weight Index Fund - Regular Plan - Income Distribution Cum Capital Withdrawal Option;Regular Plan;IDCW;INF200KA19Z5;INF200KB1019;12.2633;17-Aug-2026
 
 Sundaram Mutual Fund
 149483;Sundaram Nifty 100 Equal Weight Fund (Formerly Known as Principal Nifty 100 Equal Weight Fund) - Direct Plan - Growth Option;Direct Plan;GROWTH;INF173K01EZ4;;198.6930;17-Aug-2026
@@ -7919,18 +7883,18 @@ SBI Mutual Fund
 153796;SBI Nifty 1D Rate Liquid ETF - Growth;Regular Plan;Growth;INF200KB1969;;1052.1187;17-Aug-2026
 152168;SBI NIFTY 1D Rate Liquid ETF - IDCW;Regular Plan;IDCW;;INF200KA13Z8;1000.0000;17-Aug-2026
 145648;SBI Nifty 200 Quality 30 ETF;Regular Plan;IDCW;INF200KA1WX6;;226.9053;17-Aug-2026
-135106;SBI Nifty 50 ETF;;;INF200KA1FS1;;261.7257;17-Aug-2026
-134008;SBI Nifty Bank ETF;;;INF200KA1580;;591.5053;17-Aug-2026
-149041;SBI Nifty Consumption ETF;;;INF200KA1X17;;124.7446;17-Aug-2026
-148542;SBI Nifty IT ETF;;;INF200KA1S14;;341.8639;17-Aug-2026
-154305;SBI Nifty Midcap 150 ETF;;;INF200KB1AK8;;23.5116;17-Aug-2026
-154237;SBI Nifty Midcap 150 Momentum 50 ETF;;;INF200KB1AJ0;;64.1996;17-Aug-2026
-134013;SBI Nifty Next 50 ETF;;;INF200KA1598;;798.9207;17-Aug-2026
-148541;SBI Nifty Private Bank ETF;;;INF200KA1S22;;279.4490;17-Aug-2026
-154353;SBI Nifty Smallcap 250 ETF;;;INF200KB1AY9;;18.3330;17-Aug-2026
-154354;SBI Nifty200 Value 30 ETF;;;INF200KB1AX1;;14.8884;17-Aug-2026
-152749;SBI Nifty50 Equal Weight ETF;;;INF200KB1282;;33.7381;17-Aug-2026
-152725;SBI Silver ETF;;;INF200KB1217;;229.0080;17-Aug-2026
+135106;SBI Nifty 50 ETF;Regular Plan;IDCW;INF200KA1FS1;;261.7257;17-Aug-2026
+134008;SBI Nifty Bank ETF;Regular Plan;IDCW;INF200KA1580;;591.5053;17-Aug-2026
+149041;SBI Nifty Consumption ETF;Regular Plan;IDCW;INF200KA1X17;;124.7446;17-Aug-2026
+148542;SBI Nifty IT ETF;Regular Plan;IDCW;INF200KA1S14;;341.8639;17-Aug-2026
+154305;SBI Nifty Midcap 150 ETF;Regular Plan;IDCW;INF200KB1AK8;;23.5116;17-Aug-2026
+154237;SBI Nifty Midcap 150 Momentum 50 ETF;Regular Plan;IDCW;INF200KB1AJ0;;64.1996;17-Aug-2026
+134013;SBI Nifty Next 50 ETF;Regular Plan;IDCW;INF200KA1598;;798.9207;17-Aug-2026
+148541;SBI Nifty Private Bank ETF;Regular Plan;IDCW;INF200KA1S22;;279.4490;17-Aug-2026
+154353;SBI Nifty Smallcap 250 ETF;Regular Plan;IDCW;INF200KB1AY9;;18.3330;17-Aug-2026
+154354;SBI Nifty200 Value 30 ETF;Regular Plan;IDCW;INF200KB1AX1;;14.8884;17-Aug-2026
+152749;SBI Nifty50 Equal Weight ETF;Regular Plan;IDCW;INF200KB1282;;33.7381;17-Aug-2026
+152725;SBI Silver ETF;Regular Plan;Growth;INF200KB1217;;229.0080;17-Aug-2026
 
 Shriram Mutual Fund
 152741;Shriram Nifty 1D Rate Liquid ETF - Growth;Direct Plan;Growth;INF680P01422;;1117.628;17-Aug-2026
@@ -8114,10 +8078,10 @@ PGIM India Mutual Fund
 149299;PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option;Regular Plan;Regular Growth;INF663L01W97;;13.57;17-Aug-2026
 
 SBI Mutual Fund
-148760;SBI US Specific Equity Active FoF - Direct Plan - Growth;;;INF200KA1U28;;25.6439;17-Aug-2026
-148761;SBI US Specific Equity Active FoF- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KA1U36;INF200KA1U44;25.6439;17-Aug-2026
-148762;SBI US Specific Equity Active FoF- Regular Plan - Growth;;;INF200KA1T96;;24.6537;17-Aug-2026
-148759;SBI US Specific Equity Active FoF- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);;;INF200KA1U02;INF200KA1U10;24.6529;17-Aug-2026
+148760;SBI US Specific Equity Active FoF - Direct Plan - Growth;Direct Plan;Growth;INF200KA1U28;;25.6439;17-Aug-2026
+148761;SBI US Specific Equity Active FoF- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1U36;INF200KA1U44;25.6439;17-Aug-2026
+148762;SBI US Specific Equity Active FoF- Regular Plan - Growth;Regular Plan;Growth;INF200KA1T96;;24.6537;17-Aug-2026
+148759;SBI US Specific Equity Active FoF- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1U02;INF200KA1U10;24.6529;17-Aug-2026
 
 Sundaram Mutual Fund
 119602;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;Direct Plan;GROWTH;INF903J01OB6;;48.5591;17-Aug-2026
@@ -8474,10 +8438,10 @@ SBI Mutual Fund
 153501;SBI Income Plus Arbitrage Active FOF- Direct Plan- Income Distribution Cum Capital Withdrawal Option;Direct Plan;IDCW;INF200KB1761;INF200KB1779;10.7471;17-Aug-2026
 153500;SBI Income Plus Arbitrage Active FOF- Regular Plan- Growth;Regular Plan;Growth;INF200KB1720;;10.7252;17-Aug-2026
 153499;SBI Income Plus Arbitrage Active FOF- Regular Plan- Income Distribution Cum Capital Withdrawal Option;Regular Plan;IDCW;INF200KB1738;INF200KB1746;10.7252;17-Aug-2026
-152734;SBI Silver ETF FOF- Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);;;INF200KB1225;INF200KB1274;24.7838;17-Aug-2026
-152735;SBI Silver ETF Fund of Fund- Direct Plan - Growth;;;INF200KB1233;;24.9643;17-Aug-2026
-152736;SBI Silver ETF Fund of Fund- Direct Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);;;INF200KB1241;INF200KB1258;24.9642;17-Aug-2026
-152733;SBI Silver ETF Fund of Fund- Regular Plan - Growth;;;INF200KB1266;;24.7806;17-Aug-2026
+152734;SBI Silver ETF FOF- Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KB1225;INF200KB1274;24.7838;17-Aug-2026
+152735;SBI Silver ETF Fund of Fund- Direct Plan - Growth;Direct Plan;Growth;INF200KB1233;;24.9643;17-Aug-2026
+152736;SBI Silver ETF Fund of Fund- Direct Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KB1241;INF200KB1258;24.9642;17-Aug-2026
+152733;SBI Silver ETF Fund of Fund- Regular Plan - Growth;Regular Plan;Growth;INF200KB1266;;24.7806;17-Aug-2026
 
 Sundaram Mutual Fund
 154123;Sundaram Income Plus Arbitrage Active FoF Fund-Direct-Growth;Direct Plan;GROWTH;INF903JA1LZ7;;10.3768;17-Aug-2026
@@ -9159,6 +9123,14 @@ Mirae Asset Mutual Fund
 Open Ended Schemes ( Income/Debt Oriented Schemes - Short Term Fund )
 
 
+Baroda BNP Paribas Mutual Fund
+119400;Baroda BNP Paribas Short Duration Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF955L01BD5;;33.8876;17-Aug-2026
+119399;Baroda BNP Paribas Short Duration Fund - Direct Plan - Monthly IDCW Option;Direct Plan;Monthly IDCW Option;INF955L01BB9;;10.4872;17-Aug-2026
+140463;Baroda BNP Paribas Short Duration Fund - Direct Plan - Quarterly IDCW;Direct Plan;Quarterly IDCW Option;INF955L01GU8;;11.2354;17-Aug-2026
+113036;Baroda BNP Paribas Short Duration Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF955L01153;;31.0027;17-Aug-2026
+113037;Baroda BNP Paribas Short Duration Fund - Regular Plan - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF955L01138;INF955L01146;10.1911;17-Aug-2026
+140465;Baroda BNP Paribas Short Duration Fund - Regular Plan - Quarterly IDCW;Regular Plan;Quarterly IDCW Option;INF955L01GS2;;10.6166;17-Aug-2026
+
 Franklin Templeton Mutual Fund
 154541;Franklin India Short Term Fund - Direct - Growth;Direct Plan;Growth;INF090I01YW9;;10.0093;17-Aug-2026
 154538;Franklin India Short Term Fund - Direct - IDCW;Direct Plan;IDCW;INF090I01YX7;INF090I01YY5;10.0093;17-Aug-2026
@@ -9386,6 +9358,34 @@ UTI Mutual Fund
 
 Open Ended Schemes ( Income/Debt Oriented Schemes - Credit Risk Fund )
 
+
+Baroda BNP Paribas Mutual Fund
+133488;BarGrowth Optionoda BNP Paribas Credit Risk Fund -Direct-Growth Option;;;;;26.4213;17-Aug-2026
+152903;Baroda BNP Paribas Credit Risk fund - Regular-Quarterly- IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Regular-Quarterly IDCW option Seg. Portfolio 1);;;;;0.0000;17-Aug-2026
+152905;Baroda BNP Paribas Credit Risk fund - Regular-Weekly-IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Regular-Weekly IDCW option Seg. Portfolio 1);;;;;0.0000;17-Aug-2026
+152892;Baroda BNP Paribas Credit risk fund -Defunct -Growth option -Seg-Portfolio 2 (erstwhile BBNPP Medium Duration Fund-Defunct Growth Option Seg.Portfolio1);;;;;0.0000;17-Aug-2026
+152899;Baroda BNP Paribas Credit Risk fund -Defunct -Monthly IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Defunct-Monthly IDCW option Seg. Portfolio 1);;;;;0.0000;17-Aug-2026
+152894;Baroda BNP Paribas Credit Risk fund -Defunct -Weekly IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Defunct-Weekly IDCW option Seg. Portfolio 1);;;;;0.0000;17-Aug-2026
+152898;Baroda BNP Paribas Credit Risk fund -Direct - Growth option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Direct-Growth option Seg. Portfolio 1);;;;;0.0000;17-Aug-2026
+152897;Baroda BNP Paribas Credit Risk fund -Direct -Monthly IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Direct-Monthly IDCW option Seg. Portfolio 1);;;;;0.0000;17-Aug-2026
+152896;Baroda BNP Paribas Credit Risk fund -Direct -Quarterly IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Direct-Quarterly IDCW option Seg. Portfolio 1);;;;;0.0000;17-Aug-2026
+152895;Baroda BNP Paribas Credit Risk fund -Direct -Weekly IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Direct-weekly IDCW option Seg. Portfolio 1);;;;;0.0000;17-Aug-2026
+133520;Baroda BNP Paribas Credit Risk Fund -Direct- Monthly IDCW;;;;;14.3303;17-Aug-2026
+133524;Baroda BNP Paribas Credit Risk Fund -Direct- Quarterly IDCW;;;;;12.7375;17-Aug-2026
+152900;Baroda BNP Paribas Credit Risk fund -Direct-Daily IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Direct-daily-IDCW option Seg. Portfolio 1);;;;;0.0000;17-Aug-2026
+152901;Baroda BNP Paribas Credit Risk fund -Regular -Daily-IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Regular-Daily-IDCW option Seg. Portfolio 1);;;;;0.0000;17-Aug-2026
+152902;Baroda BNP Paribas Credit Risk fund -Regular -Monthly IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Regular-Monthly IDCW option Seg. Portfolio 1);;;;;0.0000;17-Aug-2026
+152904;Baroda BNP Paribas Credit Risk fund -Regular-Growth -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Regular Growth Seg. Portfolio 1);;;;;0.0000;17-Aug-2026
+133486;Baroda BNP Paribas Credit Risk Fund -Regular-Growth Option;;;;;23.7958;17-Aug-2026
+133517;Baroda BNP Paribas Credit Risk Fund -Regular-Monthly IDCW;;;;;11.2141;17-Aug-2026
+133518;Baroda BNP Paribas Credit Risk Fund -Regular-Quarterly IDCW;;;;;11.6424;17-Aug-2026
+148333;Baroda BNP Paribas Credit Risk Fund- Direct- Growth Option- Segregated Portfolio- 1;;;;;0.0000;17-Aug-2026
+148334;Baroda BNP Paribas Credit Risk Fund- Direct- Monthly IDCW Option- Segregated Portfolio- 1;;;;;0.0000;17-Aug-2026
+148330;Baroda BNP Paribas Credit Risk Fund- Regular- Growth Option- Segregated Portfolio- 1;;;;;0.0000;17-Aug-2026
+148331;Baroda BNP Paribas Credit Risk Fund- Regular- Monthly IDCW Option- Segregated Portfolio- 1;;;;;0.0000;17-Aug-2026
+148332;Baroda BNP Paribas Credit Risk Fund- Regular- Quarterly IDCW Option- Segregated Portfolio- 1;;;;;0.0000;17-Aug-2026
+152893;Baroda BNP Paribas Credit Risk Fund-Defunct -Daily IDCW option - seg Portfolio 2 (erstwhile BBNPP Medium Duration fund Defunct Daily IDCW daily option Seg Portfolio 1);;;;;0.0000;17-Aug-2026
+148335;Baroda BNP Paribas Credit Risk Fund-Direct- Quarterly IDCW Option- Segregated Portfolio- 1;;;;;0.0000;17-Aug-2026
 
 HSBC Mutual Fund
 151047;HSBC Credit Risk Fund - Direct Annual IDCW;Direct Plan;Annual IDCW;INF917K01UL0;INF917K01UK2;13.6694;17-Aug-2026
@@ -10890,10 +10890,10 @@ Mirae Asset Mutual Fund
 154282;Mirae Asset Silver ETF FOF - Regular Plan - IDCW;Regular Plan;IDCW;INF769K01QQ2;INF769K01QR0;10.377;17-Aug-2026
 
 SBI Mutual Fund
-154526;SBI Nifty Midcap 150 Momentum 50 ETF FOF - Direct - Growth;;;INF200KB1BU5;;10.0778;17-Aug-2026
-154527;SBI Nifty Midcap 150 Momentum 50 ETF FOF - Direct - IDCW;;;INF200KB1BV3;INF200KB1BW1;10.0778;17-Aug-2026
-154523;SBI Nifty Midcap 150 Momentum 50 ETF FOF - Regular - Growth;;;INF200KB1BR1;;10.0764;17-Aug-2026
-154525;SBI Nifty Midcap 150 Momentum 50 ETF FOF - Regular - IDCW;;;INF200KB1BS9;INF200KB1BT7;10.0764;17-Aug-2026
+154526;SBI Nifty Midcap 150 Momentum 50 ETF FOF - Direct - Growth;Direct Plan;Growth;INF200KB1BU5;;10.0778;17-Aug-2026
+154527;SBI Nifty Midcap 150 Momentum 50 ETF FOF - Direct - IDCW;Direct Plan;IDCW;INF200KB1BV3;INF200KB1BW1;10.0778;17-Aug-2026
+154523;SBI Nifty Midcap 150 Momentum 50 ETF FOF - Regular - Growth;Regular Plan;Growth;INF200KB1BR1;;10.0764;17-Aug-2026
+154525;SBI Nifty Midcap 150 Momentum 50 ETF FOF - Regular - IDCW;Regular Plan;IDCW;INF200KB1BS9;INF200KB1BT7;10.0764;17-Aug-2026
 
 Tata Mutual Fund
 154409;Tata Multi Sector Passive FOF Direct Plan Growth Option;Direct Plan;Growth Option;INF277KA1EV6;;10.0397;17-Aug-2026
