@@ -820,6 +820,12 @@ Baroda BNP Paribas Mutual Fund
 151747;Baroda BNP Paribas Value Fund - Regular Plan - Growth option;Regular Plan;Growth Option;INF251K01SA1;;13.8363;27-Aug-2026
 151754;Baroda BNP Paribas Value Fund - Regular Plan - IDCW option;Regular Plan;IDCW Option;INF251K01SB9;INF251K01SC7;12.6154;27-Aug-2026
 
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;Direct Plan;Growth;INF740KA1PP3;;24.8990;27-Aug-2026
+148596;DSP Value Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF740KA1PQ1;INF740KA1PR9;18.8590;27-Aug-2026
+148594;DSP Value Fund - Regular Plan - Growth;Regular Plan;Growth;INF740KA1PM0;;23.8180;27-Aug-2026
+148597;DSP Value Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF740KA1PN8;INF740KA1PO6;16.6470;27-Aug-2026
+
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;Direct Plan;Growth;INF090I01GY2;;776.2267;27-Aug-2026
 118493;Templeton India Value Fund - Direct - IDCW ;Direct Plan;IDCW;INF090I01GW6;INF090I01GX4;105.2848;27-Aug-2026
@@ -2844,12 +2850,6 @@ ICICI Prudential Mutual Fund
 101758;ICICI Prudential Short Term Fund - Growth Option;Regular Plan;Growth;INF109K01654;;64.3795;27-Aug-2026
 101165;ICICI Prudential Short Term Fund - Monthly IDCW;Regular Plan;Monthly IDCW;INF109K01WL0;INF109K01647;12.0945;27-Aug-2026
 
-Sundaram Mutual Fund
-149588;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) - Direct Plan - Income Distribution CUM Capital Withdrawal Plan (IDCW);Direct Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF173K01GQ8;INF173K01GR6;13.1700;27-Aug-2026
-149587;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)- Direct Plan - Growth Option;Direct Plan;GROWTH;INF173K01GP0;;51.2017;27-Aug-2026
-149585;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)- Growth Plan;Regular Plan;GROWTH;INF173K01BA3;;47.0299;27-Aug-2026
-149586;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)- Income Distribution CUM Capital Withdrawal Option (IDCW);Regular Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF173K01BB1;INF173K01BC9;13.0222;27-Aug-2026
-
 Tata Mutual Fund
 119949;Tata Short Term Bond Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF277K01QR4;;56.3982;27-Aug-2026
 101548;Tata Short Term Bond Fund -Regular Plan- Growth Option;Regular Plan;Growth Option;INF277K01972;;50.4855;27-Aug-2026
@@ -2886,12 +2886,6 @@ Kotak Mahindra Mutual Fund
 128006;Kotak Medium Term Fund - Direct Growth;Direct Plan;Growth;INF174K01VQ5;;27.5447;27-Aug-2026
 128009;Kotak Medium Term Fund - Growth;Regular Plan;Growth;INF174K01VL6;;24.5067;27-Aug-2026
 128078;Kotak Medium Term Fund - Standard Income Distribution cum capital withdrawal option;Regular Plan;Standard Income Distribution cum capital withdrawal optio;INF174K01VN2;INF174K01VP7;15.0419;27-Aug-2026
-
-Sundaram Mutual Fund
-119675;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Direct Plan - Growth;Direct Plan;GROWTH;INF903J01PO6;;80.8171;27-Aug-2026
-119672;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Direct Plan-Income Distribution cum Capital Withdrawal (IDCW);Direct Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF903J01PK4;INF903J01PL2;27.1783;27-Aug-2026
-100603;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan - Growth;Regular Plan;GROWTH;INF903J01FQ2;;71.7104;27-Aug-2026
-100602;Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Regular Plan-Income Distribution cum Capital Withdrawal(IDCW);Regular Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF903J01FR0;INF903J01FU4;13.2361;27-Aug-2026
 
 UTI Mutual Fund
 148248;UTI - Medium Term Fund (Segregated - 06032020) - Direct Plan - Annual Dividend Option;;;INF789F1ASC5;INF789F1ASD3;0;27-Aug-2026
@@ -3229,12 +3223,6 @@ Kotak Mahindra Mutual Fund
 123691;Kotak Banking and PSU Debt - Monthly Payout of Income Distribution cum capital withdrawal option;Regular Plan;Payout of Income Distribution cum capital withdrawal option- Direct;INF174K01FQ8;INF174K01FP0;13.0466;27-Aug-2026
 123693;Kotak Banking and PSU Debt Direct - Growth;Direct Plan;Growth;INF174K01KH7;;72.6463;27-Aug-2026
 123692;Kotak Banking and PSU Debt Direct - Monthly Payout of Income Distribution cum capital withdrawal option;Direct Plan;Monthly Payout of Income Distribution cum capital withdrawal option;INF174K01KK1;INF174K01KL9;10.2042;27-Aug-2026
-
-Sundaram Mutual Fund
-119625;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Direct Plan - Growth;Direct Plan;GROWTH;INF903J01PA5;;46.4060;27-Aug-2026
-119626;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Direct Plan - Income Distribution cum Capital Withdrawal (IDCW);Direct Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF903J01PB3;INF903J01PE7;11.5529;27-Aug-2026
-100784;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Growth;Regular Plan;GROWTH;INF903J01IN3;;45.6755;27-Aug-2026
-100793;Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Regular Plan - Income Distribution cum Capital Withdrawal (IDCW);Regular Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF903J01IO1;INF903J01IR4;11.5751;27-Aug-2026
 
 Open Ended Schemes ( Debt Scheme - Gilt Fund )
 
@@ -3699,12 +3687,6 @@ Shriram Mutual Fund
 147403;Shriram Balanced Advantage Fund - Direct- IDCW;Direct Plan;IDCW;INF680P01216;INF680P01224;18.8655;27-Aug-2026
 147405;Shriram Balanced Advantage Fund - Regular Growth;Regular Plan;Growth;INF680P01174;;16.666;27-Aug-2026
 147404;Shriram Balanced Advantage Fund - Regular-IDCW;Regular Plan;IDCW;INF680P01182;INF680P01190;16.689;27-Aug-2026
-
-Sundaram Mutual Fund
-149717;Sundaram Balanced Advantage Fund ( Formerly Known as Principal Balanced Advantage Fund) - Direct Plan - Growth Option;Direct Plan;GROWTH;INF173K01FI7;;42.6492;27-Aug-2026
-149718;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Direct Plan - Monthly Income Distribution CUM Capital Withdrawal Option;Direct Plan;Monthly IDCW (Income Distribution CUM Capital Withdrawal);INF173K01FF3;INF173K01FG1;17.8677;27-Aug-2026
-149715;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Growth Option;Regular Plan;GROWTH;INF173K01585;;35.7792;27-Aug-2026
-149716;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Monthly Income Distribution CUM Capital Withdrawal Option;Regular Plan;Monthly IDCW (Income Distribution CUM Capital Withdrawal);INF173K01551;INF173K01569;14.3648;27-Aug-2026
 
 Tata Mutual Fund
 146006;TATA Balanced Advantage Fund Direct Plan - Payout of Income Distribution cum capital withdrawal option ;Direct Plan;Payout of Income Distribution cum capital withdrawal option;INF277K014S6;;22.9108;27-Aug-2026
@@ -5749,6 +5731,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;Direct Plan;IDCW;INF084M01EC8;INF084M01ED6;31.2871;27-Aug-2026
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;Direct Plan;GROWTH;INF084M01EB0;;35.3747;27-Aug-2026
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;Regular Plan;IDCW Re-investment;INF084M01AU8;INF084M01AV6;33.5979;27-Aug-2026
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;Regular Plan;GROWTH;INF084M01AT0;;33.5919;27-Aug-2026
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;Direct Plan;GROWTH;INF084M01EH7;;47.5149;27-Aug-2026
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;Regular Plan;GROWTH;INF084M01AZ7;;44.3796;27-Aug-2026
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;;;INF084M01EI5;INF084M01EJ3;47.5392;27-Aug-2026
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;Regular Plan;IDCW Re-investment;INF084M01BA8;INF084M01BB6;44.4071;27-Aug-2026
 152140;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct Growth;Direct Plan;GROWTH;INF209KB16W7;;12.9223;27-Aug-2026
 152139;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct IDCW Payout;Direct Plan;IDCW;INF209KB17W5;INF209KB18W3;12.9223;27-Aug-2026
 152142;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Regular Growth;Regular Plan;GROWTH;INF209KB13W4;;12.9054;27-Aug-2026
@@ -5779,6 +5769,10 @@ DSP Mutual Fund
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;Regular Plan;Growth;INF740K01284;;28.6202;27-Aug-2026
 112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;Regular Plan;IDCW;INF740K01292;INF740K01300;19.8999;27-Aug-2026
 119275;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;Direct Plan;Growth;INF740K01PC5;;30.3271;27-Aug-2026
+149816;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;Direct Plan;Growth;INF740KA1QP1;;23.3600;27-Aug-2026
+149815;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;Direct Plan;IDCW;INF740KA1QQ9;INF740KA1QR7;23.3600;27-Aug-2026
+149817;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;Regular Plan;Growth;INF740KA1QM8;;22.4200;27-Aug-2026
+149814;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;Regular Plan;IDCW;INF740KA1QN6;INF740KA1QO4;22.4200;27-Aug-2026
 152528;DSP US Specific Debt Passive FoF - Direct - Growth;Direct Plan;Growth;INF740KA1UJ6;;12.5880;27-Aug-2026
 152529;DSP US Specific Debt Passive FoF - Direct - IDCW;Direct Plan;IDCW;INF740KA1UK4;INF740KA1UL2;12.5880;27-Aug-2026
 152527;DSP US Specific Debt Passive FoF - Regular - Growth;Regular Plan;Growth;INF740KA1UG2;;12.5726;27-Aug-2026
@@ -7505,6 +7499,12 @@ SBI Mutual Fund
 106228;SBI Short Term Fund - Short Term Fund - Retail Dividend - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01IE1;INF200K01IF8;16.0022;27-Aug-2026
 106227;SBI SHORT TERM FUND-SHORT TERM FUND - RETAIL - GROWTH;Regular Plan;Growth;INF200K01IG6;;38.5765;27-Aug-2026
 
+Sundaram Mutual Fund
+149588;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) - Direct Plan - Income Distribution CUM Capital Withdrawal Plan (IDCW);Direct Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF173K01GQ8;INF173K01GR6;13.1700;27-Aug-2026
+149587;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)- Direct Plan - Growth Option;Direct Plan;GROWTH;INF173K01GP0;;51.2017;27-Aug-2026
+149585;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)- Growth Plan;Regular Plan;GROWTH;INF173K01BA3;;47.0299;27-Aug-2026
+149586;Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)- Income Distribution CUM Capital Withdrawal Option (IDCW);Regular Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF173K01BB1;INF173K01BC9;13.0222;27-Aug-2026
+
 UTI Mutual Fund
 135497;UTI Short Term Fund - Direct Plan - Annual IDCW;Direct Plan;Annual IDCW;INF789FA1R33;INF789FA1R41;13.6574;27-Aug-2026
 124962;UTI Short Term Fund - Direct Plan - Flexi IDCW;Direct Plan;Flexi IDCW;INF789FB1T70;INF789FB1T62;19.894;27-Aug-2026
@@ -7606,6 +7606,12 @@ SBI Mutual Fund
 119825;SBI Medium Term Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01UZ1;INF200K01VA2;23.1937;27-Aug-2026
 102053;SBI MEDIUM TERM FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01719;;54.8897;27-Aug-2026
 102054;SBI Medium Term Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01727;INF200K01735;21.2768;27-Aug-2026
+
+Sundaram Mutual Fund
+119675;Sundaram Medium Term Fund Direct Plan - Growth;Direct Plan;GROWTH;INF903J01PO6;;80.8171;27-Aug-2026
+119672;Sundaram Medium Term Fund Direct Plan-IDCW;Direct Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF903J01PK4;INF903J01PL2;27.1783;27-Aug-2026
+100602;Sundaram Medium Term Fund Regular Plan - (IDCW);Regular Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF903J01FR0;INF903J01FU4;13.2361;27-Aug-2026
+100603;Sundaram Medium Term Fund Regular Plan - Growth;Regular Plan;GROWTH;INF903J01FQ2;;71.7104;27-Aug-2026
 
 UTI Mutual Fund
 134505;UTI Medium Term Fund - Direct Plan - Annual IDCW;Direct Plan;Annual IDCW;INF789FB1KL1;INF789FB1KM9;15.3976;27-Aug-2026
@@ -8268,6 +8274,12 @@ SBI Mutual Fund
 125499;SBI Banking & PSU Debt Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;;INF200K01U58;1506.8553;27-Aug-2026
 125501;SBI Banking & PSU Debt Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01U82;INF200K01U90;1227.6634;27-Aug-2026
 125500;SBI Banking & PSU Debt Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01U74;INF200K01U66;1506.4971;27-Aug-2026
+
+Sundaram Mutual Fund
+119625;Sundaram Banking and PSU Debt Fund Direct Plan - Growth;Direct Plan;GROWTH;INF903J01PA5;;46.4060;27-Aug-2026
+119626;Sundaram Banking and PSU Debt Fund Direct Plan - IDCW;Direct Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF903J01PB3;INF903J01PE7;11.5529;27-Aug-2026
+100784;Sundaram Banking and PSU Debt Fund Regular Plan - Growth;Regular Plan;GROWTH;INF903J01IN3;;45.6755;27-Aug-2026
+100793;Sundaram Banking and PSU Debt Fund Regular Plan - IDCW;Regular Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF903J01IO1;INF903J01IR4;11.5751;27-Aug-2026
 
 UTI Mutual Fund
 140135;UTI Banking & PSU Debt Fund - Direct Plan - Annual IDCW;Direct Plan;Annual IDCW;INF789FA1V03;INF789FA1V11;13.7095;27-Aug-2026
@@ -9803,6 +9815,12 @@ NJ Mutual Fund
 149265;NJ Balanced Advantage Fund - Direct Plan - IDCW Payout Option;Direct Plan;IDCW Payout Option;INF0J8L01032;;14.65;27-Aug-2026
 149266;NJ Balanced Advantage Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF0J8L01024;;13.76;27-Aug-2026
 149263;NJ Balanced Advantage Fund - Regular Plan - IDCW Payout Option;Regular Plan;IDCW Payout Option;INF0J8L01016;;13.76;27-Aug-2026
+
+Sundaram Mutual Fund
+149717;Sundaram Dynamic Asset Allocation Fund Direct Plan - Growth;Direct Plan;GROWTH;INF173K01FI7;;42.6492;27-Aug-2026
+149718;Sundaram Dynamic Asset Allocation Fund Direct Plan - Monthly IDCW;Direct Plan;Monthly IDCW (Income Distribution CUM Capital Withdrawal);INF173K01FF3;INF173K01FG1;17.8677;27-Aug-2026
+149715;Sundaram Dynamic Asset Allocation Fund Regular Plan - Growth;Regular Plan;GROWTH;INF173K01585;;35.7792;27-Aug-2026
+149716;Sundaram Dynamic Asset Allocation Fund Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW (Income Distribution CUM Capital Withdrawal);INF173K01551;INF173K01569;14.3648;27-Aug-2026
 
 UTI Mutual Fund
 151885;UTI Balanced Advantage Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF789F1AYV3;;13.1726;27-Aug-2026

@@ -2804,12 +2804,6 @@ Shriram Mutual Fund
 147405;Shriram Balanced Advantage Fund - Regular Growth;Regular Plan;Growth;INF680P01174;;16.7312;26-Aug-2026
 147404;Shriram Balanced Advantage Fund - Regular-IDCW;Regular Plan;IDCW;INF680P01182;INF680P01190;16.7542;26-Aug-2026
 
-Sundaram Mutual Fund
-149717;Sundaram Balanced Advantage Fund ( Formerly Known as Principal Balanced Advantage Fund) - Direct Plan - Growth Option;Direct Plan;GROWTH;INF173K01FI7;;42.7048;26-Aug-2026
-149718;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Direct Plan - Monthly Income Distribution CUM Capital Withdrawal Option;Direct Plan;Monthly IDCW (Income Distribution CUM Capital Withdrawal);INF173K01FF3;INF173K01FG1;17.8910;26-Aug-2026
-149715;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Growth Option;Regular Plan;GROWTH;INF173K01585;;35.8273;26-Aug-2026
-149716;Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Monthly Income Distribution CUM Capital Withdrawal Option;Regular Plan;Monthly IDCW (Income Distribution CUM Capital Withdrawal);INF173K01551;INF173K01569;14.3841;26-Aug-2026
-
 Tata Mutual Fund
 146006;TATA Balanced Advantage Fund Direct Plan - Payout of Income Distribution cum capital withdrawal option ;Direct Plan;Payout of Income Distribution cum capital withdrawal option;INF277K014S6;;22.9605;26-Aug-2026
 146008;TATA Balanced Advantage Fund Direct Plan - Reinvestment of Income Distribution cum capital withdrawal option ;Direct Plan;Reinvestment of Income Distribution cum capital withdrawal option;;INF277K015S3;22.9605;26-Aug-2026
@@ -6464,6 +6458,12 @@ NJ Mutual Fund
 149265;NJ Balanced Advantage Fund - Direct Plan - IDCW Payout Option;Direct Plan;IDCW Payout Option;INF0J8L01032;;14.65;26-Aug-2026
 149266;NJ Balanced Advantage Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF0J8L01024;;13.76;26-Aug-2026
 149263;NJ Balanced Advantage Fund - Regular Plan - IDCW Payout Option;Regular Plan;IDCW Payout Option;INF0J8L01016;;13.76;26-Aug-2026
+
+Sundaram Mutual Fund
+149717;Sundaram Dynamic Asset Allocation Fund Direct Plan - Growth;Direct Plan;GROWTH;INF173K01FI7;;42.7048;26-Aug-2026
+149718;Sundaram Dynamic Asset Allocation Fund Direct Plan - Monthly IDCW;Direct Plan;Monthly IDCW (Income Distribution CUM Capital Withdrawal);INF173K01FF3;INF173K01FG1;17.8910;26-Aug-2026
+149715;Sundaram Dynamic Asset Allocation Fund Regular Plan - Growth;Regular Plan;GROWTH;INF173K01585;;35.8273;26-Aug-2026
+149716;Sundaram Dynamic Asset Allocation Fund Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW (Income Distribution CUM Capital Withdrawal);INF173K01551;INF173K01569;14.3841;26-Aug-2026
 
 UTI Mutual Fund
 151885;UTI Balanced Advantage Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF789F1AYV3;;13.2067;26-Aug-2026
