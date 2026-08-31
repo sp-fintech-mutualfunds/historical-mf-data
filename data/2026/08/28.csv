@@ -131,10 +131,6 @@ Union Mutual Fund
 150855;Union Multicap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF582M01IS8;;17.87;28-Aug-2026
 150856;Union Multicap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF582M01IT6;INF582M01IU4;17.87;28-Aug-2026
 
-WhiteOak Capital Mutual Fund
-152071;WhiteOak Capital Multi Cap Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01803;;17.239;28-Aug-2026
-152072;WhiteOak Capital Multi Cap Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01795;;16.473;28-Aug-2026
-
 Open Ended Schemes ( Equity Scheme - Large Cap Fund )
 
 
@@ -294,12 +290,6 @@ UTI Mutual Fund
 100651;UTI Large Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF789F01976;;268.1703;28-Aug-2026
 100650;UTI Large Cap Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF189A01038;INF789F01950;52.8439;28-Aug-2026
 
-WhiteOak Capital Mutual Fund
-150797;WhiteOak Capital Large Cap Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01696;;16.136;28-Aug-2026
-150798;WhiteOak Capital Large Cap Fund Direct Plan IDCW;Direct Plan;IDCW Option;INF03VN01704;INF03VN01712;16.136;28-Aug-2026
-150799;WhiteOak Capital Large Cap Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01662;;15.168;28-Aug-2026
-150800;WhiteOak Capital Large Cap Fund Regular Plan IDCW;Regular Plan;IDCW Option;INF03VN01670;INF03VN01688;15.168;28-Aug-2026
-
 Open Ended Schemes ( Equity Scheme - Large & Mid Cap Fund )
 
 
@@ -451,10 +441,6 @@ UTI Mutual Fund
 100664;UTI Large & Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF789F01869;;186.8834;28-Aug-2026
 100663;UTI Large & Mid Cap Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF189A01046;INF789F01851;91.0414;28-Aug-2026
 
-WhiteOak Capital Mutual Fund
-152226;Whiteoak Capital Large & Mid Cap Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01845;;14.775;28-Aug-2026
-152225;Whiteoak Capital Large & Mid Cap Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01837;;14.163;28-Aug-2026
-
 Open Ended Schemes ( Equity Scheme - Mid Cap Fund )
 
 
@@ -582,12 +568,6 @@ UTI Mutual Fund
 102393;UTI Mid Cap Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF789F01794;INF789F01802;152.7237;28-Aug-2026
 102394;UTI Mid Cap Fund-Growth Option;Regular Plan;Growth;INF789F01810;;322.7405;28-Aug-2026
 120726;UTI Mid Cap Fund-Growth Option- Direct;Direct Plan;Growth;INF789F01UA6;;362.8909;28-Aug-2026
-
-WhiteOak Capital Mutual Fund
-150584;WhiteOak Capital Mid Cap Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01597;;23.899;28-Aug-2026
-150582;WhiteOak Capital Mid Cap Fund Direct Plan IDCW;Direct Plan;IDCW Option;INF03VN01605;INF03VN01613;23.899;28-Aug-2026
-150583;WhiteOak Capital Mid Cap Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01563;;22.486;28-Aug-2026
-150585;WhiteOak Capital Mid Cap Fund Regular Plan IDCW;Regular Plan;IDCW Option;INF03VN01571;INF03VN01589;22.486;28-Aug-2026
 
 Open Ended Schemes ( Equity Scheme - Small Cap Fund )
 
@@ -819,6 +799,12 @@ Baroda BNP Paribas Mutual Fund
 151756;Baroda BNP Paribas Value Fund - Direct Plan - IDCW option;Direct Plan;IDCW Option;INF251K01SE3;INF251K01SF0;13.1963;28-Aug-2026
 151747;Baroda BNP Paribas Value Fund - Regular Plan - Growth option;Regular Plan;Growth Option;INF251K01SA1;;13.8869;28-Aug-2026
 151754;Baroda BNP Paribas Value Fund - Regular Plan - IDCW option;Regular Plan;IDCW Option;INF251K01SB9;INF251K01SC7;12.6616;28-Aug-2026
+
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;Direct Plan;Growth;INF740KA1PP3;;24.9160;28-Aug-2026
+148596;DSP Value Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF740KA1PQ1;INF740KA1PR9;18.8720;28-Aug-2026
+148594;DSP Value Fund - Regular Plan - Growth;Regular Plan;Growth;INF740KA1PM0;;23.8330;28-Aug-2026
+148597;DSP Value Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF740KA1PN8;INF740KA1PO6;16.6580;28-Aug-2026
 
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;Direct Plan;Growth;INF090I01GY2;;777.7648;28-Aug-2026
@@ -1414,6 +1400,10 @@ Kotak Mahindra Mutual Fund
 152911;Kotak MNC Fund-Direct Plan-IDCW Option;Direct Plan;IDCW Option;INF174KA1TH7;INF174KA1TI5;13.001;28-Aug-2026
 152913;Kotak MNC Fund-Regular Plan- Growth;Regular Plan;Growth;INF174KA1TJ3;;12.663;28-Aug-2026
 152912;KotaK MNC Fund-Regular Plan-IDCW OPTION;Regular Plan;IDCW Option;INF174KA1TK1;INF174KA1TL9;12.663;28-Aug-2026
+147727;Kotak Pioneer Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF174KA1EZ1;;39.61;28-Aug-2026
+147724;Kotak Pioneer Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF174KA1EW8;;35.644;28-Aug-2026
+147728;Kotak Pioneer Fund- Regular Plan- Reinvestment of Income Distribution cum capital withdrawal option;Regular Plan;Reinvestment of Income Distribution cum capital withdrawal option;INF174KA1EU2;INF174KA1EV0;35.66;28-Aug-2026
+147725;Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option;Direct Plan;Reinvestment of Income Distribution cum capital withdrawal option;INF174KA1EX6;INF174KA1EY4;39.604;28-Aug-2026
 151881;Kotak Quant Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF174KA1OL0;;15.725;28-Aug-2026
 151880;Kotak Quant Fund - Direct plan - IDCW Payout;Direct Plan;IDCW;INF174KA1OM8;INF174KA1ON6;15.725;28-Aug-2026
 151878;Kotak Quant Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF174KA1OI6;;15.531;28-Aug-2026
@@ -1805,22 +1795,6 @@ UTI Mutual Fund
 120681;UTI MNC Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF789F01UB4;INF789F01UC2;237.9525;28-Aug-2026
 100739;UTI MNC Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF789F01828;INF789F01836;210.5066;28-Aug-2026
 
-WhiteOak Capital Mutual Fund
-152321;WhiteOak Capital Banking & Financial Services Fund - Direct Growth;Direct Plan;Growth Option;INF03VN01860;;13.776;28-Aug-2026
-152322;WhiteOak Capital Banking & Financial Services Fund - Regular Growth;Regular Plan;Growth Option;INF03VN01852;;13.185;28-Aug-2026
-154161;WhiteOak Capital Consumption Opportunities Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01AD3;;10.579;28-Aug-2026
-154162;WhiteOak Capital Consumption Opportunities Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01AE1;;10.485;28-Aug-2026
-152915;WhiteOak Capital Digital Bharat Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01936;;10.892;28-Aug-2026
-152914;WhiteOak Capital Digital Bharat Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01944;;10.542;28-Aug-2026
-152962;WhiteOak Capital ESG Best-In-Class Strategy Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01951;;10.665;28-Aug-2026
-152963;WhiteOak Capital ESG Best-In-Class Strategy Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01969;;10.333;28-Aug-2026
-152349;WhiteOak Capital Pharma and Heathcare Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01886;;17.747;28-Aug-2026
-152348;WhiteOak Capital Pharma and Heathcare Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01878;;16.977;28-Aug-2026
-153189;WhiteOak Capital Quality Equity Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01977;;10.808;28-Aug-2026
-153190;WhiteOak Capital Quality Equity Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01985;;10.521;28-Aug-2026
-152644;WhiteOak Capital Special Opportunities Fund - Direct Growth;Direct Plan;Growth Option;INF03VN01902;;15.435;28-Aug-2026
-152643;WhiteOak Capital Special Opportunities Fund - Regular Growth;Regular Plan;Growth Option;INF03VN01894;;14.831;28-Aug-2026
-
 Open Ended Schemes ( Equity Scheme - ELSS )
 
 
@@ -1971,12 +1945,6 @@ UTI Mutual Fund
 120714;UTI ELSS Tax Saver Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF789F01TD2;INF789F01TE0;54.2503;28-Aug-2026
 100821;UTI ELSS Tax Saver Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF789F01547;;203.5282;28-Aug-2026
 100820;UTI ELSS Tax Saver Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF789F01521;INF789F01539;38.8822;28-Aug-2026
-
-WhiteOak Capital Mutual Fund
-150587;WhiteOak Capital ELSS Tax Saver Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01621;;19.670;28-Aug-2026
-150586;WhiteOak Capital ELSS Tax Saver Fund Direct Plan IDCW;Direct Plan;IDCW Option;INF03VN01639;;19.670;28-Aug-2026
-150589;WhiteOak Capital ELSS Tax Saver Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01647;;18.414;28-Aug-2026
-150588;WhiteOak Capital ELSS Tax Saver Fund Regular Plan IDCW;Regular Plan;IDCW Option;INF03VN01654;;18.414;28-Aug-2026
 
 Open Ended Schemes ( Debt Scheme - Overnight Fund )
 
@@ -2537,18 +2505,6 @@ Union Mutual Fund
 115398;Union Liquid Fund - Growth Option;Regular Plan;Growth Option;INF582M01013;;2697.0334;28-Aug-2026
 115400;Union Liquid Fund - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF582M01070;INF582M01054;1001.1480;28-Aug-2026
 115402;Union Liquid Fund - Weekly IDCW Option;Regular Plan;Weekly IDCW Option;;INF582M01039;1002.1532;28-Aug-2026
-
-WhiteOak Capital Mutual Fund
-145969;WhiteOak Capital Liquid Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);Direct Plan;Daily IDCW Reinvestment Option;;INF03VN01019;1001.9025;28-Aug-2026
-145966;WhiteOak Capital Liquid Fund- Direct plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);Direct Plan;Fortnightly IDCW Payout / Reinvestment Option;INF03VN01027;INF03VN01035;1002.1737;28-Aug-2026
-145971;WhiteOak Capital Liquid Fund- Direct plan-Growth Option;Direct Plan;Growth Option;INF03VN01043;;1516.4725;28-Aug-2026
-145967;WhiteOak Capital Liquid Fund- Direct plan-Monthly  Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);Direct Plan;Monthly IDCW Payout / Reinvestment Option;INF03VN01050;INF03VN01068;1003.9652;28-Aug-2026
-145970;WhiteOak Capital Liquid Fund- Direct plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);Direct Plan;Weekly IDCW Payout / Reinvestment Option;INF03VN01076;INF03VN01084;1002.4859;28-Aug-2026
-145963;WhiteOak Capital Liquid Fund- Regular plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);Regular Plan;Daily IDCW Reinvestment Option;;INF03VN01092;1001.9023;28-Aug-2026
-145965;WhiteOak Capital Liquid Fund- Regular plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);Regular Plan;Fortnightly IDCW Payout / Reinvestment Option;INF03VN01100;INF03VN01118;1003.3087;28-Aug-2026
-145968;WhiteOak Capital Liquid Fund- Regular plan-Growth Option;Regular Plan;Growth Option;INF03VN01126;;1505.6747;28-Aug-2026
-145972;WhiteOak Capital Liquid Fund- Regular plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);Regular Plan;Monthly IDCW Payout / Reinvestment Option;INF03VN01134;INF03VN01142;1003.5363;28-Aug-2026
-145964;WhiteOak Capital Liquid Fund- Regular plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);Regular Plan;Weekly IDCW Payout / Reinvestment Option;INF03VN01159;INF03VN01167;1002.4554;28-Aug-2026
 
 Open Ended Schemes ( Debt Scheme - Ultra Short Duration Fund )
 
@@ -3444,10 +3400,6 @@ ICICI Prudential Mutual Fund
 154418;ICICI Prudential Balanced Hybrid Fund - Growth;Regular Plan;Growth;INF109K1A484;;10.16;28-Aug-2026
 154419;ICICI Prudential Balanced Hybrid Fund - IDCW;Regular Plan;IDCW;INF109K1A500;INF109K1A492;10.16;28-Aug-2026
 
-WhiteOak Capital Mutual Fund
-152132;WhiteOak Capital Balanced Hybrid Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01829;;14.056;28-Aug-2026
-152133;WhiteOak Capital Balanced Hybrid Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01811;;13.468;28-Aug-2026
-
 Open Ended Schemes ( Hybrid Scheme - Aggressive Hybrid Fund )
 
 
@@ -3706,10 +3658,6 @@ UTI Mutual Fund
 100646;UTI - Unit Linked Insurance Plan;Regular Plan;Growth;;;43.5259;28-Aug-2026
 120784;UTI - Unit Linked Insurance Plan- Direct;Direct Plan;Growth;;;47.4009;28-Aug-2026
 
-WhiteOak Capital Mutual Fund
-151267;WhiteOak Capital Balanced Advantage Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01738;;15.867;28-Aug-2026
-151268;WhiteOak Capital Balanced Advantage Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01720;;15.011;28-Aug-2026
-
 Open Ended Schemes ( Hybrid Scheme - Multi Asset Allocation )
 
 
@@ -3842,10 +3790,6 @@ Union Mutual Fund
 152784;Union Multi Asset Allocation Fund- Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF582M01JZ1;INF582M01KA2;12.69;28-Aug-2026
 152786;Union Multi Asset Allocation Fund- Regular Plan - Growth Option;Regular Plan;Growth Option;INF582M01JU2;;12.41;28-Aug-2026
 152785;Union Multi Asset Allocation Fund- Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF582M01JV0;INF582M01JW8;12.41;28-Aug-2026
-
-WhiteOak Capital Mutual Fund
-151745;WhiteOak Capital Multi Asset Allocation Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01761;;16.890;28-Aug-2026
-151746;WhiteOak Capital Multi Asset Allocation Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01779;;16.249;28-Aug-2026
 
 Open Ended Schemes ( Hybrid Scheme - Arbitrage Fund )
 
@@ -4158,10 +4102,6 @@ Union Mutual Fund
 144313;Union Equity Savings Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF582M01EE7;INF582M01ED9;17.07;28-Aug-2026
 144310;Union Equity Savings Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF582M01EG2;;17.50;28-Aug-2026
 144311;Union Equity Savings Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF582M01EI8;INF582M01EH0;16.28;28-Aug-2026
-
-WhiteOak Capital Mutual Fund
-153355;WhiteOak Capital Equity Savings Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01AB7;;11.846;28-Aug-2026
-153356;WhiteOak Capital Equity Savings Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01AC5;;11.592;28-Aug-2026
 
 Open Ended Schemes ( Solution Oriented Scheme - Retirement Fund )
 
@@ -5721,6 +5661,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;Direct Plan;IDCW;INF084M01EC8;INF084M01ED6;30.9412;28-Aug-2026
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;Direct Plan;GROWTH;INF084M01EB0;;34.9836;28-Aug-2026
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;Regular Plan;IDCW Re-investment;INF084M01AU8;INF084M01AV6;33.2259;28-Aug-2026
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;Regular Plan;GROWTH;INF084M01AT0;;33.2200;28-Aug-2026
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;Direct Plan;GROWTH;INF084M01EH7;;47.2499;28-Aug-2026
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;Regular Plan;GROWTH;INF084M01AZ7;;44.1313;28-Aug-2026
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;;;INF084M01EI5;INF084M01EJ3;47.2740;28-Aug-2026
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;Regular Plan;IDCW Re-investment;INF084M01BA8;INF084M01BB6;44.1587;28-Aug-2026
 152140;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct Growth;Direct Plan;GROWTH;INF209KB16W7;;12.8831;28-Aug-2026
 152139;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct IDCW Payout;Direct Plan;IDCW;INF209KB17W5;INF209KB18W3;12.8831;28-Aug-2026
 152142;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Regular Growth;Regular Plan;GROWTH;INF209KB13W4;;12.8662;28-Aug-2026
@@ -5751,6 +5699,10 @@ DSP Mutual Fund
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;Regular Plan;Growth;INF740K01284;;28.7504;28-Aug-2026
 112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;Regular Plan;IDCW;INF740K01292;INF740K01300;19.9905;28-Aug-2026
 119275;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;Direct Plan;Growth;INF740K01PC5;;30.4656;28-Aug-2026
+149816;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;Direct Plan;Growth;INF740KA1QP1;;23.3052;28-Aug-2026
+149815;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;Direct Plan;IDCW;INF740KA1QQ9;INF740KA1QR7;23.3052;28-Aug-2026
+149817;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;Regular Plan;Growth;INF740KA1QM8;;22.3669;28-Aug-2026
+149814;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;Regular Plan;IDCW;INF740KA1QN6;INF740KA1QO4;22.3669;28-Aug-2026
 152528;DSP US Specific Debt Passive FoF - Direct - Growth;Direct Plan;Growth;INF740KA1UJ6;;12.5542;28-Aug-2026
 152529;DSP US Specific Debt Passive FoF - Direct - IDCW;Direct Plan;IDCW;INF740KA1UK4;INF740KA1UL2;12.5542;28-Aug-2026
 152527;DSP US Specific Debt Passive FoF - Regular - Growth;Regular Plan;Growth;INF740KA1UG2;;12.5388;28-Aug-2026
@@ -5787,6 +5739,10 @@ Franklin Templeton Mutual Fund
 118550;Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - IDCW;Direct Plan;IDCW;INF090I01JP4;INF090I01JQ2;100.0144;28-Aug-2026
 116633;Franklin U.S. Opportunities Equity Active Fund of Funds - Growth;Regular Plan;Growth;INF090I01EW1;;91.1170;28-Aug-2026
 116632;Franklin U.S. Opportunities Equity Active Fund of Funds - IDCW;Regular Plan;IDCW;INF090I01EV3;INF090I01EU5;88.6136;28-Aug-2026
+
+HDFC Mutual Fund
+149180;HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option;;;INF179KC1BO4;;22.315;28-Aug-2026
+149181;HDFC Developed World Overseas Equity Passive FOF - Growth Option;;;INF179KC1BP1;;21.815;28-Aug-2026
 
 ICICI Prudential Mutual Fund
 123654;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth;Direct Plan;Growth;INF109KA1CE0;;37.39;28-Aug-2026
@@ -5831,6 +5787,12 @@ SBI Mutual Fund
 148761;SBI US Specific Equity Active FoF- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1U36;INF200KA1U44;25.2715;28-Aug-2026
 148762;SBI US Specific Equity Active FoF- Regular Plan - Growth;Regular Plan;Growth;INF200KA1T96;;24.2912;28-Aug-2026
 148759;SBI US Specific Equity Active FoF- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1U02;INF200KA1U10;24.2904;28-Aug-2026
+
+Sundaram Mutual Fund
+119602;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;Direct Plan;GROWTH;INF903J01OB6;;49.2925;28-Aug-2026
+119601;Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW;Direct Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF903J01NZ7;INF903J01OA8;41.3682;28-Aug-2026
+106370;Sundaram Global Brand Theme-Equity Active FOF - Regular Growth;Regular Plan;GROWTH;INF903J01EX1;;44.5511;28-Aug-2026
+106369;Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW;Regular Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF903J01EY9;INF903J01EZ6;36.0143;28-Aug-2026
 
 Open Ended Schemes ( Other Scheme - FoF Domestic )
 
@@ -6412,12 +6374,6 @@ UTI Mutual Fund
 120663;UTI Flexi Cap Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF789F01TA8;INF789F01TB6;240.2763;28-Aug-2026
 100668;UTI Flexi Cap Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF189A01053;INF789F01505;221.0128;28-Aug-2026
 
-WhiteOak Capital Mutual Fund
-150349;WhiteOak Capital Flexi Cap Fund Direct Plan IDCW;Direct Plan;IDCW Option;INF03VN01555;INF03VN01548;19.522;28-Aug-2026
-150346;WhiteOak Capital Flexi Cap Fund Direct Plan-Growth;Direct Plan;Growth Option;INF03VN01530;;19.522;28-Aug-2026
-150348;WhiteOak Capital Flexi Cap Fund Regular Plan IDCW;Regular Plan;IDCW Option;INF03VN01522;INF03VN01514;18.410;28-Aug-2026
-150347;WhiteOak Capital Flexi Cap Fund Regular Plan-Growth;Regular Plan;Growth Option;INF03VN01506;;18.410;28-Aug-2026
-
 Open Ended Schemes ( Income/Debt Oriented Schemes - Overnight Fund )
 
 
@@ -6691,6 +6647,18 @@ UTI Mutual Fund
 102011;UTI Liquid Fund - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW;INF789F1AF93;INF789F1AG01;112.9272;28-Aug-2026
 135721;UTI Liquid Fund - Regular Plan - Quarterly IDCW;Regular Plan;Quarterly IDCW;INF789F1AG43;INF789F1AG50;191.473;28-Aug-2026
 102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;Regular Plan;Weekly IDCW;;INF789F1AG19;105.334;28-Aug-2026
+
+WhiteOak Capital Mutual Fund
+145969;WhiteOak Capital Liquid Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);Direct Plan;Daily IDCW Reinvestment Option;;INF03VN01019;1001.9025;28-Aug-2026
+145966;WhiteOak Capital Liquid Fund- Direct plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);Direct Plan;Fortnightly IDCW Payout / Reinvestment Option;INF03VN01027;INF03VN01035;1002.1737;28-Aug-2026
+145971;WhiteOak Capital Liquid Fund- Direct plan-Growth Option;Direct Plan;Growth Option;INF03VN01043;;1516.4725;28-Aug-2026
+145967;WhiteOak Capital Liquid Fund- Direct plan-Monthly  Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);Direct Plan;Monthly IDCW Payout / Reinvestment Option;INF03VN01050;INF03VN01068;1003.9652;28-Aug-2026
+145970;WhiteOak Capital Liquid Fund- Direct plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);Direct Plan;Weekly IDCW Payout / Reinvestment Option;INF03VN01076;INF03VN01084;1002.4859;28-Aug-2026
+145963;WhiteOak Capital Liquid Fund- Regular plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW);Regular Plan;Daily IDCW Reinvestment Option;;INF03VN01092;1001.9023;28-Aug-2026
+145965;WhiteOak Capital Liquid Fund- Regular plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);Regular Plan;Fortnightly IDCW Payout / Reinvestment Option;INF03VN01100;INF03VN01118;1003.3087;28-Aug-2026
+145968;WhiteOak Capital Liquid Fund- Regular plan-Growth Option;Regular Plan;Growth Option;INF03VN01126;;1505.6747;28-Aug-2026
+145972;WhiteOak Capital Liquid Fund- Regular plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);Regular Plan;Monthly IDCW Payout / Reinvestment Option;INF03VN01134;INF03VN01142;1003.5363;28-Aug-2026
+145964;WhiteOak Capital Liquid Fund- Regular plan-Weekly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW);Regular Plan;Weekly IDCW Payout / Reinvestment Option;INF03VN01159;INF03VN01167;1002.4554;28-Aug-2026
 
 Open Ended Schemes ( Income/Debt Oriented Schemes - Ultra Short Term Fund )
 
@@ -8541,10 +8509,10 @@ ICICI Prudential Mutual Fund
 101706;ICICI Prudential Multi Cap Fund - IDCW;Regular Plan;IDCW;INF109K01FK7;INF109K01621;35.36;28-Aug-2026
 
 Invesco Mutual Fund
-120413;Invesco India Multicap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF205K01MS2;;161.85;28-Aug-2026
-120412;Invesco India Multicap Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K01MQ6;INF205K01MR4;146.46;28-Aug-2026
-107353;Invesco India Multicap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF205K01DN2;;134.26;28-Aug-2026
-107352;Invesco India Multicap Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K01DO0;INF205K01DP7;121.74;28-Aug-2026
+120413;Invesco India Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF205K01MS2;;161.85;28-Aug-2026
+120412;Invesco India Multi Cap Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K01MQ6;INF205K01MR4;146.46;28-Aug-2026
+107353;Invesco India Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF205K01DN2;;134.26;28-Aug-2026
+107352;Invesco India Multi Cap Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K01DO0;INF205K01DP7;121.74;28-Aug-2026
 
 Kotak Mahindra Mutual Fund
 149183;Kotak Multi Cap Fund- Regular Plan -IDCW Option;Regular Plan;IDCW Option;INF174KA1HT7;INF174KA1HU5;18.63;28-Aug-2026
@@ -8567,6 +8535,10 @@ Mirae Asset Mutual Fund
 UTI Mutual Fund
 153515;UTI Multi Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF789F1AB89;;11.0095;28-Aug-2026
 153516;UTI Multi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF789F1AB71;;10.7979;28-Aug-2026
+
+WhiteOak Capital Mutual Fund
+152071;WhiteOak Capital Multi Cap Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01803;;17.239;28-Aug-2026
+152072;WhiteOak Capital Multi Cap Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01795;;16.473;28-Aug-2026
 
 Open Ended Schemes ( Equity Schemes - Large Cap Fund )
 
@@ -8602,10 +8574,10 @@ HSBC Mutual Fund
 101593;HSBC Large Cap Fund - Regular IDCW;Regular Plan;IDCW;INF336L01024;INF336L01032;42.7765;28-Aug-2026
 
 Invesco Mutual Fund
-120392;Invesco India Largecap Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K01LB0;;89.77;28-Aug-2026
-120393;Invesco India Largecap Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K01KZ1;INF205K01LA2;36.43;28-Aug-2026
-112098;Invesco India Largecap Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K01304;;73.75;28-Aug-2026
-112099;Invesco India Largecap Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K01320;INF205K01312;27.32;28-Aug-2026
+120392;Invesco India Large Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K01LB0;;89.77;28-Aug-2026
+120393;Invesco India Large Cap Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K01KZ1;INF205K01LA2;36.43;28-Aug-2026
+112098;Invesco India Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K01304;;73.75;28-Aug-2026
+112099;Invesco India Large Cap Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K01320;INF205K01312;27.32;28-Aug-2026
 
 Jio BlackRock Mutual Fund
 154307;JioBlackRock Large Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M001176;;10.0623;28-Aug-2026
@@ -8636,6 +8608,12 @@ Mirae Asset Mutual Fund
 118826;Mirae Asset Large Cap Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF769K01AY0;INF769K01AZ7;67.199;28-Aug-2026
 107578;Mirae Asset Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF769K01010;;112.990;28-Aug-2026
 107579;Mirae Asset Large Cap Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF769K01036;INF769K01028;28.941;28-Aug-2026
+
+WhiteOak Capital Mutual Fund
+150797;WhiteOak Capital Large Cap Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01696;;16.136;28-Aug-2026
+150798;WhiteOak Capital Large Cap Fund Direct Plan IDCW;Direct Plan;IDCW Option;INF03VN01704;INF03VN01712;16.136;28-Aug-2026
+150799;WhiteOak Capital Large Cap Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01662;;15.168;28-Aug-2026
+150800;WhiteOak Capital Large Cap Fund Regular Plan IDCW;Regular Plan;IDCW Option;INF03VN01670;INF03VN01688;15.168;28-Aug-2026
 
 Open Ended Schemes ( Equity Schemes - Large & Mid Cap Fund )
 
@@ -8710,6 +8688,10 @@ Trust Mutual Fund
 154433;TRUSTMF LARGE & MIDCAP FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF0GCD01891;;10.37;28-Aug-2026
 154434;TRUSTMF LARGE & MIDCAP FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF0GCD01909;;10.35;28-Aug-2026
 
+WhiteOak Capital Mutual Fund
+152226;Whiteoak Capital Large & Mid Cap Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01845;;14.775;28-Aug-2026
+152225;Whiteoak Capital Large & Mid Cap Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01837;;14.163;28-Aug-2026
+
 Open Ended Schemes ( Equity Schemes - Mid Cap Fund )
 
 
@@ -8750,10 +8732,10 @@ ICICI Prudential Mutual Fund
 102529;ICICI Prudential Mid Cap Fund - IDCW;Regular Plan;IDCW;INF109K01EH6;INF109K01AL6;45.77;28-Aug-2026
 
 Invesco Mutual Fund
-120403;Invesco India Midcap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF205K01MV6;;245.07;28-Aug-2026
-120402;Invesco India Midcap Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K01MT0;INF205K01MU8;85.56;28-Aug-2026
-105503;Invesco India Midcap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF205K01BC9;;201.29;28-Aug-2026
-105504;Invesco India Midcap Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K01BD7;INF205K01BE5;62.73;28-Aug-2026
+120403;Invesco India Mid Cap Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF205K01MV6;;245.07;28-Aug-2026
+120402;Invesco India Mid Cap Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K01MT0;INF205K01MU8;85.56;28-Aug-2026
+105503;Invesco India Mid Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF205K01BC9;;201.29;28-Aug-2026
+105504;Invesco India Mid Cap Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K01BD7;INF205K01BE5;62.73;28-Aug-2026
 
 JM Financial Mutual Fund
 150815;JM Mid Cap Fund (Direct) - Growth;Direct Plan;Growth Option;INF192K01MV6;;23.0824;28-Aug-2026
@@ -8784,6 +8766,12 @@ The Wealth Company Mutual Fund
 154481;The Wealth Company Mid Cap Fund- Direct-Growth;Direct Plan;Growth;INF2F0001651;;9.9896;28-Aug-2026
 154479;The Wealth Company Mid Cap Fund- Regular-Growth;Regular Plan;Growth;INF2F0001628;;9.9796;28-Aug-2026
 154484;The Wealth Company Mid Cap Fund-Regular-IDCW;Regular Plan;IDCW;INF2F0001636;INF2F0001644;9.98;28-Aug-2026
+
+WhiteOak Capital Mutual Fund
+150584;WhiteOak Capital Mid Cap Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01597;;23.899;28-Aug-2026
+150582;WhiteOak Capital Mid Cap Fund Direct Plan IDCW;Direct Plan;IDCW Option;INF03VN01605;INF03VN01613;23.899;28-Aug-2026
+150583;WhiteOak Capital Mid Cap Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01563;;22.486;28-Aug-2026
+150585;WhiteOak Capital Mid Cap Fund Regular Plan IDCW;Regular Plan;IDCW Option;INF03VN01571;INF03VN01589;22.486;28-Aug-2026
 
 Open Ended Schemes ( Equity Schemes - Small Cap Fund )
 
@@ -8825,10 +8813,10 @@ ICICI Prudential Mutual Fund
 106822;ICICI Prudential Small Cap Fund - IDCW;Regular Plan;IDCW;INF109K01FA8;INF109K01BJ8;34.20;28-Aug-2026
 
 Invesco Mutual Fund
-145137;Invesco India Smallcap Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K013T3;;54.88;28-Aug-2026
-145138;Invesco India Smallcap Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K012T5;INF205K015T8;40.77;28-Aug-2026
-145139;Invesco India Smallcap Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K011T7;;48.83;28-Aug-2026
-145140;Invesco India Smallcap Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K010T9;INF205K014T1;34.93;28-Aug-2026
+145137;Invesco India Small Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF205K013T3;;54.88;28-Aug-2026
+145138;Invesco India Small Cap Fund - Direct Plan - IDCW (Payout / Reinvestment);Direct Plan;IDCW;INF205K012T5;INF205K015T8;40.77;28-Aug-2026
+145139;Invesco India Small Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF205K011T7;;48.83;28-Aug-2026
+145140;Invesco India Small Cap Fund - Regular Plan - IDCW (Payout / Reinvestment);Regular Plan;IDCW;INF205K010T9;INF205K014T1;34.93;28-Aug-2026
 
 JM Financial Mutual Fund
 152614;JM Small Cap Fund (Direct) - Growth Option;Direct Plan;Growth Option;INF192K01NH3;;12.1301;28-Aug-2026
@@ -8938,6 +8926,12 @@ NJ Mutual Fund
 151918;NJ Flexi Cap Fund - Direct Plan - IDCW Option;Direct Plan;IDCW Payout Option;INF0J8L01164;;13.83;28-Aug-2026
 151920;NJ Flexi Cap Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF0J8L01131;;13.20;28-Aug-2026
 151919;NJ Flexi Cap Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Payout Option;INF0J8L01149;;13.20;28-Aug-2026
+
+WhiteOak Capital Mutual Fund
+150349;WhiteOak Capital Flexi Cap Fund Direct Plan IDCW;Direct Plan;IDCW Option;INF03VN01555;INF03VN01548;19.522;28-Aug-2026
+150346;WhiteOak Capital Flexi Cap Fund Direct Plan-Growth;Direct Plan;Growth Option;INF03VN01530;;19.522;28-Aug-2026
+150348;WhiteOak Capital Flexi Cap Fund Regular Plan IDCW;Regular Plan;IDCW Option;INF03VN01522;INF03VN01514;18.410;28-Aug-2026
+150347;WhiteOak Capital Flexi Cap Fund Regular Plan-Growth;Regular Plan;Growth Option;INF03VN01506;;18.410;28-Aug-2026
 
 Open Ended Schemes ( Equity Schemes - Dividend Yield Fund )
 
@@ -9174,6 +9168,14 @@ Nippon India Mutual Fund
 101262;Nippon India Power & Infra Fund-Growth Plan -Growth Option;Regular Plan;Growth Option;INF204K01AE0;;384.5745;28-Aug-2026
 101263;Nippon India Power & Infra Fund-Growth Plan-Bonus Option;Regular Plan;Bonus Option;INF204K01AD2;;384.5745;28-Aug-2026
 
+WhiteOak Capital Mutual Fund
+152321;WhiteOak Capital Banking & Financial Services Fund - Direct Growth;Direct Plan;Growth Option;INF03VN01860;;13.776;28-Aug-2026
+152322;WhiteOak Capital Banking & Financial Services Fund - Regular Growth;Regular Plan;Growth Option;INF03VN01852;;13.185;28-Aug-2026
+152915;WhiteOak Capital Digital Bharat Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01936;;10.892;28-Aug-2026
+152914;WhiteOak Capital Digital Bharat Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01944;;10.542;28-Aug-2026
+152349;WhiteOak Capital Pharma and Heathcare Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01886;;17.747;28-Aug-2026
+152348;WhiteOak Capital Pharma and Heathcare Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01878;;16.977;28-Aug-2026
+
 Open Ended Schemes ( Equity Schemes - Thematic Fund )
 
 
@@ -9407,6 +9409,16 @@ UTI Mutual Fund
 153204;UTI Quant Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF789F1AA98;;10.8457;28-Aug-2026
 153205;UTI Quant Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF789F1AA80;;10.562;28-Aug-2026
 
+WhiteOak Capital Mutual Fund
+154161;WhiteOak Capital Consumption Opportunities Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01AD3;;10.579;28-Aug-2026
+154162;WhiteOak Capital Consumption Opportunities Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01AE1;;10.485;28-Aug-2026
+152962;WhiteOak Capital ESG Best-In-Class Strategy Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01951;;10.665;28-Aug-2026
+152963;WhiteOak Capital ESG Best-In-Class Strategy Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01969;;10.333;28-Aug-2026
+153189;WhiteOak Capital Quality Equity Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01977;;10.808;28-Aug-2026
+153190;WhiteOak Capital Quality Equity Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01985;;10.521;28-Aug-2026
+152644;WhiteOak Capital Special Opportunities Fund - Direct Growth;Direct Plan;Growth Option;INF03VN01902;;15.435;28-Aug-2026
+152643;WhiteOak Capital Special Opportunities Fund - Regular Growth;Regular Plan;Growth Option;INF03VN01894;;14.831;28-Aug-2026
+
 Open Ended Schemes ( Equity Schemes - ELSS- Tax Saver Fund )
 
 
@@ -9522,6 +9534,12 @@ NJ Mutual Fund
 151609;NJ ELSS Tax Saver Fund Regular Growth;Regular Plan;Growth Option;INF0J8L01099;;14.28;28-Aug-2026
 151610;NJ ELSS Tax Saver Fund Regular IDCW;Regular Plan;IDCW Payout Option;INF0J8L01107;;14.28;28-Aug-2026
 
+WhiteOak Capital Mutual Fund
+150587;WhiteOak Capital ELSS Tax Saver Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01621;;19.670;28-Aug-2026
+150586;WhiteOak Capital ELSS Tax Saver Fund Direct Plan IDCW;Direct Plan;IDCW Option;INF03VN01639;;19.670;28-Aug-2026
+150589;WhiteOak Capital ELSS Tax Saver Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01647;;18.414;28-Aug-2026
+150588;WhiteOak Capital ELSS Tax Saver Fund Regular Plan IDCW;Regular Plan;IDCW Option;INF03VN01654;;18.414;28-Aug-2026
+
 Open Ended Schemes ( Hybrid Schemes - Conservative Hybrid Fund )
 
 
@@ -9601,6 +9619,10 @@ Open Ended Schemes ( Hybrid Schemes - Balanced Hybrid Fund )
 152075;360 ONE Balanced Hybrid Fund - Regular Plan - Growth;Regular Plan;GROWTH Option;INF579M01AV5;;13.2939;28-Aug-2026
 152076;360 ONE Balanced Hybrid Fund- Direct Plan - Growth;Direct Plan;GROWTH Option;INF579M01AY9;;13.8905;28-Aug-2026
 152074;360 ONE Balanced Hyrbrid fund - Regular Plan - IDCW;Regular Plan;IDCW Option;INF579M01AW3;INF579M01AX1;13.2939;28-Aug-2026
+
+WhiteOak Capital Mutual Fund
+152132;WhiteOak Capital Balanced Hybrid Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01829;;14.056;28-Aug-2026
+152133;WhiteOak Capital Balanced Hybrid Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01811;;13.468;28-Aug-2026
 
 Open Ended Schemes ( Hybrid Schemes - Aggressive Hybrid Fund )
 
@@ -9806,6 +9828,10 @@ UTI Mutual Fund
 151882;UTI Balanced Advantage Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF789F1AYT7;;12.6665;28-Aug-2026
 151884;UTI Balanced Advantage Fund - Regular Plan - Payout of IDCW Option;Regular Plan;IDCW;INF789F1AYU5;;12.6666;28-Aug-2026
 
+WhiteOak Capital Mutual Fund
+151267;WhiteOak Capital Balanced Advantage Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01738;;15.867;28-Aug-2026
+151268;WhiteOak Capital Balanced Advantage Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01720;;15.011;28-Aug-2026
+
 Open Ended Schemes ( Hybrid Schemes - Multi Asset Allocation Fund )
 
 
@@ -9890,6 +9916,10 @@ UTI Mutual Fund
 120761;UTI Multi Asset Allocation Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF789F01VC0;INF789F01VD8;35.4848;28-Aug-2026
 111599;UTI Multi Asset Allocation Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF789F01AP6;;80.5395;28-Aug-2026
 111602;UTI Multi Asset Allocation Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF789F01AN1;INF789F01AO9;30.1261;28-Aug-2026
+
+WhiteOak Capital Mutual Fund
+151745;WhiteOak Capital Multi Asset Allocation Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01761;;16.890;28-Aug-2026
+151746;WhiteOak Capital Multi Asset Allocation Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01779;;16.249;28-Aug-2026
 
 Open Ended Schemes ( Hybrid Schemes - Arbitrage Fund )
 
@@ -10038,17 +10068,21 @@ UTI Mutual Fund
 144486;UTI Equity Savings Fund - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW;INF789F1A793;INF789F1A785;18.9641;28-Aug-2026
 144487;UTI Equity Savings Fund - Regular Plan - Quarterly IDCW;Regular Plan;Quarterly IDCW;INF789F1A835;INF789F1A827;18.964;28-Aug-2026
 
+WhiteOak Capital Mutual Fund
+153355;WhiteOak Capital Equity Savings Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01AB7;;11.846;28-Aug-2026
+153356;WhiteOak Capital Equity Savings Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01AC5;;11.592;28-Aug-2026
+
 Open Ended Schemes ( Life Cycle Funds - Life Cycle Fund with Maturity of 10 Years )
 
 
 Zerodha Mutual Fund
-154436;Zerodha Life Cycle Fund 2036 - Direct - Growth;Direct Plan;Growth Option;;;10.1509;28-Aug-2026
+154436;Zerodha Life Cycle Fund 2036 - Direct - Growth;Direct Plan;Growth Option;INF0R8F01224;;10.1509;28-Aug-2026
 
 Open Ended Schemes ( Life Cycle Funds - Life Cycle Fund with Maturity of 15 Years )
 
 
 Zerodha Mutual Fund
-154437;Zerodha Life Cycle Fund 2041 - Direct - Growth;Direct Plan;Growth Option;;;10.1628;28-Aug-2026
+154437;Zerodha Life Cycle Fund 2041 - Direct - Growth;Direct Plan;Growth Option;INF0R8F01216;;10.1628;28-Aug-2026
 
 Open Ended Schemes ( Solution Oriented Schemes ** - Retirement Fund )
 
@@ -10692,6 +10726,10 @@ Kotak Mahindra Mutual Fund
 106442;Kotak Global Emerging Market Overseas Equity Active FOF - Payout of Income Distribution cum capital withdrawal option;Regular Plan;Payout of Income Distribution cum capital withdrawal option;INF174K01DX9;INF174K01DW1;40.04;28-Aug-2026
 119778;Kotak Global Emerging Market Overseas Equity Active FOF - Payout of Income Distribution cum capital withdrawal option - Direct;Direct Plan;Payout of Income Distribution cum capital withdrawal option;INF174K01LX2;INF174K01LY0;43.876;28-Aug-2026
 106441;Kotak Global Emerging Market Overseas Equity Active FOF- Growth;Regular Plan;Growth;INF174K01DV3;;40.037;28-Aug-2026
+149058;Kotak Global Innovation Overseas Equity Active FOF - Regular Plan -IDCW Option;Regular Plan;IDCW Option;INF174KA1HE9;INF174KA1HF6;15.2584;28-Aug-2026
+149056;Kotak Global Innovation Overseas Equity Active FOF - Regular Plan-Growth;Regular Plan;Growth;INF174KA1HD1;;15.258;28-Aug-2026
+149060;Kotak Global Innovation Overseas Equity Active FOF- Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF174KA1HH2;INF174KA1HI0;16.1987;28-Aug-2026
+149059;Kotak Global Innovation Overseas Equity Active FOF- Direct Plan -Growth;Direct Plan;Growth;INF174KA1HG4;;16.2012;28-Aug-2026
 148646;Kotak International REIT Overseas Equity Active FOF - Direct Plan - Growth;Direct Plan;Growth;INF174KA1FO2;;12.2893;28-Aug-2026
 148649;Kotak International REIT Overseas Equity Active FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;Direct Plan;Payout of Income Distribution cum capital withdrawal option;INF174KA1FN4;INF174KA1FP9;12.2892;28-Aug-2026
 148645;Kotak International REIT Overseas Equity Active FOF - Regular Plan - Growth;Regular Plan;Growth;INF174KA1FL8;;11.6884;28-Aug-2026
@@ -10745,6 +10783,10 @@ Axis Mutual Fund
 149846;Axis Multi Factor Passive FoF - Direct Plan - IDCW;Direct Plan;IDCW Option;INF846K012G7;INF846K013G5;15.8173;28-Aug-2026
 149844;Axis Multi Factor Passive FoF - Regular Plan - Growth Option;Regular Plan;Growth Option;INF846K014G3;;15.5925;28-Aug-2026
 149845;Axis Multi Factor Passive FoF - Regular Plan - IDCW;Regular Plan;IDCW Option;INF846K015G0;INF846K016G8;15.5934;28-Aug-2026
+153960;Axis Multi-Asset Omni FoF - Direct Plan - Growth;Direct Plan;Growth Option;INF846KA1366;;11.0632;28-Aug-2026
+153961;Axis Multi-Asset Omni FoF - Direct Plan - IDCW;Direct Plan;IDCW Option;INF846KA1374;INF846KA1382;11.0632;28-Aug-2026
+153963;Axis Multi-Asset Omni FoF - Regular Plan - Growth;Regular Plan;Growth Option;INF846KA1333;;10.9719;28-Aug-2026
+153962;Axis Multi-Asset Omni FoF - Regular Plan - IDCW;Regular Plan;IDCW Option;INF846KA1341;INF846KA1358;10.9719;28-Aug-2026
 150618;Axis Silver Fund of Fund - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF846K019J6;INF846K010K3;40.4391;28-Aug-2026
 150617;Axis Silver Fund of Fund -Regular Plan- Growth Option;Regular Plan;Growth Option;INF846K018J8;;40.4405;28-Aug-2026
 150616;Axis Silver Fund of Fund- Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF846K016J2;INF846K017J0;41.2698;28-Aug-2026
