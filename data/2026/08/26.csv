@@ -2529,12 +2529,6 @@ ICICI Prudential Mutual Fund
 Open Ended Schemes ( Hybrid Scheme - Aggressive Hybrid Fund )
 
 
-Aditya Birla Sun Life Mutual Fund
-120517;Aditya Birla Sun Life Equity Hybrid'95 Fund - Direct Plan-Growth;Direct Plan;GROWTH;INF209K01ZC0;;1771.77;26-Aug-2026
-103155;Aditya Birla Sun Life Equity Hybrid'95 Fund - Regular Plan-Growth;Regular Plan;GROWTH;INF209K01BT5;;1568.9;26-Aug-2026
-120518;Aditya Birla Sun Life Equity Hybrid'95 Fund -DIRECT - IDCW;Direct Plan;IDCW;INF209KA1LH3;INF209K01ZB2;296.22;26-Aug-2026
-103154;Aditya Birla Sun Life Equity Hybrid'95 Fund -Regular - IDCW;Regular Plan;IDCW;INF209K01BS7;INF209K01EE1;171.93;26-Aug-2026
-
 Bandhan Mutual Fund
 140382;Bandhan Aggressive Hybrid Fund-Direct Plan Growth;Direct Plan;Growth;INF194KA1U56;;32.469;26-Aug-2026
 140383;Bandhan Aggressive Hybrid Fund-Direct Plan IDCW;Direct Plan;IDCW;INF194KA1U64;INF194KA1U72;22.341;26-Aug-2026
@@ -6264,6 +6258,12 @@ WhiteOak Capital Mutual Fund
 Open Ended Schemes ( Hybrid Schemes - Aggressive Hybrid Fund )
 
 
+Aditya Birla Sun Life Mutual Fund
+120517;Aditya Birla Sun Life Equity Hybrid'95 Fund - Direct Plan-Growth;Direct Plan;GROWTH;INF209K01ZC0;;1771.77;26-Aug-2026
+103155;Aditya Birla Sun Life Equity Hybrid'95 Fund - Regular Plan-Growth;Regular Plan;GROWTH;INF209K01BT5;;1568.9;26-Aug-2026
+120518;Aditya Birla Sun Life Equity Hybrid'95 Fund -DIRECT - IDCW;Direct Plan;IDCW;INF209KA1LH3;INF209K01ZB2;296.22;26-Aug-2026
+103154;Aditya Birla Sun Life Equity Hybrid'95 Fund -Regular - IDCW;Regular Plan;IDCW;INF209K01BS7;INF209K01EE1;171.93;26-Aug-2026
+
 Axis Mutual Fund
 144394;Axis Aggressive Hybrid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF846K01E25;;23.30;26-Aug-2026
 144397;Axis Aggressive Hybrid Fund - Direct Plan - Monthly IDCW;Direct Plan;Monthly IDCW;INF846K01E33;INF846K01E41;15.59;26-Aug-2026
@@ -7327,8 +7327,8 @@ Groww Mutual Fund
 153528;Groww Silver ETF FOF - Regular - IDCW;Regular Plan;Income Distribution cum capital withdrawal;INF666M01KY3;INF666M01KZ0;23.2459;26-Aug-2026
 
 HDFC Mutual Fund
-154505;HDFC Nifty Metal ETF FOF - Direct Plan - Growth Option;Direct Plan;Growth Option;;;10.2834;26-Aug-2026
-154506;HDFC Nifty Metal ETF FOF - Growth Option;Regular Plan;Growth Option;;;10.279;26-Aug-2026
+154505;HDFC Nifty Metal ETF FOF - Direct Plan - Growth Option;Direct Plan;Growth Option;INF179KC1KS6;;10.2834;26-Aug-2026
+154506;HDFC Nifty Metal ETF FOF - Growth Option;Regular Plan;Growth Option;INF179KC1KR8;;10.279;26-Aug-2026
 
 HSBC Mutual Fund
 129199;HSBC Aggressive Hybrid Active FOF - Dividend;Regular Plan;IDCW;INF336L01HY1;INF336L01HZ8;30.6981;26-Aug-2026
