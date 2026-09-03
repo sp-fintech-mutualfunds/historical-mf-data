@@ -1208,10 +1208,6 @@ HDFC Mutual Fund
 151804;HDFC Consumption Fund - Growth Option - Direct Plan;Direct Plan;Growth Option;INF179KC1GO3;;14.398;01-Sep-2026
 151802;HDFC Consumption Fund - IDCW Option;Regular Plan;IDCW Option;INF179KC1GS4;INF179KC1GT2;13.864;01-Sep-2026
 151805;HDFC Consumption Fund - IDCW Option - Direct Plan;Direct Plan;IDCW Option;INF179KC1GP0;INF179KC1GQ8;14.398;01-Sep-2026
-151751;HDFC Defence Fund - Growth Option;Regular Plan;Growth Option;INF179KC1GL9;;30.313;01-Sep-2026
-151750;HDFC Defence Fund - Growth Option - Direct Plan;Direct Plan;Growth Option;INF179KC1GI5;;31.422;01-Sep-2026
-151748;HDFC Defence Fund - IDCW Option;Regular Plan;IDCW Option;INF179KC1GM7;INF179KC1GN5;30.313;01-Sep-2026
-151749;HDFC Defence Fund - IDCW Option - Direct Plan;Direct Plan;IDCW Option;INF179KC1GJ3;INF179KC1GK1;31.422;01-Sep-2026
 141923;HDFC Housing Opportunities Fund  - Growth Option;Regular Plan;Growth Option;INF179KC1AX7;;21.379;01-Sep-2026
 141924;HDFC Housing Opportunities Fund  - Growth Option - Direct Plan;Direct Plan;Growth Option;INF179KC1AU3;;23.353;01-Sep-2026
 141922;HDFC Housing Opportunities Fund  - IDCW Option;Regular Plan;IDCW Option;INF179KC1AY5;INF179KC1AZ2;15.326;01-Sep-2026
@@ -1236,10 +1232,6 @@ HDFC Mutual Fund
 152082;HDFC Pharma and Healthcare Fund - Growth Option - Direct Plan;Direct Plan;Growth Option;INF179KC1HO1;;22.418;01-Sep-2026
 152083;HDFC Pharma and Healthcare Fund - IDCW Option;Regular Plan;IDCW Option;INF179KC1HM5;INF179KC1HN3;21.656;01-Sep-2026
 152081;HDFC Pharma and Healthcare Fund - IDCW Option - Direct Plan;Direct Plan;IDCW Option;INF179KC1HP8;INF179KC1HQ6;22.418;01-Sep-2026
-152058;HDFC Technology Fund - Growth Option;Regular Plan;Growth Option;INF179KC1HF9;;12.059;01-Sep-2026
-152059;HDFC Technology Fund - Growth Option - Direct Plan;Direct Plan;Growth Option;INF179KC1HI3;;12.495;01-Sep-2026
-152057;HDFC Technology Fund - IDCW Option;Regular Plan;IDCW Option;INF179KC1HG7;INF179KC1HH5;12.059;01-Sep-2026
-152060;HDFC Technology Fund - IDCW Option - Direct Plan;Direct Plan;IDCW Option;INF179KC1HJ1;INF179KC1HK9;12.495;01-Sep-2026
 151900;HDFC Transportation and Logistics Fund - Growth Option;Regular Plan;Growth Option	;INF179KC1GX4;;20.135;01-Sep-2026
 151901;HDFC Transportation and Logistics Fund - Growth Option - Direct Plan;Direct Plan;Growth Option;INF179KC1GU0;;20.87;01-Sep-2026
 151902;HDFC Transportation and Logistics Fund - IDCW Option;Regular Plan;IDCW Option;INF179KC1GY2;INF179KC1GZ9;20.135;01-Sep-2026
@@ -9251,6 +9243,16 @@ DSP Mutual Fund
 147304;DSP Quant Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF740KA1NR4;INF740KA1NS2;17.3150;01-Sep-2026
 147303;DSP Quant Fund - Regular Plan - Growth;Regular Plan;Growth;INF740KA1NN3;;21.5010;01-Sep-2026
 147305;DSP Quant Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF740KA1NO1;INF740KA1NP8;16.3280;01-Sep-2026
+
+HDFC Mutual Fund
+151751;HDFC Defence Fund - Growth Option;Regular Plan;Growth Option;INF179KC1GL9;;30.313;01-Sep-2026
+151750;HDFC Defence Fund - Growth Option - Direct Plan;Direct Plan;Growth Option;INF179KC1GI5;;31.422;01-Sep-2026
+151748;HDFC Defence Fund - IDCW Option;Regular Plan;IDCW Option;INF179KC1GM7;INF179KC1GN5;30.313;01-Sep-2026
+151749;HDFC Defence Fund - IDCW Option - Direct Plan;Direct Plan;IDCW Option;INF179KC1GJ3;INF179KC1GK1;31.422;01-Sep-2026
+152058;HDFC Technology Fund - Growth Option;Regular Plan;Growth Option;INF179KC1HF9;;12.059;01-Sep-2026
+152059;HDFC Technology Fund - Growth Option - Direct Plan;Direct Plan;Growth Option;INF179KC1HI3;;12.495;01-Sep-2026
+152057;HDFC Technology Fund - IDCW Option;Regular Plan;IDCW Option;INF179KC1HG7;INF179KC1HH5;12.059;01-Sep-2026
+152060;HDFC Technology Fund - IDCW Option - Direct Plan;Direct Plan;IDCW Option;INF179KC1HJ1;INF179KC1HK9;12.495;01-Sep-2026
 
 HSBC Mutual Fund
 151142;HSBC Business Cycles Fund - Direct Growth;Direct Plan;Growth;INF917K01RI2;;49.2107;01-Sep-2026
