@@ -1513,12 +1513,6 @@ Nippon India Mutual Fund
 108249;Nippon India Quant Fund -Growth Plan - Growth Option;Regular Plan;Growth Option;INF204K01760;;74.1682;28-Aug-2026
 108258;Nippon India Quant Fund -Growth Plan -Bonus Option;Regular Plan;Bonus Option;INF204K01737;;74.1682;28-Aug-2026
 
-PGIM India Mutual Fund
-153039;PGIM India Healthcare Fund - Direct Plan - Growth Option;Direct Plan;Direct Growth;INF663L01Z45;;12.65;28-Aug-2026
-153037;PGIM India Healthcare Fund - Direct Plan - IDCW Option;Direct Plan;Direct IDCW;INF663L01Z60;INF663L01Z78;12.65;28-Aug-2026
-153040;PGIM India Healthcare Fund - Regular Plan - Growth Option;Regular Plan;Regular Growth;INF663L01Z52;;12.28;28-Aug-2026
-153038;PGIM India Healthcare Fund - Regular Plan - IDCW Option;Regular Plan;Regular IDCW;INF663L01Z86;INF663L01Z94;12.28;28-Aug-2026
-
 quant Mutual Fund
 151791;quant BFSI Fund - Growth Option - Direct Plan;Direct Plan;Growth Option;INF966L01BX0;;22.0606;28-Aug-2026
 151788;quant BFSI Fund - Growth Option - Regular Plan;Regular Plan;Growth Option;INF966L01CA6;;20.9583;28-Aug-2026
@@ -9378,6 +9372,12 @@ NJ Mutual Fund
 154452;NJ Momentum Fund - Regular Growth;Regular Plan;Growth Option;INF0J8L01198;;10.26;28-Aug-2026
 154453;NJ Momentum Fund - Regular IDCW;Regular Plan;IDCW Payout Option;INF0J8L01206;;10.26;28-Aug-2026
 
+PGIM India Mutual Fund
+153039;PGIM India Healthcare Fund - Direct Plan - Growth Option;Direct Plan;Direct Growth;INF663L01Z45;;12.65;28-Aug-2026
+153037;PGIM India Healthcare Fund - Direct Plan - IDCW Option;Direct Plan;Direct IDCW;INF663L01Z60;INF663L01Z78;12.65;28-Aug-2026
+153040;PGIM India Healthcare Fund - Regular Plan - Growth Option;Regular Plan;Regular Growth;INF663L01Z52;;12.28;28-Aug-2026
+153038;PGIM India Healthcare Fund - Regular Plan - IDCW Option;Regular Plan;Regular IDCW;INF663L01Z86;INF663L01Z94;12.28;28-Aug-2026
+
 UTI Mutual Fund
 120780;UTI India Consumer Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF789F01VF3;;64.6313;28-Aug-2026
 120781;UTI India Consumer Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF789F01VG1;INF789F01VH9;56.739;28-Aug-2026
@@ -10366,10 +10366,6 @@ Axis Mutual Fund
 153882;Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - IDCW option;Direct Plan;IDCW option;INF846KA1242;INF846KA1267;10.6348;28-Aug-2026
 153880;Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Regular Plan - Growth option;Regular Plan;Growth option;INF846KA1218;;10.6240;28-Aug-2026
 153881;Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Regular Plan - IDCW option;Regular Plan;IDCW option;INF846KA1234;INF846KA1259;10.6231;28-Aug-2026
-153924;Axis Income Plus Arbitrage Passive FOF - Direct Plan - Growth Option;Direct Plan;Growth Option Option;INF846KA1283;;10.5019;28-Aug-2026
-153925;Axis Income Plus Arbitrage Passive FOF - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF846KA1309;INF846KA1325;10.5019;28-Aug-2026
-153927;Axis Income Plus Arbitrage Passive FOF - Regular Plan - Growth Option;Regular Plan;Growth Option;INF846KA1275;;10.4774;28-Aug-2026
-153926;Axis Income Plus Arbitrage Passive FOF - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF846KA1291;INF846KA1317;10.4735;28-Aug-2026
 150854;Axis Nifty SDL September 2026 Debt Index Fund - Direct Plan - Growth;Direct Plan;Growth Option;INF846K018K6;;13.0077;28-Aug-2026
 150852;Axis Nifty SDL September 2026 Debt Index Fund - Direct Plan - IDCW;Direct Plan;IDCW Option;INF846K019K4;INF846K010L1;13.0076;28-Aug-2026
 150853;Axis Nifty SDL September 2026 Debt Index Fund - Regular Plan -  IDCW;Regular Plan;IDCW Option;INF846K012L7;INF846K013L5;12.9462;28-Aug-2026
@@ -10776,6 +10772,10 @@ Axis Mutual Fund
 147888;Axis Income Plus Arbitrage Omni FOF - Regular Plan - IDCW;Regular Plan;IDCW Option	;INF846K01W07;INF846K01W15;15.3680;28-Aug-2026
 147896;Axis Income Plus Arbitrage Omni FOF - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW Option;INF846K01V57;INF846K01V40;15.3627;28-Aug-2026
 147905;Axis Income Plus Arbitrage Omni FOF - Regular Plan - Quarterly IDCW;Regular Plan;Quarterly IDCW Option;INF846K01V73;INF846K01V65;11.4170;28-Aug-2026
+153924;Axis Income Plus Arbitrage Passive FOF - Direct Plan - Growth Option;Direct Plan;Growth Option Option;INF846KA1283;;10.5019;28-Aug-2026
+153925;Axis Income Plus Arbitrage Passive FOF - Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF846KA1309;INF846KA1325;10.5019;28-Aug-2026
+153927;Axis Income Plus Arbitrage Passive FOF - Regular Plan - Growth Option;Regular Plan;Growth Option;INF846KA1275;;10.4774;28-Aug-2026
+153926;Axis Income Plus Arbitrage Passive FOF - Regular Plan - IDCW Option;Regular Plan;IDCW Option;INF846KA1291;INF846KA1317;10.4735;28-Aug-2026
 149847;Axis Multi Factor Passive FoF - Direct Plan - Growth Option;Direct Plan;Growth Option;INF846K011G9;;15.8176;28-Aug-2026
 149846;Axis Multi Factor Passive FoF - Direct Plan - IDCW;Direct Plan;IDCW Option;INF846K012G7;INF846K013G5;15.8173;28-Aug-2026
 149844;Axis Multi Factor Passive FoF - Regular Plan - Growth Option;Regular Plan;Growth Option;INF846K014G3;;15.5925;28-Aug-2026
