@@ -3,6 +3,16 @@ Scheme Code;NAV Name;Plan;Option;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestme
 Open Ended Schemes ( Debt Scheme - Overnight Fund )
 
 
+Aditya Birla Sun Life Mutual Fund
+145488;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Monthly Payout of IDCW;Direct Plan;Monthly IDCW;INF209KB1ZL4;;1000.9897;02-Oct-2026
+145489;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Weekly Reinvestment of IDCW;Direct Plan;Weekly IDCW;;INF209KB1ZJ8;1001.9689;02-Oct-2026
+145482;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Regular - Weekly Reinvestment of IDCW option;Regular Plan;Weekly IDCW;;INF209KB1ZE9;1000.9686;02-Oct-2026
+145487;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Direct - Daily Reinvestment of IDCW;Direct Plan;Daily IDCW;;INF209KB1ZI0;1000.1577;02-Oct-2026
+145483;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular - Daily Reinvestment of IDCW;Regular Plan;Daily IDCW;;INF209KB1ZD1;1000.1550;02-Oct-2026
+145485;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular- Monthly Payout of IDCW option;Regular Plan;Monthly IDCW;INF209KB1ZG4;;1000.9678;02-Oct-2026
+145486;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH;Direct Plan;GROWTH;INF209KB1ZH2;;1494.4774;02-Oct-2026
+145481;ADITYA BIRLA SUNLIFE OVERNIGHT FUND-REGULAR PLAN-GROWTH;Regular Plan;GROWTH;INF209KB1ZC3;;1481.0169;02-Oct-2026
+
 Bajaj Finserv Mutual Fund
 153437;Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years IDCW Plan;Direct Plan;Unclaimed less than 3 years IDCW Plan;INF0QA701AE3;;1078.0172;02-Oct-2026
 153438;Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years Redemption Plan;Direct Plan;Unclaimed less than 3 years Redemption Plan;INF0QA701AF0;;1083.8267;02-Oct-2026
@@ -582,6 +592,16 @@ Abakkus Mutual Fund
 154054;Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment;Regular Plan;Quarterly IDCW Reinvestment;;INF2JJD01102;101.5362;02-Oct-2026
 154056;Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment;Regular Plan;Weekly IDCW Reinvestment;;INF2JJD01094;100.1445;02-Oct-2026
 154521;Abakkus Liquid Fund - Unclaimed Redemption Less than 3 Years;Direct Plan;Unclaimed Redemption Less Than 3 years;;;101.2105;02-Oct-2026
+
+Aditya Birla Sun Life Mutual Fund
+100047;Aditya Birla Sun Life Liquid Fund - Growth;Regular Plan;GROWTH;INF209K01RU9;;454.3640;02-Oct-2026
+119568;Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan;Direct Plan;GROWTH;INF209K01VA3;;460.6270;02-Oct-2026
+100046;Aditya Birla Sun Life Liquid Fund -Daily IDCW;Regular Plan;Daily IDCW;INF209K01KQ2;INF209K01SQ5;100.2113;02-Oct-2026
+119569;Aditya Birla Sun Life Liquid Fund -Direct - daily IDCW;Direct Plan;Daily IDCW;INF209K01UZ2;;100.2117;02-Oct-2026
+119571;Aditya Birla Sun Life Liquid Fund -DIRECT - IDCW;Direct Plan;IDCW;INF209K01VD7;;138.5306;02-Oct-2026
+119570;Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW;Direct Plan;Weekly IDCW;INF209K01VC9;;100.3672;02-Oct-2026
+103885;Aditya Birla Sun Life Liquid Fund -Regular - IDCW;Regular Plan;IDCW;INF209KA1LI1;;105.3367;02-Oct-2026
+100051;Aditya Birla Sun Life Liquid Fund -weekly IDCW;Regular Plan;Weekly IDCW;INF209K01KU4;INF209KA1LJ9;100.3645;02-Oct-2026
 
 ASK MUTUAL FUND
 154591;ASK Liquid Fund Direct Daily IDCW;Direct Plan;Daily IDCW;;INF2XUU01039;1000.1555;02-Oct-2026
