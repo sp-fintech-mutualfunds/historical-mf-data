@@ -3,6 +3,16 @@ Scheme Code;NAV Name;Plan;Option;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestme
 Open Ended Schemes ( Debt Scheme - Overnight Fund )
 
 
+Aditya Birla Sun Life Mutual Fund
+145488;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Monthly Payout of IDCW;Direct Plan;Monthly IDCW;INF209KB1ZL4;;1003.6262;20-Oct-2026
+145489;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Weekly Reinvestment of IDCW;Direct Plan;Weekly IDCW;;INF209KB1ZJ8;1000.6124;20-Oct-2026
+145482;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Regular - Weekly Reinvestment of IDCW option;Regular Plan;Weekly IDCW;;INF209KB1ZE9;1000.6232;20-Oct-2026
+145487;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Direct - Daily Reinvestment of IDCW;Direct Plan;Daily IDCW;;INF209KB1ZI0;1000.0200;20-Oct-2026
+145483;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular - Daily Reinvestment of IDCW;Regular Plan;Daily IDCW;;INF209KB1ZD1;1000.0200;20-Oct-2026
+145485;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular- Monthly Payout of IDCW option;Regular Plan;Monthly IDCW;INF209KB1ZG4;;1003.5486;20-Oct-2026
+145486;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH;Direct Plan;GROWTH;INF209KB1ZH2;;1498.4136;20-Oct-2026
+145481;ADITYA BIRLA SUNLIFE OVERNIGHT FUND-REGULAR PLAN-GROWTH;Regular Plan;GROWTH;INF209KB1ZC3;;1484.8355;20-Oct-2026
+
 Bajaj Finserv Mutual Fund
 153437;Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years IDCW Plan;Direct Plan;Unclaimed less than 3 years IDCW Plan;INF0QA701AE3;;1081.2069;20-Oct-2026
 153438;Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years Redemption Plan;Direct Plan;Unclaimed less than 3 years Redemption Plan;INF0QA701AF0;;1086.7232;20-Oct-2026
@@ -88,6 +98,18 @@ HDFC Mutual Fund
 101996;HDFC Overnight Fund - Growth Option;Regular Plan;Growth Option;INF179KB1HS3;;4062.2337;20-Oct-2026
 119110;HDFC Overnight Fund - Growth Option - Direct Plan;Direct Plan;Growth Option;INF179KB1HT1;;4106.5472;20-Oct-2026
 101997;HDFC Overnight Fund - IDCW Option (Daily);Regular Plan;IDCW Option (Daily);;INF179KB1IF8;1042.66;20-Oct-2026
+
+ICICI Prudential Mutual Fund
+145547;ICICI Prudential Overnight Fund - Daily IDCW;Regular Plan;Daily IDCW;;INF109KC18E1;1000.0050;20-Oct-2026
+145537;ICICI Prudential Overnight Fund - Direct Plan - Daily IDCW;Direct Plan;Daily IDCW;;INF109KC12G9;1000.0050;20-Oct-2026
+145536;ICICI Prudential Overnight Fund - Direct Plan - Growth;Direct Plan;Growth;INF109KC11G1;;1492.9586;20-Oct-2026
+149411;ICICI Prudential Overnight fund - Direct Plan - Unclaimed IDCW Stable Scheme;Direct Plan;Unclaimed IDCW Stable Scheme;INF109KC18H4;;1000.0000;20-Oct-2026
+149408;ICICI Prudential Overnight fund - Direct Plan - Unclaimed IDCW Transitory Scheme;Direct Plan;Unclaimed IDCW Transitory Scheme;INF109KC16H8;;1317.2638;20-Oct-2026
+149409;ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Stable Scheme;Direct Plan;Unclaimed Redemption Stable Scheme;INF109KC17H6;;1000.0000;20-Oct-2026
+149410;ICICI Prudential Overnight fund - Direct Plan - Unclaimed Redemption Transitory Scheme;Direct Plan;Unclaimed Redemption Transitory Scheme;INF109KC15H0;;1317.2762;20-Oct-2026
+145539;ICICI Prudential Overnight Fund - Direct Plan - Weekly IDCW;Direct Plan;Weekly IDCW;INF109KC16G0;INF109KC15G2;1000.1603;20-Oct-2026
+145535;ICICI Prudential Overnight Fund - Growth;Regular Plan;Growth;INF109KC17E3;;1483.2928;20-Oct-2026
+145538;ICICI Prudential Overnight Fund - Weekly IDCW;Regular Plan;Weekly IDCW;INF109KC12F1;INF109KC11F3;1000.1587;20-Oct-2026
 
 ITI Mutual Fund
 147708;ITI Overnight Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01572;994.7032;20-Oct-2026
@@ -295,6 +317,16 @@ HDFC Mutual Fund
 100874;HDFC Liquid Fund - IDCW Plan Weekly;Regular Plan;IDCW Plan Weekly;INF179KB1ID3;;1031.2021;20-Oct-2026
 119088;HDFC Liquid Fund - IDCW Weekly - Direct Plan;Direct Plan;IDCW Weekly;;;1031.2049;20-Oct-2026
 
+ICICI Prudential Mutual Fund
+103343;ICICI Prudential Liquid Fund - Daily IDCW;Regular Plan;Daily IDCW;INF109K01VP3;;100.1482;20-Oct-2026
+120191;ICICI Prudential Liquid Fund - Direct Plan -  IDCW Others;Direct Plan;IDCW;INF109K01Q31;INF109K01Q23;196.1076;20-Oct-2026
+120188;ICICI Prudential Liquid Fund - Direct Plan - Daily IDCW;Direct Plan;Daily IDCW;;INF109K01Q15;100.1082;20-Oct-2026
+120197;ICICI Prudential Liquid Fund - Direct Plan - Growth;Direct Plan;Growth;INF109K01Q49;;422.8296;20-Oct-2026
+120190;ICICI Prudential Liquid Fund - Direct Plan - Weekly IDCW;Direct Plan;Weekly IDCW;INF109K01Q98;;100.2002;20-Oct-2026
+103340;ICICI Prudential Liquid Fund - Growth;Regular Plan;Growth;INF109K01VQ1;;418.2064;20-Oct-2026
+115505;ICICI Prudential Liquid Fund - IDCW Others;Regular Plan;IDCW Others;INF109K01VU3;INF109K01VT5;194.3606;20-Oct-2026
+103342;ICICI Prudential Liquid Fund - Weekly IDCW;Regular Plan;Weekly IDCW;INF109K01VS7;;100.1748;20-Oct-2026
+
 ITI Mutual Fund
 147161;ITI Liquid Fund - Direct Plan - Annually IDCW Option;Direct Plan;Annually IDCW Option;INF00XX01366;INF00XX01333;1483.8073;20-Oct-2026
 147158;ITI Liquid Fund - Direct Plan - Daily IDCW Option;Direct Plan;Daily IDCW Option;;INF00XX01291;1000.9890;20-Oct-2026
@@ -488,6 +520,10 @@ Edelweiss Mutual Fund
 HDFC Mutual Fund
 153403;HDFC NIFTY 1D RATE LIQUID ETF GROWTH;;Growth Option;INF179KC1JG3;;1083.0883;20-Oct-2026
 
+ICICI Prudential Mutual Fund
+153378;ICICI Prudential BSE Liquid Rate ETF - Growth;Regular Plan;Growth;INF109K1A021;;1084.7134;20-Oct-2026
+144947;ICICI Prudential BSE Liquid Rate ETF - IDCW;Regular Plan;IDCW;INF109KC1KT9;;1000.0000;20-Oct-2026
+
 Kotak Mahindra Mutual Fund
 151358;Kotak Nifty 1D Rate Liquid ETF;;;INF174KA1LV5;;1127.8549;20-Oct-2026
 
@@ -608,6 +644,16 @@ Lakshya Mutual Fund
 154736;LAKSHYA OVERNIGHT FUND-Direct;Direct Plan;GROWTH;INF2ZPR01014;;1004.4294;20-Oct-2026
 154737;LAKSHYA OVERNIGHT FUND-Regular;Regular Plan;GROWTH;INF2ZPR01022;;1004.3417;20-Oct-2026
 
+Mirae Asset Mutual Fund
+147737;Mirae Asset Overnight Fund - Direct Plan - Daily IDCW;Direct Plan;Daily IDCW;;INF769K01FJ0;1000.0243;20-Oct-2026
+147736;Mirae Asset Overnight Fund - Direct Plan - Growth;Direct Plan;Growth;INF769K01FG6;;1420.9036;20-Oct-2026
+147738;Mirae Asset Overnight Fund - Direct Plan - Monthly IDCW;Direct Plan;Monthly IDCW;INF769K01FF8;INF769K01FI2;1003.7479;20-Oct-2026
+147740;Mirae Asset Overnight Fund - Direct Plan - Weekly IDCW;Direct Plan;Weekly IDCW;;INF769K01FK8;1000.9245;20-Oct-2026
+147743;Mirae Asset Overnight Fund - Regular Plan - Daily IDCW;Regular Plan;Daily IDCW;;INF769K01FL6;1000.0067;20-Oct-2026
+147739;Mirae Asset Overnight Fund - Regular Plan - Growth;Regular Plan;Growth;INF769K01FE1;;1411.9091;20-Oct-2026
+147742;Mirae Asset Overnight Fund - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW;INF769K01FD3;INF769K01FH4;1003.7017;20-Oct-2026
+147741;Mirae Asset Overnight Fund - Regular Plan - Weekly IDCW;Regular Plan;Weekly IDCW;;INF769K01FM4;1000.9097;20-Oct-2026
+
 Monarch Mutual Fund
 154705;Monarch Overnight Fund - Direct Plan - Monthly  IDCW;Direct Plan;Monthly IDCW;INF2ZSC01085;INF2ZSC01069;1003.5279;20-Oct-2026
 154706;Monarch Overnight Fund- Direct Plan- Growth;Direct Plan;Growth;INF2ZSC01028;;1005.9278;20-Oct-2026
@@ -658,6 +704,16 @@ Abakkus Mutual Fund
 154054;Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment;Regular Plan;Quarterly IDCW Reinvestment;;INF2JJD01102;100.3608;20-Oct-2026
 154056;Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment;Regular Plan;Weekly IDCW Reinvestment;;INF2JJD01094;100.0782;20-Oct-2026
 154521;Abakkus Liquid Fund - Unclaimed Redemption Less than 3 Years;Direct Plan;Unclaimed Redemption Less Than 3 years;;;101.4762;20-Oct-2026
+
+Aditya Birla Sun Life Mutual Fund
+100047;Aditya Birla Sun Life Liquid Fund - Growth;Regular Plan;GROWTH;INF209K01RU9;;455.5131;20-Oct-2026
+119568;Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan;Direct Plan;GROWTH;INF209K01VA3;;461.8237;20-Oct-2026
+100046;Aditya Birla Sun Life Liquid Fund -Daily IDCW;Regular Plan;Daily IDCW;INF209K01KQ2;INF209K01SQ5;100.1950;20-Oct-2026
+119569;Aditya Birla Sun Life Liquid Fund -Direct - daily IDCW;Direct Plan;Daily IDCW;INF209K01UZ2;;100.1950;20-Oct-2026
+119571;Aditya Birla Sun Life Liquid Fund -DIRECT - IDCW;Direct Plan;IDCW;INF209K01VD7;;138.8904;20-Oct-2026
+119570;Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW;Direct Plan;Weekly IDCW;INF209K01VC9;;100.2959;20-Oct-2026
+103885;Aditya Birla Sun Life Liquid Fund -Regular - IDCW;Regular Plan;IDCW;INF209KA1LI1;;105.6031;20-Oct-2026
+100051;Aditya Birla Sun Life Liquid Fund -weekly IDCW;Regular Plan;Weekly IDCW;INF209K01KU4;INF209KA1LJ9;100.2944;20-Oct-2026
 
 ASK MUTUAL FUND
 154591;ASK Liquid Fund Direct Daily IDCW;Direct Plan;Daily IDCW;;INF2XUU01039;1000.0255;20-Oct-2026
@@ -799,6 +855,16 @@ Mahindra Manulife Mutual Fund
 139537;Mahindra Manulife Liquid Fund - Regular Plan - Growth;Regular Plan;Growth;INF174V01010;;1839.4484;20-Oct-2026
 139541;Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW;Regular Plan;Weekly IDCW;;INF174V01036;1010.2656;20-Oct-2026
 
+Mirae Asset Mutual Fund
+118861;Mirae Asset Liquid Fund - Direct Plan - Daily IDCW;Direct Plan;Daily IDCW;;INF769K01CO7;1075.8332;20-Oct-2026
+118859;Mirae Asset Liquid Fund - Direct Plan - Growth;Direct Plan;Growth;INF769K01CM1;;3016.6418;20-Oct-2026
+118860;Mirae Asset Liquid Fund - Direct Plan - Monthly IDCW;Direct Plan;Monthly IDCW;INF769K01CN9;INF769K01CQ2;1139.1335;20-Oct-2026
+118862;Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW;Direct Plan;Weekly IDCW;INF769K01PD2;INF769K01CP4;1216.9760;20-Oct-2026
+111647;Mirae Asset Liquid Fund - Regular Plan - Daily IDCW;Regular Plan;Daily IDCW;;INF769K01804;1066.4347;20-Oct-2026
+111646;Mirae Asset Liquid Fund - Regular Plan - Growth;Regular Plan;Growth;INF769K01788;;2961.3627;20-Oct-2026
+111645;Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW;INF769K01838;INF769K01820;1156.7730;20-Oct-2026
+111644;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;Regular Plan;Weekly IDCW;INF769K01PC4;INF769K01812;1153.2579;20-Oct-2026
+
 Shriram Mutual Fund
 153035;Shriram Liquid Fund - Direct Plan Growth Option;Direct Plan;Growth;INF680P01430;;1128.0858;20-Oct-2026
 153036;Shriram Liquid Fund - Regular Plan Growth Option;Regular Plan;Growth;INF680P01448;;1125.0461;20-Oct-2026
@@ -845,8 +911,15 @@ WhiteOak Capital Mutual Fund
 Open Ended Schemes ( Exchange Traded Funds (ETFs) - Debt ETF )
 
 
+Aditya Birla Sun Life Mutual Fund
+151533;Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout;;;INF209KB18T9;;1000.0000;20-Oct-2026
+
 Groww Mutual Fund
 152891;Groww Nifty 1D Rate Liquid ETF;;;INF666M01IP5;;111.255;20-Oct-2026
+
+Mirae Asset Mutual Fund
+153045;Mirae Asset Nifty 1D Rate Liquid ETF - Growth;;;INF769K01MY5;;1108.5495;20-Oct-2026
+151908;Mirae Asset Nifty 1D Rate Liquid ETF-IDCW;;;;INF769K01KS1;1000.0000;20-Oct-2026
 
 Shriram Mutual Fund
 152741;Shriram Nifty 1D Rate Liquid ETF - Growth;Direct Plan;Growth;INF680P01422;;1126.5563;20-Oct-2026
