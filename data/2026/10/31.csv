@@ -1,5 +1,190 @@
 Scheme Code;NAV Name;Plan;Option;ISIN Div Payout/ISIN Growth;ISIN Div Reinvestment;Net Asset Value;Date
 
+Open Ended Schemes ( Equity Scheme - Multi Cap Fund )
+
+
+Bandhan Mutual Fund
+149303;BANDHAN MULTI CAP FUND - GROWTH - DIRECT PLAN;Direct Plan;Growth;INF194KB1CL0;;17.743;31-Oct-2026
+149305;BANDHAN MULTI CAP FUND - GROWTH - REGULAR PLAN;Regular Plan;Growth;INF194KB1CI6;;16.472;31-Oct-2026
+149304;BANDHAN MULTI CAP FUND - IDCW - DIRECT PLAN;Direct Plan;IDCW;INF194KB1CM8;INF194KB1CN6;15.633;31-Oct-2026
+149302;BANDHAN MULTI CAP FUND - IDCW - REGULAR PLAN;Regular Plan;IDCW;INF194KB1CJ4;INF194KB1CK2;14.362;31-Oct-2026
+
+SBI Mutual Fund
+149887;SBI Multicap Fund- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA19E0;INF200KA10F6;16.8640;31-Oct-2026
+149882;SBI Multicap Fund- Direct Plan- Growth option;Direct Plan;Growth;INF200KA18E2;;16.8638;31-Oct-2026
+149886;SBI Multicap Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF200KA15E8;;16.1735;31-Oct-2026
+149883;SBI Multicap Fund- Regular Plan- Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA16E6;INF200KA17E4;16.1761;31-Oct-2026
+
+Open Ended Schemes ( Equity Scheme - Large Cap Fund )
+
+
+Bandhan Mutual Fund
+108799;BANDHAN Large Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01516;;75.227;31-Oct-2026
+108800;BANDHAN Large Cap Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194K01490;INF194K01508;20.736;31-Oct-2026
+118479;BANDHAN Large Cap Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K01Z44;;87.691;31-Oct-2026
+118478;BANDHAN Large Cap Fund-Direct Plan-IDCW;Direct Plan;IDCW;INF194K01Z51;INF194K01Z69;27.601;31-Oct-2026
+
+SBI Mutual Fund
+119585;SBI Large Cap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01QV8;INF200K01QW6;64.6145;31-Oct-2026
+103616;SBI Large Cap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01164;INF200K01172;50.6982;31-Oct-2026
+119598;SBI Large Cap FUND-DIRECT PLAN -GROWTH;Direct Plan;Growth;INF200K01QX4;;99.5609;31-Oct-2026
+103504;SBI Large Cap FUND-REGULAR PLAN GROWTH;Regular Plan;Growth;INF200K01180;;89.1187;31-Oct-2026
+
+Open Ended Schemes ( Equity Scheme - Large & Mid Cap Fund )
+
+
+Bandhan Mutual Fund
+118419;Bandhan Large & Mid Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF194K01V89;;157.077;31-Oct-2026
+118420;Bandhan Large & Mid Cap Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF194K01V97;INF194K01W05;34.943;31-Oct-2026
+108596;Bandhan Large & Mid Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01524;;132.789;31-Oct-2026
+108597;Bandhan Large & Mid Cap Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194K01532;INF194K01540;26.262;31-Oct-2026
+
+SBI Mutual Fund
+119720;SBI Large & Midcap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01UH9;INF200K01UI7;342.7104;31-Oct-2026
+101530;SBI Large & Midcap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01289;INF200K01297;270.9793;31-Oct-2026
+119721;SBI LARGE & MIDCAP FUND -DIRECT PLAN -Growth;Direct Plan;Growth;INF200K01UJ5;;657.5161;31-Oct-2026
+103024;SBI LARGE & MIDCAP FUND- REGULAR PLAN -Growth;Regular Plan;Growth;INF200K01305;;599.7957;31-Oct-2026
+
+Open Ended Schemes ( Equity Scheme - Mid Cap Fund )
+
+
+SBI Mutual Fund
+119716;SBI MIDCAP FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01TP4;;249.7708;31-Oct-2026
+119715;SBI Midcap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01TN9;INF200K01TO7;141.6068;31-Oct-2026
+102941;SBI MIDCAP FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01560;;220.5506;31-Oct-2026
+102942;SBI Midcap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01578;INF200K01586;90.1202;31-Oct-2026
+
+Open Ended Schemes ( Equity Scheme - Small Cap Fund )
+
+
+Bandhan Mutual Fund
+147946;BANDHAN SMALL CAP FUND - DIRECT PLAN GROWTH;Direct Plan;Growth;INF194KB1AL4;;53.228;31-Oct-2026
+147943;BANDHAN SMALL CAP FUND - DIRECT PLAN IDCW;Direct Plan;IDCW;INF194KB1AM2;;37.045;31-Oct-2026
+147944;BANDHAN SMALL CAP FUND - REGULAR PLAN GROWTH;Regular Plan;Growth;INF194KB1AJ8;;48.040;31-Oct-2026
+147945;BANDHAN SMALL CAP FUND - REGULAR PLAN IDCW;Regular Plan;IDCW;INF194KB1AK6;;33.441;31-Oct-2026
+
+SBI Mutual Fund
+125497;SBI Small Cap Fund - Direct Plan - Growth;Direct Plan;Growth;INF200K01T51;;197.8812;31-Oct-2026
+125496;SBI Small Cap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01T69;INF200K01T77;135.0622;31-Oct-2026
+125494;SBI Small Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF200K01T28;;171.1230;31-Oct-2026
+125495;SBI Small Cap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01T36;INF200K01T44;101.0967;31-Oct-2026
+
+Open Ended Schemes ( Equity Scheme - Dividend Yield Fund )
+
+
+SBI Mutual Fund
+151478;SBI Dividend Yield Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA14W3;;15.4589;31-Oct-2026
+151475;SBI Dividend Yield Fund - Direct Plan - Income Distribution cum Capital Withdrawal (IDCW) Option;Direct Plan;IDCW;INF200KA15W0;INF200KA16W8;15.4600;31-Oct-2026
+151476;SBI Dividend Yield Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA11W9;;14.9019;31-Oct-2026
+151477;SBI Dividend Yield Fund - Regular Plan - Income Distribution cum Capital Withdrawal (IDCW) Option;Regular Plan;IDCW;INF200KA12W7;INF200KA13W5;14.9017;31-Oct-2026
+
+Open Ended Schemes ( Equity Scheme - Value Fund )
+
+
+Bandhan Mutual Fund
+118481;Bandhan Value Fund - Direct Plan - Growth;Direct Plan;Growth;INF194K01Z85;;162.246;31-Oct-2026
+118480;Bandhan Value Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF194K01Z93;INF194K010A2;46.859;31-Oct-2026
+108909;Bandhan Value Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01342;;141.158;31-Oct-2026
+108908;Bandhan Value Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194K01359;INF194K01367;35.283;31-Oct-2026
+
+Open Ended Schemes ( Equity Scheme - Contra Fund )
+
+
+SBI Mutual Fund
+119835;SBI CONTRA FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01RA0;;392.4665;31-Oct-2026
+119724;SBI Contra Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01QY2;INF200K01QZ9;82.8275;31-Oct-2026
+100915;SBI Contra Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01347;INF200K01354;61.6973;31-Oct-2026
+102414;SBI CONTRA FUND - REGULAR PLAN -GROWTH;Regular Plan;Growth;INF200K01362;;355.7979;31-Oct-2026
+
+Open Ended Schemes ( Equity Scheme - Focused Fund )
+
+
+Bandhan Mutual Fund
+118421;Bandhan Focused Fund - Direct Plan - Growth;Direct Plan;Growth;INF194K01W21;;101.256;31-Oct-2026
+118422;Bandhan Focused Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF194K01W39;INF194K01W47;32.424;31-Oct-2026
+108592;Bandhan Focused Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01466;;84.591;31-Oct-2026
+108593;Bandhan Focused Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194K01474;INF194K01482;18.115;31-Oct-2026
+
+SBI Mutual Fund
+119834;SBI Focused Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01RH5;INF200K01RI3;106.0761;31-Oct-2026
+119727;SBI FOCUSED FUND - DIRECT PLAN -GROWTH;Direct Plan;Growth;INF200K01RJ1;;435.2905;31-Oct-2026
+102765;SBI Focused Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01388;INF200K01396;70.2172;31-Oct-2026
+102756;SBI FOCUSED FUND - REGULAR PLAN -GROWTH;Regular Plan;Growth;INF200K01370;;383.8922;31-Oct-2026
+
+Open Ended Schemes ( Equity Scheme - Sectoral/ Thematic )
+
+
+SBI Mutual Fund
+152657;SBI Automotive Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KB1183;;12.9007;31-Oct-2026
+152655;SBI Automotive Opportunities Fund - Direct Plan - Income Distribution Cum Capital Withdrawal Option;Direct Plan;IDCW;INF200KB1191;INF200KB1209;12.9004;31-Oct-2026
+152658;SBI Automotive Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KB1159;;12.5641;31-Oct-2026
+152656;SBI Automotive Opportunities Fund - Regular Plan - Income Distribution Cum Capital Withdrawal Option;Regular Plan;IDCW;INF200KB1167;INF200KB1175;12.5643;31-Oct-2026
+133859;SBI BANKING & FINANCIAL SERVICES FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200KA1507;;46.5579;31-Oct-2026
+133857;SBI Banking & Financial Services Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1515;INF200KA1523;41.6158;31-Oct-2026
+133858;SBI BANKING & FINANCIAL SERVICES FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200KA1473;;41.1637;31-Oct-2026
+133860;SBI Banking & Financial Services Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1481;INF200KA1499;36.9671;31-Oct-2026
+119705;SBI COMMA Fund - DIRECT PLAN - Growth;Direct Plan;Growth;INF200K01SB6;;117.6808;31-Oct-2026
+119613;SBI Comma Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01RZ7;INF200K01SA8;66.9659;31-Oct-2026
+103145;SBI COMMA Fund - REGULAR PLAN - Growth;Regular Plan;Growth;INF200K01339;;107.7827;31-Oct-2026
+103146;SBI Comma Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01313;INF200K01321;61.1784;31-Oct-2026
+120575;SBI CONSUMPTION OPPORTUNITIES FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01RM5;;299.4350;31-Oct-2026
+119730;SBI Consumption Opportunities Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01RK9;INF200K01RL7;210.7992;31-Oct-2026
+120576;SBI CONSUMPTION OPPORTUNITIES FUND - REGULAR - GROWTH;Regular Plan;Growth;INF200K01VR6;;259.0031;31-Oct-2026
+100645;SBI Consumption Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01404;INF200K01412;155.9377;31-Oct-2026
+152417;SBI Energy Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KB1126;;10.4009;31-Oct-2026
+152420;SBI Energy Opportunities Fund - Direct Plan - Income Distribution Cum Capital Withdrawal Option;Direct Plan;IDCW;INF200KB1134;INF200KB1142;10.4007;31-Oct-2026
+152418;SBI Energy Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KB1092;;10.1090;31-Oct-2026
+152419;SBI Energy Opportunities Fund - Regular Plan - Income Distribution Cum Capital Withdrawal Option;Regular Plan;IDCW;INF200KB1100;INF200KB1118;10.1092;31-Oct-2026
+146643;SBI Equity Minimum Variance Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA1A71;;23.3056;31-Oct-2026
+146642;SBI Equity Minimum Variance Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1A89;INF200KA1A97;23.3041;31-Oct-2026
+146644;SBI Equity Minimum Variance Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA1A48;;22.6781;31-Oct-2026
+146641;SBI Equity Minimum Variance Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1A55;INF200KA1A63;22.6817;31-Oct-2026
+119708;SBI ESG Exclusionary Strategy Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01SC4;INF200K01SD2;90.4120;31-Oct-2026
+119709;SBI ESG Exclusionary Strategy Fund - Direct Plan -Growth;Direct Plan;Growth;INF200K01SE0;;251.8472;31-Oct-2026
+104523;SBI ESG Exclusionary Strategy Fund - Regular Plan - Growth;Regular Plan;Growth;INF200K01214;;228.1467;31-Oct-2026
+101295;SBI ESG Exclusionary Strategy Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01198;INF200K01206;71.3517;31-Oct-2026
+119782;SBI Healthcare Opportunities Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01UN7;INF200K01UO5;408.6289;31-Oct-2026
+119783;SBI HEALTHCARE OPPORTUNITIES FUND - DIRECT PLAN -GROWTH;Direct Plan;Growth;INF200K01UP2;;588.1497;31-Oct-2026
+100644;SBI Healthcare Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01453;INF200K01461;319.4181;31-Oct-2026
+102823;SBI HEALTHCARE OPPORTUNITIES FUND - REGULAR PLAN -GROWTH;Regular Plan;Growth;INF200K01446;;507.0551;31-Oct-2026
+119700;SBI INFRASTRUCTURE FUND -  DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01RS2;;51.6371;31-Oct-2026
+106096;SBI INFRASTRUCTURE FUND -  REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01CT2;;47.2899;31-Oct-2026
+119695;SBI Infrastructure Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01RQ6;INF200K01RR4;45.6996;31-Oct-2026
+106095;SBI Infrastructure Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01CU0;INF200K01CV8;42.0682;31-Oct-2026
+152776;SBI Innovative Opportunities Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KB1324;;10.6259;31-Oct-2026
+152777;SBI Innovative Opportunities Fund - Direct Plan - Income Distribution Cum Capital Withdrawal Option;Direct Plan;IDCW;INF200KB1332;INF200KB1340;10.6259;31-Oct-2026
+152774;SBI Innovative Opportunities Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KB1290;;10.3782;31-Oct-2026
+152775;SBI Innovative Opportunities Fund - Regular Plan - Income Distribution Cum Capital Withdrawal Option;Regular Plan;IDCW;INF200KB1308;INF200KB1316;10.3787;31-Oct-2026
+119710;SBI MNC Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01SL5;INF200K01SM3;152.1457;31-Oct-2026
+119711;SBI MNC FUND - DIRECT PLAN -GROWTH;Direct Plan;Growth;INF200K01SN1;;426.2208;31-Oct-2026
+103114;SBI MNC Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01255;INF200K01263;117.1941;31-Oct-2026
+103034;SBI MNC FUND - REGULAR PLAN -GROWTH;Regular Plan;Growth;INF200K01271;;383.6238;31-Oct-2026
+119732;SBI PSU Fund - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01UY4;;35.3664;31-Oct-2026
+119733;SBI PSU Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01UW8;INF200K01UX6;35.3147;31-Oct-2026
+112923;SBI PSU Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01BD8;INF200K01BE6;31.7065;31-Oct-2026
+113099;SBI PSU Fund - REGULAR PLAN -Growth;Regular Plan;Growth;INF200K01BC0;;31.7102;31-Oct-2026
+154177;SBI Quality Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KB1AG6;;10.1984;31-Oct-2026
+154178;SBI Quality Fund - Direct Plan - Income Distribution Cum Capital Withdrawal;Direct Plan;IDCW;INF200KB1AH4;INF200KB1AI2;10.1984;31-Oct-2026
+154175;SBI Quality Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KB1AD3;;10.1179;31-Oct-2026
+154176;SBI Quality Fund - Regular Plan - Income Distribution Cum Capital Withdrawal;Regular Plan;IDCW;INF200KB1AE1;INF200KB1AF8;10.1179;31-Oct-2026
+153154;SBI Quant Fund- Direct Plan- Growth;Direct Plan;Growth;INF200KB1506;;9.0020;31-Oct-2026
+153151;SBI Quant Fund- Direct Plan- Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KB1514;INF200KB1522;9.0018;31-Oct-2026
+153153;SBI Quant Fund- Regular Plan- Growth;Regular Plan;Growth;INF200KB1472;;8.8174;31-Oct-2026
+153152;SBI Quant Fund- Regular Plan- Income Distribution Cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KB1480;INF200KB1498;8.8174;31-Oct-2026
+120578;SBI TECHNOLOGY OPPORTUNITIES FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01RV6;;236.3973;31-Oct-2026
+119731;SBI Technology Opportunities Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01RT0;INF200K01RU8;167.9050;31-Oct-2026
+120577;SBI TECHNOLOGY OPPORTUNITIES FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01VS4;;204.9584;31-Oct-2026
+100643;SBI Technology Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01420;INF200K01438;123.4230;31-Oct-2026
+
+Open Ended Schemes ( Equity Scheme - ELSS )
+
+
+SBI Mutual Fund
+119722;SBI ELSS Tax Saver Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01UK3;;109.4597;31-Oct-2026
+119723;SBI ELSS Tax Saver FUND - DIRECT PLAN -GROWTH;Direct Plan;Growth;INF200K01UM9;;441.9245;31-Oct-2026
+103883;SBI ELSS Tax Saver Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01479;;82.2398;31-Oct-2026
+105628;SBI ELSS Tax Saver FUND - REGULAR PLAN- GROWTH;Regular Plan;Growth;INF200K01495;;405.6411;31-Oct-2026
+
 Open Ended Schemes ( Debt Scheme - Overnight Fund )
 
 
@@ -26,6 +211,18 @@ Bajaj Finserv Mutual Fund
 151851;Bajaj Finserv Overnight Fund - Regular Plan - Growth;Regular Plan;Growth;INF0QA701250;;1216.1589;31-Oct-2026
 151848;Bajaj Finserv Overnight Fund - Regular Plan - Monthly - IDCW;Regular Plan;Monthly - IDCW;INF0QA701326;INF0QA701284;1035.4791;31-Oct-2026
 151846;Bajaj Finserv Overnight Fund - Regular Plan - Weekly - IDCW;Regular Plan;Weekly - IDCW;INF0QA701300;INF0QA701268;1033.6905;31-Oct-2026
+
+Bandhan Mutual Fund
+146190;BANDHAN Overnight Fund - Direct Plan - Daily IDCW;Direct Plan;Daily IDCW;INF194KB1462;INF194KB1470;1000.1634;31-Oct-2026
+146191;BANDHAN Overnight Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1447;;1480.1663;31-Oct-2026
+146183;BANDHAN Overnight Fund - Direct Plan - Monthly IDCW;Direct Plan;Monthly IDCW;INF194KB1496;INF194KB1504;1000.3117;31-Oct-2026
+146184;BANDHAN Overnight Fund - Direct Plan - Periodic IDCW;Direct Plan;Periodic IDCW;INF194KB1520;INF194KB1538;1348.8765;31-Oct-2026
+146192;BANDHAN Overnight Fund - Direct Plan - Weekly IDCW;Direct Plan;Weekly IDCW;INF194KB1553;INF194KB1561;1000.1637;31-Oct-2026
+146188;BANDHAN Overnight Fund - Regular Plan - Daily IDCW;Regular Plan;Daily IDCW;INF194KB1330;INF194KB1348;1000.1510;31-Oct-2026
+146187;BANDHAN Overnight Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1314;;1467.8614;31-Oct-2026
+146185;BANDHAN Overnight Fund - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW;INF194KB1363;INF194KB1371;1000.3139;31-Oct-2026
+146189;BANDHAN Overnight Fund - Regular Plan - Weekly IDCW;Regular Plan;Weekly IDCW;INF194KB1421;INF194KB1439;1001.0890;31-Oct-2026
+146186;BANDHAN Overnight Fund - REGULAR PLAN PERIODIC IDCW;Regular Plan;Periodic IDCW;INF194KB1397;INF194KB1405;1343.1038;31-Oct-2026
 
 Bank of India Mutual Fund
 147951;BANK OF INDIA Overnight Fund Direct Plan Growth;Direct Plan;Growth;INF761K01EU7;;1412.0886;31-Oct-2026
@@ -136,6 +333,14 @@ PGIM India Mutual Fund
 147607;PGIM India Overnight Fund - Regular Plan - Weekly Dividend Option;Regular Plan;Regular IDCW;INF663L01T50;INF663L01T68;1006.8842;31-Oct-2026
 147600;PGIM India Overnight Fund - Regular Plan- Growth Option;Regular Plan;Regular Growth;INF663L01T43;;1423.3821;31-Oct-2026
 
+SBI Mutual Fund
+119831;SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;;INF200K01TJ7;1400.5037;31-Oct-2026
+119833;SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01TK5;;4512.1046;31-Oct-2026
+119832;SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01TL3;INF200K01TM1;1430.1126;31-Oct-2026
+114297;SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;;INF200K01LN6;1393.8411;31-Oct-2026
+101206;SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01LQ9;;4450.3507;31-Oct-2026
+103140;SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01LO4;INF200K01LP1;1423.2063;31-Oct-2026
+
 Tata Mutual Fund
 146978;TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;Direct Plan;Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF277K019T3;1000.0003;31-Oct-2026
 146979;TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;Regular Plan;Daily Reinvestment of Income Distribution cum capital withdrawal option;;INF277K017T7;1000.0002;31-Oct-2026
@@ -183,6 +388,22 @@ Bajaj Finserv Mutual Fund
 151837;Bajaj Finserv Liquid Fund - Regular Plan - Growth;Regular Plan;Growth;INF0QA701094;;1241.9720;31-Oct-2026
 151842;Bajaj Finserv Liquid Fund - Regular Plan - Monthly - IDCW;Regular Plan;Monthly - IDCW;INF0QA701169;INF0QA701128;1036.1130;31-Oct-2026
 151840;Bajaj Finserv Liquid Fund - Regular Plan - Weekly - IDCW;Regular Plan;Weekly - IDCW;INF0QA701144;INF0QA701102;1034.8112;31-Oct-2026
+
+Bandhan Mutual Fund
+108692;BANDHAN LIQUID Fund - Regular Plan - Daily IDCW;Regular Plan;Daily IDCW;INF194K01VZ4;INF194K01VY7;1001.5989;31-Oct-2026
+108690;BANDHAN LIQUID Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01VX9;;3415.1724;31-Oct-2026
+108693;BANDHAN LIQUID Fund - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW;INF194K01WF4;INF194K01WE7;1001.3100;31-Oct-2026
+115489;BANDHAN LIQUID Fund - Regular Plan - Periodic IDCW;Regular Plan;Periodic IDCW;INF194K01WC1;INF194K01WB3;1474.4650;31-Oct-2026
+108691;BANDHAN LIQUID Fund - Regular Plan - Weekly IDCW;Regular Plan;Weekly IDCW;INF194K01WI8;INF194K01WH0;1001.5601;31-Oct-2026
+139582;BANDHAN LIQUID Fund - Unclaimed IDCW Less than 3 years;;Unclaimed IDCW Less than 3 years;INF194KA14C0;;1.8403;31-Oct-2026
+139583;BANDHAN LIQUID Fund - Unclaimed IDCW More than 3 years;;Unclaimed IDCW More than 3 years;INF194KA15C7;;1.0000;31-Oct-2026
+139584;BANDHAN LIQUID Fund - Unclaimed Redemption Less than 3 years;;Unclaimed Redemption Less than 3 years;INF194KA12C4;;1.8403;31-Oct-2026
+139585;BANDHAN LIQUID Fund - Unclaimed Redemption More than 3 years;;Unclaimed Redemption More than 3 years;INF194KA13C2;;1.0000;31-Oct-2026
+118365;BANDHAN LIQUID Fund -Direct Plan -Monthly IDCW;Direct Plan;Monthly IDCW;INF194K01J36;INF194K01J28;1007.4721;31-Oct-2026
+118367;BANDHAN LIQUID Fund -Direct Plan -Weekly IDCW;Direct Plan;Weekly IDCW;INF194KB1JT8;INF194K01J51;1007.3010;31-Oct-2026
+118366;BANDHAN LIQUID Fund -Direct Plan-Daily IDCW;Direct Plan;Daily IDCW;;INF194K01I78;1001.8533;31-Oct-2026
+118364;BANDHAN LIQUID Fund -Direct Plan-Growth;Direct Plan;Growth;INF194K01I60;;3455.2424;31-Oct-2026
+118363;BANDHAN LIQUID Fund -Direct Plan-Periodic IDCW;Direct Plan;Periodic IDCW;INF194K01J02;INF194K01I94;1392.0027;31-Oct-2026
 
 Bank of India Mutual Fund
 119368;BANK OF INDIA Liquid Fund- Direct Plan- Daily IDCW;Direct Plan;Daily IDCW;;INF761K01CL0;1005.0000;31-Oct-2026
@@ -315,6 +536,18 @@ Quantum Mutual Fund
 152301;Quantum Liquid Fund - Unclaimed Redemption Plan Above 3 years;;;;;10.0000;31-Oct-2026
 152300;Quantum Liquid Fund - Unclaimed Redemption Plan Below 3 years;;;;;11.4678;31-Oct-2026
 
+SBI Mutual Fund
+119804;SBI Liquid Fund - Direct Paln - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01UR8;INF200K01US6;1460.9912;31-Oct-2026
+119805;SBI Liquid Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;;INF200K01UQ0;1144.2661;31-Oct-2026
+119799;SBI Liquid Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01UU2;INF200K01UV0;1385.7610;31-Oct-2026
+119800;SBI Liquid Fund - DIRECT PLAN -Growth;Direct Plan;Growth;INF200K01UT4;;4474.0156;31-Oct-2026
+105274;SBI Liquid Fund - Institutional - Growth;Regular Plan;Growth;INF200K01LU1;;4464.4958;31-Oct-2026
+105275;SBI Liquid Fund - Institutional Daily Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;;INF200K01LR7;1434.2826;31-Oct-2026
+105281;SBI Liquid Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;;INF200K01LX5;1140.9525;31-Oct-2026
+105283;SBI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01LY3;INF200K01LZ0;1451.4404;31-Oct-2026
+105282;SBI Liquid Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01MB9;INF200K01MC7;1378.8639;31-Oct-2026
+105280;SBI Liquid Fund - REGULAR PLAN -Growth;Regular Plan;Growth;INF200K01MA1;;4422.6780;31-Oct-2026
+
 Tata Mutual Fund
 153689;Tata Liquid Fund - Direct Plan - Weekly IDCW Reinvestment;Direct Plan;Weekly IDCW Reinvestment Option;;INF277KA1EE2;1071.2813;31-Oct-2026
 153688;Tata Liquid Fund - Regular Plan - Weekly IDCW Reinvestment;Regular Plan;Weekly IDCW Reinvestment Option;;INF277KA1EF9;1066.1619;31-Oct-2026
@@ -359,17 +592,529 @@ Union Mutual Fund
 115400;Union Liquid Fund - Monthly IDCW Option;Regular Plan;Monthly IDCW Option;INF582M01070;INF582M01054;1001.5779;31-Oct-2026
 115402;Union Liquid Fund - Weekly IDCW Option;Regular Plan;Weekly IDCW Option;;INF582M01039;1002.4188;31-Oct-2026
 
+Open Ended Schemes ( Debt Scheme - Money Market Fund )
+
+
+Bandhan Mutual Fund
+131389;Bandhan Money Market Fund - Regular Plan - Periodic IDCW;Regular Plan;Periodic IDCW;INF194KA1TG5;INF194KA1TH3;14.3525;31-Oct-2026
+108701;Bandhan Money Market Fund - Regular Plan - Weekly IDCW;Regular Plan;Weekly IDCW;INF194K01LR2;INF194K01LQ4;10.1221;31-Oct-2026
+118383;Bandhan Money Market Fund -Direct Plan-Daily IDCW;Direct Plan;Daily IDCW;;INF194K01M98;10.1014;31-Oct-2026
+118384;Bandhan Money Market Fund -Direct Plan-Growth;Direct Plan;Growth;INF194K01M80;;47.5453;31-Oct-2026
+118385;Bandhan Money Market Fund -Direct Plan-Monthly IDCW;Direct Plan;Monthly IDCW;INF194K01N22;INF194K01N14;10.1897;31-Oct-2026
+131388;Bandhan Money Market Fund -Direct Plan-Periodic IDCW;Direct Plan;Periodic IDCW;INF194KA1TJ9;INF194KA1TK7;17.4453;31-Oct-2026
+118386;Bandhan Money Market Fund -Direct Plan-Weekly IDCW;Direct Plan;Weekly IDCW;;INF194K01N48;10.0996;31-Oct-2026
+108650;BANDHAN Money Market Fund - Regular Plan - Daily IDCW;Regular Plan;Daily IDCW;INF194K01LL5;INF194K01LK7;10.1013;31-Oct-2026
+108756;BANDHAN Money Market Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01LJ9;;43.7597;31-Oct-2026
+108757;BANDHAN Money Market Fund - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW;INF194K01LO9;INF194K01LN1;10.2538;31-Oct-2026
+
+Open Ended Schemes ( Debt Scheme - Corporate Bond Fund )
+
+
+Bandhan Mutual Fund
+139201;BANDHAN Corporate Bond Fund - Direct Annual IDCW;Direct Plan;Annual IDCW;INF194KA1T34;INF194KA1T42;10.5645;31-Oct-2026
+135916;BANDHAN Corporate Bond Fund - Direct Growth;Direct Plan;Growth;INF194KA1M23;;21.2051;31-Oct-2026
+139200;BANDHAN Corporate Bond Fund - Direct Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194KA1T00;INF194KA1T18;11.4944;31-Oct-2026
+139198;BANDHAN Corporate Bond Fund - Direct Monthly IDCW;Direct Plan;Monthly IDCW;INF194KA1S43;INF194KA1S50;10.3341;31-Oct-2026
+135917;BANDHAN Corporate Bond Fund - Direct Periodic IDCW;Direct Plan;Periodic IDCW;INF194KA1M31;INF194KA1M49;14.0683;31-Oct-2026
+139199;BANDHAN Corporate Bond Fund - Direct Quarterly IDCW;Direct Plan;Quarterly IDCW;INF194KA1S76;INF194KA1S84;10.6772;31-Oct-2026
+139204;BANDHAN Corporate Bond Fund - Regular Annual IDCW;Regular Plan;Annual IDCW;INF194KA1S19;INF194KA1S27;10.5363;31-Oct-2026
+135914;BANDHAN Corporate Bond Fund - Regular Growth;Regular Plan;Growth;INF194KA1L81;;20.5050;31-Oct-2026
+139203;BANDHAN Corporate Bond Fund - Regular Half Yearly IDCW;Regular Plan;Half Yearly IDCW;INF194KA1R85;INF194KA1R93;10.8882;31-Oct-2026
+139202;BANDHAN Corporate Bond Fund - Regular Monthly IDCW;Regular Plan;Monthly IDCW;INF194KA1R28;INF194KA1R36;10.5846;31-Oct-2026
+135915;BANDHAN Corporate Bond Fund - Regular Periodic IDCW;Regular Plan;Periodic IDCW;INF194KA1L99;INF194KA1M07;13.8231;31-Oct-2026
+139205;BANDHAN Corporate Bond Fund - Regular Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194KA1R51;INF194KA1R69;10.7050;31-Oct-2026
+
+SBI Mutual Fund
+146215;SBI Corporate Bond Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA1YR4;;16.9855;31-Oct-2026
+146212;SBI Corporate Bond Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1YS2;INF200KA1YT0;16.0326;31-Oct-2026
+146216;SBI Corporate Bond Fund - Direct Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1YU8;INF200KA1YV6;16.5122;31-Oct-2026
+146207;SBI Corporate Bond Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA1YM5;;16.3982;31-Oct-2026
+146208;SBI Corporate Bond Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1YN3;INF200KA1YO1;15.4757;31-Oct-2026
+146210;SBI Corporate Bond Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1YP8;INF200KA1YQ6;15.9326;31-Oct-2026
+
+Open Ended Schemes ( Debt Scheme - Credit Risk Fund )
+
+
+Bandhan Mutual Fund
+140608;BANDHAN Credit Risk Fund - Regular Plan Annual IDCW;Regular Plan;Annual IDCW;INF194KA1W05;INF194KA1W13;10.4632;31-Oct-2026
+140609;BANDHAN Credit Risk Fund - Regular Plan Growth;Regular Plan;Growth;INF194KA1W39;;17.3277;31-Oct-2026
+140611;BANDHAN Credit Risk Fund - Regular Plan Half Yearly IDCW;Regular Plan;Half Yearly IDCW;INF194KA1V71;INF194KA1V89;10.1163;31-Oct-2026
+140612;BANDHAN Credit Risk Fund - Regular Plan Periodic IDCW;Regular Plan;Periodic IDCW;INF194KA1V14;INF194KA1V22;13.4558;31-Oct-2026
+140607;BANDHAN Credit Risk Fund - Regular Plan Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194KA1V48;INF194KA1V55;10.5578;31-Oct-2026
+140610;BANDHAN Credit Risk Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194KA1X38;INF194KA1X46;10.5958;31-Oct-2026
+140603;BANDHAN Credit Risk Fund-Direct Plan-Growth;Direct Plan;Growth;INF194KA1X61;;19.0626;31-Oct-2026
+140606;BANDHAN Credit Risk Fund-Direct Plan-Periodic IDCW;Direct Plan;Periodic IDCW;INF194KA1W47;INF194KA1W54;14.2276;31-Oct-2026
+140604;BANDHAN Credit Risk Fund-Direct Plan-Quarterly IDCW;Direct Plan;Quarterly IDCW;INF194KA1W70;INF194KA1W88;10.7742;31-Oct-2026
+
+SBI Mutual Fund
+119792;SBI Credit Risk Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;;INF200K01SS0;17.1725;31-Oct-2026
+119793;SBI Credit Risk Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01ST8;INF200K01SU6;25.1845;31-Oct-2026
+119798;SBI CREDIT RISK FUND - DIRECT PLAN -GROWTH;Direct Plan;Growth;INF200K01SV4;;54.1184;31-Oct-2026
+118211;SBI Credit Risk Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;;INF200K01QK1;16.4442;31-Oct-2026
+102505;SBI CREDIT RISK FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01685;;49.6841;31-Oct-2026
+102506;SBI Credit Risk Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01693;INF200K01701;22.4614;31-Oct-2026
+
+Open Ended Schemes ( Debt Scheme - Gilt Fund )
+
+
+Bandhan Mutual Fund
+108557;Bandhan Gilt Fund - Regular Plan - Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K01EH8;INF194K01EG0;11.9976;31-Oct-2026
+118467;Bandhan Gilt Fund - Direct Plan - Annual IDCW;Direct Plan;Annual IDCW;INF194K01Q78;INF194K01Q60;12.7541;31-Oct-2026
+118464;Bandhan Gilt Fund - Direct Plan - Growth;Direct Plan;Growth;INF194K01Q29;;40.9845;31-Oct-2026
+118465;Bandhan Gilt Fund - Direct Plan - Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K01Q45;INF194K01Q37;12.1561;31-Oct-2026
+118463;Bandhan Gilt Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF194K01R36;INF194K01R28;15.8022;31-Oct-2026
+131394;Bandhan Gilt Fund - Direct Plan - Periodic IDCW;Direct Plan;Periodic IDCW;INF194KA1RZ9;INF194KA1SA0;19.3988;31-Oct-2026
+118466;Bandhan Gilt Fund - Direct Plan - Quarterly IDCW;Direct Plan;Quarterly IDCW;INF194K01R02;INF194K01Q94;11.7220;31-Oct-2026
+111525;Bandhan Gilt Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01DZ2;;37.5991;31-Oct-2026
+111527;Bandhan Gilt Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194K01EK2;INF194K01EJ4;14.1693;31-Oct-2026
+131395;Bandhan Gilt Fund - Regular Plan B - Periodic IDCW;Regular Plan;Periodic IDCW;INF194KA1RW6;INF194KA1RX4;17.6618;31-Oct-2026
+108559;Bandhan Gilt Fund - Regular Plan - Annual IDCW;Regular Plan;Annual IDCW;INF194K01EE5;INF194K01ED7;11.6023;31-Oct-2026
+108558;Bandhan Gilt Fund - Regular - Plan B - Half Yearly IDCW;Regular Plan;Half Yearly IDCW;INF194K01EB1;INF194K01EA3;11.2030;31-Oct-2026
+
+SBI Mutual Fund
+101934;SBI GILT FUND -  GROWTH - PF (Fixed Period - 3 Yrs) Option;Regular Plan;Growth;INF200K01AH1;;40.8496;31-Oct-2026
+101932;SBI GILT FUND -  GROWTH - PF (Regular) Option;Regular Plan;Growth;INF200K01AK5;;43.7312;31-Oct-2026
+119707;SBI GILT FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01SH3;;72.5973;31-Oct-2026
+119706;SBI Gilt Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01SF7;INF200K01SG5;23.1698;31-Oct-2026
+101950;SBI Gilt Fund - Income Distribution cum Capital Withdrawal Option (IDCW) - PF (Fixed Period - 1 Yr);Regular Plan;IDCW;INF200K01AC2;INF200K01AD0;21.0394;31-Oct-2026
+101951;SBI Gilt Fund - Income Distribution cum Capital Withdrawal Option (IDCW) - PF (Fixed Period - 2 Yrs);Regular Plan;IDCW;INF200K01AF5;INF200K01AG3;21.2922;31-Oct-2026
+101952;SBI Gilt Fund - Income Distribution cum Capital Withdrawal Option (IDCW) - PF (Fixed Period - 3 Yrs);Regular Plan;IDCW;INF200K01AI9;INF200K01AJ7;20.6445;31-Oct-2026
+101001;SBI GILT FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01982;;68.1037;31-Oct-2026
+100999;SBI Gilt Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01990;INF200K01AA6;20.9417;31-Oct-2026
+
+Open Ended Schemes ( Hybrid Scheme - Conservative Hybrid Fund )
+
+
+Bandhan Mutual Fund
+112353;BANDHAN Conservative Hybrid Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01RW9;;32.6123;31-Oct-2026
+112352;BANDHAN Conservative Hybrid Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194K01RY5;INF194K01RX7;10.9414;31-Oct-2026
+113361;BANDHAN Conservative Hybrid Fund - Regular Plan - Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K01SB1;INF194K01SA3;13.2043;31-Oct-2026
+118491;BANDHAN Conservative Hybrid Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K015B9;;36.9756;31-Oct-2026
+118490;BANDHAN Conservative Hybrid Fund-Direct Plan-IDCW;Direct Plan;IDCW;INF194K017B5;INF194K016B7;12.9536;31-Oct-2026
+118492;BANDHAN Conservative Hybrid Fund-Direct Plan-Quarterly IDCW;Direct Plan;Quarterly IDCW;INF194K010C8;INF194K019B1;15.9006;31-Oct-2026
+
+SBI Mutual Fund
+119836;SBI Conservative Hybrid Fund  - Direct Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01TV2;INF200K01TW0;25.3138;31-Oct-2026
+119837;SBI Conservative Hybrid Fund - Direct Plan - Annual Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01TQ2;INF200K01TR0;33.0393;31-Oct-2026
+119839;SBI Conservative Hybrid Fund - Direct Plan - Growth;Direct Plan;Growth;INF200K01TS8;;82.8503;31-Oct-2026
+119838;SBI Conservative Hybrid Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01TT6;INF200K01TU4;27.0501;31-Oct-2026
+100929;SBI Conservative Hybrid Fund - Regular Plan - Annual Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01909;INF200K01917;26.5851;31-Oct-2026
+100968;SBI Conservative Hybrid Fund - Regular Plan - Growth;Regular Plan;Growth;INF200K01859;;75.3681;31-Oct-2026
+100927;SBI Conservative Hybrid Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01867;INF200K01875;20.5710;31-Oct-2026
+100928;SBI Conservative Hybrid Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01883;INF200K01891;21.7371;31-Oct-2026
+
+Open Ended Schemes ( Hybrid Scheme - Aggressive Hybrid Fund )
+
+
+Bandhan Mutual Fund
+140382;Bandhan Aggressive Hybrid Fund-Direct Plan Growth;Direct Plan;Growth;INF194KA1U56;;31.096;31-Oct-2026
+140383;Bandhan Aggressive Hybrid Fund-Direct Plan IDCW;Direct Plan;IDCW;INF194KA1U64;INF194KA1U72;20.915;31-Oct-2026
+140381;Bandhan Aggressive Hybrid Fund-Regular Plan Growth;Regular Plan;Growth;INF194KA1U15;;27.031;31-Oct-2026
+140384;Bandhan Aggressive Hybrid Fund-Regular Plan IDCW;Regular Plan;IDCW;INF194KA1U23;INF194KA1U31;18.207;31-Oct-2026
+
+Open Ended Schemes ( Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage )
+
+
+Bandhan Mutual Fund
+131355;BANDHAN Balanced Advantage Fund Direct Plan Growth;Direct Plan;Growth;INF194KA1UH1;;28.912;31-Oct-2026
+131356;BANDHAN Balanced Advantage Fund Direct Plan IDCW;Direct Plan;IDCW;INF194KA1UI9;INF194KA1UJ7;16.019;31-Oct-2026
+131357;BANDHAN Balanced Advantage Fund Regular Plan Growth;Regular Plan;Growth;INF194KA1UE8;;24.602;31-Oct-2026
+131354;BANDHAN Balanced Advantage Fund Regular Plan IDCW;Regular Plan;IDCW;INF194KA1UF5;INF194KA1UG3;13.719;31-Oct-2026
+
+SBI Mutual Fund
+149134;SBI Balanced Advantage Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA1Y73;;16.0021;31-Oct-2026
+149135;SBI Balanced Advantage Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1Y81;INF200KA1Y99;16.0027;31-Oct-2026
+149132;SBI Balanced Advantage Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA1Y40;;15.2409;31-Oct-2026
+149133;SBI Balanced Advantage Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1Y57;INF200KA1Y65;15.2411;31-Oct-2026
+
+Open Ended Schemes ( Hybrid Scheme - Multi Asset Allocation )
+
+
+Bandhan Mutual Fund
+152324;Bandhan Multi Asset Allocation Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1HM7;;14.0850;31-Oct-2026
+152323;Bandhan Multi Asset Allocation Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF194KB1HN5;INF194KB1HO3;13.2107;31-Oct-2026
+152326;Bandhan Multi Asset Allocation Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1HJ3;;13.5137;31-Oct-2026
+152325;Bandhan Multi Asset Allocation Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194KB1HK1;INF194KB1HL9;12.6754;31-Oct-2026
+
+SBI Mutual Fund
+119840;SBI Multi Asset Allocation Fund - Direct Plan - Annual Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01TX8;INF200K01TY6;40.6754;31-Oct-2026
+119843;SBI MULTI ASSET ALLOCATION FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01TZ3;;71.3942;31-Oct-2026
+119841;SBI Multi Asset Allocation Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01UA4;INF200K01UB2;32.0571;31-Oct-2026
+119842;SBI Multi Asset Allocation Fund - Direct Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01UC0;INF200K01UD8;33.9115;31-Oct-2026
+103409;SBI Multi Asset Allocation Fund - Regular Plan - Annual Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01784;INF200K01792;36.0468;31-Oct-2026
+103408;SBI MULTI ASSET ALLOCATION FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01800;;63.7454;31-Oct-2026
+103400;SBI Multi Asset Allocation Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01818;INF200K01826;28.5043;31-Oct-2026
+103401;SBI Multi Asset Allocation Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01834;INF200K01842;28.4766;31-Oct-2026
+
+Open Ended Schemes ( Hybrid Scheme - Arbitrage Fund )
+
+
+Bandhan Mutual Fund
+133680;BANDHAN Arbitrage Fund - Regular Plan - Annual IDCW;Regular Plan;Annual IDCW;INF194KA1YD2;INF194KA1YE0;11.0206;31-Oct-2026
+108845;BANDHAN Arbitrage Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01649;;34.8875;31-Oct-2026
+108847;BANDHAN Arbitrage Fund - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW;INF194K01656;INF194K01664;10.6752;31-Oct-2026
+118474;BANDHAN Arbitrage Fund-Direct Plan- Growth;Direct Plan;Growth;INF194K01Y60;;38.1239;31-Oct-2026
+133679;BANDHAN Arbitrage Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194KA1YG5;INF194KA1YH3;12.8098;31-Oct-2026
+118475;BANDHAN Arbitrage Fund-Direct Plan-Monthly IDCW;Direct Plan;Monthly IDCW;INF194K01Y78;INF194K01Y86;10.7487;31-Oct-2026
+
+Open Ended Schemes ( Hybrid Scheme - Equity Savings )
+
+
+Bandhan Mutual Fund
+108995;BANDHAN Equity Savings Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01581;;32.419;31-Oct-2026
+108992;BANDHAN Equity Savings Fund - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW;INF194K01599;INF194K01607;10.697;31-Oct-2026
+133682;BANDHAN Equity Savings Fund - Regular Plan -Annual IDCW;Regular Plan;Annual IDCW;INF194KA1XX2;INF194KA1XY0;12.567;31-Oct-2026
+143259;BANDHAN Equity Savings Fund- Regular Plan -Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194KA16J0;INF194KA17J8;12.520;31-Oct-2026
+143258;BANDHAN Equity Savings Fund-Direct Plan -Quarterly IDCW;Direct Plan;Quarterly IDCW;INF194KA19J4;INF194KA10K1;13.155;31-Oct-2026
+133681;BANDHAN Equity Savings Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194KA1YA8;INF194KA1YB6;14.025;31-Oct-2026
+118477;BANDHAN Equity Savings Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K01Z02;;36.411;31-Oct-2026
+118476;BANDHAN Equity Savings Fund-Direct Plan-Monthly IDCW;Direct Plan;Monthly IDCW;INF194K01Z10;INF194K01Z28;11.368;31-Oct-2026
+
+SBI Mutual Fund
+134643;SBI Equity Savings Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA1DF3;;27.2717;31-Oct-2026
+134641;SBI Equity Savings Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1DG1;INF200KA1DH9;24.9629;31-Oct-2026
+134640;SBI Equity Savings Fund - Direct Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1DI7;INF200KA1DJ5;25.8256;31-Oct-2026
+134644;SBI Equity Savings Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA1DA4;;24.5550;31-Oct-2026
+134639;SBI Equity Savings Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1DB2;INF200KA1DC0;22.7651;31-Oct-2026
+134642;SBI Equity Savings Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1DD8;INF200KA1DE6;23.2197;31-Oct-2026
+
+Open Ended Schemes ( Solution Oriented Scheme - Retirement Fund )
+
+
+Bandhan Mutual Fund
+152102;Bandhan Retirement Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1GU2;;12.796;31-Oct-2026
+152104;Bandhan Retirement Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF194KB1GV0;INF194KB1GW8;12.786;31-Oct-2026
+152103;Bandhan Retirement Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1GN7;;12.168;31-Oct-2026
+152105;Bandhan Retirement Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194KB1GO5;INF194KB1GP2;12.168;31-Oct-2026
+
+SBI Mutual Fund
+148685;SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Direct Plan - Growth;Direct Plan;Growth;INF200KA1S97;;19.9375;31-Oct-2026
+148686;SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1T05;;19.9396;31-Oct-2026
+148695;SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Regular Plan - Growth;Regular Plan;Growth;INF200KA1S71;;18.6852;31-Oct-2026
+148684;SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1S89;;18.6847;31-Oct-2026
+148683;SBI Retirement Benefit Fund - Aggressive Plan - Direct Plan - Growth;Direct Plan;Growth;INF200KA1S55;;20.6764;31-Oct-2026
+148694;SBI Retirement Benefit Fund - Aggressive Plan - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1S63;;20.6654;31-Oct-2026
+148698;SBI Retirement Benefit Fund - Aggressive Plan - Regular Plan - Growth;Regular Plan;Growth;INF200KA1S30;;19.2709;31-Oct-2026
+148691;SBI Retirement Benefit Fund - Aggressive Plan - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1S48;;19.2714;31-Oct-2026
+148690;SBI Retirement Benefit Fund - Conservative Hybrid Plan - Direct Plan - Growth;Direct Plan;Growth;INF200KA1T70;;16.0409;31-Oct-2026
+148693;SBI Retirement Benefit Fund - Conservative Hybrid Plan - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1T88;;16.0387;31-Oct-2026
+148692;SBI Retirement Benefit Fund - Conservative Hybrid Plan - Regular Plan - Growth;Regular Plan;Growth;INF200KA1T54;;15.5086;31-Oct-2026
+148697;SBI Retirement Benefit Fund - Conservative Hybrid Plan - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1T62;;15.5103;31-Oct-2026
+148688;SBI Retirement Benefit Fund - Conservative Plan - Direct Plan - Growth;Direct Plan;Growth;INF200KA1T39;;14.8529;31-Oct-2026
+148689;SBI Retirement Benefit Fund - Conservative Plan - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1T47;;14.8507;31-Oct-2026
+148696;SBI Retirement Benefit Fund - Conservative Plan - Regular Plan - Growth;Regular Plan;Growth;INF200KA1T13;;14.4421;31-Oct-2026
+148687;SBI Retirement Benefit Fund - Conservative Plan - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1T21;;14.4419;31-Oct-2026
+
+Open Ended Schemes ( Solution Oriented Scheme - Children’s Fund )
+
+
+SBI Mutual Fund
+148490;SBI Children's Fund - Investment Plan - Direct Plan - Growth;Direct Plan;Growth;INF200KA1R07;;51.2379;31-Oct-2026
+148489;SBI Children's Fund - Investment Plan - Regular Plan - Growth;Regular Plan;Growth;INF200KA1Q99;;47.5350;31-Oct-2026
+119719;SBI Children's Fund - Savings Plan - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01QR6;;128.6626;31-Oct-2026
+101169;SBI Children's Fund - Savings Plan - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01776;;117.4694;31-Oct-2026
+
+Open Ended Schemes ( Other Scheme - Index Funds )
+
+
+Bandhan Mutual Fund
+152844;Bandhan BSE Healthcare Index Fund Direct Plan - Growth;Direct Plan;Growth;INF194KB1IS2;;11.5831;31-Oct-2026
+152843;Bandhan BSE Healthcare Index Fund Regular Plan - Growth;Regular Plan;Growth;INF194KB1IR4;;11.3847;31-Oct-2026
+153838;Bandhan BSE India Sector Leaders Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1KB4;;9.2302;31-Oct-2026
+153839;Bandhan BSE India Sector Leaders Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1KA6;;9.1547;31-Oct-2026
+150871;BANDHAN CRISIL IBX 90:10 SDL PLUS GILT APRIL 2032 INDEX FUND - DIRECT GROWTH;Direct Plan;Growth;INF194KB1EN2;;13.0522;31-Oct-2026
+150872;BANDHAN CRISIL IBX 90:10 SDL PLUS GILT APRIL 2032 INDEX FUND - DIRECT IDCW;Direct Plan;IDCW;INF194KB1EO0;INF194KB1EP7;10.4239;31-Oct-2026
+150873;BANDHAN CRISIL IBX 90:10 SDL PLUS GILT APRIL 2032 INDEX FUND - REGULAR GROWTH;Regular Plan;Growth;INF194KB1EQ5;;12.9631;31-Oct-2026
+150874;BANDHAN CRISIL IBX 90:10 SDL PLUS GILT APRIL 2032 INDEX FUND - REGULAR IDCW;Regular Plan;IDCW;INF194KB1ER3;INF194KB1ES1;10.3641;31-Oct-2026
+150868;BANDHAN CRISIL IBX 90:10 SDL PLUS GILT - NOV 2026 INDEX FUND - DIRECT GROWTH;Direct Plan;Growth;INF194KB1ET9;;13.1751;31-Oct-2026
+150867;BANDHAN CRISIL IBX 90:10 SDL PLUS GILT - NOV 2026 INDEX FUND - DIRECT IDCW;Direct Plan;IDCW;INF194KB1EU7;INF194KB1EV5;10.4365;31-Oct-2026
+150869;BANDHAN CRISIL IBX 90:10 SDL PLUS GILT - NOV 2026 INDEX FUND - REGULAR GROWTH;Regular Plan;Growth;INF194KB1EW3;;13.0450;31-Oct-2026
+150870;BANDHAN CRISIL IBX 90:10 SDL PLUS GILT - NOV 2026 INDEX FUND - REGULAR IDCW;Regular Plan;IDCW;INF194KB1EX1;INF194KB1EY9;10.2998;31-Oct-2026
+150888;BANDHAN CRISIL IBX 90:10 SDL PLUS GILT - SEP27 INDEX FUND - DIRECT GROWTH;Direct Plan;Growth;INF194KB1EZ6;;13.2088;31-Oct-2026
+150889;BANDHAN CRISIL IBX 90:10 SDL PLUS GILT SEP27 INDEX FUND - DIRECT IDCW;Direct Plan;IDCW;INF194KB1FA6;INF194KB1FB4;10.2971;31-Oct-2026
+150890;BANDHAN CRISIL IBX 90:10 SDL PLUS GILT SEP27 INDEX FUND - REGULAR GROWTH;Regular Plan;Growth;INF194KB1FC2;;13.0795;31-Oct-2026
+150891;BANDHAN CRISIL IBX 90:10 SDL PLUS GILT SEP27 INDEX FUND - REGULAR IDCW;Regular Plan;IDCW;INF194KB1FD0;INF194KB1FE8;10.2914;31-Oct-2026
+148792;BANDHAN CRISIL IBX Gilt April 2028 Index Fund Direct Plan-Growth;Direct Plan;Growth;INF194KB1BV1;;14.0118;31-Oct-2026
+148791;BANDHAN CRISIL IBX Gilt April 2028 Index Fund Direct Plan-IDCW;Direct Plan;IDCW;INF194KB1BW9;INF194KB1BX7;10.1605;31-Oct-2026
+148790;BANDHAN CRISIL IBX Gilt April 2028 Index Fund Regular Plan-Growth;Regular Plan;Growth;INF194KB1BS7;;13.8166;31-Oct-2026
+148793;BANDHAN CRISIL IBX Gilt April 2028 Index Fund Regular Plan-IDCW;Regular Plan;IDCW;INF194KB1BT5;INF194KB1BU3;10.1628;31-Oct-2026
+151408;BANDHAN CRISIL IBX GILT APRIL 2032 INDEX FUND - DIRECT GROWTH;Direct Plan;Growth;INF194KB1FF5;;12.9238;31-Oct-2026
+151411;BANDHAN CRISIL IBX GILT APRIL 2032 INDEX FUND - DIRECT IDCW;Direct Plan;IDCW;INF194KB1FG3;INF194KB1FH1;10.6775;31-Oct-2026
+151409;BANDHAN CRISIL IBX GILT APRIL 2032 INDEX FUND - REGULAR GROWTH;Regular Plan;Growth;INF194KB1FI9;;12.8024;31-Oct-2026
+151410;BANDHAN CRISIL IBX GILT APRIL 2032 INDEX FUND - REGULAR IDCW;Regular Plan;IDCW;INF194KB1FJ7;INF194KB1FK5;10.5164;31-Oct-2026
+148789;BANDHAN CRISIL IBX Gilt June 2027 Index Fund Direct Plan-Growth;Direct Plan;Growth;INF194KB1BP3;;13.9713;31-Oct-2026
+148788;BANDHAN CRISIL IBX Gilt June 2027 Index Fund Direct Plan-IDCW;Direct Plan;IDCW;INF194KB1BQ1;INF194KB1BR9;10.1934;31-Oct-2026
+148786;BANDHAN CRISIL IBX Gilt June 2027 Index Fund Regular Plan-Growth;Regular Plan;Growth;INF194KB1BL2;;13.7766;31-Oct-2026
+148787;BANDHAN CRISIL IBX Gilt June 2027 Index Fund Regular Plan-IDCW;Regular Plan;IDCW;INF194KB1BM0;INF194KB1BO6;10.1875;31-Oct-2026
+153407;Bandhan CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1JR2;;11.1752;31-Oct-2026
+153408;Bandhan CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1JS0;;11.0466;31-Oct-2026
+149832;BANDHAN NIFTY 100 INDEX FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF194KB1CR7;;14.4122;31-Oct-2026
+149835;BANDHAN NIFTY 100 INDEX FUND - DIRECT PLAN - IDCW;Direct Plan;IDCW;INF194KB1CS5;INF194KB1CT3;14.4089;31-Oct-2026
+149833;BANDHAN NIFTY 100 INDEX FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF194KB1CO4;;14.0820;31-Oct-2026
+149834;BANDHAN NIFTY 100 INDEX FUND - REGULAR PLAN - IDCW;Regular Plan;IDCW;INF194KB1CP1;INF194KB1CQ9;14.0842;31-Oct-2026
+153114;Bandhan Nifty 200 Quality 30 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1JA8;;9.0119;31-Oct-2026
+153113;Bandhan Nifty 200 Quality 30 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1IZ7;;8.8985;31-Oct-2026
+112877;BANDHAN Nifty 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01920;;49.8637;31-Oct-2026
+112878;BANDHAN Nifty 50 Index Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194K01938;INF194K01946;45.2573;31-Oct-2026
+118482;BANDHAN Nifty 50 Index Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K012A8;;51.6725;31-Oct-2026
+118483;BANDHAN Nifty 50 Index Fund-Direct Plan-IDCW;Direct Plan;IDCW;INF194K013A6;INF194K014A4;46.9647;31-Oct-2026
+153003;Bandhan Nifty 500 Momentum 50 Index Fund Direct Plan-Growth;Direct Plan;Growth;INF194KB1IY0;;8.6190;31-Oct-2026
+153002;Bandhan Nifty 500 Momentum 50 Index Fund Regular Plan-Growth;Regular Plan;Growth;INF194KB1IX2;;8.5073;31-Oct-2026
+152990;Bandhan Nifty 500 Value 50 Index Fund Direct Plan - Growth;Direct Plan;Growth;INF194KB1IW4;;10.3859;31-Oct-2026
+152991;Bandhan Nifty 500 Value 50 Index Fund Regular Plan - Growth;Regular Plan;Growth;INF194KB1IV6;;10.2512;31-Oct-2026
+152177;Bandhan Nifty Alpha 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1HA2;;13.6893;31-Oct-2026
+152178;Bandhan Nifty Alpha 50 Index Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF194KB1HB0;INF194KB1HC8;13.6808;31-Oct-2026
+152179;Bandhan Nifty Alpha 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1GX6;;13.4183;31-Oct-2026
+152180;Bandhan Nifty Alpha 50 Index Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194KB1GY4;INF194KB1GZ1;13.4181;31-Oct-2026
+153213;Bandhan Nifty Alpha Low Volatility 30 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1JC4;;9.5691;31-Oct-2026
+153212;Bandhan Nifty Alpha Low Volatility 30 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1JB6;;9.4426;31-Oct-2026
+152793;Bandhan Nifty Bank Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1IO1;;10.7495;31-Oct-2026
+152792;Bandhan Nifty Bank Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1IN3;;10.5632;31-Oct-2026
+152041;Bandhan Nifty IT Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1GK3;;11.1298;31-Oct-2026
+152042;Bandhan Nifty IT Index Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF194KB1GL1;INF194KB1GM9;11.1334;31-Oct-2026
+152043;Bandhan Nifty IT Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1GH9;;10.9034;31-Oct-2026
+152044;Bandhan Nifty IT Index Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194KB1GI7;INF194KB1GJ5;10.9024;31-Oct-2026
+152855;Bandhan Nifty Midcap 150 Index Fund-Direct Plan-Growth;Direct Plan;Growth;INF194KB1IT0;;9.5850;31-Oct-2026
+152856;Bandhan Nifty Midcap 150 Index Fund-Regular Plan-Growth;Regular Plan;Growth;INF194KB1IU8;;9.4411;31-Oct-2026
+153350;Bandhan Nifty Next 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1JK7;;11.9612;31-Oct-2026
+153349;Bandhan Nifty Next 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1JJ9;;11.8056;31-Oct-2026
+152264;BANDHAN Nifty Smallcap 250 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1HG9;;12.1538;31-Oct-2026
+152263;BANDHAN Nifty Smallcap 250 Index Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF194KB1HH7;INF194KB1HI5;12.1539;31-Oct-2026
+152266;BANDHAN Nifty Smallcap 250 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1HD6;;11.9158;31-Oct-2026
+152265;BANDHAN Nifty Smallcap 250 Index Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194KB1HE4;INF194KB1HF1;11.9163;31-Oct-2026
+152716;Bandhan Nifty Total Market Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1IK9;;9.6468;31-Oct-2026
+152717;Bandhan Nifty Total Market Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1IH5;;9.5026;31-Oct-2026
+150636;BANDHAN NIFTY100 LOW VOLATILITY 30 INDEX FUND - GROWTH - DIRECT PLAN;Direct Plan;Growth;INF194KB1DV7;;15.0091;31-Oct-2026
+150633;BANDHAN NIFTY100 LOW VOLATILITY 30 INDEX FUND - GROWTH - REGULAR PLAN;Regular Plan;Growth;INF194KB1DY1;;14.5856;31-Oct-2026
+150634;BANDHAN NIFTY100 LOW VOLATILITY 30 INDEX FUND - IDCW - DIRECT PLAN;Direct Plan;IDCW;INF194KB1DW5;INF194KB1DX3;14.9354;31-Oct-2026
+150635;BANDHAN NIFTY100 LOW VOLATILITY 30 INDEX FUND - IDCW - REGULAR PLAN;Regular Plan;IDCW;INF194KB1DZ8;INF194KB1EA9;14.5853;31-Oct-2026
+150591;BANDHAN NIFTY200 MOMENTUM 30 INDEX FUND - GROWTH - DIRECT PLAN;Direct Plan;Growth;INF194KB1DP9;;14.6083;31-Oct-2026
+150592;BANDHAN NIFTY200 MOMENTUM 30 INDEX FUND - GROWTH - REGULAR PLAN;Regular Plan;Growth;INF194KB1DS3;;14.2355;31-Oct-2026
+150590;BANDHAN NIFTY200 MOMENTUM 30 INDEX FUND - IDCW - DIRECT PLAN;Direct Plan;IDCW;INF194KB1DQ7;INF194KB1DR5;14.5828;31-Oct-2026
+150593;BANDHAN NIFTY200 MOMENTUM 30 INDEX FUND - IDCW - REGULAR PLAN;Regular Plan;IDCW;INF194KB1DT1;INF194KB1DU9;14.2350;31-Oct-2026
+
+SBI Mutual Fund
+153432;SBI BSE PSU BANK INDEX FUND- Direct Plan- Growth;Direct Plan;Growth;INF200KB1688;;13.2972;31-Oct-2026
+153433;SBI BSE PSU BANK INDEX FUND- Direct Plan- Income Distribution Cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KB1704;INF200KB1696;13.2971;31-Oct-2026
+153434;SBI BSE PSU BANK INDEX FUND- Regular Plan- Growth;Regular Plan;Growth;INF200KB1654;;13.1973;31-Oct-2026
+153431;SBI BSE PSU BANK INDEX FUND- Regular Plan- Income Distribution Cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KB1662;INF200KB1670;13.1991;31-Oct-2026
+151769;SBI BSE Sensex Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA16Y4;;12.2944;31-Oct-2026
+151770;SBI BSE Sensex Index Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF200KA17Y2;INF200KA18Y0;12.2949;31-Oct-2026
+151765;SBI BSE Sensex Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA13Y1;;12.2026;31-Oct-2026
+151766;SBI BSE Sensex Index Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF200KA14Y9;INF200KA15Y6;12.2025;31-Oct-2026
+150706;SBI CRISIL IBX Gilt Index - April 2029 Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA18Q6;;13.3432;31-Oct-2026
+150708;SBI CRISIL IBX Gilt Index - April 2029 Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA19Q4;INF200KA10R1;13.3433;31-Oct-2026
+150707;SBI CRISIL IBX Gilt Index - April 2029 Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA15Q2;;13.2187;31-Oct-2026
+150709;SBI CRISIL IBX Gilt Index - April 2029 Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA16Q0;INF200KA17Q8;13.2196;31-Oct-2026
+150681;SBI |CRISIL IBX Gilt Index - June 2036 Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA12Q9;;13.2860;31-Oct-2026
+150682;SBI CRISIL IBX Gilt Index - June 2036 Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA13Q7;INF200KA14Q5;13.2860;31-Oct-2026
+150683;SBI CRISIL IBX Gilt Index - June 2036 Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA19P6;;13.1567;31-Oct-2026
+150680;SBI CRISIL IBX Gilt Index - June 2036 Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA10Q3;INF200KA11Q1;13.1571;31-Oct-2026
+150711;SBI CRISIL IBX SDL Index - September 2027 Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA14R3;;13.3122;31-Oct-2026
+150713;SBI CRISIL IBX SDL Index - September 2027 Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA15R0;INF200KA16R8;13.3182;31-Oct-2026
+150712;SBI CRISIL IBX SDL Index - September 2027 Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA11R9;;13.2185;31-Oct-2026
+150710;SBI CRISIL IBX SDL Index - September 2027 Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA12R7;INF200KA13R5;13.2190;31-Oct-2026
+154363;SBI CRISIL-IBX 10:90 Gilt + SDL Index - Dec 2029 Index Fund - Regular - Growth;Regular Plan;Growth;INF200KB1BF6;;10.1869;31-Oct-2026
+154370;SBI CRISIL-IBX 10:90 GILT + SDL INDEX DEC 2029 INDEX FUND - DIRECT - GROWTH;Direct Plan;Growth;INF200KB1BI0;;10.1958;31-Oct-2026
+154369;SBI CRISIL-IBX 10:90 GLIT + SDL INDEX DEC 2029 INDEX FUND - DIRECT IDCW;Direct Plan;IDCW;INF200KB1BJ8;INF200KB1BK6;10.1958;31-Oct-2026
+154367;SBI CRISIL-IBX 10:90 GLIT + SDL INDEX DEC 2029 INDEX FUND - REGULAR - IDCW;Regular Plan;IDCW;INF200KB1BG4;INF200KB1BH2;10.1869;31-Oct-2026
+154331;SBI CRISIL - IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KB1AO0;;10.3394;31-Oct-2026
+154332;SBI CRISIL - IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF200KB1AP7;INF200KB1AQ5;10.3394;31-Oct-2026
+154329;SBI CRISIL - IBX Financial Services 3-6 Months Debt Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KB1AL6;;10.3341;31-Oct-2026
+154330;SBI CRISIL - IBX Financial Services 3-6 Months Debt Index Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF200KB1AM4;INF200KB1AN2;10.3342;31-Oct-2026
+154334;SBI CRISIL - IBX Financial Services 9-12 Months Debt Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KB1AU7;;10.3056;31-Oct-2026
+154335;SBI CRISIL - IBX Financial Services 9-12 Months Debt Index Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF200KB1AV5;INF200KB1AW3;10.3056;31-Oct-2026
+154328;SBI CRISIL - IBX Financial Services 9-12 Months Debt Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KB1AR3;;10.2951;31-Oct-2026
+154333;SBI CRISIL - IBX Financial Services 9-12 Months Debt Index Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF200KB1AS1;INF200KB1AT9;10.2952;31-Oct-2026
+152908;SBI Nifty 500 Index Fund- Direct Plan- Growth;Direct Plan;Growth;INF200KB1381;;9.1368;31-Oct-2026
+152909;SBI Nifty 500 Index Fund- Direct Plan- Income Distribution Cum Capital Withdrawal (IDCW);Direct Plan;IDCW;INF200KB1399;INF200KB1407;9.1369;31-Oct-2026
+152906;SBI Nifty 500 Index Fund- Regular Plan- Growth;Regular Plan;Growth;INF200KB1357;;9.0451;31-Oct-2026
+152907;SBI Nifty 500 Index Fund- Regular Plan- Income Distribution Cum Capital Withdrawal (IDCW);Regular Plan;IDCW;INF200KB1365;INF200KB1373;9.0448;31-Oct-2026
+153251;SBI Nifty Bank Index Fund- Regular Plan- Income Distribution Cum Capital Withdrawal Option;Regular Plan;IDCW;INF200KB1548;INF200KB1555;10.8881;31-Oct-2026
+153250;SBI Nifty Bank Index Fund-Direct Plan- Growth;Direct Plan;Growth;INF200KB1563;;10.9768;31-Oct-2026
+153252;SBI Nifty Bank Index Fund-Direct Plan- Income Distribution Cum Capital Withdrawal Option;Direct Plan;IDCW;INF200KB1571;INF200KB1589;10.9768;31-Oct-2026
+153253;SBI Nifty Bank Index Fund-Regular Plan- Growth;Regular Plan;Growth;INF200KB1530;;10.8880;31-Oct-2026
+154372;SBI NIFTY G-SEC JUL 2031 INDEX FUND - DIRECT - GROWTH;Direct Plan;Growth;INF200KB1BC3;;10.1186;31-Oct-2026
+154375;SBI NIFTY G-SEC JUL 2031 INDEX FUND - DIRECT - IDCW;Direct Plan;IDCW;INF200KB1BD1;INF200KB1BE9;10.1186;31-Oct-2026
+154362;SBI Nifty G-sec Jul 2031 Index Fund - REGULAR - GROWTH;Regular Plan;Growth;INF200KB1AZ6;;10.1098;31-Oct-2026
+154373;SBI NIFTY G-SEC JUL 2031 INDEX FUND - REGULAR - IDCW;Regular Plan;IDCW;INF200KB1BA7;INF200KB1BB5;10.1098;31-Oct-2026
+119827;SBI NIFTY INDEX FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01TE8;;215.7578;31-Oct-2026
+119826;SBI Nifty Index Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01TC2;INF200K01TD0;110.8210;31-Oct-2026
+102272;SBI NIFTY INDEX FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01537;;205.1382;31-Oct-2026
+102273;SBI Nifty Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01545;INF200K01552;105.2480;31-Oct-2026
+153015;SBI Nifty India Consumption Index Fund- Direct Plan- Growth;Direct Plan;Growth;INF200KB1449;;9.6847;31-Oct-2026
+153014;SBI Nifty India Consumption Index Fund- Direct Plan- IDCW Payout;Direct Plan;IDCW;INF200KB1456;INF200KB1464;9.6847;31-Oct-2026
+153012;SBI Nifty India Consumption Index Fund- Regular Plan- Growth;Regular Plan;Growth;INF200KB1415;;9.5920;31-Oct-2026
+153013;SBI Nifty India Consumption Index Fund- Regular Plan- IDCW Payout;Regular Plan;IDCW;INF200KB1423;INF200KB1431;9.5920;31-Oct-2026
+153320;SBI Nifty IT Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KB1621;;8.2790;31-Oct-2026
+153321;SBI Nifty IT Index Fund - Direct Plan - Income Distribution Cum Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KB1639;INF200KB1647;8.2791;31-Oct-2026
+153323;SBI Nifty IT Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KB1597;;8.2136;31-Oct-2026
+153322;SBI Nifty IT Index Fund - Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KB1605;INF200KB1613;8.2135;31-Oct-2026
+150673;SBI Nifty Midcap 150 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA10P5;;18.3624;31-Oct-2026
+150675;SBI Nifty Midcap 150 Index Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA11P3;INF200KA12P1;18.3618;31-Oct-2026
+150672;SBI Nifty Midcap 150 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA17O3;;17.9905;31-Oct-2026
+150674;SBI Nifty Midcap 150 Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA18O1;INF200KA19O9;17.9908;31-Oct-2026
+148945;SBI Nifty Next 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA1W00;;18.8108;31-Oct-2026
+148946;SBI Nifty Next 50 Index Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1W18;INF200KA1W26;18.8096;31-Oct-2026
+148943;SBI Nifty Next 50 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA1V76;;18.3456;31-Oct-2026
+148944;SBI Nifty Next 50 Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1V84;INF200KA1V92;18.3458;31-Oct-2026
+150677;SBI Nifty Smallcap 250 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA16P2;;18.2632;31-Oct-2026
+150678;SBI Nifty Smallcap 250 Index Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA17P0;INF200KA18P8;18.2627;31-Oct-2026
+150676;SBI Nifty Smallcap 250 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA13P9;;17.8862;31-Oct-2026
+150679;SBI Nifty Smallcap 250 Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA14P7;INF200KA15P4;17.8867;31-Oct-2026
+153718;SBI Nifty100 Low Volatility 30 Index Fund- Direct Plan- Growth;Direct Plan;Growth;INF200KB1936;;9.6575;31-Oct-2026
+153716;SBI Nifty100 Low Volatility 30 Index Fund- Regular Plan- Growth;Regular Plan;Growth;INF200KB1902;;9.6100;31-Oct-2026
+153717;SBI Nifty100 Low Volatility 30 Index Fund- Regular Plan- Income Cum Distribution Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KB1910;INF200KB1928;9.6100;31-Oct-2026
+153719;SBI Nifty100 Low Volatility 30 Index Fund-Direct  Plan- Income Cum Distribution Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KB1944;INF200KB1951;9.6576;31-Oct-2026
+153662;SBI Nifty200 Momentum 30 Index Fund- Direct Plan- Growth;Direct Plan;Growth;INF200KB1878;;9.0762;31-Oct-2026
+153665;SBI Nifty200 Momentum 30 Index Fund- Direct Plan- Income Cum Distribution Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KB1886;INF200KB1894;9.0762;31-Oct-2026
+153663;SBI Nifty200 Momentum 30 Index Fund- Regular Plan- Growth;Regular Plan;Growth;INF200KB1845;;9.0306;31-Oct-2026
+153664;SBI Nifty200 Momentum 30 Index Fund- Regular Plan- Income Distribution Cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KB1852;INF200KB1860;9.0306;31-Oct-2026
+153557;SBI Nifty200 Quality 30 Index Fund- Direct Plan- Income Distribution Cum Capital Withdrawal Option;Direct Plan;IDCW;INF200KB1829;INF200KB1837;9.3691;31-Oct-2026
+153556;SBI Nifty200 Quality 30 Index Fund- Regular Plan- Income Cum Distribution Withdrawal Option;Regular Plan;IDCW;INF200KB1795;INF200KB1803;9.3180;31-Oct-2026
+153555;SBI Nifty200 Quality 30 Index Fund-Direct Plan- Growth;Direct Plan;Growth;INF200KB1811;;9.3691;31-Oct-2026
+153554;SBI Nifty200 Quality 30 Index Fund-Regular Plan- Growth;Regular Plan;Growth;INF200KB1787;;9.3180;31-Oct-2026
+152370;SBI Nifty50 Equal Weight Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KB1027;;11.6629;31-Oct-2026
+152371;SBI Nifty50 Equal Weight Index Fund - Direct Plan - Income Distribution Cum Capital Withdrawal Option;Direct Plan;IDCW;INF200KB1035;INF200KB1043;11.6622;31-Oct-2026
+152372;SBI Nifty50 Equal Weight Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA18Z7;;11.5069;31-Oct-2026
+152373;SBI Nifty50 Equal Weight Index Fund - Regular Plan - Income Distribution Cum Capital Withdrawal Option;Regular Plan;IDCW;INF200KA19Z5;INF200KB1019;11.5068;31-Oct-2026
+
+Open Ended Schemes ( Other Scheme - Gold ETF )
+
+
+Bandhan Mutual Fund
+153930;Bandhan Gold ETF;Regular Plan;Growth;INF194KB1KJ7;;139.1884;31-Oct-2026
+
+SBI Mutual Fund
+111954;SBI Gold ETF;Regular Plan;Growth;INF200KA16D8;;118.6699;31-Oct-2026
+
 Open Ended Schemes ( Other Scheme - Other  ETFs )
 
 
 Bajaj Finserv Mutual Fund
 152638;Bajaj Finserv Nifty 1D Rate Liquid ETF;;;INF0QA701854;;1105.5644;31-Oct-2026
 
+Bandhan Mutual Fund
+139840;BANDHAN BSE Sensex ETF;Regular Plan;Growth;INF194KA1T91;;810.9323;31-Oct-2026
+139839;BANDHAN Nifty 50 ETF;Regular Plan;Growth;INF194KA1U07;;255.1451;31-Oct-2026
+153929;Bandhan Silver ETF;Regular Plan;Growth;INF194KB1KI9;;182.8137;31-Oct-2026
+
 Edelweiss Mutual Fund
 153920;Edelweiss Nifty 1D Rate Liquid ETF - Growth;;;INF754K01VW2;;1055.1779;31-Oct-2026
 
 Kotak Mahindra Mutual Fund
 151358;Kotak Nifty 1D Rate Liquid ETF;;;INF174KA1LV5;;1129.634;31-Oct-2026
+
+SBI Mutual Fund
+134014;SBI BSE 100 ETF;Regular Plan;IDCW;INF200KA1572;;272.0068;31-Oct-2026
+153435;SBI BSE PSU BANK ETF;Regular Plan;IDCW;INF200KB1712;;47.9659;31-Oct-2026
+121109;SBI BSE SENSEX ETF;Regular Plan;IDCW;INF200K01VT2;;831.0407;31-Oct-2026
+144916;SBI BSE Sensex Next 50 ETF;Regular Plan;IDCW;INF200KA1VQ2;;874.8458;31-Oct-2026
+139430;SBI Nifty 10 yr Benchmark G-Sec ETF;Regular Plan;IDCW;INF200KA1JT1;;258.4949;31-Oct-2026
+153796;SBI Nifty 1D Rate Liquid ETF - Growth;Regular Plan;Growth;INF200KB1969;;1062.7186;31-Oct-2026
+152168;SBI NIFTY 1D Rate Liquid ETF - IDCW;Regular Plan;IDCW;;INF200KA13Z8;1000.1433;31-Oct-2026
+145648;SBI Nifty 200 Quality 30 ETF;Regular Plan;IDCW;INF200KA1WX6;;207.1262;31-Oct-2026
+135106;SBI Nifty 50 ETF;Regular Plan;IDCW;INF200KA1FS1;;248.5783;31-Oct-2026
+134008;SBI Nifty Bank ETF;Regular Plan;IDCW;INF200KA1580;;562.3338;31-Oct-2026
+149041;SBI Nifty Consumption ETF;Regular Plan;IDCW;INF200KA1X17;;114.6157;31-Oct-2026
+148542;SBI Nifty IT ETF;Regular Plan;IDCW;INF200KA1S14;;362.7446;31-Oct-2026
+154305;SBI Nifty Midcap 150 ETF;Regular Plan;IDCW;INF200KB1AK8;;21.1110;31-Oct-2026
+154237;SBI Nifty Midcap 150 Momentum 50 ETF;Regular Plan;IDCW;INF200KB1AJ0;;59.4712;31-Oct-2026
+134013;SBI Nifty Next 50 ETF;Regular Plan;IDCW;INF200KA1598;;726.8725;31-Oct-2026
+148541;SBI Nifty Private Bank ETF;Regular Plan;IDCW;INF200KA1S22;;276.7499;31-Oct-2026
+154353;SBI Nifty Smallcap 250 ETF;Regular Plan;IDCW;INF200KB1AY9;;16.7596;31-Oct-2026
+154354;SBI Nifty200 Value 30 ETF;Regular Plan;IDCW;INF200KB1AX1;;13.6957;31-Oct-2026
+152749;SBI Nifty50 Equal Weight ETF;Regular Plan;IDCW;INF200KB1282;;31.7084;31-Oct-2026
+152725;SBI Silver ETF;Regular Plan;Growth;INF200KB1217;;178.0074;31-Oct-2026
+
+Open Ended Schemes ( Other Scheme - FoF Overseas )
+
+
+Bandhan Mutual Fund
+149098;Bandhan US specific Equity Active FOF - GROWTH - DIRECT PLAN;Direct Plan;Growth;INF194KB1CF2;;20.141;31-Oct-2026
+149100;Bandhan US specific Equity Active FOF - GROWTH - REGULAR PLAN;Regular Plan;Growth;INF194KB1CC9;;19.092;31-Oct-2026
+149099;Bandhan US specific Equity Active FOF - IDCW - DIRECT PLAN;Direct Plan;IDCW;INF194KB1CG0;;20.141;31-Oct-2026
+149097;Bandhan US specific Equity Active FOF - IDCW - REGULAR PLAN;Regular Plan;IDCW;INF194KB1CD7;;19.092;31-Oct-2026
+151548;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF194KB1FV2;;13.4756;31-Oct-2026
+151549;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - DIRECT PLAN - IDCW;Direct Plan;IDCW;INF194KB1FW0;INF194KB1GA4;13.4756;31-Oct-2026
+151546;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF194KB1FT6;;13.4468;31-Oct-2026
+151547;Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF- REGULAR PLAN- IDCW;Regular Plan;IDCW;INF194KB1FU4;INF194KB1FZ3;13.4468;31-Oct-2026
+
+SBI Mutual Fund
+148760;SBI US Specific Equity Active FoF - Direct Plan - Growth;Direct Plan;Growth;INF200KA1U28;;24.4960;31-Oct-2026
+148761;SBI US Specific Equity Active FoF- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1U36;INF200KA1U44;24.4961;31-Oct-2026
+148762;SBI US Specific Equity Active FoF- Regular Plan - Growth;Regular Plan;Growth;INF200KA1T96;;23.5208;31-Oct-2026
+148759;SBI US Specific Equity Active FoF- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1U02;INF200KA1U10;23.5201;31-Oct-2026
+
+Open Ended Schemes ( Other Scheme - FoF Domestic )
+
+
+Bandhan Mutual Fund
+118485;Bandhan Aggressive Hybrid Passive FOF - Direct Plan - Growth;Direct Plan;Growth;INF194K012B6;;50.5422;31-Oct-2026
+118484;Bandhan Aggressive Hybrid Passive FOF - Direct Plan - IDCW;Direct Plan;IDCW;INF194K013B4;INF194K014B2;34.7935;31-Oct-2026
+112332;Bandhan Aggressive Hybrid Passive FOF - Regular Plan - Growth;Regular Plan;Growth;INF194K01953;;46.4791;31-Oct-2026
+112331;Bandhan Aggressive Hybrid Passive FOF - Regular Plan - IDCW;Regular Plan;IDCW;INF194K01961;INF194K01979;25.3654;31-Oct-2026
+118486;Bandhan Conservative Hybrid Passive FOF - Direct Plan - Growth;Direct Plan;Growth;INF194K016A9;;36.5514;31-Oct-2026
+118487;Bandhan Conservative Hybrid Passive FOF - Direct Plan - IDCW;Direct Plan;IDCW;INF194K017A7;INF194K018A5;17.2713;31-Oct-2026
+112327;Bandhan Conservative Hybrid Passive FOF - Regular Plan - Growth;Regular Plan;Growth;INF194K01987;;33.9552;31-Oct-2026
+112328;Bandhan Conservative Hybrid Passive FOF - Regular Plan - IDCW;Regular Plan;IDCW;INF194K01995;INF194K01AA1;16.4657;31-Oct-2026
+154129;Bandhan Gold ETF FOF-Direct-Growth;Direct Plan;Growth;INF194KB1KL3;;9.1245;31-Oct-2026
+154130;Bandhan Gold ETF FOF-Regular-Growth;Regular Plan;Growth;INF194KB1KK5;;9.0911;31-Oct-2026
+118408;Bandhan Income Plus Arbitrage Active FOF - Direct Plan - Annual IDCW;Direct Plan;Annual IDCW;INF194K01U98;INF194K01U80;15.1907;31-Oct-2026
+118409;Bandhan Income Plus Arbitrage Active FOF - Direct Plan - Daily IDCW;Direct Plan;Daily IDCW;;INF194K01V63;12.4420;31-Oct-2026
+118414;Bandhan Income Plus Arbitrage Active FOF - Direct Plan - Fortnightly IDCW;Direct Plan;Fortnightly IDCW;INF194K01V55;INF194K01V48;12.3790;31-Oct-2026
+118410;Bandhan Income Plus Arbitrage Active FOF - Direct Plan - Growth;Direct Plan;Growth;INF194K01U72;;49.4668;31-Oct-2026
+118411;Bandhan Income Plus Arbitrage Active FOF - Direct Plan - Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K01V14;INF194K01V06;16.2962;31-Oct-2026
+131398;Bandhan Income Plus Arbitrage Active FOF - Direct Plan - Periodic IDCW;Direct Plan;Periodic IDCW;INF194KA1TV4;INF194KA1TW2;17.0025;31-Oct-2026
+118413;Bandhan Income Plus Arbitrage Active FOF - Direct Plan - Quarterly IDCW;Direct Plan;Quarterly IDCW;INF194K01V30;INF194K01V22;12.9549;31-Oct-2026
+118412;Bandhan Income Plus Arbitrage Active FOF - Direct Plan - Weekly IDCW;Direct Plan;Weekly IDCW;;INF194K01V71;12.4437;31-Oct-2026
+108547;Bandhan Income Plus Arbitrage Active FOF - Regular Plan - Annual IDCW;Regular Plan;Annual IDCW;INF194K01SG0;INF194K01SF2;14.8835;31-Oct-2026
+117868;Bandhan Income Plus Arbitrage Active FOF - Regular Plan - Daily IDCW;Regular Plan;Daily IDCW;;INF194K01F55;12.3737;31-Oct-2026
+115874;Bandhan Income Plus Arbitrage Active FOF - Regular Plan - Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K01SM8;INF194K01SL0;12.1403;31-Oct-2026
+108545;Bandhan Income Plus Arbitrage Active FOF - Regular Plan - Growth;Regular Plan;Growth;INF194K01SE5;;46.8885;31-Oct-2026
+108546;Bandhan Income Plus Arbitrage Active FOF - Regular Plan - Half Yearly IDCW;Regular Plan;Half Yearly IDCW;INF194K01SI6;INF194K01SH8;12.8847;31-Oct-2026
+131399;Bandhan Income Plus Arbitrage Active FOF - Regular Plan - Periodic IDCW;Regular Plan;Periodic IDCW;INF194KA1TS0;INF194KA1TT8;16.3970;31-Oct-2026
+108544;Bandhan Income Plus Arbitrage Active FOF - Regular Plan - Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K01SK2;INF194K01SJ4;12.8497;31-Oct-2026
+117867;Bandhan Income Plus Arbitrage Active FOF - Regular Plan - Weekly IDCW;Regular Plan;Weekly IDCW;;INF194K01F63;12.3786;31-Oct-2026
+118489;Bandhan Multi-Asset Passive FOF - Direct Plan - Growth;Direct Plan;Growth;INF194K019A3;;42.2953;31-Oct-2026
+118488;Bandhan Multi-Asset Passive FOF - Direct Plan - IDCW;Direct Plan;IDCW;INF194K010B0;INF194K011B8;20.3165;31-Oct-2026
+112329;Bandhan Multi-Asset Passive FOF - Regular Plan - Growth;Regular Plan;Growth;INF194K01AB9;;39.3118;31-Oct-2026
+112330;Bandhan Multi-Asset Passive FOF - Regular Plan - IDCW;Regular Plan;IDCW;INF194K01AC7;INF194K01AD5;19.2633;31-Oct-2026
+154136;Bandhan Silver ETF FOF-Direct-Growth;Direct Plan;Growth;INF194KB1KN9;;5.9717;31-Oct-2026
+154135;Bandhan Silver ETF FOF-Regular-Growth;Regular Plan;Growth;INF194KB1KM1;;5.9498;31-Oct-2026
+
+SBI Mutual Fund
+153832;SBI Dynamic Asset Allocation Active FoF - Direct Plan - Growth;Direct Plan;Growth;INF200KB1AA9;;10.0557;31-Oct-2026
+153831;SBI Dynamic Asset Allocation Active FoF - Regular Plan - Growth;Regular Plan;Growth;INF200KB1977;;9.9376;31-Oct-2026
+153834;SBI Dynamic Asset Allocation Active FoF - Regular Plan - Income Distribution Cum Capital Withdrawal Option;Regular Plan;IDCW;INF200KB1985;INF200KB1993;9.9376;31-Oct-2026
+153833;SBI Dynamic Asset Allocation Active FoF- Direct Plan- Income Cum Distribution Capital Withdrawal Option;Direct Plan;IDCW;INF200KB1AB7;INF200KB1AC5;10.0550;31-Oct-2026
+119789;SBI Gold Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01RN3;INF200K01RO1;42.4384;31-Oct-2026
+115677;SBI Gold Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01HB9;INF200K01HC7;40.5236;31-Oct-2026
+115676;SBI GOLD FUND REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01HA1;;40.5172;31-Oct-2026
+119788;SBI GOLD FUND- DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01RP8;;42.4995;31-Oct-2026
+153498;SBI Income Plus Arbitrage Active FOF- Direct Plan- Growth;Direct Plan;Growth;INF200KB1753;;10.8067;31-Oct-2026
+153501;SBI Income Plus Arbitrage Active FOF- Direct Plan- Income Distribution Cum Capital Withdrawal Option;Direct Plan;IDCW;INF200KB1761;INF200KB1779;10.8065;31-Oct-2026
+153500;SBI Income Plus Arbitrage Active FOF- Regular Plan- Growth;Regular Plan;Growth;INF200KB1720;;10.7824;31-Oct-2026
+153499;SBI Income Plus Arbitrage Active FOF- Regular Plan- Income Distribution Cum Capital Withdrawal Option;Regular Plan;IDCW;INF200KB1738;INF200KB1746;10.7825;31-Oct-2026
+152734;SBI Silver ETF FOF- Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KB1225;INF200KB1274;19.2045;31-Oct-2026
+152735;SBI Silver ETF Fund of Fund- Direct Plan - Growth;Direct Plan;Growth;INF200KB1233;;19.3576;31-Oct-2026
+152736;SBI Silver ETF Fund of Fund- Direct Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KB1241;INF200KB1258;19.3576;31-Oct-2026
+152733;SBI Silver ETF Fund of Fund- Regular Plan - Growth;Regular Plan;Growth;INF200KB1266;;19.2020;31-Oct-2026
+
+Open Ended Schemes ( Equity Scheme - Flexi Cap Fund )
+
+
+Bandhan Mutual Fund
+108594;BANDHAN Flexi Cap Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01391;;201.574;31-Oct-2026
+108595;BANDHAN Flexi Cap Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194K01409;INF194K01417;45.115;31-Oct-2026
+118424;BANDHAN Flexi Cap Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K01W62;;222.433;31-Oct-2026
+118423;BANDHAN Flexi Cap Fund-Direct Plan-IDCW;Direct Plan;IDCW;INF194K01W70;INF194K01W88;49.599;31-Oct-2026
+
+SBI Mutual Fund
+119718;SBI Flexicap Fund - DIRECT PLAN - Growth Option;Direct Plan;Growth;INF200K01UG1;;116.2461;31-Oct-2026
+119717;SBI Flexicap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01UE6;INF200K01UF3;58.1032;31-Oct-2026
+103216;SBI Flexicap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01230;INF200K01248;46.1199;31-Oct-2026
+103215;SBI Flexicap Fund - REGULAR PLAN -Growth Option;Regular Plan;Growth;INF200K01222;;102.9973;31-Oct-2026
 
 Open Ended Schemes ( Income/Debt Oriented Schemes - Overnight Fund )
 
@@ -383,6 +1128,18 @@ Axis Mutual Fund
 146678;Axis Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF846K01O23;;1463.5340;31-Oct-2026
 146681;Axis Overnight Fund - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW Option;INF846K01O31;INF846K01O49;1001.6056;31-Oct-2026
 146680;Axis Overnight Fund - Regular Plan - Weekly IDCW;Regular Plan;Weekly IDCW Option;INF846K01O07;INF846K01O15;1001.4429;31-Oct-2026
+
+Baroda BNP Paribas Mutual Fund
+147197;Baroda BNP Paribas Overnight Fund - Direct Plan - Daily IDCW;Direct Plan;Daily IDCW Option;;INF955L01HW2;1000.0028;31-Oct-2026
+147196;Baroda BNP Paribas Overnight Fund - Direct Plan - Growth;Direct Plan;Growth Option;INF955L01HV4;;1457.9510;31-Oct-2026
+147195;Baroda BNP Paribas Overnight Fund - Direct Plan - Weekly IDCW;Direct Plan;Weekly IDCW Option;;INF955L01HX0;1000.7268;31-Oct-2026
+149988;Baroda BNP Paribas Overnight Fund - Plan C - Unclaimed IDCW - Greater than 3 years;;IDCW Greater than 3 years;;;1000.0000;31-Oct-2026
+149991;Baroda BNP Paribas Overnight Fund - Plan C - Unclaimed IDCW - Up to 3 years;;IDCW Up to 3 Yrs;;;1308.1132;31-Oct-2026
+149990;Baroda BNP Paribas Overnight Fund - Plan C - Unclaimed Redemption - Greater than 3 years;;Redemption Greater than 3 years;;;1000.0000;31-Oct-2026
+149989;Baroda BNP Paribas Overnight Fund - Plan C - Unclaimed Redemption - Up to 3 years;;Redemption Up to 3 Yrs;;;1308.0826;31-Oct-2026
+147194;Baroda BNP Paribas Overnight Fund - Regular Plan - Daily IDCW;Regular Plan;Daily IDCW Option;;INF955L01HT8;1000.0018;31-Oct-2026
+147193;Baroda BNP Paribas Overnight Fund - Regular Plan - Growth;Regular Plan;Growth Option;INF955L01HS0;;1450.8434;31-Oct-2026
+147198;Baroda BNP Paribas Overnight Fund - Regular Plan - Weekly IDCW;Regular Plan;Weekly IDCW Option;;INF955L01HU6;1001.2063;31-Oct-2026
 
 Canara Robeco Mutual Fund
 147532;CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - DAILY IDCW (Reinvestment);Direct Plan;DAILY IDCW (Reinvestment);;INF760K01JN3;1001.0012;31-Oct-2026
@@ -440,6 +1197,11 @@ Invesco Mutual Fund
 147878;Invesco India Overnight Fund - Regular Plan - Growth;Regular Plan;Growth;INF205KA1114;;1397.0197;31-Oct-2026
 147879;Invesco India Overnight Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);Regular Plan;Monthly IDCW;INF205KA1106;INF205KA1098;1001.2566;31-Oct-2026
 147881;Invesco India Overnight Fund - Regular Plan - Weekly IDCW (Reinvestment);Regular Plan;Weekly IDCW;;INF205KA1080;1001.0618;31-Oct-2026
+
+Jio BlackRock Mutual Fund
+153650;JioBlackRock Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M001036;;1071.7249;31-Oct-2026
+154640;JioBlackRock Overnight Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF22M001317;;1009.6518;31-Oct-2026
+154070;JioBlackRock Overnight Fund - Unclaimed Redemption - Upto 3 years - Growth Option;;Unclaimed Redemption - Upto 3 years - Growth Option;;;1047.9879;31-Oct-2026
 
 JM Financial Mutual Fund
 147838;JM Overnight Fund (Direct) - Daily IDCW;Direct Plan;Daily IDCW Option;;INF192K01LY2;1000;31-Oct-2026
@@ -542,6 +1304,16 @@ Axis Mutual Fund
 112714;Axis Liquid Fund - Retail Plan - Monthly IDCW;;Monthly IDCW Option;INF846K01396;INF846K01404;1001.6335;31-Oct-2026
 112715;Axis Liquid Fund - Retail Plan - Weekly IDCW;;Weekly IDCW Option;INF846K01370;INF846K01388;1001.5686;31-Oct-2026
 
+Baroda BNP Paribas Mutual Fund
+119414;Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - DAILY IDCW OPTION;Direct Plan;Daily IDCW Option;INF955L01AK2;;1002.0849;31-Oct-2026
+119415;Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - GROWTH OPTION;Direct Plan;Growth Option;INF955L01AL0;;3297.9458;31-Oct-2026
+119416;Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - WEEKLY IDCW OPTION;Direct Plan;Weekly IDCW Option;INF251K01SL8;;1220.7396;31-Oct-2026
+111707;Baroda BNP Paribas LIQUID FUND - Regular Plan - DAILY IDCW OPTION;Regular Plan;Daily IDCW Option;INF955L01468;INF955L01476;1001.1996;31-Oct-2026
+111704;Baroda BNP Paribas LIQUID FUND - Regular Plan - GROWTH OPTION;Regular Plan;Growth Option;INF955L01484;;3252.3311;31-Oct-2026
+111705;Baroda BNP Paribas LIQUID FUND - Regular Plan - WEEKLY IDCW OPTION;Regular Plan;Weekly IDCW Option;INF251K01SK0;INF955L01500;1000.8893;31-Oct-2026
+101408;Baroda BNP Paribas LIQUID FUND- Defunct Plan -Growth Option;;Growth Option;INF955L01575;;4788.1898;31-Oct-2026
+101407;Baroda BNP Paribas LIQUID FUND-Defunct Plan- IDCW Option;;IDCW Option;INF955L01559;INF955L01567;3950.6970;31-Oct-2026
+
 Canara Robeco Mutual Fund
 118307;CANARA ROBECO LIQUID FUND - DIRECT PLAN - DAILY IDCW (Reinvestment);Direct Plan;DAILY IDCW (Reinvestment);;INF760K01FS0;1005.5000;31-Oct-2026
 118305;CANARA ROBECO LIQUID FUND - DIRECT PLAN - GROWTH OPTION;Direct Plan;GROWTH OPTION;INF760K01FU6;;3429.6599;31-Oct-2026
@@ -610,6 +1382,11 @@ Invesco Mutual Fund
 139388;Invesco India Liquid Fund - Unclaimed Redemption Plan - Above 3 Years;Direct Plan;Growth;;;1000;31-Oct-2026
 139387;Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years;Direct Plan;Growth;;;1861.4602;31-Oct-2026
 104485;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);Regular Plan;Weekly IDCW;INF205KA1BD7;INF205K01HO1;1019.6197;31-Oct-2026
+
+Jio BlackRock Mutual Fund
+153651;JioBlackRock Liquid Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF22M001010;;1085.5629;31-Oct-2026
+154117;JioBlackRock Liquid Fund - Direct Plan - Weekly IDCW Option;Direct Plan;Weekly IDCW Option;INF22M001127;INF22M001135;1002.0875;31-Oct-2026
+154645;JioBlackRock Liquid Fund - Regular Plan - Growth Option;Regular Plan;Growth Option;INF22M001267;;1011.2562;31-Oct-2026
 
 JM Financial Mutual Fund
 120411;JM Liquid Fund (Direct) - Daily IDCW;Direct Plan;Daily IDCW Option;;INF192K01CH6;10.4302;31-Oct-2026
@@ -684,6 +1461,379 @@ UTI Mutual Fund
 135721;UTI Liquid Fund - Regular Plan - Quarterly IDCW;Regular Plan;Quarterly IDCW;INF789F1AG43;INF789F1AG50;193.3992;31-Oct-2026
 102013;UTI Liquid Fund - Regular Plan - Weekly IDCW;Regular Plan;Weekly IDCW;INF789F1AH83;INF789F1AG19;105.434;31-Oct-2026
 
+Open Ended Schemes ( Income/Debt Oriented Schemes - Ultra Short Term Fund )
+
+
+Bandhan Mutual Fund
+144195;BANDHAN ULTRA SHORT TERM FUND - DIRECT PLAN -MONTHLY IDCW;Direct Plan;Monthly IDCW;INF194KA11S2;INF194KA12S0;10.0385;31-Oct-2026
+144173;BANDHAN ULTRA SHORT TERM FUND - DIRECT PLAN GROWTH;Direct Plan;Growth;INF194KA16R3;;16.7314;31-Oct-2026
+144196;BANDHAN ULTRA SHORT TERM FUND - DIRECT PLAN PERIODIC IDCW;Direct Plan;Periodic IDCW;INF194KA17S9;INF194KA18S7;14.2281;31-Oct-2026
+144192;BANDHAN ULTRA SHORT TERM FUND - DIRECT PLAN QUARTERLY IDCW;Direct Plan;Quarterly IDCW;INF194KA14S6;INF194KA15S3;10.5761;31-Oct-2026
+144191;BANDHAN ULTRA SHORT TERM FUND - DIRECT PLAN- WEEKLY IDCW;Direct Plan;Weekly IDCW;INF194KA10T2;INF194KA11T0;10.0708;31-Oct-2026
+144174;BANDHAN ULTRA SHORT TERM FUND - DIRECT PLAN-DAILY IDCW;Direct Plan;Daily IDCW;INF194KA18R9;INF194KA19R7;10.0386;31-Oct-2026
+144172;BANDHAN ULTRA SHORT TERM FUND - REGULAR PLAN DAILY IDCW;Regular Plan;Daily IDCW;INF194KA12Q4;INF194KA13Q2;10.0538;31-Oct-2026
+144171;BANDHAN ULTRA SHORT TERM FUND - REGULAR PLAN GROWTH;Regular Plan;Growth;INF194KA10Q8;;16.4870;31-Oct-2026
+144194;BANDHAN ULTRA SHORT TERM FUND - REGULAR PLAN MONTHLY IDCW;Regular Plan;Monthly IDCW;INF194KA15Q7;INF194KA16Q5;10.0440;31-Oct-2026
+144193;BANDHAN ULTRA SHORT TERM FUND - REGULAR PLAN PERIODIC IDCW;Regular Plan;Periodic IDCW;INF194KA11R4;INF194KA12R2;13.8764;31-Oct-2026
+144190;BANDHAN ULTRA SHORT TERM FUND - REGULAR PLAN QUARTERLY IDCW;Regular Plan;Quarterly IDCW;INF194KA18Q1;INF194KA19Q9;10.5567;31-Oct-2026
+144189;BANDHAN ULTRA SHORT TERM FUND - REGULAR PLAN WEEKLY IDCW;Regular Plan;Weekly IDCW;INF194KA14R8;INF194KA15R5;10.0727;31-Oct-2026
+
+SBI Mutual Fund
+119784;SBI Ultra Short Term Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;;INF200K01TG3;2468.7786;31-Oct-2026
+119828;SBI ULTRA SHORT TERM FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01TF5;;6602.2890;31-Oct-2026
+119829;SBI Ultra Short Term Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01TH1;INF200K01TI9;1272.8425;31-Oct-2026
+105080;SBI Ultra Short Term Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;;INF200K01LK2;2436.9758;31-Oct-2026
+100641;SBI ULTRA SHORT TERM FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01LJ4;;6470.0309;31-Oct-2026
+103884;SBI Ultra Short Term Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01LM8;INF200K01LL0;1264.8783;31-Oct-2026
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - Ultra Short to Short Term Fund )
+
+
+Bandhan Mutual Fund
+108633;BANDHAN Ultra Short to Short Term Fund - Regular Plan - Daily IDCW;Regular Plan;Daily IDCW;INF194K01FW4;INF194K01FV6;10.1034;31-Oct-2026
+108632;BANDHAN Ultra Short to Short Term Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01FU8;;41.5420;31-Oct-2026
+108635;BANDHAN Ultra Short to Short Term Fund - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW;INF194K01FZ7;INF194K01FY0;10.1063;31-Oct-2026
+116020;BANDHAN Ultra Short to Short Term Fund - Regular Plan - Periodic IDCW;Regular Plan;Periodic IDCW;INF194K01I29;INF194K01I37;13.7940;31-Oct-2026
+116413;BANDHAN Ultra Short to Short Term Fund - Regular Plan - Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K01UR3;INF194K01US1;11.2070;31-Oct-2026
+108634;BANDHAN Ultra Short to Short Term Fund - Regular Plan - Weekly IDCW;Regular Plan;Weekly IDCW;INF194K01GC4;INF194K01GB6;10.1104;31-Oct-2026
+118368;BANDHAN Ultra Short to Short Term Fund-Direct Plan-Daily IDCW;Direct Plan;Daily IDCW;;INF194K01J85;10.1130;31-Oct-2026
+118371;BANDHAN Ultra Short to Short Term Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K01J77;;42.7314;31-Oct-2026
+118372;BANDHAN Ultra Short to Short Term Fund-Direct Plan-Monthly IDCW;Direct Plan;Monthly IDCW;INF194K01K17;INF194K01K09;10.1197;31-Oct-2026
+118370;BANDHAN Ultra Short to Short Term Fund-Direct Plan-Periodic IDCW;Direct Plan;Periodic IDCW;INF194K01K82;INF194K01K90;13.9969;31-Oct-2026
+118369;BANDHAN Ultra Short to Short Term Fund-Direct Plan-Quarterly IDCW;Direct Plan;Quarterly IDCW;INF194K01K58;INF194K01K66;11.1527;31-Oct-2026
+118373;BANDHAN Ultra Short to Short Term Fund-Direct Plan-Weekly IDCW;Direct Plan;Weekly IDCW;;INF194K01K33;10.0986;31-Oct-2026
+
+SBI Mutual Fund
+119810;SBI Ultra Short to Short Term Fund;Direct Plan;IDCW;;INF200K01VJ3;1513.6515;31-Oct-2026
+119811;SBI Ultra Short to Short Term Fund - Direct Plan - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01VK1;INF200K01VL9;1540.1129;31-Oct-2026
+119812;SBI Ultra Short to Short Term Fund - Direct Plan - Growth;Direct Plan;Growth;INF200K01VM7;;3926.5824;31-Oct-2026
+119818;SBI Ultra Short to Short Term Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01VN5;INF200K01VO3;1744.8871;31-Oct-2026
+119819;SBI Ultra Short to Short Term Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01VP0;INF200K01VQ8;1515.8682;31-Oct-2026
+106213;SBI Ultra Short to Short Term Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;;INF200K01ML8;1460.6895;31-Oct-2026
+106215;SBI Ultra Short to Short Term Fund - Regular Plan - Fornightly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01MM6;INF200K01MN4;1486.2566;31-Oct-2026
+106212;SBI Ultra Short to Short Term Fund - Regular Plan - Growth;Regular Plan;Growth;INF200K01MO2;;3750.0319;31-Oct-2026
+106216;SBI Ultra Short to Short Term Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01MP9;INF200K01MQ7;1644.7144;31-Oct-2026
+106214;SBI Ultra Short to Short Term Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01MR5;INF200K01MS3;1460.6762;31-Oct-2026
+106221;SBI Ultra Short to Short Term Fund - Ultra Short Term Fund - Institutional Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;;INF200K01MD5;1461.0336;31-Oct-2026
+106217;SBI Ultra Short to Short Term Fund - Ultra Short Term Fund - Institutional Plan - Growth;Regular Plan;Growth;INF200K01MG8;;3816.1640;31-Oct-2026
+106222;SBI Ultra Short to Short Term Fund - Ultra Short Term Fund- Institutional Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01MJ2;INF200K01MK0;1457.4066;31-Oct-2026
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - Money Market Fund )
+
+
+SBI Mutual Fund
+119821;SBI Money Market Fund - Direct Plan - Growth;Direct Plan;Growth;INF200K01SZ5;;48.3119;31-Oct-2026
+119820;SBI Money Market Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01SX0;INF200K01SY8;19.1494;31-Oct-2026
+119822;SBI Money Market Fund - Direct Plan Daily Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;;INF200K01SW2;15.0856;31-Oct-2026
+119823;SBI Money Market Fund - Direct Plan Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01TA6;INF200K01TB4;16.9162;31-Oct-2026
+102503;SBI Money Market Fund - Regular Plan - Growth;Regular Plan;Growth;INF200K01636;;44.7915;31-Oct-2026
+102504;SBI Money Market Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01644;INF200K01651;17.6614;31-Oct-2026
+114348;SBI Money Market Fund - Regular Plan Daily Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;;INF200KA1K20;14.6006;31-Oct-2026
+102860;SBI Money Market Fund - Regular Plan Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01669;INF200K01677;16.1968;31-Oct-2026
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - Short Term Fund )
+
+
+Bandhan Mutual Fund
+143369;Bandhan Short Term Fund - Direct Plan - Annual IDCW;Direct Plan;Annual IDCW;INF194KA11L7;INF194KA12L5;11.1806;31-Oct-2026
+118405;Bandhan Short Term Fund - Direct Plan - Fortnightly IDCW;Direct Plan;Fortnightly IDCW;INF194K01U56;INF194K01U49;10.3672;31-Oct-2026
+118407;Bandhan Short Term Fund - Direct Plan - Growth;Direct Plan;Growth;INF194K01U07;;65.9628;31-Oct-2026
+118406;Bandhan Short Term Fund - Direct Plan - Monthly IDCW;Direct Plan;Monthly IDCW;INF194K01U23;INF194K01U15;10.3712;31-Oct-2026
+131382;Bandhan Short Term Fund - Direct Plan - Periodic IDCW;Direct Plan;Periodic IDCW;INF194KA1SR4;INF194KA1SS2;23.8103;31-Oct-2026
+143367;Bandhan Short Term Fund - Direct Plan - Quarterly IDCW;Direct Plan;Quarterly IDCW;INF194KA18K4;INF194KA19K2;10.7695;31-Oct-2026
+143368;Bandhan Short Term Fund - Regular Plan - Annual IDCW;Regular Plan;Annual IDCW;INF194KA15K0;INF194KA16K8;10.9355;31-Oct-2026
+108713;Bandhan Short Term Fund - Regular Plan - Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K01HK5;INF194K01HJ7;10.4073;31-Oct-2026
+131383;Bandhan Short Term Fund - Regular Plan - Periodic IDCW;Regular Plan;Periodic IDCW;INF194KA1SO1;INF194KA1SP8;22.7124;31-Oct-2026
+143366;Bandhan Short Term Fund - Regular Plan - Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194KA12K7;INF194KA13K5;10.8322;31-Oct-2026
+
+SBI Mutual Fund
+119813;SBI Short Term Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01VF1;INF200K01VG9;20.2920;31-Oct-2026
+119816;SBI SHORT TERM FUND - DIRECT PLAN -GROWTH;Direct Plan;Growth;INF200K01VE4;;36.3904;31-Oct-2026
+119815;SBI Short Term Fund - Direct Plan Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01VC8;INF200K01VD6;24.5105;31-Oct-2026
+119817;SBI Short Term Fund - Direct Plan Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01VH7;INF200K01VI5;15.9401;31-Oct-2026
+106233;SBI Short Term Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01HV7;INF200K01HW5;18.8275;31-Oct-2026
+106231;SBI SHORT TERM FUND - REGULAR PLAN -GROWTH;Regular Plan;Growth;INF200K01HZ8;;34.0548;31-Oct-2026
+106234;SBI Short Term Fund - Regular Plan Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01HT1;INF200K01HU9;15.4254;31-Oct-2026
+106232;SBI Short Term Fund - Regular Plan Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01HX3;INF200K01HY1;15.4407;31-Oct-2026
+106230;SBI Short Term Fund - Short Term Fund - Retail Dividend - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01IA9;INF200K01IB7;16.0072;31-Oct-2026
+106229;SBI Short Term Fund - Short Term Fund - Retail Dividend - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01IC5;INF200K01ID3;17.6479;31-Oct-2026
+106228;SBI Short Term Fund - Short Term Fund - Retail Dividend - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01IE1;INF200K01IF8;15.9830;31-Oct-2026
+106227;SBI SHORT TERM FUND-SHORT TERM FUND - RETAIL - GROWTH;Regular Plan;Growth;INF200K01IG6;;38.5302;31-Oct-2026
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - Medium Term Fund )
+
+
+Bandhan Mutual Fund
+118399;Bandhan Medium Term Fund - Direct Plan - Bi Monthly IDCW;Direct Plan;Bi-Monthly IDCW;INF194K01T59;INF194K01T42;10.5869;31-Oct-2026
+118400;Bandhan Medium Term Fund - Direct Plan - Daily IDCW;Direct Plan;Daily IDCW;;INF194K01S68;10.4220;31-Oct-2026
+118404;Bandhan Medium Term Fund - Direct Plan - Fortnightly IDCW;Direct Plan;Fortnightly IDCW;INF194K01T83;INF194K01T75;10.2521;31-Oct-2026
+118401;Bandhan Medium Term Fund - Direct Plan - Growth;Direct Plan;Growth;INF194K01S50;;53.4153;31-Oct-2026
+118402;Bandhan Medium Term Fund - Direct Plan - Monthly IDCW;Direct Plan;Monthly IDCW;INF194K01T26;INF194K01T18;10.4584;31-Oct-2026
+131384;Bandhan Medium Term Fund - Direct Plan - Periodic IDCW;Direct Plan;Periodic IDCW;INF194KA1TD2;INF194KA1TE0;13.9441;31-Oct-2026
+118403;Bandhan Medium Term Fund - Direct Plan - Quarterly IDCW;Direct Plan;Quarterly IDCW;INF194K01S92;INF194K01S84;11.4141;31-Oct-2026
+108730;Bandhan Medium Term Fund - Regular Plan - Bi-Monthly IDCW;Regular Plan;Bi-Monthly IDCW;INF194K01KF9;INF194K01KE2;10.2616;31-Oct-2026
+108731;Bandhan Medium Term Fund - Regular Plan - Daily IDCW;Regular Plan;Daily IDCW;INF194K01JW6;INF194K01JV8;10.2701;31-Oct-2026
+108729;Bandhan Medium Term Fund - Regular Plan - Fortnightly IDCW;Regular Plan;Fortnightly IDCW;INF194K01KI3;INF194K01KH5;10.2506;31-Oct-2026
+108728;Bandhan Medium Term Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01JU0;;48.5507;31-Oct-2026
+108727;Bandhan Medium Term Fund - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW;INF194K01KC6;INF194K01KB8;10.2266;31-Oct-2026
+131385;Bandhan Medium Term Fund - Regular Plan - Periodic IDCW;Regular Plan;Periodic IDCW;INF194KA1TA8;INF194KA1TB6;15.2941;31-Oct-2026
+113169;Bandhan Medium Term Fund - Regular Plan - Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K01JZ9;INF194K01JY2;11.2045;31-Oct-2026
+
+SBI Mutual Fund
+119824;SBI MEDIUM TERM FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01VB0;;59.4148;31-Oct-2026
+119825;SBI Medium Term Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01UZ1;INF200K01VA2;22.9160;31-Oct-2026
+102053;SBI MEDIUM TERM FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01719;;54.6077;31-Oct-2026
+102054;SBI Medium Term Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01727;INF200K01735;21.0079;31-Oct-2026
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - Medium to Long Term Fund )
+
+
+Bandhan Mutual Fund
+118393;Bandhan Medium to Long Term Fund - Direct Plan - Annual IDCW;Direct Plan;Annual IDCW;INF194K01R77;INF194K01R69;16.4080;31-Oct-2026
+118394;Bandhan Medium to Long Term Fund - Direct Plan - Growth;Direct Plan;Growth;INF194K01R51;;75.0196;31-Oct-2026
+118395;Bandhan Medium to Long Term Fund - Direct Plan - Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K01S01;INF194K01R93;12.6732;31-Oct-2026
+131386;Bandhan Medium to Long Term Fund - Direct Plan - Periodic IDCW;Direct Plan;Periodic IDCW;INF194KA1SX2;INF194KA1SY0;18.2113;31-Oct-2026
+118396;Bandhan Medium to Long Term Fund - Direct Plan - Quarterly IDCW;Direct Plan;Quarterly IDCW;INF194K01S35;INF194K01S27;12.7781;31-Oct-2026
+108766;Bandhan Medium to Long Term Fund - Regular Plan - Annual IDCW;Regular Plan;Annual IDCW;INF194K01IN7;INF194K01IM9;11.9487;31-Oct-2026
+108765;Bandhan Medium to Long Term Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01IL1;;67.8739;31-Oct-2026
+108763;Bandhan Medium to Long Term Fund - Regular Plan - Half-yearly IDCW;Regular Plan;Half Yearly IDCW;INF194K01IQ0;INF194K01IP2;11.7780;31-Oct-2026
+131387;Bandhan Medium to Long Term Fund - Regular Plan - Periodic IDCW;Regular Plan;Periodic IDCW;INF194KA1SU8;INF194KA1SV6;14.5672;31-Oct-2026
+108764;Bandhan Medium to Long Term Fund - Regular Plan - Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K01IT4;INF194K01IS6;12.1636;31-Oct-2026
+108768;Bandhan Short Term Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01HF5;;61.2110;31-Oct-2026
+108767;Bandhan Short Term Fund - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW;INF194K01HH1;INF194K01HG3;10.3586;31-Oct-2026
+
+SBI Mutual Fund
+119713;SBI Medium to Long Term Fund - Direct Plan - Half Yearly - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01SP6;INF200K01SQ4;22.5955;31-Oct-2026
+121940;SBI Medium to Long Term Fund - Direct Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01YS8;INF200K01YT6;23.1324;31-Oct-2026
+100638;SBI Medium to Long Term Fund - Regular Plan - Half Yearly - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01610;INF200K01628;19.1248;31-Oct-2026
+121944;SBI Medium to Long Term Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01YQ2;INF200K01YR0;20.5909;31-Oct-2026
+119712;SBI Medium to Long Term Fund-DIRECT PLAN - Bonus;Direct Plan;Bonus;INF200K01SO9;;48.2903;31-Oct-2026
+119714;SBI Medium to Long Term Fund-DIRECT PLAN -Growth;Direct Plan;Growth;INF200K01SR2;;79.6391;31-Oct-2026
+100640;SBI Medium to Long Term Fund-REGULAR PLAN-Bonus;Regular Plan;Bonus;INF200K01602;;44.3026;31-Oct-2026
+100639;SBI Medium to Long Term Fund-REGULAR PLAN-Growth;Regular Plan;Growth;INF200K01594;;73.1175;31-Oct-2026
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - Long Term Fund )
+
+
+Bandhan Mutual Fund
+152520;Bandhan Long Term Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1HY2;;11.2702;31-Oct-2026
+152519;Bandhan Long Term Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF194KB1HZ9;INF194KB1IA0;10.3836;31-Oct-2026
+152518;Bandhan Long Term Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1HV8;;11.1498;31-Oct-2026
+152517;Bandhan Long Term Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194KB1HW6;INF194KB1HX4;10.1806;31-Oct-2026
+
+SBI Mutual Fund
+151214;SBI Long Term Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA16T4;;12.5892;31-Oct-2026
+151215;SBI Long Term Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA17T2;INF200KA18T0;12.5895;31-Oct-2026
+151212;SBI Long Term Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA13T1;;12.3927;31-Oct-2026
+151213;SBI Long Term Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA14T9;INF200KA15T6;12.3929;31-Oct-2026
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - Dynamic Term Fund )
+
+
+Bandhan Mutual Fund
+108561;BANDHAN Dynamic Term Fund - Regular Plan B - Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K01QI0;INF194K01QH2;11.6517;31-Oct-2026
+108675;BANDHAN Dynamic Term Fund - Regular Plan B - Annual IDCW;Regular Plan;Annual IDCW;INF194K01QL4;INF194K01QK6;11.6133;31-Oct-2026
+111524;BANDHAN Dynamic Term Fund - Regular Plan B - Growth;Regular Plan;Growth;INF194K01QG4;;35.8978;31-Oct-2026
+122868;BANDHAN Dynamic Term Fund - Regular Plan B - Half Yearly IDCW;Regular Plan;Half Yearly IDCW;INF194K018R9;INF194K019R7;10.7616;31-Oct-2026
+111523;BANDHAN Dynamic Term Fund - Regular Plan B - IDCW;Regular Plan;IDCW;INF194K01QO8;INF194K01QN0;13.7260;31-Oct-2026
+131397;BANDHAN Dynamic Term Fund - Regular Plan B - Periodic IDCW;Regular Plan;Periodic IDCW;INF194KA1TM3;INF194KA1TN1;14.2649;31-Oct-2026
+118415;BANDHAN Dynamic Term Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194K01O13;INF194K01O05;12.1837;31-Oct-2026
+118416;BANDHAN Dynamic Term Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K01N63;;40.3600;31-Oct-2026
+122618;BANDHAN Dynamic Term Fund-Direct Plan-Half Yearly IDCW;Direct Plan;Half Yearly IDCW;INF194K011P8;INF194K012P6;10.9753;31-Oct-2026
+118417;BANDHAN Dynamic Term Fund-Direct Plan-IDCW;Direct Plan;IDCW;INF194K01O47;INF194K01O39;17.3274;31-Oct-2026
+131396;BANDHAN Dynamic Term Fund-Direct Plan-Periodic IDCW;Direct Plan;Periodic IDCW;INF194KA1TP6;INF194KA1TQ4;14.1514;31-Oct-2026
+118418;BANDHAN Dynamic Term Fund-Direct Plan-Quarterly IDCW;Direct Plan;Quarterly IDCW;INF194K01N89;INF194K01N71;13.6967;31-Oct-2026
+
+SBI Mutual Fund
+119671;SBI Dynamic Term Fund - DIRECT PLAN - Growth;Direct Plan;Growth;INF200K01RD4;;41.5390;31-Oct-2026
+119670;SBI Dynamic Term Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01RB8;INF200K01RC6;23.2021;31-Oct-2026
+102205;SBI Dynamic Term Fund - REGULAR PLAN - Growth;Regular Plan;Growth;INF200K01958;;37.5917;31-Oct-2026
+102206;SBI Dynamic Term Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01966;INF200K01974;19.7077;31-Oct-2026
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - Banking and PSU Debt Fund )
+
+
+Bandhan Mutual Fund
+121936;Bandhan Banking and PSU Debt Fund - Direct Annual IDCW;Direct Plan;Annual IDCW;INF194K019M8;;12.4412;31-Oct-2026
+127471;Bandhan Banking and PSU Debt Fund - Direct Daily IDCW;Direct Plan;Daily IDCW;;INF194KA1JD3;10.4676;31-Oct-2026
+121934;Bandhan Banking and PSU Debt Fund - Direct Fortnightly IDCW;Direct Plan;Fortnightly IDCW;;INF194K010N5;10.4452;31-Oct-2026
+121279;Bandhan Banking and PSU Debt Fund - Direct Growth;Direct Plan;Growth;INF194K015G8;;27.1653;31-Oct-2026
+121281;Bandhan Banking and PSU Debt Fund - Direct IDCW;Direct Plan;IDCW;INF194K016G6;INF194K017G4;14.2895;31-Oct-2026
+121935;Bandhan Banking and PSU Debt Fund - Direct Monthly IDCW;Direct Plan;Monthly IDCW;;INF194K011N3;10.4288;31-Oct-2026
+121938;Bandhan Banking and PSU Debt Fund - Direct Quarterly IDCW;Direct Plan;Quarterly IDCW;INF194K018M0;;11.0124;31-Oct-2026
+121933;Bandhan Banking and PSU Debt Fund - Regular Annual IDCW;Regular Plan;Annual IDCW;INF194K015M6;;11.4272;31-Oct-2026
+127470;Bandhan Banking and PSU Debt Fund - Regular Daily IDCW;Regular Plan;Daily IDCW;;INF194KA1JC5;10.8670;31-Oct-2026
+121931;Bandhan Banking and PSU Debt Fund - Regular Fortnightly IDCW;Regular Plan;Fortnightly IDCW;;INF194K016M4;10.5982;31-Oct-2026
+121280;Bandhan Banking and PSU Debt Fund - Regular Growth;Regular Plan;Growth;INF194K01SN6;;26.2899;31-Oct-2026
+121282;Bandhan Banking and PSU Debt Fund - Regular IDCW;Regular Plan;IDCW;INF194K01SO4;INF194K012D2;14.1964;31-Oct-2026
+121932;Bandhan Banking and PSU Debt Fund - Regular Monthly IDCW;Regular Plan;Monthly IDCW;;INF194K017M2;10.6706;31-Oct-2026
+121937;Bandhan Banking and PSU Debt Fund - Regular Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K014M9;;10.9043;31-Oct-2026
+
+SBI Mutual Fund
+125502;SBI Banking & PSU Debt Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;;INF200K01V16;1559.2304;31-Oct-2026
+125503;SBI BANKING & PSU DEBT FUND - Direct Plan - Growth;Direct Plan;Growth;INF200K01V08;;3539.9055;31-Oct-2026
+125505;SBI Banking & PSU Debt Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01V40;INF200K01V57;1309.8159;31-Oct-2026
+125504;SBI Banking & PSU Debt Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01V32;INF200K01V24;1555.7671;31-Oct-2026
+125498;SBI BANKING & PSU DEBT FUND - Regular Paln - Growth;Regular Plan;Growth;INF200K01U41;;3313.9606;31-Oct-2026
+125499;SBI Banking & PSU Debt Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;;INF200K01U58;1511.9204;31-Oct-2026
+125501;SBI Banking & PSU Debt Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01U82;INF200K01U90;1216.7615;31-Oct-2026
+125500;SBI Banking & PSU Debt Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01U74;INF200K01U66;1511.5605;31-Oct-2026
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund )
+
+
+Bandhan Mutual Fund
+108646;Bandhan 10 year Constant Maturity Gilt Fund - Regular Plan - Quarterly IDCW;Regular Plan;Quarterly IDCW;INF194K01FF9;INF194K01FE2;11.3514;31-Oct-2026
+108753;Bandhan 10 year Constant Maturity Gilt Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01FA0;;47.3848;31-Oct-2026
+111343;Bandhan 10 year Constant Maturity Gilt Fund - Regular Plan - Weekly IDCW;Regular Plan;Weekly IDCW;INF194K01FI3;INF194K01FH5;10.0243;31-Oct-2026
+118387;Bandhan 10 year Constant Maturity Gilt Fund - Direct Plan - Growth;Direct Plan;Growth;INF194K01P38;;48.3182;31-Oct-2026
+118390;Bandhan 10 year Constant Maturity Gilt Fund - Direct Plan - Monthly IDCW;Direct Plan;Monthly IDCW;INF194K01P53;INF194K01P46;10.2145;31-Oct-2026
+131390;Bandhan 10 year Constant Maturity Gilt Fund - Direct Plan - Periodic IDCW;Direct Plan;Periodic IDCW;INF194KA1SL7;INF194KA1SM5;14.3930;31-Oct-2026
+118388;Bandhan 10 year Constant Maturity Gilt Fund - Direct Plan - Quarterly IDCW;Direct Plan;Quarterly IDCW;INF194K01P87;INF194K01P79;11.6537;31-Oct-2026
+118389;Bandhan 10 year Constant Maturity Gilt Fund - Direct Plan - Weekly IDCW;Direct Plan;Weekly IDCW;;INF194K01Q03;17.4496;31-Oct-2026
+108644;Bandhan 10 year Constant Maturity Gilt Fund - Regular Plan - Monthly IDCW;Regular Plan;Monthly IDCW;INF194K01FC6;INF194K01FB8;10.1723;31-Oct-2026
+131391;Bandhan 10 year Constant Maturity Gilt Fund - Regular Plan - Periodic IDCW;Regular Plan;Periodic IDCW;INF194KA1SI3;INF194KA1SJ1;16.9626;31-Oct-2026
+
+SBI Mutual Fund
+120137;SBI 10 YEAR CONSTANT MATURITY GILT FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF200K01SK7;;67.9056;31-Oct-2026
+120136;SBI 10 Year Constant Maturity Gilt Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01SI1;INF200K01SJ9;22.0886;31-Oct-2026
+101002;SBI 10 YEAR CONSTANT MATURITY GILT FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF200K01AN9;;65.0348;31-Oct-2026
+101003;SBI 10 Year Constant Maturity Gilt Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01AO7;INF200K01AP4;21.1515;31-Oct-2026
+
+Open Ended Schemes ( Income/Debt Oriented Schemes - Floating Interest Rates Fund )
+
+
+Bandhan Mutual Fund
+148714;BANDHAN FLOATING INTEREST RATES FUND  - DIRECT PLAN DAILY IDCW;Direct Plan;Daily IDCW;;INF194KB1BB3;10.1275;31-Oct-2026
+148711;BANDHAN FLOATING INTEREST RATES FUND  - DIRECT PLAN GROWTH;Direct Plan;Growth;INF194KB1BA5;;14.2678;31-Oct-2026
+148713;BANDHAN FLOATING INTEREST RATES FUND  - DIRECT PLAN MONTHLY IDCW;Direct Plan;Monthly IDCW;INF194KB1BD9;INF194KB1BE7;10.1328;31-Oct-2026
+148715;BANDHAN FLOATING INTEREST RATES FUND  - DIRECT PLAN PERIODIC IDCW;Direct Plan;Periodic IDCW;INF194KB1BH0;INF194KB1BI8;13.9532;31-Oct-2026
+148712;BANDHAN FLOATING INTEREST RATES FUND  - DIRECT PLAN QUARTERLY IDCW;Direct Plan;Quarterly IDCW;INF194KB1BF4;INF194KB1BG2;10.4495;31-Oct-2026
+148716;BANDHAN FLOATING INTEREST RATES FUND  - DIRECT PLAN WEEKLY IDCW;Direct Plan;Weekly IDCW;;INF194KB1BC1;10.1234;31-Oct-2026
+148718;BANDHAN FLOATING INTEREST RATES FUND  - REGULAR PLAN ANNUAL IDCW;Regular Plan;Annual IDCW;INF194KB1AY7;INF194KB1AZ4;10.4944;31-Oct-2026
+148710;BANDHAN FLOATING INTEREST RATES FUND  - REGULAR PLAN DAILY IDCW;Regular Plan;Daily IDCW;;INF194KB1AQ3;10.1212;31-Oct-2026
+148705;BANDHAN FLOATING INTEREST RATES FUND  - REGULAR PLAN GROWTH;Regular Plan;Growth;INF194KB1AP5;;13.8507;31-Oct-2026
+148707;BANDHAN FLOATING INTEREST RATES FUND  - REGULAR PLAN MONTHLY IDCW;Regular Plan;Monthly IDCW;INF194KB1AS9;INF194KB1AT7;10.1318;31-Oct-2026
+148709;BANDHAN FLOATING INTEREST RATES FUND  - REGULAR PLAN PERIODIC IDCW;Regular Plan;Periodic IDCW;INF194KB1AW1;INF194KB1AX9;13.8523;31-Oct-2026
+148706;BANDHAN FLOATING INTEREST RATES FUND  - REGULAR PLAN QUARTERLY IDCW;Regular Plan;Quarterly IDCW;INF194KB1AU5;INF194KB1AV3;10.4103;31-Oct-2026
+148708;BANDHAN FLOATING INTEREST RATES FUND  - REGULAR PLAN WEEKLY IDCW;Regular Plan;Weekly IDCW;;INF194KB1AR1;10.1196;31-Oct-2026
+148717;BANDHAN FLOATING INTEREST RATES FUND- DIRECT PLAN ANNUAL IDCW;Direct Plan;Annual IDCW;INF194KB1BJ6;INF194KB1BK4;10.5449;31-Oct-2026
+
+SBI Mutual Fund
+148550;SBI Floating Interest Rates Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KA1R64;;14.5154;31-Oct-2026
+148551;SBI Floating Interest Rates Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1R72;INF200KA1R80;14.5146;31-Oct-2026
+148549;SBI Floating Interest Rates Fund - Direct Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1R98;INF200KA1S06;14.5159;31-Oct-2026
+148543;SBI Floating Interest Rates Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KA1R15;;14.3546;31-Oct-2026
+148544;SBI Floating Interest Rates Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1R23;INF200KA1R31;14.3584;31-Oct-2026
+148546;SBI Floating Interest Rates Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1R49;INF200KA1R56;14.3557;31-Oct-2026
+
+Open Ended Schemes ( Equity Schemes - Mid Cap Fund )
+
+
+Bandhan Mutual Fund
+150404;BANDHAN MID CAP FUND - GROWTH - DIRECT PLAN;Direct Plan;Growth;INF194KB1DJ2;;19.333;31-Oct-2026
+150402;BANDHAN MID CAP FUND - GROWTH - REGULAR PLAN;Regular Plan;Growth;INF194KB1DM6;;18.123;31-Oct-2026
+150401;BANDHAN MID CAP FUND - IDCW - DIRECT PLAN;Direct Plan;IDCW;INF194KB1DK0;INF194KB1DL8;19.315;31-Oct-2026
+150403;BANDHAN MID CAP FUND - IDCW - REGULAR PLAN;Regular Plan;IDCW;INF194KB1DN4;INF194KB1DO2;16.999;31-Oct-2026
+
+Open Ended Schemes ( Equity Schemes - Contra Fund )
+
+
+Bandhan Mutual Fund
+154599;Bandhan Contra Fund-Direct Plan-Annual IDCW;Direct Plan;Annual IDCW;INF194KB1LC0;INF194KB1LD8;9.5804;31-Oct-2026
+154600;Bandhan Contra Fund-Direct Plan-Growth;Direct Plan;Growth;INF194KB1KX8;;9.5804;31-Oct-2026
+154601;Bandhan Contra Fund-Regular Plan-Annual IDCW;Regular Plan;Annual IDCW;INF194KB1LA4;INF194KB1LB2;9.5534;31-Oct-2026
+154598;Bandhan Contra Fund-Regular Plan-Growth;Regular Plan;Growth;INF194KB1KU4;;9.5534;31-Oct-2026
+
+Open Ended Schemes ( Equity Schemes - Sectoral Fund )
+
+
+Bandhan Mutual Fund
+151816;BANDHAN FINANCIAL SERVICES FUND - DIRECT PLAN - GROWTH;Direct Plan;Growth;INF194KB1GB2;;14.561;31-Oct-2026
+151817;BANDHAN FINANCIAL SERVICES FUND - DIRECT PLAN - IDCW;Direct Plan;IDCW;INF194KB1GC0;INF194KB1GD8;12.701;31-Oct-2026
+151818;BANDHAN FINANCIAL SERVICES FUND - REGULAR PLAN - GROWTH;Regular Plan;Growth;INF194KB1GE6;;13.820;31-Oct-2026
+151819;BANDHAN FINANCIAL SERVICES FUND - REGULAR PLAN - IDCW;Regular Plan;IDCW;INF194KB1GF3;INF194KB1GG1;12.064;31-Oct-2026
+153972;Bandhan Healthcare Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1KF5;;10.988;31-Oct-2026
+153971;Bandhan Healthcare Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF194KB1KG3;INF194KB1KH1;10.988;31-Oct-2026
+153974;Bandhan Healthcare Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1KC2;;10.826;31-Oct-2026
+153973;Bandhan Healthcare Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194KB1KD0;INF194KB1KE8;10.826;31-Oct-2026
+114476;BANDHAN Infrastructure Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01BY9;;45.515;31-Oct-2026
+114477;BANDHAN Infrastructure Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194K01BZ6;INF194K01CA7;33.921;31-Oct-2026
+118469;BANDHAN Infrastructure Fund-Direct Plan-Growth;Direct Plan;Growth;INF194K01X46;;54.036;31-Oct-2026
+118468;BANDHAN Infrastructure Fund-Direct Plan-IDCW;Direct Plan;IDCW;INF194K01X53;INF194K01X61;42.031;31-Oct-2026
+150716;BANDHAN TRANSPORTATION AND LOGISTICS FUND - GROWTH - DIRECT PLAN;Direct Plan;Growth;INF194KB1EB7;;19.969;31-Oct-2026
+150717;BANDHAN TRANSPORTATION AND LOGISTICS FUND - GROWTH - REGULAR PLAN;Regular Plan;Growth;INF194KB1EE1;;18.751;31-Oct-2026
+150719;BANDHAN TRANSPORTATION AND LOGISTICS FUND - IDCW - DIRECT PLAN;Direct Plan;IDCW;INF194KB1EC5;INF194KB1ED3;19.943;31-Oct-2026
+150718;BANDHAN TRANSPORTATION AND LOGISTICS FUND - IDCW - REGULAR PLAN;Regular Plan;IDCW;INF194KB1EF8;INF194KB1EG6;17.553;31-Oct-2026
+
+Open Ended Schemes ( Equity Schemes - Thematic Fund )
+
+
+Bandhan Mutual Fund
+152878;Bandhan Business Cycle Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1IQ6;;9.539;31-Oct-2026
+152879;Bandhan Business Cycle Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF194KB1IL7;INF194KB1IM5;9.539;31-Oct-2026
+152877;Bandhan Business Cycle Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1IP8;;9.241;31-Oct-2026
+152880;Bandhan Business Cycle Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194KB1II3;INF194KB1IJ1;9.241;31-Oct-2026
+152607;Bandhan Innovation Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1IE2;;15.390;31-Oct-2026
+152604;Bandhan Innovation Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF194KB1IF9;INF194KB1IG7;14.442;31-Oct-2026
+152606;Bandhan Innovation Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1IB8;;14.822;31-Oct-2026
+152605;Bandhan Innovation Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194KB1IC6;INF194KB1ID4;13.909;31-Oct-2026
+153722;Bandhan Multi-Factor Fund - Direct Plan - Growth;Direct Plan;Growth;INF194KB1JX0;;8.917;31-Oct-2026
+153720;Bandhan Multi-Factor Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF194KB1JY8;INF194KB1JZ5;8.917;31-Oct-2026
+153721;Bandhan Multi-Factor Fund - Regular Plan - Growth;Regular Plan;Growth;INF194KB1JU6;;8.743;31-Oct-2026
+153723;Bandhan Multi-Factor Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194KB1JV4;INF194KB1JW2;8.743;31-Oct-2026
+
+Open Ended Schemes ( Equity Schemes - ELSS- Tax Saver Fund )
+
+
+Bandhan Mutual Fund
+118473;BANDHAN ELSS - Tax Saver Fund - Direct Plan - Growth;Direct Plan;Growth;INF194K01Y29;;172.906;31-Oct-2026
+118472;BANDHAN ELSS - Tax Saver Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF194K01Y37;INF194K01Y45;40.013;31-Oct-2026
+111569;BANDHAN ELSS - Tax Saver Fund - Regular Plan - Growth;Regular Plan;Growth;INF194K01292;;148.449;31-Oct-2026
+111570;BANDHAN ELSS - Tax Saver Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF194K01300;INF194K01318;29.983;31-Oct-2026
+
+Open Ended Schemes ( Hybrid Schemes - Balanced Hybrid Fund )
+
+
+SBI Mutual Fund
+154618;SBI Balance Hybrid Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KB1CA5;;9.8177;31-Oct-2026
+154617;SBI Balance Hybrid Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF200KB1CB3;INF200KB1CC1;9.8176;31-Oct-2026
+154616;SBI Balance Hybrid Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF200KB1BY7;INF200KB1BZ4;9.7985;31-Oct-2026
+154615;SBI Balanced Hybrid Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KB1BX9;;9.7985;31-Oct-2026
+
+Open Ended Schemes ( Hybrid Schemes - Aggressive Hybrid Fund )
+
+
+SBI Mutual Fund
+119609;SBI AGGRESIVE HYBRID FUND - DIRECT PLAN - Growth;Direct Plan;Growth;INF200K01RY0;;339.2170;31-Oct-2026
+119604;SBI Aggresive Hybrid Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01RW4;INF200K01RX2;99.2614;31-Oct-2026
+101551;SBI Aggresive Hybrid Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01115;INF200K01123;64.5311;31-Oct-2026
+102885;SBI AGGRESIVE HYBRID FUND - REGULAR PLAN -Growth;Regular Plan;Growth;INF200K01107;;304.5278;31-Oct-2026
+
+Open Ended Schemes ( Hybrid Schemes - Arbitrage Fund )
+
+
+SBI Mutual Fund
+119574;SBI Arbitrage Fund - Direct Plan - Gr;Direct Plan;Growth;INF200K01QU0;;39.0818;31-Oct-2026
+119567;SBI Arbitrage Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200K01QS4;INF200K01QT2;21.1164;31-Oct-2026
+104457;SBI Arbitrage Fund - Regular Plan - Gr;Regular Plan;Growth;INF200K01156;;36.5135;31-Oct-2026
+104458;SBI Arbitrage Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200K01131;INF200K01149;19.2021;31-Oct-2026
+
+Open Ended Schemes ( Index Funds - Debt Funds )
+
+
+SBI Mutual Fund
+154467;SBI Crisil - IBX SDL Index - June 2034 Index Fund - Direct Plan - Growth;Direct Plan;Growth;INF200KB1BO8;;9.8483;31-Oct-2026
+154470;SBI Crisil - IBX SDL Index - June 2034 Index Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF200KB1BP5;INF200KB1BQ3;9.8483;31-Oct-2026
+154468;SBI Crisil - IBX SDL Index - June 2034 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF200KB1BL4;;9.8424;31-Oct-2026
+154469;SBI Crisil - IBX SDL Index - June 2034 Index Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF200KB1BM2;INF200KB1BN0;9.8424;31-Oct-2026
+
+Open Ended Schemes ( Exchange Traded Funds (ETFs) - Equity ETF )
+
+
+SBI Mutual Fund
+154826;SBI BSE India Defence ETF;Regular Plan;Growth;INF200KB1CJ6;;72.8381;31-Oct-2026
+
 Open Ended Schemes ( Exchange Traded Funds (ETFs) - Debt ETF )
 
 
@@ -699,3 +1849,84 @@ Shriram Mutual Fund
 
 UTI Mutual Fund
 154466;UTI Nifty 1D Rate Liquid ETF - Growth;Direct Plan;Growth;INF789F1AG68;;1014.541;31-Oct-2026
+
+Open Ended Schemes ( Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic) )
+
+
+SBI Mutual Fund
+154526;SBI Nifty Midcap 150 Momentum 50 ETF FOF - Direct - Growth;Direct Plan;Growth;INF200KB1BU5;;9.2916;31-Oct-2026
+154527;SBI Nifty Midcap 150 Momentum 50 ETF FOF - Direct - IDCW;Direct Plan;IDCW;INF200KB1BV3;INF200KB1BW1;9.2916;31-Oct-2026
+154523;SBI Nifty Midcap 150 Momentum 50 ETF FOF - Regular - Growth;Regular Plan;Growth;INF200KB1BR1;;9.2813;31-Oct-2026
+154525;SBI Nifty Midcap 150 Momentum 50 ETF FOF - Regular - IDCW;Regular Plan;IDCW;INF200KB1BS9;INF200KB1BT7;9.2813;31-Oct-2026
+154760;SBI Nifty200 Value 30 ETF FOF - Direct Plan - Growth;Direct Plan;Growth;INF200KB1CG2;;9.8167;31-Oct-2026
+154761;SBI Nifty200 Value 30 ETF FOF - Direct Plan - IDCW;Direct Plan;IDCW;INF200KB1CH0;INF200KB1CI8;9.8167;31-Oct-2026
+154758;SBI Nifty200 Value 30 ETF FOF - Regular Plan - Growth;Regular Plan;Growth;INF200KB1CD9;;9.8139;31-Oct-2026
+154759;SBI Nifty200 Value 30 ETF FOF - Regular Plan - IDCW;Regular Plan;IDCW;INF200KB1CE7;INF200KB1CF4;9.8140;31-Oct-2026
+
+Close Ended Schemes ( Income )
+
+
+Bandhan Mutual Fund
+146699;BANDHAN Fixed Term Plan Series 179 DIRECT PLAN HALF YEARLY-IDCW (3652 days);Direct Plan;Half Yearly IDCW;INF194KB1793;;11.2810;31-Oct-2026
+146701;BANDHAN Fixed Term Plan Series 179 DIRECT PLAN-GROWTH (3652 days);Direct Plan;Growth;INF194KB1777;;18.1104;31-Oct-2026
+146702;BANDHAN Fixed Term Plan Series 179 REGULAR PLAN PERIODIC-IDCW (3652 days);Regular Plan;Periodic IDCW;INF194KB1769;;15.3081;31-Oct-2026
+146695;BANDHAN Fixed Term Plan Series 179 REGULAR PLAN-GROWTH (3652 days);Regular Plan;Growth;INF194KB1736;;17.7679;31-Oct-2026
+
+SBI Mutual Fund
+146974;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Growth;Direct Plan;Growth;INF200KA1D03;;17.7282;31-Oct-2026
+146975;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1D11;;17.7467;31-Oct-2026
+146976;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Regular Plan - Growth;Regular Plan;Growth;INF200KA1C87;;17.4994;31-Oct-2026
+146973;SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1C95;;17.4992;31-Oct-2026
+148387;SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Growth;Direct Plan;Growth;INF200KA1Q73;;14.7975;31-Oct-2026
+148388;SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1Q81;;14.7975;31-Oct-2026
+148389;SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Growth;Regular Plan;Growth;INF200KA1Q57;;14.5843;31-Oct-2026
+148390;SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1Q65;;14.5843;31-Oct-2026
+149279;SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Direct Plan - Growth;Direct Plan;Growth;INF200KA18A0;;13.5069;31-Oct-2026
+149277;SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Direct Plan - Income Distribution Cum Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA19A8;;13.5069;31-Oct-2026
+149278;SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Regular Plan - Growth;Regular Plan;Growth;INF200KA16A4;;13.4327;31-Oct-2026
+149280;SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Regular Plan - Income  Distribution Cum Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA17A2;;13.4327;31-Oct-2026
+149307;SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Growth;Direct Plan;Growth;INF200KA12B1;;13.4928;31-Oct-2026
+149309;SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Income Distribution Cum Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA13B9;;13.4934;31-Oct-2026
+149308;SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Regular Plan - Growth;Regular Plan;Growth;INF200KA10B5;;13.4138;31-Oct-2026
+149306;SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA11B3;;13.4137;31-Oct-2026
+149345;SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Direct Plan - Growth;Direct Plan;Growth;INF200KA16B2;;13.4619;31-Oct-2026
+149348;SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA17B0;;13.4620;31-Oct-2026
+149347;SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Regular Plan - Growth;Regular Plan;Growth;INF200KA14B7;;13.3847;31-Oct-2026
+149346;SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA15B4;;13.3846;31-Oct-2026
+149431;SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Direct Plan - Growth;Direct Plan;Growth;INF200KA14C5;;13.3740;31-Oct-2026
+149430;SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA15C2;;13.3743;31-Oct-2026
+149432;SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Regular Plan - Growth;Regular Plan;Growth;INF200KA12C9;;13.2986;31-Oct-2026
+149433;SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA13C7;;13.2990;31-Oct-2026
+149460;SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Direct Plan - Growth;Direct Plan;Growth;INF200KA18C6;;13.4870;31-Oct-2026
+149461;SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Direct Plan - Income Distribution cum Capital withdrawal option (IDCW);Direct Plan;IDCW;INF200KA19C4;;13.4873;31-Oct-2026
+149459;SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Regular Plan - Growth;Regular Plan;Growth;INF200KA16C0;;13.4128;31-Oct-2026
+149462;SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Regular Plan - Income Distribution cum Capital withdrawal option (IDCW);Regular Plan;IDCW;INF200KA17C8;;13.4128;31-Oct-2026
+147248;SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Direct Plan - Growth;Direct Plan;Growth;INF200KA1F27;;17.2389;31-Oct-2026
+147249;SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1F35;;17.2392;31-Oct-2026
+147247;SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Regular Plan - Growth;Regular Plan;Growth;INF200KA1F01;;16.9356;31-Oct-2026
+147250;SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1F19;;16.9376;31-Oct-2026
+149878;SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Direct Plan - Growth;Direct Plan;Growth;INF200KA13E3;;13.3873;31-Oct-2026
+149879;SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Direct Plan - Income Distribution cum Capital Withdrwal Option (IDCW);Direct Plan;IDCW;INF200KA14E1;;13.3879;31-Oct-2026
+149876;SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Regular Plan - Growth;Regular Plan;Growth;INF200KA11E7;;13.3139;31-Oct-2026
+149877;SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA12E5;;13.3140;31-Oct-2026
+149993;SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Direct Plan- Growth option;Direct Plan;Growth;INF200KA13F0;;13.3991;31-Oct-2026
+149995;SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Direct Plan- Income Distribution Cum Capital withdrawal option;Direct Plan;IDCW;INF200KA14F8;;13.3994;31-Oct-2026
+149994;SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Regular Plan- Growth option;Regular Plan;Growth;INF200KA11F4;;13.3278;31-Oct-2026
+149992;SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Regular Plan- Income Distribution Cum Capital withdrawal option;Regular Plan;IDCW;INF200KA12F2;;13.3277;31-Oct-2026
+
+Close Ended Schemes ( ELSS )
+
+
+SBI Mutual Fund
+140487;SBI Long Term Advantage Fund - Series IV - Direct Plan - Growth;Direct Plan;Growth;INF200KA1LS9;;45.3553;31-Oct-2026
+140486;SBI Long Term Advantage Fund - Series IV - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1LT7;;38.4851;31-Oct-2026
+140488;SBI Long Term Advantage Fund - Series IV - Regular Plan - Growth;Regular Plan;Growth;INF200KA1LQ3;;42.9984;31-Oct-2026
+140489;SBI Long Term Advantage Fund - Series IV - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1LR1;;36.4283;31-Oct-2026
+142138;SBI Long Term Advantage Fund - Series V - Direct Plan - Growth;Direct Plan;Growth;INF200KA1RW8;;31.3703;31-Oct-2026
+142140;SBI Long Term Advantage Fund - Series V - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1RX6;;31.3714;31-Oct-2026
+142137;SBI Long Term Advantage Fund - Series V - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1RV0;;30.0545;31-Oct-2026
+142139;SBI Long Term Advantage Fund Series V - Regular Plan - Growth;Regular Plan;Growth;INF200KA1RU2;;30.0670;31-Oct-2026
+143178;SBI Long Term Advantage Fund - Series VI - Direct Plan - Growth;Direct Plan;Growth;INF200KA1TO1;;29.7541;31-Oct-2026
+143179;SBI Long Term Advantage Fund - Series VI - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1TP8;;29.7287;31-Oct-2026
+143176;SBI Long Term Advantage Fund - Series VI - Regular Plan - Growth;Regular Plan;Growth;INF200KA1TM5;;28.5345;31-Oct-2026
+143177;SBI Long Term Advantage Fund - Series VI - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1TN3;;28.5406;31-Oct-2026
