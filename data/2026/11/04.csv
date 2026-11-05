@@ -1350,6 +1350,10 @@ Kotak Mahindra Mutual Fund
 152911;Kotak MNC Fund-Direct Plan-IDCW Option;Direct Plan;IDCW Option;INF174KA1TH7;INF174KA1TI5;12.239;04-Nov-2026
 152913;Kotak MNC Fund-Regular Plan- Growth;Regular Plan;Growth;INF174KA1TJ3;;11.891;04-Nov-2026
 152912;KotaK MNC Fund-Regular Plan-IDCW OPTION;Regular Plan;IDCW Option;INF174KA1TK1;INF174KA1TL9;11.891;04-Nov-2026
+147727;Kotak Pioneer Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF174KA1EZ1;;38.261;04-Nov-2026
+147724;Kotak Pioneer Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF174KA1EW8;;34.348;04-Nov-2026
+147728;Kotak Pioneer Fund- Regular Plan- Reinvestment of Income Distribution cum capital withdrawal option;Regular Plan;Reinvestment of Income Distribution cum capital withdrawal option;INF174KA1EU2;INF174KA1EV0;34.363;04-Nov-2026
+147725;Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option;Direct Plan;Reinvestment of Income Distribution cum capital withdrawal option;INF174KA1EX6;INF174KA1EY4;38.255;04-Nov-2026
 151881;Kotak Quant Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF174KA1OL0;;14.586;04-Nov-2026
 151880;Kotak Quant Fund - Direct plan - IDCW Payout;Direct Plan;IDCW;INF174KA1OM8;INF174KA1ON6;14.586;04-Nov-2026
 151878;Kotak Quant Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF174KA1OI6;;14.388;04-Nov-2026
@@ -5261,6 +5265,10 @@ Franklin Templeton Mutual Fund
 116633;Franklin U.S. Opportunities Equity Active Fund of Funds - Growth;Regular Plan;Growth;INF090I01EW1;;86.8144;04-Nov-2026
 116632;Franklin U.S. Opportunities Equity Active Fund of Funds - IDCW;Regular Plan;IDCW;INF090I01EV3;INF090I01EU5;84.4292;04-Nov-2026
 
+HDFC Mutual Fund
+149180;HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option;;;INF179KC1BO4;;21.76;04-Nov-2026
+149181;HDFC Developed World Overseas Equity Passive FOF - Growth Option;;;INF179KC1BP1;;21.257;04-Nov-2026
+
 ICICI Prudential Mutual Fund
 123654;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth;Direct Plan;Growth;INF109KA1CE0;;37.64;04-Nov-2026
 123652;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - IDCW;Direct Plan;IDCW;INF109KA1CG5;INF109KA1CF7;37.64;04-Nov-2026
@@ -5304,6 +5312,12 @@ SBI Mutual Fund
 148761;SBI US Specific Equity Active FoF- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1U36;INF200KA1U44;24.4429;04-Nov-2026
 148762;SBI US Specific Equity Active FoF- Regular Plan - Growth;Regular Plan;Growth;INF200KA1T96;;23.4682;04-Nov-2026
 148759;SBI US Specific Equity Active FoF- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1U02;INF200KA1U10;23.4674;04-Nov-2026
+
+Sundaram Mutual Fund
+119602;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;Direct Plan;GROWTH;INF903J01OB6;;48.5290;04-Nov-2026
+119601;Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW;Direct Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF903J01NZ7;INF903J01OA8;37.8634;04-Nov-2026
+106370;Sundaram Global Brand Theme-Equity Active FOF - Regular Growth;Regular Plan;GROWTH;INF903J01EX1;;43.7863;04-Nov-2026
+106369;Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW;Regular Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF903J01EY9;INF903J01EZ6;32.9067;04-Nov-2026
 
 Open Ended Schemes ( Other Scheme - FoF Domestic )
 
@@ -6012,8 +6026,8 @@ Shriram Mutual Fund
 154399;Shriram Overnight Fund- Regular Growth;Regular Plan;Growth;INF680P01505;;1278.0102;04-Nov-2026
 154402;Shriram Overnight Fund- Regular Monthly IDCW;Regular Plan;Monthly IDCW;INF680P01620;INF680P01646;1003.0798;04-Nov-2026
 
-Zerodha Mutual Fund
-153436;Zerodha Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF0R8F01075;;10.8617;04-Nov-2026
+Zerodha CASE Mutual Fund
+153436;Zerodha CASE Overnight Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF0R8F01075;;10.8617;04-Nov-2026
 
 Open Ended Schemes ( Income/Debt Oriented Schemes - Liquid Fund )
 
@@ -9978,8 +9992,8 @@ WhiteOak Capital Mutual Fund
 152849;WhiteOak Capital Arbitrage Fund Direct Plan Growth;Direct Plan;Growth Option;INF03VN01910;;11.635;04-Nov-2026
 152850;WhiteOak Capital Arbitrage Fund Regular Plan Growth;Regular Plan;Growth Option;INF03VN01928;;11.448;04-Nov-2026
 
-Zerodha Mutual Fund
-154619;Zerodha Arbitrage Fund - Direct - Growth;Direct Plan;Growth Option;INF0R8F01232;;10.1319;04-Nov-2026
+Zerodha CASE Mutual Fund
+154619;Zerodha CASE Arbitrage Fund - Direct - Growth;Direct Plan;Growth Option;INF0R8F01232;;10.1319;04-Nov-2026
 
 Open Ended Schemes ( Hybrid Schemes - Equity Savings Fund )
 
@@ -10048,8 +10062,8 @@ ICICI Prudential Mutual Fund
 154564;ICICI Prudential Life Cycle Fund 2031 - Direct Plan - Growth;;;INF109K1A609;;9.6213;04-Nov-2026
 154563;ICICI Prudential Life Cycle Fund 2031 - Growth;;;INF109K1A591;;9.6055;04-Nov-2026
 
-Zerodha Mutual Fund
-154697;Zerodha Life Cycle Fund 2031;Direct Plan;Growth;INF0R8F01240;;9.9503;04-Nov-2026
+Zerodha CASE Mutual Fund
+154697;Zerodha CASE Life Cycle Fund 2031;Direct Plan;Growth;INF0R8F01240;;9.9503;04-Nov-2026
 
 Open Ended Schemes ( Life Cycle Funds - Life Cycle Fund with Maturity of 10 Years )
 
@@ -10058,8 +10072,8 @@ ICICI Prudential Mutual Fund
 154578;ICICI Prudential Life Cycle Fund 2036 - Direct Plan - Growth;;;INF109K1A583;;9.9887;04-Nov-2026
 154577;ICICI Prudential Life Cycle Fund 2036 - Growth;;;INF109K1A575;;9.9699;04-Nov-2026
 
-Zerodha Mutual Fund
-154436;Zerodha Life Cycle Fund 2036 - Direct - Growth;Direct Plan;Growth Option;INF0R8F01224;;9.6923;04-Nov-2026
+Zerodha CASE Mutual Fund
+154436;Zerodha CASE Life Cycle Fund 2036 - Direct - Growth;Direct Plan;Growth Option;INF0R8F01224;;9.6923;04-Nov-2026
 
 Open Ended Schemes ( Life Cycle Funds - Life Cycle Fund with Maturity of 15 Years )
 
@@ -10068,8 +10082,8 @@ ICICI Prudential Mutual Fund
 154580;ICICI Prudential Life Cycle Fund 2041 - Direct Plan - Growth;;;INF109K1A625;;10.0162;04-Nov-2026
 154579;ICICI Prudential Life Cycle Fund 2041 - Growth;;;INF109K1A617;;9.9970;04-Nov-2026
 
-Zerodha Mutual Fund
-154437;Zerodha Life Cycle Fund 2041 - Direct - Growth;Direct Plan;Growth Option;INF0R8F01216;;9.6488;04-Nov-2026
+Zerodha CASE Mutual Fund
+154437;Zerodha CASE Life Cycle Fund 2041 - Direct - Growth;Direct Plan;Growth Option;INF0R8F01216;;9.6488;04-Nov-2026
 
 Open Ended Schemes ( Life Cycle Funds - Life Cycle Fund with Maturity of 30 Years )
 
@@ -10409,12 +10423,12 @@ UTI Mutual Fund
 154197;UTI Nifty500 Shariah Index Fund - Direct Plan Growth Option;Direct Plan;Growth;INF789F1AD04;;9.8974;04-Nov-2026
 154198;UTI Nifty500 Shariah Index Fund - Regular Plan Growth Option;Regular Plan;Growth;INF789F1AC96;;9.8666;04-Nov-2026
 
-Zerodha Mutual Fund
-153932;Zerodha BSE SENSEX Index Fund;Direct Plan;Growth Option;INF0R8F01174;;9.3290;04-Nov-2026
-152157;Zerodha ELSS Tax Saver Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option;Direct Plan;Growth Option;INF0R8F01026;;14.0274;04-Nov-2026
-153906;Zerodha Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth Option;INF0R8F01158;;9.6006;04-Nov-2026
-152156;Zerodha Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option;Direct Plan;Growth Option;INF0R8F01018;;13.9967;04-Nov-2026
-154306;Zerodha Nifty MidSmallcap400 50:50 Index Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF0R8F01190;;10.8110;04-Nov-2026
+Zerodha CASE Mutual Fund
+153932;Zerodha CASE BSE SENSEX Index Fund;Direct Plan;Growth Option;INF0R8F01174;;9.3290;04-Nov-2026
+152157;Zerodha CASE ELSS Tax Saver Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option;Direct Plan;Growth Option;INF0R8F01026;;14.0274;04-Nov-2026
+153906;Zerodha CASE Nifty 50 Index Fund - Direct Plan - Growth;Direct Plan;Growth Option;INF0R8F01158;;9.6006;04-Nov-2026
+152156;Zerodha CASE Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option;Direct Plan;Growth Option;INF0R8F01018;;13.9967;04-Nov-2026
+154306;Zerodha CASE Nifty MidSmallcap400 50:50 Index Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF0R8F01190;;10.8110;04-Nov-2026
 
 Open Ended Schemes ( Index Funds - Debt Funds )
 
@@ -10507,8 +10521,8 @@ UTI Mutual Fund
 151487;UTI NIFTY SDL Plus AAA PSU Bond Apr 2028- 75:25 Index Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF789F1AXR3;;13.0067;04-Nov-2026
 151488;UTI NIFTY SDL Plus AAA PSU Bond Apr 2028- 75:25 Index Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF789F1AXQ5;;12.9042;04-Nov-2026
 
-Zerodha Mutual Fund
-154109;Zerodha Nifty Short Duration G-Sec Index Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF0R8F01182;;1027.2557;04-Nov-2026
+Zerodha CASE Mutual Fund
+154109;Zerodha CASE Nifty Short Duration G-Sec Index Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF0R8F01182;;1027.2557;04-Nov-2026
 
 Open Ended Schemes ( Index Funds - Hybrid Fund )
 
@@ -10525,8 +10539,8 @@ Mirae Asset Mutual Fund
 154495;Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - Growth;Regular Plan;Growth;INF769K01RD8;;9.9232;04-Nov-2026
 154496;Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF769K01RF3;INF769K01RE6;9.9232;04-Nov-2026
 
-Zerodha Mutual Fund
-154321;Zerodha Nifty LargeMidcap250 Plus 8-13 Yr G-Sec 70:30 Index Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF0R8F01208;;9.9897;04-Nov-2026
+Zerodha CASE Mutual Fund
+154321;Zerodha CASE Nifty LargeMidcap250 Plus 8-13 Yr G-Sec 70:30 Index Fund - Direct Plan - Growth Option;Direct Plan;Growth Option;INF0R8F01208;;9.9897;04-Nov-2026
 
 Open Ended Schemes ( Exchange Traded Funds (ETFs) - Equity ETF )
 
@@ -10640,13 +10654,13 @@ UTI Mutual Fund
 152355;UTI Nifty IT ETF;Direct Plan;Growth;INF789F1AZD8;;338.4858;04-Nov-2026
 152050;UTI Nifty Midcap 150 Exchange Traded Fund;Direct Plan;Growth;INF789F1AYX9;;221.274;04-Nov-2026
 
-Zerodha Mutual Fund
-154813;Zerodha BSE TOP 10 BANKS ETF;Direct Plan;Growth;INF0R8F01265;;102.8944;04-Nov-2026
-152667;Zerodha Nifty 100 ETF;Direct Plan;;INF0R8F01067;;10.4976;04-Nov-2026
-153905;Zerodha Nifty 50 ETF;Direct Plan;;INF0R8F01166;;9.6392;04-Nov-2026
-152668;Zerodha Nifty Midcap 150 ETF;Direct Plan;;INF0R8F01059;;11.0276;04-Nov-2026
-154764;Zerodha Nifty Next 100 ETF;Direct Plan;Growth;INF0R8F01257;;10.3899;04-Nov-2026
-153837;Zerodha Nifty Smallcap 100 ETF;Direct Plan;;INF0R8F01141;;10.8027;04-Nov-2026
+Zerodha CASE Mutual Fund
+154813;Zerodha CASE BSE TOP 10 BANKS ETF;Direct Plan;Growth;INF0R8F01265;;102.8944;04-Nov-2026
+152667;Zerodha CASE Nifty 100 ETF;Direct Plan;;INF0R8F01067;;10.4976;04-Nov-2026
+153905;Zerodha CASE Nifty 50 ETF;Direct Plan;;INF0R8F01166;;9.6392;04-Nov-2026
+152668;Zerodha CASE Nifty Midcap 150 ETF;Direct Plan;;INF0R8F01059;;11.0276;04-Nov-2026
+154764;Zerodha CASE Nifty Next 100 ETF;Direct Plan;Growth;INF0R8F01257;;10.3899;04-Nov-2026
+153837;Zerodha CASE Nifty Smallcap 100 ETF;Direct Plan;;INF0R8F01141;;10.8027;04-Nov-2026
 
 Open Ended Schemes ( Exchange Traded Funds (ETFs) - Debt ETF )
 
@@ -10673,9 +10687,9 @@ UTI Mutual Fund
 154466;UTI Nifty 1D Rate Liquid ETF - Growth;Direct Plan;Growth;INF789F1AG68;;1015.1361;04-Nov-2026
 152368;UTI Nifty 5 yr Benchmark G-Sec ETF;Direct Plan;Growth;INF789F1AZE6;;65.9302;04-Nov-2026
 
-Zerodha Mutual Fund
-152327;Zerodha Nifty 1D Rate Liquid ETF - Growth Option;Direct Plan;Growth Option;INF0R8F01034;;116.7309;04-Nov-2026
-153811;Zerodha Nifty 8-13 Yr G-Sec ETF;Direct Plan;;INF0R8F01133;;30.1784;04-Nov-2026
+Zerodha CASE Mutual Fund
+152327;Zerodha CASE Nifty 1D Rate Liquid ETF - Growth Option;Direct Plan;Growth Option;INF0R8F01034;;116.7309;04-Nov-2026
+153811;Zerodha CASE Nifty 8-13 Yr G-Sec ETF;Direct Plan;;INF0R8F01133;;30.1784;04-Nov-2026
 
 Open Ended Schemes ( Exchange Traded Funds (ETFs) - Hybrid ETF )
 
@@ -10713,8 +10727,8 @@ Mirae Asset Mutual Fund
 UTI Mutual Fund
 105463;UTI GOLD Exchange Traded Fund;Direct Plan;Growth;INF789F1AUX7;;118.2637;04-Nov-2026
 
-Zerodha Mutual Fund
-152476;Zerodha Gold ETF;Direct Plan;;INF0R8F01042;;22.1255;04-Nov-2026
+Zerodha CASE Mutual Fund
+152476;Zerodha CASE Gold ETF;Direct Plan;;INF0R8F01042;;22.1255;04-Nov-2026
 
 Open Ended Schemes ( Exchange Traded Funds (ETFs) - Silver ETF )
 
@@ -10740,8 +10754,8 @@ quant Mutual Fund
 UTI Mutual Fund
 151730;UTI Silver Exchange Traded Fund;Direct Plan;Growth;INF789F1AYK6;;178.1665;04-Nov-2026
 
-Zerodha Mutual Fund
-153413;Zerodha Silver ETF;Direct Plan;;INF0R8F01091;;18.6462;04-Nov-2026
+Zerodha CASE Mutual Fund
+153413;Zerodha CASE Silver ETF;Direct Plan;;INF0R8F01091;;18.6462;04-Nov-2026
 
 Open Ended Schemes ( Exchange Traded Funds (ETFs) - Other ETF )
 
@@ -10850,6 +10864,10 @@ Kotak Mahindra Mutual Fund
 106442;Kotak Global Emerging Market Overseas Equity Active FOF - Payout of Income Distribution cum capital withdrawal option;Regular Plan;Payout of Income Distribution cum capital withdrawal option;INF174K01DX9;INF174K01DW1;35.458;04-Nov-2026
 119778;Kotak Global Emerging Market Overseas Equity Active FOF - Payout of Income Distribution cum capital withdrawal option - Direct;Direct Plan;Payout of Income Distribution cum capital withdrawal option;INF174K01LX2;INF174K01LY0;38.903;04-Nov-2026
 106441;Kotak Global Emerging Market Overseas Equity Active FOF- Growth;Regular Plan;Growth;INF174K01DV3;;35.456;04-Nov-2026
+149058;Kotak Global Innovation Overseas Equity Active FOF - Regular Plan -IDCW Option;Regular Plan;IDCW Option;INF174KA1HE9;INF174KA1HF6;14.092;04-Nov-2026
+149056;Kotak Global Innovation Overseas Equity Active FOF - Regular Plan-Growth;Regular Plan;Growth;INF174KA1HD1;;14.0915;04-Nov-2026
+149060;Kotak Global Innovation Overseas Equity Active FOF- Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF174KA1HH2;INF174KA1HI0;14.9899;04-Nov-2026
+149059;Kotak Global Innovation Overseas Equity Active FOF- Direct Plan -Growth;Direct Plan;Growth;INF174KA1HG4;;14.9922;04-Nov-2026
 148646;Kotak International REIT Overseas Equity Active FOF - Direct Plan - Growth;Direct Plan;Growth;INF174KA1FO2;;11.912;04-Nov-2026
 148649;Kotak International REIT Overseas Equity Active FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;Direct Plan;Payout of Income Distribution cum capital withdrawal option;INF174KA1FN4;INF174KA1FP9;11.9118;04-Nov-2026
 148645;Kotak International REIT Overseas Equity Active FOF - Regular Plan - Growth;Regular Plan;Growth;INF174KA1FL8;;11.3143;04-Nov-2026
@@ -11158,10 +11176,10 @@ WhiteOak Capital Mutual Fund
 154770;WhiteOak Capital Diversified Equity Small Cap Active FOF Direct Plan Growth;Direct Plan;Growth;INF03VN01AN2;;9.974;04-Nov-2026
 154769;WhiteOak Capital Diversified Equity Small Cap Active FOF Regular Plan Growth;Regular Plan;Growth;INF03VN01AO0;;9.970;04-Nov-2026
 
-Zerodha Mutual Fund
-153011;Zerodha Gold ETF FoF-Direct Plan - Growth Option;Direct Plan;Growth Option;INF0R8F01083;;18.3614;04-Nov-2026
-153757;Zerodha Multi Asset Passive FoF - Direct - Growth;Direct Plan;Growth Option;INF0R8F01117;;11.0942;04-Nov-2026
-153656;Zerodha Silver ETF FoF - Direct Growth;Direct Plan;Growth Option;INF0R8F01109;;16.7305;04-Nov-2026
+Zerodha CASE Mutual Fund
+153011;Zerodha CASE Gold ETF FoF-Direct Plan - Growth Option;Direct Plan;Growth Option;INF0R8F01083;;18.3614;04-Nov-2026
+153757;Zerodha CASE Multi Asset Passive FoF - Direct - Growth;Direct Plan;Growth Option;INF0R8F01117;;11.0942;04-Nov-2026
+153656;Zerodha CASE Silver ETF FoF - Direct Growth;Direct Plan;Growth Option;INF0R8F01109;;16.7305;04-Nov-2026
 
 Close Ended Schemes ( Income )
 
