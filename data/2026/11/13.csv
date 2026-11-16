@@ -764,6 +764,12 @@ Baroda BNP Paribas Mutual Fund
 151747;Baroda BNP Paribas Value Fund - Regular Plan - Growth option;Regular Plan;Growth Option;INF251K01SA1;;13.9097;13-Nov-2026
 151754;Baroda BNP Paribas Value Fund - Regular Plan - IDCW option;Regular Plan;IDCW Option;INF251K01SB9;INF251K01SC7;12.6823;13-Nov-2026
 
+DSP Mutual Fund
+148595;DSP Value Fund - Direct Plan - Growth;Direct Plan;Growth;INF740KA1PP3;;25.5060;13-Nov-2026
+148596;DSP Value Fund - Direct Plan - IDCW;Direct Plan;IDCW;INF740KA1PQ1;INF740KA1PR9;19.3190;13-Nov-2026
+148594;DSP Value Fund - Regular Plan - Growth;Regular Plan;Growth;INF740KA1PM0;;24.3530;13-Nov-2026
+148597;DSP Value Fund - Regular Plan - IDCW;Regular Plan;IDCW;INF740KA1PN8;INF740KA1PO6;17.0210;13-Nov-2026
+
 Franklin Templeton Mutual Fund
 118494;Templeton India Value Fund - Direct - Growth;Direct Plan;Growth;INF090I01GY2;;782.9020;13-Nov-2026
 118493;Templeton India Value Fund - Direct - IDCW ;Direct Plan;IDCW;INF090I01GW6;INF090I01GX4;106.1902;13-Nov-2026
@@ -1350,6 +1356,10 @@ Kotak Mahindra Mutual Fund
 152911;Kotak MNC Fund-Direct Plan-IDCW Option;Direct Plan;IDCW Option;INF174KA1TH7;INF174KA1TI5;12.588;13-Nov-2026
 152913;Kotak MNC Fund-Regular Plan- Growth;Regular Plan;Growth;INF174KA1TJ3;;12.225;13-Nov-2026
 152912;KotaK MNC Fund-Regular Plan-IDCW OPTION;Regular Plan;IDCW Option;INF174KA1TK1;INF174KA1TL9;12.225;13-Nov-2026
+147727;Kotak Pioneer Fund- Direct Plan- Growth Option;Direct Plan;Growth;INF174KA1EZ1;;39.357;13-Nov-2026
+147724;Kotak Pioneer Fund- Regular Plan- Growth Option;Regular Plan;Growth;INF174KA1EW8;;35.321;13-Nov-2026
+147728;Kotak Pioneer Fund- Regular Plan- Reinvestment of Income Distribution cum capital withdrawal option;Regular Plan;Reinvestment of Income Distribution cum capital withdrawal option;INF174KA1EU2;INF174KA1EV0;35.337;13-Nov-2026
+147725;Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option;Direct Plan;Reinvestment of Income Distribution cum capital withdrawal option;INF174KA1EX6;INF174KA1EY4;39.352;13-Nov-2026
 151881;Kotak Quant Fund - Direct Plan - Growth Option;Direct Plan;Growth;INF174KA1OL0;;14.845;13-Nov-2026
 151880;Kotak Quant Fund - Direct plan - IDCW Payout;Direct Plan;IDCW;INF174KA1OM8;INF174KA1ON6;14.845;13-Nov-2026
 151878;Kotak Quant Fund - Regular Plan - Growth Option;Regular Plan;Growth;INF174KA1OI6;;14.641;13-Nov-2026
@@ -4904,9 +4914,6 @@ UTI Mutual Fund
 Open Ended Schemes ( Other Scheme - Gold ETF )
 
 
-Angel One Mutual Fund
-153826;ANGEL ONE GOLD ETF;Direct Plan;;INF1J2R01114;;12.6486;13-Nov-2026
-
 Bandhan Mutual Fund
 153930;Bandhan Gold ETF;Regular Plan;Growth;INF194KB1KJ7;;135.2765;13-Nov-2026
 
@@ -5194,6 +5201,14 @@ Open Ended Schemes ( Other Scheme - FoF Overseas )
 
 
 Aditya Birla Sun Life Mutual Fund
+132141;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;Direct Plan;IDCW;INF084M01EC8;INF084M01ED6;27.8253;13-Nov-2026
+132140;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;Direct Plan;GROWTH;INF084M01EB0;;31.4606;13-Nov-2026
+132139;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;Regular Plan;IDCW Re-investment;INF084M01AU8;INF084M01AV6;29.8453;13-Nov-2026
+132138;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;Regular Plan;GROWTH;INF084M01AT0;;29.8400;13-Nov-2026
+132009;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;Direct Plan;GROWTH;INF084M01EH7;;45.5071;13-Nov-2026
+132005;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;Regular Plan;GROWTH;INF084M01AZ7;;42.4499;13-Nov-2026
+132010;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;;;INF084M01EI5;INF084M01EJ3;45.5304;13-Nov-2026
+132003;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;Regular Plan;IDCW Re-investment;INF084M01BA8;INF084M01BB6;42.4762;13-Nov-2026
 152140;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct Growth;Direct Plan;GROWTH;INF209KB16W7;;12.7399;13-Nov-2026
 152139;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct IDCW Payout;Direct Plan;IDCW;INF209KB17W5;INF209KB18W3;12.7399;13-Nov-2026
 152142;Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Regular Growth;Regular Plan;GROWTH;INF209KB13W4;;12.7222;13-Nov-2026
@@ -5224,6 +5239,10 @@ DSP Mutual Fund
 112126;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;Regular Plan;Growth;INF740K01284;;26.5958;13-Nov-2026
 112127;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;Regular Plan;IDCW;INF740K01292;INF740K01300;18.4924;13-Nov-2026
 119275;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;Direct Plan;Growth;INF740K01PC5;;28.2123;13-Nov-2026
+149816;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;Direct Plan;Growth;INF740KA1QP1;;21.3624;13-Nov-2026
+149815;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;Direct Plan;IDCW;INF740KA1QQ9;INF740KA1QR7;21.3624;13-Nov-2026
+149817;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;Regular Plan;Growth;INF740KA1QM8;;20.4646;13-Nov-2026
+149814;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;Regular Plan;IDCW;INF740KA1QN6;INF740KA1QO4;20.4646;13-Nov-2026
 152528;DSP US Specific Debt Passive FoF - Direct - Growth;Direct Plan;Growth;INF740KA1UJ6;;12.1335;13-Nov-2026
 152529;DSP US Specific Debt Passive FoF - Direct - IDCW;Direct Plan;IDCW;INF740KA1UK4;INF740KA1UL2;12.1335;13-Nov-2026
 152527;DSP US Specific Debt Passive FoF - Regular - Growth;Regular Plan;Growth;INF740KA1UG2;;12.1174;13-Nov-2026
@@ -5260,6 +5279,10 @@ Franklin Templeton Mutual Fund
 118550;Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - IDCW;Direct Plan;IDCW;INF090I01JP4;INF090I01JQ2;93.6218;13-Nov-2026
 116633;Franklin U.S. Opportunities Equity Active Fund of Funds - Growth;Regular Plan;Growth;INF090I01EW1;;85.1255;13-Nov-2026
 116632;Franklin U.S. Opportunities Equity Active Fund of Funds - IDCW;Regular Plan;IDCW;INF090I01EV3;INF090I01EU5;82.7867;13-Nov-2026
+
+HDFC Mutual Fund
+149180;HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option;;;INF179KC1BO4;;21.296;13-Nov-2026
+149181;HDFC Developed World Overseas Equity Passive FOF - Growth Option;;;INF179KC1BP1;;20.803;13-Nov-2026
 
 ICICI Prudential Mutual Fund
 123654;ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth;Direct Plan;Growth;INF109KA1CE0;;37.65;13-Nov-2026
@@ -5304,6 +5327,12 @@ SBI Mutual Fund
 148761;SBI US Specific Equity Active FoF- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Direct Plan;IDCW;INF200KA1U36;INF200KA1U44;23.9785;13-Nov-2026
 148762;SBI US Specific Equity Active FoF- Regular Plan - Growth;Regular Plan;Growth;INF200KA1T96;;23.0187;13-Nov-2026
 148759;SBI US Specific Equity Active FoF- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW);Regular Plan;IDCW;INF200KA1U02;INF200KA1U10;23.0180;13-Nov-2026
+
+Sundaram Mutual Fund
+119602;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;Direct Plan;GROWTH;INF903J01OB6;;47.4184;13-Nov-2026
+119601;Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW;Direct Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF903J01NZ7;INF903J01OA8;36.9969;13-Nov-2026
+106370;Sundaram Global Brand Theme-Equity Active FOF - Regular Growth;Regular Plan;GROWTH;INF903J01EX1;;42.7744;13-Nov-2026
+106369;Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW;Regular Plan;IDCW (Income Distribution CUM Capital Withdrawal);INF903J01EY9;INF903J01EZ6;32.1462;13-Nov-2026
 
 Open Ended Schemes ( Other Scheme - FoF Domestic )
 
@@ -10711,6 +10740,9 @@ Open Ended Schemes ( Exchange Traded Funds (ETFs) - Gold ETF )
 360 ONE Mutual Fund
 153357;360 ONE Gold ETF;Direct Plan;GROWTH Option;INF579M01BB5;;132.1289;13-Nov-2026
 
+Angel One Mutual Fund
+153826;ANGEL ONE GOLD ETF;Direct Plan;;INF1J2R01114;;12.6486;13-Nov-2026
+
 Axis Mutual Fund
 113434;Axis Gold ETF;;;INF846K01W80;;112.6003;13-Nov-2026
 
@@ -10873,6 +10905,10 @@ Kotak Mahindra Mutual Fund
 106442;Kotak Global Emerging Market Overseas Equity Active FOF - Payout of Income Distribution cum capital withdrawal option;Regular Plan;Payout of Income Distribution cum capital withdrawal option;INF174K01DX9;INF174K01DW1;34.977;13-Nov-2026
 119778;Kotak Global Emerging Market Overseas Equity Active FOF - Payout of Income Distribution cum capital withdrawal option - Direct;Direct Plan;Payout of Income Distribution cum capital withdrawal option;INF174K01LX2;INF174K01LY0;38.381;13-Nov-2026
 106441;Kotak Global Emerging Market Overseas Equity Active FOF- Growth;Regular Plan;Growth;INF174K01DV3;;34.975;13-Nov-2026
+149058;Kotak Global Innovation Overseas Equity Active FOF - Regular Plan -IDCW Option;Regular Plan;IDCW Option;INF174KA1HE9;INF174KA1HF6;13.5583;13-Nov-2026
+149056;Kotak Global Innovation Overseas Equity Active FOF - Regular Plan-Growth;Regular Plan;Growth;INF174KA1HD1;;13.5579;13-Nov-2026
+149060;Kotak Global Innovation Overseas Equity Active FOF- Direct Plan - IDCW Option;Direct Plan;IDCW Option;INF174KA1HH2;INF174KA1HI0;14.426;13-Nov-2026
+149059;Kotak Global Innovation Overseas Equity Active FOF- Direct Plan -Growth;Direct Plan;Growth;INF174KA1HG4;;14.4282;13-Nov-2026
 148646;Kotak International REIT Overseas Equity Active FOF - Direct Plan - Growth;Direct Plan;Growth;INF174KA1FO2;;11.666;13-Nov-2026
 148649;Kotak International REIT Overseas Equity Active FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;Direct Plan;Payout of Income Distribution cum capital withdrawal option;INF174KA1FN4;INF174KA1FP9;11.6658;13-Nov-2026
 148645;Kotak International REIT Overseas Equity Active FOF - Regular Plan - Growth;Regular Plan;Growth;INF174KA1FL8;;11.0786;13-Nov-2026
